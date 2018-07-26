@@ -1,0 +1,8 @@
+?
+pages 2 "Deck Controls" Config
+772804868 Panellabel Panellabel 1 1 0 0 1 1 1 0 0 "" Config 0
+772804865 Decklevel1 "Deck Level 1" 1 1 0 0 1 1 1 0 0 "" "Deck Controls" 0
+772804865 Decklevel2 "Deck Level 2" 1 1 0 0 1 1 1 0 0 "" "Deck Controls" 1
+772804865 Decklevel3 "Deck Level 3" 1 1 0 0 1 1 1 0 0 "" "Deck Controls" 2
+772804865 Decklevel4 "Deck Level 4" 1 1 0 0 1 1 1 0 0 "" "Deck Controls" 3
+?

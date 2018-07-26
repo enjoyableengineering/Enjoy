@@ -1,0 +1,4 @@
+?
+index 49 0 "sum([getattr(parent().panel, i) for i in ['focus']])"
+blend 0 on
+?

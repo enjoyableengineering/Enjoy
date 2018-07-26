@@ -1,0 +1,5 @@
+TOP:text
+tile 50 70 270 180
+flags =  viewer 1 parlanguage 0
+color 0.56 0.56 0.56 
+end

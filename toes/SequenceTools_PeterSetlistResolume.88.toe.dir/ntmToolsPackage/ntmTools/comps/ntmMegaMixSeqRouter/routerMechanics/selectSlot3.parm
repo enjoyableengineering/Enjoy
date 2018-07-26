@@ -1,0 +1,3 @@
+?
+top 49 op('layerSources')[me.digits,0].val op('layerSources')[me.digits-1,0].val
+?

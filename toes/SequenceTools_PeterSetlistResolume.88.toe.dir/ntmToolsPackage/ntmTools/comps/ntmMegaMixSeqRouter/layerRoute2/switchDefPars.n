@@ -1,0 +1,13 @@
+CHOP:switch
+tile 1620 -370 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	routeLocalPars
+1 	replace4
+}
+exports
+{
+useDefParsExport
+}
+end

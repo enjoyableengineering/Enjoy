@@ -1,0 +1,7 @@
+?
+ops 32 textCol
+parameters 0 "fontcolor* fontalpha*"
+custom 0 off
+builtin 0 on
+autoexportroot 17 "" parent()
+?

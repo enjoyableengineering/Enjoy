@@ -1,0 +1,9 @@
+TOP:over
+tile 525 425 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	switch1
+1 	over1
+}
+end

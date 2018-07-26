@@ -1,0 +1,5 @@
+TOP:moviefilein
+tags 0 1 kickable
+tile -670 670 130 72
+flags =  viewer 1 parlanguage 0
+end

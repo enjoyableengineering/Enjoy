@@ -1,0 +1,10 @@
+TOP:out
+tags 0 1 saveTiff
+tile 1640 -1100 271 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	null2
+}
+color 0.68 0.68 0 
+end

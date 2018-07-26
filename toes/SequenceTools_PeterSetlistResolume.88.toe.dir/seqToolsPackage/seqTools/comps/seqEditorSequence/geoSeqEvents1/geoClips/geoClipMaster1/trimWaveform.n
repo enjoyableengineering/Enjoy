@@ -1,0 +1,13 @@
+CHOP:trim
+tile -1375 375 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	switchWavetype1
+}
+exports
+{
+attrExports
+}
+view 5 -1 1 0.621875 -1.5 1.5 4 2 10648 20 0
+end

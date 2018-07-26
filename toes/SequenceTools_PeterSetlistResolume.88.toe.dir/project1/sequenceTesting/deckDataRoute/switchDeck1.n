@@ -1,0 +1,15 @@
+CHOP:switch
+tile 900 -2850 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	switchEditModeTiming
+1 	selectSyncDeck2
+2 	selectSyncDeck3
+3 	selectSyncDeck4
+}
+exports
+{
+focusDeckExport
+}
+end

@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 2
+operand 0 difference
+prefit 0 nativeres
+extend 0 repeat
+tx 49 56 "op('constant1').width % op('over5').width/2"
+ty 49 42 "op('constant1').height % op('over5').height/2"
+tunit 32 pixels
+outputresolution 16 custom int(op('xdim').text)
+resolutionw 17 256 ext.Plugin.par.Regionsizex
+resolutionh 17 256 ext.Plugin.par.Regionsizey
+outputaspect 0 resolution
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

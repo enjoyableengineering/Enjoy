@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./SeqToolsClipSlotMidiExt').module.SeqToolsClipSlotMidiExt(me)
+promoteextension1 0 on
+opviewer 0 ./viewer/out2
+clone 49 op.SeqTools.op('comps/seqClipSlotMidi') op.SeqTools.op('comps/seqClipSlotMidi')
+Seqtoolscomp 113 op.SeqTools op.SeqTools
+Sourceclipcomp 81 "" "op(op('playerMechanics/tracksDataMidi')[me.digits, 'clipPath'].val)"
+Play 66 off
+Externalsync 64 on
+Syncchop 64 playerMechanics/durTimer
+Syncchan 81 timer_seconds1 "op('playerMechanics/tracksDataMidi')[me.digits, 'segSecondsChan'].val"
+Active 64 on
+Cliprefdat 64 playerMechanics/tracksDataMidi
+Cliprefid 81 0 me.digits
+Slipsyncchop 64 playerMechanics/slipSyncChop
+?

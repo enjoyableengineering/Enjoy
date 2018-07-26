@@ -1,0 +1,5 @@
+TOP:constant
+tile 100 150 130 65
+flags =  parlanguage 0
+color 0.68 0 0 
+end

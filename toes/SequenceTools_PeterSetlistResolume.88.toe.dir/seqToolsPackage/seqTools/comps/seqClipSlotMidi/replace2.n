@@ -1,0 +1,9 @@
+CHOP:replace
+tile -670 660 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	constant3
+1 	parClipSpeed3
+}
+end

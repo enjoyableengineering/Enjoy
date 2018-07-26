@@ -1,0 +1,8 @@
+TOP:mono
+tile 775 -1050 130 72
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	null5
+}
+end

@@ -1,0 +1,11 @@
+?
+text 0 "Add/Update Cue Ref [DROP CUE COMP]"
+leadingzero 0 off
+fontsizex 0 12
+fontcolorr 0 0.7
+fontcolorg 0 0.7
+fontcolorb 0 0.7
+resolutionw 49 256 parent().panel.screenw
+resolutionh 49 256 parent().panel.screenh
+resmult 0 off
+?

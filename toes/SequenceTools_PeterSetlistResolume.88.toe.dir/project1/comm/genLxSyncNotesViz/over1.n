@@ -1,0 +1,9 @@
+TOP:over
+tile 1975 50 130 49
+flags =  viewer 1 display on parlanguage 0
+inputs
+{
+0 	multiply2
+1 	comp1
+}
+end

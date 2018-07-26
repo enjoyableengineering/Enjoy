@@ -1,0 +1,11 @@
+COMP:slider
+v 569.104 448.797 0.22084
+tags 0 3 ntmUiWidget ntmUi ntmUiWidSlider
+tile 260 -360 160 76
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	widgetParent
+}
+color 0.68 0.226667 0 
+end

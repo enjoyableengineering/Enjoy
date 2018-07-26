@@ -1,0 +1,5 @@
+?
+type 0 poly
+rows 49 20 "(ext.Plugin.par.Regionsizey / ext.Plugin.par.Tiledimy) + 1"
+cols 49 20 "(ext.Plugin.par.Regionsizex / ext.Plugin.par.Tiledimx) + 1"
+?

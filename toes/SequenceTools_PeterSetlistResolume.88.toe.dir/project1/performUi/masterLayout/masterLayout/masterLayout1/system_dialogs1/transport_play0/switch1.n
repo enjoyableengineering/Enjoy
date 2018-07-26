@@ -1,0 +1,14 @@
+TOP:switch
+tile 480 220 270 180
+flags =  viewer 1
+inputs
+{
+0 	text1
+1 	text2
+}
+exports
+{
+null1
+}
+color 0.56 0.56 0.56 
+end

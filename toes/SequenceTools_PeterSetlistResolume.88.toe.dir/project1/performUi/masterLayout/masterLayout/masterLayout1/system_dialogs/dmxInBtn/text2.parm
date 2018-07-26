@@ -1,0 +1,25 @@
+?
+stdswitcher1 0 2
+text 0 "DMX IN OFF"
+legacyparsing 0 on
+leadingzero 0 off
+chopvaluereplace 0 on
+fontfile 0 Font/ocr-aregular.1.ttf
+antialias 0 aa8mid
+fontsizex 0 12
+fontsizexunit 0 pixels
+fontsizey 0 15
+fontsizeyunit 0 pixels
+multrgbbyalpha 0 off
+fontcolorr 0 0
+fontcolorg 0 1
+fontcolorb 0 0.72549
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+resolutionw 49 85 par(\"../panelw\")
+resolutionh 49 20 par(\"../panelh\")
+resmenu 32 400x300
+resmult 0 off
+?

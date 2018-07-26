@@ -1,0 +1,8 @@
+DAT:null
+tile 400 420 130 90
+flags =  viewer 1
+inputs
+{
+0 	merge2
+}
+end

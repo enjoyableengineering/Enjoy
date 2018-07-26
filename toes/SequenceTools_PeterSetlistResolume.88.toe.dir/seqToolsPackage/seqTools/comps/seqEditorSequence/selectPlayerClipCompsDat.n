@@ -1,0 +1,4 @@
+DAT:select
+tile -1825 -700 130 90
+flags =  parlanguage 0
+end

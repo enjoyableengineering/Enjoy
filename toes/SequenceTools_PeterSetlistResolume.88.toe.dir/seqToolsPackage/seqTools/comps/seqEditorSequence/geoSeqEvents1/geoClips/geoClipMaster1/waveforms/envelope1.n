@@ -1,0 +1,9 @@
+CHOP:envelope
+tile -750 -225 130 90
+flags =  viewer 1
+inputs
+{
+0 	waveChop
+}
+view 5 -1 1 0.954647 -1.5 1.5 4 2 8600 1 0
+end

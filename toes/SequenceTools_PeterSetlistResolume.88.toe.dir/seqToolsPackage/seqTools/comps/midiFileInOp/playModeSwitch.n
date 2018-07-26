@@ -1,0 +1,10 @@
+CHOP:switch
+tile 450 -50 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	speed1
+1 	switchInputIndex
+2 	math2
+}
+end

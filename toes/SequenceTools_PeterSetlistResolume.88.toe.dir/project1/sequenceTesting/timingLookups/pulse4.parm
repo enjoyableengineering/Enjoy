@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 5
+number 0 4
+width 17 0.1 parent().par.Samplesperbeat/2
+widthunit 0 samples
+channelname 0 square_quarters
+startunit 0 samples
+end 49 239 "4 * parent().par.Samplesperbeat - 1"
+endunit 32 samples
+rate 17 60 me.time.rate
+left 0 cycle
+right 0 cycle
+autoexportroot 17 "" parent()
+?

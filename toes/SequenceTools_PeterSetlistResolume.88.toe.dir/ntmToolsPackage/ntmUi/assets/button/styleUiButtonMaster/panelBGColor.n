@@ -1,0 +1,8 @@
+CHOP:null
+tile 575 -650 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	rename2
+}
+end

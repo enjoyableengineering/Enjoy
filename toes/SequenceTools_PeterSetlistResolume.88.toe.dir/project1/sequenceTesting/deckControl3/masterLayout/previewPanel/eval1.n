@@ -1,0 +1,9 @@
+DAT:eval
+tile -625 75 130 90
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	table1
+1 	table2
+}
+end

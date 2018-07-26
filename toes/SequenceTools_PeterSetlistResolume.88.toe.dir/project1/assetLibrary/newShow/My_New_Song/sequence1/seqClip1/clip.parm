@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 1
+extension1 0 op('./SeqToolsClipAudioExt').module.SeqToolsClipAudioExt(me)
+extname1 0 SeqClipExt
+promoteextension1 0 on
+extension2 0 op('./SeqToolsClipAudioExt').module.SeqToolsFileClipExt(me)
+extname2 0 SeqFileExt
+promoteextension2 0 on
+clone 49 op.SeqTools.op('comps/seqClipAudio') op.SeqTools.op('comps/seqClipAudio')
+Seqtoolscomp 113 op.SeqTools op.SeqTools
+Sourcecomp 64 .
+Seqlabel 64 "clip_Chromatek - LV24.2.mp3"
+Trimend 64 1
+Loopend 64 1
+Tempolock 64 off
+Basetempo 81 90 parent.Sequence.par.Seqtempo.eval()
+File 64 "BN_Audio://2017 mp3/10-2017 mp3/Chromatek - LV24.2.mp3"
+?

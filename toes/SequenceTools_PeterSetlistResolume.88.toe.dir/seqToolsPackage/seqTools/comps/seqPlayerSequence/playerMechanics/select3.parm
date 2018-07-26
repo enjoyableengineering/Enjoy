@@ -1,0 +1,11 @@
+?
+firstrow 0 on
+extractrows 0 byexpr
+rowindexend 17 0 "me.inputTable.numRows - 1"
+rowexpr 49 "" "re.match('None',me.inputCell.val) == None"
+fromcol 0 11
+extractcols 0 bynames
+colindexend 17 0 "me.inputTable.numCols - 1"
+colnames 0 "segSecondsChan clipPath isReference"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

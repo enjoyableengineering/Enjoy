@@ -1,0 +1,9 @@
+?
+activecook 0 off
+component 0 /
+limitmaxdepth 0 off
+typefilter 0 opfind*
+typecol 0 off
+pathcol 0 on
+callbacks 0 opfind1_callbacks
+?

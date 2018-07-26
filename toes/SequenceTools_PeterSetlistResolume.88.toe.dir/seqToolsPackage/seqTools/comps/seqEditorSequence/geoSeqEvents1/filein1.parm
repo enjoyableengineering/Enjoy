@@ -1,0 +1,6 @@
+?
+file 48 "H:/BN Tracks To Edit To/2015/04. Bassnectar - Speakerbox ft Lafa Taylor [16bit] m07r1 [EXTENDED].mp3" BN_Sync://SpeakerBox2016_V02[MASTER].mov
+rate 17 60 me.time.rate
+overridevalue 17 0 me.curVal
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,10 @@
+CHOP:trail
+tile 2690 -2550 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	math3
+}
+color 0.68 0 0 
+view 5 -1 1 0.996875 -1.5 1.5 4 2 10648 20 0
+end

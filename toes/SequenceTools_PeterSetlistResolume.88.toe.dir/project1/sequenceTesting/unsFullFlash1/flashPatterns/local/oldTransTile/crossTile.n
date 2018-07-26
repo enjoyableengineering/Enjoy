@@ -1,0 +1,13 @@
+TOP:cross
+tile 375 -150 130 86
+flags =  parlanguage 0
+inputs
+{
+0 	switchTransform
+1 	tiler
+}
+exports
+{
+wetdryExport1
+}
+end

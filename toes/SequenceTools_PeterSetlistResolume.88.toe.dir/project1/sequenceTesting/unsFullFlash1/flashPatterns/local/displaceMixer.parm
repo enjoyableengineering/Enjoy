@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 3
+clone 49 parent.FlashMain.op('local/displaceMixer') parent.FlashMain.op('local/displaceMixer')
+Vertsource 64 green
+Displaceweight1 96 1
+Displaceweight2 96 1.2
+Extend 64 repeat
+Source1 64 Gen2_out1
+Source2 64 Gen1_out1
+?

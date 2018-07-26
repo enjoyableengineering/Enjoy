@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 4
+w 49 400 "sum([c.par.w for c in me.outputCOMPs if c.par.display.eval()])"
+vmode 0 fill
+alignorder 49 0 me.nodeX
+repocomp 17 "" me
+bgcolorr 49 0 parent.ContextPath.TextLook.bgcolorr
+bgcolorg 49 0 parent.ContextPath.TextLook.bgcolorg
+bgcolorb 49 0 parent.ContextPath.TextLook.bgcolorb
+bgalpha 49 0 parent.ContextPath.TextLook.bgalpha
+align 0 horizlr
+drop 17 dropno "'legacy' if parent.ContextPath.par.Setcurrentwithdrop else 'dropno'"
+dropscript 0 dropScript
+?

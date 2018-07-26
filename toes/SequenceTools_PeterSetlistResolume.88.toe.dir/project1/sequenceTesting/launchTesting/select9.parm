@@ -1,0 +1,5 @@
+?
+channames 0 "transport_tempo transport_state"
+renameto 0 "tempo transportstate"
+autoexportroot 17 "" parent()
+?

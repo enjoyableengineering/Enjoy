@@ -1,0 +1,20 @@
+?
+stdswitcher1 0 5
+w 0 38
+h 0 52
+alignorder 17 0 me.digits
+repocomp 17 "" me
+top 0 ./bg
+align 0 verttb
+justifyh 0 center
+extension1 0 op('./NtmUiWidSliderExt').module.NtmUiWidSliderExt(me)
+extname1 0 WidgetExt
+promoteextension1 0 on
+Sourcecache 113 op.NtmUi.op('assets/sliderhorz1/cache1') op.NtmUi.op('assets/knob/cache1')
+Targetop 112 /project1/sequenceTesting/outputLevel op('widgetConfig')[me.digits,0].val
+Targetpar 112 contrast op('widgetConfig')[me.digits,1].val
+Valrange1 112 0 op('widgetConfig')[me.digits,3].val
+Valrange2 112 2 op('widgetConfig')[me.digits,4].val
+Widlabel 113 op('knobConfig')[me.digits,2].val op('widgetConfig')[me.digits,2].val
+Partype 64 float
+?

@@ -1,0 +1,19 @@
+?
+text 49 derivative parent.Widget.par.Buttonlabelstate0
+font 49 Segoe_UI_Symbol op('uiConfig/config_dat')['font',1].val
+bold 2 off
+fontsizex 2 30
+borderspace1 2 0
+borderspace2 2 0
+fontcolorr 2 1
+fontcolorg 2 1
+fontcolorb 2 1
+fontalpha 2 1
+bgcolorr 34 0
+bgcolorg 34 0
+bgcolorb 50 0 0
+bgalpha 2 1
+resolutionw 49 256 parent().width
+resolutionh 49 256 parent().height
+resmult 0 off
+?

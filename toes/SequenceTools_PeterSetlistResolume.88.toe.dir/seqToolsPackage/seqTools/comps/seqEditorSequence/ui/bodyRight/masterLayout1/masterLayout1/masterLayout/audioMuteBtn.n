@@ -1,0 +1,10 @@
+COMP:button
+v -167.796 344.509 1.30722
+tags 0 2 ntmUiWidButton ntmUi
+tile 75 0 160 155
+flags =  viewer 1 parlanguage 0
+exports
+{
+./uiConfig/bgPanelColor
+}
+end

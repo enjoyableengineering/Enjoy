@@ -1,0 +1,11 @@
+1
+compinputs
+{
+0 	keyPaletteChooser/out1
+	inKeys
+	DAT
+1 	phaseBuilder/out1
+	in1
+	CHOP
+}
+end

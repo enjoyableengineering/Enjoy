@@ -1,0 +1,8 @@
+DAT:eval
+tile 2600 540 130 90
+flags = 
+inputs
+{
+0 	tbl_field_off
+}
+end

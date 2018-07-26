@@ -1,0 +1,8 @@
+?
+tx 34 0
+ty 49 0 "(parent().digits-1) * -(op('../trackOffsetY')['resY'] + op('../trackScaleY')['resY'])"
+tz 32 0
+sx 32 1
+sy 49 0.15 op('../trackScaleY')['resY']
+sz 32 1
+?

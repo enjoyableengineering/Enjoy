@@ -1,0 +1,6 @@
+COMP:base
+v 822.44 588.83 1.00049
+tags 0 1 widgetAssets
+tile 0 -150 160 130
+flags =  viewer 1 parlanguage 0
+end

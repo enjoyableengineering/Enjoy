@@ -1,0 +1,5 @@
+?
+dat 0 ../define
+rowindexend 17 14 "$NR - 1"
+colindexend 17 1 "$NC - 1"
+?

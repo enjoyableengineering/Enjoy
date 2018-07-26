@@ -1,0 +1,4 @@
+DAT:text
+tile 1800 -650 481 172
+flags =  parlanguage 0
+end

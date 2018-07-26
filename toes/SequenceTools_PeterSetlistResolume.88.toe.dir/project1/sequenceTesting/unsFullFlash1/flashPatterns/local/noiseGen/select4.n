@@ -1,0 +1,8 @@
+CHOP:select
+tile -400 -2125 130 90
+flags =  viewer 1 activate on parlanguage 0
+inputs
+{
+0 	speeds
+}
+end

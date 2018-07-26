@@ -1,0 +1,9 @@
+?
+w 17 400 parent().par.w
+h 0 30
+hmode 0 fill
+alignorder 17 0 me.digits
+repocomp 17 "" me
+align 0 horizlr
+spacing 0 1
+?

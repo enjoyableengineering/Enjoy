@@ -1,0 +1,4 @@
+TOP:renderselect
+tile -750 -1670 136 75
+flags =  viewer 1 parlanguage 0
+end

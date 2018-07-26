@@ -1,0 +1,9 @@
+?
+pages 1 "Song Info"
+772804868 Songname Songname 1 1 0 0 1 1 1 0 0 "" "Song Info" 0
+772809473 Songinfocol1 "Color 1" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" "Song Info" 3
+772809473 Songinfocol2 "Color 2" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" "Song Info" 4
+772809473 Songinfocol3 "Color 3" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" "Song Info" 5
+772804865 Basetempo Basetempo 1 3 20 20 3 480 240 0 80 "" "Song Info" 2
+772804866 Songtheme Songtheme 1 3 0 0 3 127 127 0 127 "" "Song Info" 1
+?

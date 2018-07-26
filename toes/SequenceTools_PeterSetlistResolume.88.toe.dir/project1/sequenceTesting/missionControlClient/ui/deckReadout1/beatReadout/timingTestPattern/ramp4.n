@@ -1,0 +1,9 @@
+TOP:ramp
+tile 0 -1075 130 88
+flags =  parlanguage 0
+exports
+{
+null7
+resExports
+}
+end

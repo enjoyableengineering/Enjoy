@@ -1,0 +1,4 @@
+DAT:parexec
+tile -75 250 130 90
+flags =  viewer 1 parlanguage 0
+end

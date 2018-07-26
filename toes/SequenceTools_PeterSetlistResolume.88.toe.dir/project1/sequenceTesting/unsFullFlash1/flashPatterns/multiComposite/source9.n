@@ -1,0 +1,11 @@
+COMP:base
+v 673.762 405.266 0.318327
+tags 0 1 ntmMultiCompSrc
+tile -2130 -2059 178 139
+flags =  viewer 1 parlanguage 0
+exports
+{
+exportActives
+}
+color 0.68 0.226667 0 
+end

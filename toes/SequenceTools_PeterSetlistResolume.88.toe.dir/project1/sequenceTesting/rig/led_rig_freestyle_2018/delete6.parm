@@ -1,0 +1,5 @@
+?
+group 0 "led_ds_booth* led_jumbo_USL *usr *usl led_jumbo_USR led_jumbo_DSL led_jumbo_DSR"
+rangestart 0 0
+rangeend 17 0 len(me.inputs[0].prims)
+?

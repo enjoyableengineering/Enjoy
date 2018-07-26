@@ -1,0 +1,5 @@
+?
+name0 49 "'ch1n[' + str(parent().digits * 12) + '-'  + str((parent().digits * 12)+11) + ']'" "'ch' + str(parent().par.Channel) + 'n[1-128]'"
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

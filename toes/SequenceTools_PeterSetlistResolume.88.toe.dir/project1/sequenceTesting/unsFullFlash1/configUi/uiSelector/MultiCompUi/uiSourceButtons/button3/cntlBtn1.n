@@ -1,0 +1,10 @@
+COMP:container
+tags 0 3 ntmUiWidget ntmUi ntmUiWidSlider
+tile 850 200 81 155
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	container1
+}
+color 0.68 0.226667 0 
+end

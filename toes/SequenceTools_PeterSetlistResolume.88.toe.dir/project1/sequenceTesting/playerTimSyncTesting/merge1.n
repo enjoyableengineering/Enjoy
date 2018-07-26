@@ -1,0 +1,9 @@
+CHOP:merge
+tile 600 -1150 130 90
+flags =  picked on parlanguage 0
+inputs
+{
+0 	par1
+1 	select5
+}
+end

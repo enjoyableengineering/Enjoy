@@ -1,0 +1,8 @@
+DAT:eval
+tile 850 40 130 90
+flags =  current on viewer 1
+inputs
+{
+0 	labels
+}
+end

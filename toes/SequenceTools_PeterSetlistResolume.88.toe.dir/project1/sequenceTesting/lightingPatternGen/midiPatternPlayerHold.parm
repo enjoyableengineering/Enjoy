@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./PatternPlayerExt').module.PatternPlayerExt(me)
+promoteextension1 0 on
+clone 0 midiPatternPlayerTog
+Rampschop 64 ../beatPulserLx/timingRamps
+Curpatternid 64 40
+Play 66 on
+?

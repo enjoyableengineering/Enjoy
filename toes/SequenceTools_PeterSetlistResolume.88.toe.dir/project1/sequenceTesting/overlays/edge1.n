@@ -1,0 +1,8 @@
+TOP:edge
+tile -950 750 112 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	fit2
+}
+end

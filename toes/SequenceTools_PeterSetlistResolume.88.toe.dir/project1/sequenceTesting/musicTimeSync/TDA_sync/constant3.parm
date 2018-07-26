@@ -1,0 +1,6 @@
+?
+name0 0 syncUnits
+value0 17 0 1/60
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

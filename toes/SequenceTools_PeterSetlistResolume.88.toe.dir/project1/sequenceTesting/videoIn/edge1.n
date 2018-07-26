@@ -1,0 +1,8 @@
+TOP:edge
+tile -1030 -419 93 51
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	fit2
+}
+end

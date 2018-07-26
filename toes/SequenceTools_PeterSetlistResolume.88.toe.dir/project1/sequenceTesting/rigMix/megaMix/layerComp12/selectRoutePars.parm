@@ -1,0 +1,4 @@
+?
+chop 48 /project1/sequenceTesting/routerSpecials/layerRoute6/layerPars "op(op('../layerDefs')[parent().digits,0].val + '/layerPars')"
+autoexportroot 17 "" parent()
+?

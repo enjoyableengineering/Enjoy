@@ -1,0 +1,11 @@
+?
+name0 0 Transparency1
+value2 0 1
+value3 0 1
+value4 0 1
+value5 0 1
+value6 0 1
+value7 0 1
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

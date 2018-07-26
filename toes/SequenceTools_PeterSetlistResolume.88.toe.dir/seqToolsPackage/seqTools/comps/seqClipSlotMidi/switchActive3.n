@@ -1,0 +1,13 @@
+DAT:switch
+tile 230 1220 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	table4
+1 	table3
+}
+exports
+{
+activeExports
+}
+end

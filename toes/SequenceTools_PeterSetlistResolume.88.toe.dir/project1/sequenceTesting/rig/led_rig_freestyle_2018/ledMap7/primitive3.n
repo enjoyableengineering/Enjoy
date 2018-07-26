@@ -1,0 +1,9 @@
+SOP:primitive
+tile -775 -625 130 29
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	select1
+}
+color 0 0 0.68 
+end

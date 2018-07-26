@@ -1,0 +1,6 @@
+COMP:base
+v 362.161 411.823 0.449328
+tags 0 1 midiInFileOp
+tile -650 -500 160 130
+flags =  viewer 1 parlanguage 0
+end

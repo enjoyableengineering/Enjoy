@@ -1,0 +1,10 @@
+?
+sx 17 1 1/op('reorder1').numChans
+sy 0 1
+px 0 0
+py 0 0
+extend 0 repeat
+limittiles 0 on
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 2
+w 0 84
+h 0 21
+alignorder 0 0.5
+repocomp 17 "" me
+borderar 0 0
+borderag 0 0.618
+borderab 0 0.618
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+align 0 horizlr
+justifyh 0 center
+justifyv 0 center
+?

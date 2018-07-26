@@ -1,0 +1,9 @@
+COMP:container
+v 298.833 324.293 0.374242
+tile 675 150 186 82
+flags =  current on viewer 1 parlanguage 0
+exports
+{
+math1
+}
+end

@@ -1,0 +1,9 @@
+CHOP:trail
+tile 1225 -650 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	despikeDifference
+}
+view 5 -1 1 152.969 -1.5 1.5 4 2 10648 20 0
+end

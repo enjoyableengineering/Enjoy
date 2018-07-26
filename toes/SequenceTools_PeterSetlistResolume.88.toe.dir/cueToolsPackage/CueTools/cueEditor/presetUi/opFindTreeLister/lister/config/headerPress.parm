@@ -1,0 +1,27 @@
+?
+stdswitcher1 0 2
+text 0 Header
+legacyparsing 0 on
+chopvaluereplace 0 on
+bold 0 on
+fontsizex 17 19.5556 op('master').par.fontsizex
+fontsizexunit 0 pixels
+fontcolorr 0 0.1
+fontcolorg 0 0.1
+fontcolorb 0 0.1
+bgcolorr 0 0.405195
+bgcolorg 0 0.607452
+bgcolorb 0 0.681
+bgalpha 0 1
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+borderbr 0 0.1
+borderbg 0 0.1
+borderbb 0 0.1
+borderbalpha 0 0.1
+resolutionw 0 256
+resolutionh 0 22
+resmult 0 off
+?

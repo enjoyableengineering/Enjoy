@@ -1,0 +1,9 @@
+SOP:out
+tile 195 0 130 90
+flags =  viewer 1 activate on render on display on parlanguage 0
+inputs
+{
+0 	rectangle1
+}
+view 63 0.2 1 1 0 0 1 356.017 0.877537 313.963 282.569 141.283 0 356.017 141.283 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 -141.283 0 -356.017 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 15 1 1 1 195 787 1 -1 1 1 4 0 0 2 0 1
+end

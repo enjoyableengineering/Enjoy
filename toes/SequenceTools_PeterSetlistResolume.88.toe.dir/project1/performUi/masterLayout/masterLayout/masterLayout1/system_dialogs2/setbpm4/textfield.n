@@ -1,0 +1,13 @@
+COMP:field
+v 342.232 535.112 2.40632
+tile 330 210 160 108
+flags =  viewer 1
+inputs
+{
+0 	field
+}
+exports
+{
+./parentoverride
+}
+end

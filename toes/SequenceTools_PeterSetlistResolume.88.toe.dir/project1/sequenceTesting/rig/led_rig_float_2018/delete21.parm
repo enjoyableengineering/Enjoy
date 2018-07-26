@@ -1,0 +1,6 @@
+?
+group 0 led_sattelites
+negate 0 keep
+rangestart 0 0
+rangeend 17 0 len(me.inputs[0].prims)
+?

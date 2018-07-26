@@ -1,0 +1,22 @@
+1
+3
+19
+u 0.444444
+v 1
+trueu 0.444444
+truev 1
+rollu 0.350282
+rollv 0.993056
+radio 1
+lradio 1
+mradio 2
+rradio 6
+radioname sbutton2
+lradioname sbutton2
+mradioname sbutton2
+rradioname sbutton7
+children 9
+screenw 533
+screenh 145
+screenwm 531
+screenhm 143

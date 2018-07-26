@@ -1,0 +1,12 @@
+?
+pages 1 Config
+772804865 Vstep "Value Step" 1 3 0.0001 0.0001 1 1 1 0 0.1 "" Config 8
+772804879 Quantvalue "Quantize Value" 1 1 0 0 1 1 1 0 0 off Config 4097 4 off Off ceiling Ceiling floor Floor round Round 7
+772805121 Torange "To Range" 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 1 "" Config 6
+772805121 Fromrange "From Range" 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 1 "" Config 5
+-1374678783 Gain Multiply 1 1 0 0 1 1 10 0 1 "" Config 4
+1846546703 Srcchanexternal "Source Channel External" 1 1 0 0 1 1 1 0 0 "" Config 4097 19 constant constant gen_ramp1 gen_ramp1 gen_ramp2 gen_ramp2 gen_ramp4 gen_ramp4 gen_ramp8 gen_ramp8 gen_ramp16 gen_ramp16 gen_ramp32 gen_ramp32 gen_ramp64 gen_ramp64 gen_ramp128 gen_ramp128 4th_notes_on_off 4th_notes_on_off 8th_notes_on_off 8th_notes_on_off 16th_notes_on_off 16th_notes_on_off on_3_lag_off on_3_lag_off ramp_up_2_4 ramp_up_2_4 ramp_up_alt_8ths ramp_up_alt_8ths ramp_up_on_3 ramp_up_on_3 ramp_up_8th ramp_up_8th 2nd_notes_on_off 2nd_notes_on_off crayStrobe crayStrobe 0 2 parent.FlashMain.op('local/channelPalette').par.Channel
+1846546703 Srcchanlookup "Source Lookup Channel" 1 1 0 0 1 1 1 0 0 square_quarters Config 4097 19 square_quarters square_quarters on_3_lag_off on_3_lag_off ramp_up_3 ramp_up_3 on_8th_lag on_8th_lag ramp_up_8th ramp_up_8th on_break_kick1 on_break_kick1 square_quarters_inverse square_quarters_inverse 8ths_offset 8ths_offset 8ths 8ths ramp_up_2_4 ramp_up_2_4 Triangle_HalfUpDown Triangle_HalfUpDown hard_only1 hard_only1 hard_only2 hard_only2 hard_only3 hard_only3 hard_only4 hard_only4 falloff_only1 falloff_only1 falloff_only2 falloff_only2 falloff_only3 falloff_only3 falloff_only4 falloff_only4 3 2 parent.FlashMain.op('local/channelPalette').par.Lookupchannel
+1846546703 Srcchanramp "Source Channel Ramp" 1 1 0 0 1 1 1 0 0 gen_ramp1 Config 4097 8 gen_ramp1 gen_ramp1 gen_ramp2 gen_ramp2 gen_ramp4 gen_ramp4 gen_ramp8 gen_ramp8 gen_ramp16 gen_ramp16 gen_ramp32 gen_ramp32 gen_ramp64 gen_ramp64 gen_ramp128 gen_ramp128 2 2 parent.FlashMain.op('local/channelPalette').par.Lookupramp
+-1374678781 Srcchanlocal "Source Channel Local" 1 1 0 0 1 1 1 0 0 "" Config 1
+?

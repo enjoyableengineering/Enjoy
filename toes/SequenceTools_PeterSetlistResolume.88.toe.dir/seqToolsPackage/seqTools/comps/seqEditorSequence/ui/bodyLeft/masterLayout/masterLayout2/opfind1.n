@@ -1,0 +1,4 @@
+DAT:opfind
+tile 850 -325 130 90
+flags =  picked on current on viewer 1 parlanguage 0
+end

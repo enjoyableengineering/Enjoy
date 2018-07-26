@@ -1,0 +1,17 @@
+?
+dat 0 ramp8_keys
+color1 0 1
+color2 0 0
+color3 0 0
+color4 0 1
+type 0 vertical
+position1 0 0
+position2 0 -0.7
+phase 0 -1
+interp 0 hermite
+antialias 0 1
+resolutionw 0 2
+resolutionh 0 80
+fillmode 0 fill
+filtertype 0 nearest
+?

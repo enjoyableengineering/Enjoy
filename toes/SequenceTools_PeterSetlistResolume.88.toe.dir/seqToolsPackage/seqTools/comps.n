@@ -1,0 +1,6 @@
+COMP:base
+v 82.8176 1211.07 1.04788
+tile 0 -300 160 130
+flags =  picked on current on viewer 1 parlanguage 0
+dict 80037D7100581000000069735365714D6173746572436F6D7073710188732E
+end

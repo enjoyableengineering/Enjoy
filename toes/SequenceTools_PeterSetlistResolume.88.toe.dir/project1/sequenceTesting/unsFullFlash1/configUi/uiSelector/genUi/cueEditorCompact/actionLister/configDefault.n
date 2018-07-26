@@ -1,0 +1,5 @@
+COMP:base
+comment "Contains default values "
+tile 400 -200 160 130
+flags =  parlanguage 0
+end

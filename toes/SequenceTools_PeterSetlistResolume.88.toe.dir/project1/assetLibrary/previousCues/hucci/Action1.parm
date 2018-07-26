@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 3
+clone 49 op.CueTools.op('comps/seqActionPreset') op.CueTools.op('comps/ctActionPreset')
+Cuetoolscomp 81 "" op.CueTools
+Actiontype 192 preset
+Actionlabel 64 "Preset 1"
+Actiondef 64 .
+Actionorder 81 0 me.digits
+Targetrootcomp 113 .. op.UnsFlasher1.op('flasher1')
+?

@@ -1,0 +1,11 @@
+?
+flop 34 off
+repeatx 34 1
+repeaty 34 1
+flipx 34 off
+flipy 34 off
+reflectx 34 off
+reflecty 34 off
+overlapu 34 0
+overlapv 34 0
+?

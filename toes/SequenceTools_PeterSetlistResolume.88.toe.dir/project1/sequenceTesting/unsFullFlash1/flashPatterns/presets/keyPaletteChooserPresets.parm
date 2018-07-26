@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 2
+extension1 0 op('./CueToolsCuePresetsExt').module.CueToolsCuePresetsExt(me)
+promoteextension1 0 on
+parentshortcut 0 cueMain
+Targetrootcomp 64 ../Gen1/keyPaletteChooser
+Cuelabel 64 "Presets 1"
+Cuetoolscomp 113 op.CueTools op.CueTools
+Selectpreset 64 4
+Partable 64 ./parsForPreset
+Usetableforadd 64 on
+?

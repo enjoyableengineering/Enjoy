@@ -1,0 +1,7 @@
+?
+component 49 parent.UiMain.par.Rootconfigure parent.UiMain.par.Rootconfigure.eval()
+tagsfilter 0 ntmGen
+typecol 0 off
+pathcol 0 on
+callbacks 0 opfind1_callbacks
+?

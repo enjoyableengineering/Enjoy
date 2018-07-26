@@ -1,0 +1,6 @@
+?
+type 0 loop
+min 0 0
+max 0 0.25
+autoexportroot 17 "" parent()
+?

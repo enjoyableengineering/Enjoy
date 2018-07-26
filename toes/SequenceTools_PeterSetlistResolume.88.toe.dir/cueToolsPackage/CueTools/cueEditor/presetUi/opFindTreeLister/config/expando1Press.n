@@ -1,0 +1,9 @@
+TOP:transform
+tile -300 -300 130 90
+flags =  picked on viewer 1 parlanguage 0
+inputs
+{
+0 	expando0Press
+}
+color 0 0.68 0 
+end

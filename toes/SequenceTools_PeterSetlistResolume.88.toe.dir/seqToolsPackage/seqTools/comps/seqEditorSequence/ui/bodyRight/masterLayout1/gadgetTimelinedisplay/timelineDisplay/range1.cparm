@@ -1,0 +1,30 @@
+?
+pages 3 Values Slider Widget
+1846546703 Font Font 1 1 0 0 1 1 1 0 0 Verdana Widget 4097 57 Arial Arial Arial_Black "Arial Black" Bahnschrift Bahnschrift Calibri Calibri Calibri_Light "Calibri Light" Candara Candara Comic_Sans_MS "Comic Sans MS" Consolas Consolas Constantia Constantia Corbel Corbel Courier_New "Courier New" Ebrima Ebrima Franklin_Gothic_Medium "Franklin Gothic Medium" Gabriola Gabriola Gadugi Gadugi Georgia Georgia Impact Impact Ink_Free "Ink Free" Javanese_Text "Javanese Text" Leelawadee_UI "Leelawadee UI" Leelawadee_UI_Semilight "Leelawadee UI Semilight" Lucida_Console "Lucida Console" Lucida_Sans_Unicode "Lucida Sans Unicode" MV_Boli "MV Boli" Malgun_Gothic "Malgun Gothic" Malgun_Gothic_Semilight "Malgun Gothic Semilight" Microsoft_Himalaya "Microsoft Himalaya" Microsoft_New_Tai_Lue "Microsoft New Tai Lue" Microsoft_PhagsPa "Microsoft PhagsPa" Microsoft_Sans_Serif "Microsoft Sans Serif" Microsoft_Tai_Le "Microsoft Tai Le" Microsoft_Yi_Baiti "Microsoft Yi Baiti" Mongolian_Baiti "Mongolian Baiti" Myanmar_Text "Myanmar Text" Nirmala_UI "Nirmala UI" Nirmala_UI_Semilight "Nirmala UI Semilight" Palatino_Linotype "Palatino Linotype" Segoe_MDL2_Assets "Segoe MDL2 Assets" Segoe_Print "Segoe Print" Segoe_Script "Segoe Script" Segoe_UI "Segoe UI" Segoe_UI_Black "Segoe UI Black" Segoe_UI_Emoji "Segoe UI Emoji" Segoe_UI_Historic "Segoe UI Historic" Segoe_UI_Light "Segoe UI Light" Segoe_UI_Semibold "Segoe UI Semibold" Segoe_UI_Semilight "Segoe UI Semilight" Segoe_UI_Symbol "Segoe UI Symbol" SimSun-ExtB SimSun-ExtB Sylfaen Sylfaen Symbol Symbol Tahoma Tahoma Times_New_Roman "Times New Roman" Trebuchet_MS "Trebuchet MS" Verdana Verdana Webdings Webdings Wingdings Wingdings 20 2 op.TDResources.op('TDUI/fontMenuSource').par.font
+772804868 Popuphelp "Popup Help" 1 1 0 0 1 1 1 0 0 "Master Widget" Widget 26
+-1374678780 Widgetkitversion Version 1 1 0 0 1 1 1 0 0 0.0.18 Widget 100
+772804868 Widgettox "Widget Tox" 1 1 0 0 1 1 1 0 0 masterWidget Widget 101
+772804868 Sliderlabelname "Label Name" 1 1 0 0 1 1 1 0 0 Slider Slider 49
+772804867 Sliderlabeldisplay "Label Display" 1 1 0 0 1 1 1 0 1 "" Slider 54
+772804879 Sliderlabeltextalign "Label Text Align" 1 1 0 0 1 1 1 0 0 Left Slider 4097 3 Left Left Center Center Right Right 50
+-1374678782 Sliderlabelfontsize "Label Font Size" 1 3 6 6 1 24 24 0 9 "" Slider 59
+772804867 Sliderlabelfontbold "Label Font Bold" 1 1 0 0 1 1 1 0 0 "" Slider 60
+-1374678780 Valname0 "Name 0" 1 1 0 0 1 1 1 0 0 Value Values 0
+-1374678780 Valname1 "Name 1" 1 1 0 0 1 1 1 0 0 Value Values 2
+772804865 Value0 "Value 0" 1 3 0 0 3 1 1 0 0 "" Values 1
+772804865 Value1 "Value 1" 1 3 0 0 3 1 1 0 1 "" Values 3
+772804879 Sliderorient Orientation 1 1 0 0 1 1 1 0 0 horz Slider 4097 2 horz Horizontal vert Vertical 48
+772804866 Sliderknobsize "Knob Size" 1 1 0 0 1 40 40 0 5 "" Slider 58
+-1374678781 Sliderruncommands "Run Commands" 1 1 0 0 1 1 1 0 0 "" Slider 93
+772804868 Slideroncommand "On Command" 1 1 0 0 1 1 1 0 0 "print(me.path, 'range on')" Slider 94
+772804868 Slideroffcommand "Off Command" 1 1 0 0 1 1 1 0 0 "print(me.path, 'range off')" Slider 95
+-1374678774 Sliderbgtop "Bg TOP" 1 1 0 0 1 1 1 0 0 "" Slider 61
+772804874 Sliderknobtop "Knob TOP" 1 1 0 0 1 1 1 0 0 "" Slider 62
+772809729 Rollovercolor "Rollover Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 1 "" 0 1 "" 0 1 "" 0 0.1 "" Widget 17
+772809729 Disablecolor "Disable Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" 0 0.5 "" Widget 18
+-1374673919 Sliderbgcolor "Bg Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0.09091 "" 0 0.09091 "" 0 0.09091 "" 0 1 "" Slider 63
+772809729 Sliderknobcolor "Knob Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0.618 "" 0 0.618 "" 0 0.618 "" 0 0.5 "" Slider 89
+772809729 Sliderrollovercolor "Rollover Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0.1 "" 0 0.1 "" 0 0.1 "" 0 1 "" Slider 90
+772809729 Sliderindicatorcolor "Indicator Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0.382 "" 0 0.382 "" 0 0.382 "" 0 0.5 "" Slider 91
+772809729 Sliderlabelfontcolor "Label Font Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0.618 "" 0 0.618 "" 0 0.618 "" 0 1 "" Slider 92
+?

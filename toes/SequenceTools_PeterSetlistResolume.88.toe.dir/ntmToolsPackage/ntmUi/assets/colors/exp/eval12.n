@@ -1,0 +1,8 @@
+DAT:eval
+tile 700 430 130 90
+flags = 
+inputs
+{
+0 	tbl_radiobutton_off
+}
+end

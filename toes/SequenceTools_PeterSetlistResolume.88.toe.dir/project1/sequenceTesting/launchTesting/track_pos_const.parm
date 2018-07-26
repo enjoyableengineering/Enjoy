@@ -1,0 +1,8 @@
+?
+name0 0 position_La
+name1 0 position_Lb
+name2 0 position_Ra
+name3 0 position_Rb
+rate 17 60 me.time.rate
+autoexportroot 17 "" me.parent()
+?

@@ -1,0 +1,16 @@
+?
+pixeldat 0 pixel
+dispatchsizex 0 64
+dispatchsizey 0 1
+dispatchsizez 0 1
+type 0 texture3d
+depth 0 custom
+customdepth 0 15
+inputmapping 0 ninputs
+uniname0 0 uGamma
+value0x 0 1.4
+value0y 0 0
+value0z 0 0
+value0w 0 0
+outputaspect 0 useinput
+?

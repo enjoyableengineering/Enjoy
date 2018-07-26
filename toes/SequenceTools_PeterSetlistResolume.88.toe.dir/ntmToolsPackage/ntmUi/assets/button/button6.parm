@@ -1,0 +1,44 @@
+?
+stdswitcher1 0 3
+clone 49 op.NtmUi.op('assets/uiButtonMaster') op.NtmUi.op('assets/button/styleUiButtonMaster')
+Backgroundr 64 1
+Backgroundg 64 1
+Backgroundb 64 1
+Backgrounda 64 0.2
+Font 64 Verdana
+Rolloncolorr 64 0
+Rolloncolorg 64 0.6
+Rolloncolorb 64 0.6
+Rolloncolora 64 1
+Textsize 64 9
+Bold 64 on
+Label 64 "Red When On"
+Rolloffcolorr 64 0
+Rolloffcolorg 64 0.6
+Rolloffcolorb 64 0.6
+Rolloffcolora 64 0.5
+Offcolorr 64 0.2
+Offcolorg 64 0.2
+Offcolorb 64 0.2
+Offcolora 64 1
+Oncolorr 64 0.5
+Oncolorg 64 0
+Oncolorb 64 0
+Oncolora 64 1
+Rollofftextcolorr 64 1
+Rollofftextcolorg 64 1
+Rollofftextcolorb 64 1
+Rollofftextcolora 64 0.6
+Rollontextcolorr 64 1
+Rollontextcolorg 64 1
+Rollontextcolorb 64 1
+Rollontextcolora 64 0.8
+Offtextcolorr 64 1
+Offtextcolorg 64 1
+Offtextcolorb 64 1
+Offtextcolora 64 0.5
+Ontextcolorr 64 1
+Ontextcolorg 64 1
+Ontextcolorb 64 1
+Ontextcolora 64 0.7
+?

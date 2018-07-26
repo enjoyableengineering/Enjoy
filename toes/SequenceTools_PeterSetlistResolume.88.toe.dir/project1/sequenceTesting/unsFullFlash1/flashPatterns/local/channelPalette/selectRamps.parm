@@ -1,0 +1,4 @@
+?
+chop 49 parent().par.Beatchanscomp.eval().op('timingRamps') parent.FlashMain.par.Beatchanscomp.eval().op('timingRamps')
+autoexportroot 17 "" parent()
+?

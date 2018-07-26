@@ -1,0 +1,9 @@
+TOP:comp
+tile 675 475 130 65
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	ramp1
+1 	add1
+}
+end

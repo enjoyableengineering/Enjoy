@@ -1,0 +1,7 @@
+COMP:base
+v 403.782 239.343 0.756897
+tags 0 1 seqPlugin
+tile -450 -675 158 130
+flags =  cook off parlanguage 0
+color 0.68 0.226667 0 
+end

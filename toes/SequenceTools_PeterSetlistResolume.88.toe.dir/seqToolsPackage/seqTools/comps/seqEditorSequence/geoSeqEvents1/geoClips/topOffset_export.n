@@ -1,0 +1,5 @@
+DAT:table
+tile 1075 725 130 90
+flags =  viewer 1 parlanguage 0
+dock topOffset
+end

@@ -1,0 +1,11 @@
+COMP:container
+v 534.141 452.933 0.749685
+tags 0 2 ntmUi ntmUiWidHeader
+tile -750 2075 160 76
+flags =  viewer 1 parlanguage 0
+exports
+{
+./uiConfig/headerSize
+./uiConfig/colExport
+}
+end

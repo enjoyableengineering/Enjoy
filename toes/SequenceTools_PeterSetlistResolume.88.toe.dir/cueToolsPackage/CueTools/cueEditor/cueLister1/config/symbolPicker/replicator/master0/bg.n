@@ -1,0 +1,4 @@
+TOP:text
+tile 280 250 150 83
+flags =  current on viewer 1 parlanguage 0
+end

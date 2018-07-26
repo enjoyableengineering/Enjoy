@@ -1,0 +1,4 @@
+COMP:container
+tile 625 -725 160 109
+flags =  picked on current on viewer 1 parlanguage 0
+end

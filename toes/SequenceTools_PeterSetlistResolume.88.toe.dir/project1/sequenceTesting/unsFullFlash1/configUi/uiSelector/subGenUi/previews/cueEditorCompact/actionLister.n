@@ -1,0 +1,9 @@
+COMP:list
+v -261.971 -523.065 5.79522
+tile 800 -1325 160 128
+flags =  viewer 1 display on parlanguage 0
+inputs
+{
+0 	middleCol
+}
+end

@@ -1,0 +1,24 @@
+?
+stdswitcher1 0 2
+text 0 Output
+posttext 49 parent().digits parent().digits
+dispmethod 0 bitmap
+antialias 0 off
+fontsizex 49 0 parent.UiMain.par.Labelfontsize
+fontcolorr 48 0.9 op('color')[int(op('i')['state']+1),'font']
+fontcolorg 48 0.9 op('color')[int(op('i')['state']+1),'font']
+fontcolorb 48 0.9 op('color')[int(op('i')['state']+1),'font']
+bgcolorr 48 0.23 op('color')[int(op('i')['state']+1),'background']
+bgcolorg 48 0.23 op('color')[int(op('i')['state']+1),'background']
+bgcolorb 48 0.23 op('color')[int(op('i')['state']+1),'background']
+borderar 16 0.2 op('color')[int(op('i')['state']+1),'border']
+borderag 16 0.2 op('color')[int(op('i')['state']+1),'border']
+borderab 16 0.2 op('color')[int(op('i')['state']+1),'border']
+borderaalpha 0 0
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+resolutionw 49 256 op('label').width
+resolutionh 49 256 op('label').height
+?

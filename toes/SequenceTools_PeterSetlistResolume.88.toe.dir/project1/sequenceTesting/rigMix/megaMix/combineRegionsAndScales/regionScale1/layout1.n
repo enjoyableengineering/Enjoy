@@ -1,0 +1,9 @@
+TOP:layout
+tile 175 -50 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectScaleMode
+1 	reorder1
+}
+end

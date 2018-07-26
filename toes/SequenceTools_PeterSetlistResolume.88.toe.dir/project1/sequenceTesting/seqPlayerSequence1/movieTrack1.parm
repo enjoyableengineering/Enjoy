@@ -1,0 +1,20 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./SeqToolsClipSlotExt').module.SeqToolsClipSlotExt(me)
+promoteextension1 0 on
+clone 49 op.SeqTools.op('comps/seqClipSlot') op.SeqTools.op('comps/seqClipSlot')
+Seqtoolscomp 113 op.SeqTools op.SeqTools
+Sourceclipcomp 81 seqClipMovie "op(op('playerMechanics/tracksDataMovie')[me.digits, 'clipPath'].val)"
+Play 66 on
+Externalsync 64 on
+Syncchop 64 playerMechanics/durTimer
+Syncchan 113 timer_seconds1 "op('playerMechanics/tracksDataMovie')[me.digits, 'segSecondsChan'].val"
+Cliprefdat 64 playerMechanics/tracksDataMovie
+Cliprefid 81 0 me.digits
+Prereadframes 96 12
+Frametimeout 96 1000
+Opentimeout 96 100000
+Multalpha 64 on
+Loadingerrorimage 64 zero
+Slipsyncchop 64 playerMechanics/slipSyncChop
+?

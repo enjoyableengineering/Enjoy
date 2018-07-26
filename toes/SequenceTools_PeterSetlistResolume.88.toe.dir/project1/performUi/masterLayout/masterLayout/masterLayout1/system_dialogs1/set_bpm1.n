@@ -1,0 +1,4 @@
+DAT:panelexec
+tile 130 -650 104 52
+flags =  viewer 1 parlanguage 0
+end

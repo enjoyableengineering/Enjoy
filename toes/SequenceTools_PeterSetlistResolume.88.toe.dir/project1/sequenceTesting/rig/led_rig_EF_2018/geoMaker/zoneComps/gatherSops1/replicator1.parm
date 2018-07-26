@@ -1,0 +1,12 @@
+?
+repsuffixstart 0 0
+template 0 null1
+opprefix 0 select
+master 0 selSop1
+destination 17 "" me.parent()
+maxops 0 250
+callbacks 0 replicator1_callbacks
+layout 0 vertical
+layoutorigin1 0 0
+layoutorigin2 0 -500
+?

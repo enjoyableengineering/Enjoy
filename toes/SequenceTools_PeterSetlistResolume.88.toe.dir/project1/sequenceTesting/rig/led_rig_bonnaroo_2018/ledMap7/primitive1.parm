@@ -1,0 +1,19 @@
+?
+group 0 *
+doxform 0 on
+tx 49 640 -me.inputPrim.center[0]
+ty 49 -188 -me.inputPrim.center[1]
+tz 32 0
+px 49 -640 me.inputPrim.center[0]
+py 49 188 me.inputPrim.center[1]
+pz 49 0 me.inputPrim.center[2]
+upvectorx 17 0 me.inputPrim.normal[0]
+upvectory 17 0 me.inputPrim.normal[1]
+upvectorz 17 0 me.inputPrim.normal[2]
+diffr 17 0 me.inputPrim.Cd[0]
+diffg 17 0 me.inputPrim.Cd[1]
+diffb 17 0 me.inputPrim.Cd[2]
+alpha 17 0 me.inputPrim.Cd[3]
+crease 17 0 me.inputPrim.creaseweight[0]
+doweight 49 0 me.inputPrim.weight
+?

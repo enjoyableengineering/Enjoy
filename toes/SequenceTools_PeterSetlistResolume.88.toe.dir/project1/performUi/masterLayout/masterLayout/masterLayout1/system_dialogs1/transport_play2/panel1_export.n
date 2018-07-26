@@ -1,0 +1,5 @@
+DAT:table
+tile 400 175 130 90
+flags =  viewer 1 showDocked off
+dock panel1
+end

@@ -1,0 +1,4 @@
+CHOP:par
+tile 1150 850 130 90
+flags =  viewer 1 export on parlanguage 0
+end

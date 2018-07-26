@@ -1,0 +1,22 @@
+?
+name0 0 ch1ctrl5
+name1 0 ch1ctrl9
+value1 0 90
+name2 0 ch1ctrl13
+value2 0 96
+name3 0 ch1ctrl17
+value3 0 74
+name4 0 ch5ctrl8
+value4 0 83
+name5 0 ch6ctrl8
+value5 0 76
+name6 0 ch1ctrl21
+value6 0 87
+name7 0 ch1ctrl25
+value7 0 91
+name8 0 ch1ctrl29
+value8 0 79
+value9 0 2
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

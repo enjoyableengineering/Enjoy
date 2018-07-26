@@ -1,0 +1,8 @@
+TOP:chanmix
+tile 625 -2775 130 63
+flags =  parlanguage 0
+inputs
+{
+0 	over4
+}
+end

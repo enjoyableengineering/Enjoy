@@ -1,0 +1,723 @@
+3
+1
+{
+   rate = 60
+   start = 0
+   tracklength = 1
+   tracks = 177
+   {
+      name = pitch
+      data_rle = 0 
+   }
+   {
+      name = sense
+      data_rle = 0 
+   }
+   {
+      name = ch1n1
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl2
+      data_rle = 0 
+   }
+   {
+      name = ch1n2
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl3
+      data_rle = 69 
+   }
+   {
+      name = ch1n3
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl4
+      data_rle = 127 
+   }
+   {
+      name = ch1n4
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl5
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl6
+      data_rle = 71 
+   }
+   {
+      name = ch1n6
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl7
+      data_rle = 127 
+   }
+   {
+      name = ch1n7
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl8
+      data_rle = 127 
+   }
+   {
+      name = ch1n8
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl9
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl10
+      data_rle = 61 
+   }
+   {
+      name = ch1n10
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl11
+      data_rle = 95 
+   }
+   {
+      name = ch1n11
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl12
+      data_rle = 127 
+   }
+   {
+      name = ch1n12
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl13
+      data_rle = 127 
+   }
+   {
+      name = ch1n13
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl14
+      data_rle = 66 
+   }
+   {
+      name = ch1n14
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl15
+      data_rle = 101 
+   }
+   {
+      name = ch1n15
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl16
+      data_rle = 14 
+   }
+   {
+      name = ch1n16
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl17
+      data_rle = 127 
+   }
+   {
+      name = ch1n17
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl18
+      data_rle = 60 
+   }
+   {
+      name = ch1n18
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl19
+      data_rle = 127 
+   }
+   {
+      name = ch1n19
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl20
+      data_rle = 127 
+   }
+   {
+      name = ch1n20
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl21
+      data_rle = 0 
+   }
+   {
+      name = ch1n21
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl22
+      data_rle = 0 
+   }
+   {
+      name = ch1n22
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl23
+      data_rle = 45 
+   }
+   {
+      name = ch1n23
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl24
+      data_rle = 127 
+   }
+   {
+      name = ch1n24
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl25
+      data_rle = 0 
+   }
+   {
+      name = ch1n25
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl26
+      data_rle = 0 
+   }
+   {
+      name = ch1n26
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl27
+      data_rle = 56 
+   }
+   {
+      name = ch1n27
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl28
+      data_rle = 127 
+   }
+   {
+      name = ch1n28
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl29
+      data_rle = 0 
+   }
+   {
+      name = ch1n29
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl30
+      data_rle = 0 
+   }
+   {
+      name = ch1n30
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl31
+      data_rle = 64 
+   }
+   {
+      name = ch1n31
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl32
+      data_rle = 0 
+   }
+   {
+      name = ch1n32
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl33
+      data_rle = 127 
+   }
+   {
+      name = ch1n33
+      data_rle = 0 
+   }
+   {
+      name = ch1n34
+      data_rle = 0 
+   }
+   {
+      name = ch1n35
+      data_rle = 0 
+   }
+   {
+      name = ch1n36
+      data_rle = 0 
+   }
+   {
+      name = ch1n37
+      data_rle = 0 
+   }
+   {
+      name = ch1n38
+      data_rle = 0 
+   }
+   {
+      name = ch1n39
+      data_rle = 0 
+   }
+   {
+      name = ch1n40
+      data_rle = 0 
+   }
+   {
+      name = ch1n41
+      data_rle = 0 
+   }
+   {
+      name = ch1n42
+      data_rle = 0 
+   }
+   {
+      name = ch1n43
+      data_rle = 0 
+   }
+   {
+      name = ch1n44
+      data_rle = 0 
+   }
+   {
+      name = ch1n45
+      data_rle = 0 
+   }
+   {
+      name = ch1n46
+      data_rle = 0 
+   }
+   {
+      name = ch1n47
+      data_rle = 0 
+   }
+   {
+      name = ch1n48
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl49
+      data_rle = 23 
+   }
+   {
+      name = ch1n49
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl50
+      data_rle = 39 
+   }
+   {
+      name = ch1n50
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl51
+      data_rle = 1 
+   }
+   {
+      name = ch1n51
+      data_rle = 0 
+   }
+   {
+      name = ch1n52
+      data_rle = 0 
+   }
+   {
+      name = ch1n53
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl54
+      data_rle = 0 
+   }
+   {
+      name = ch1n54
+      data_rle = 0 
+   }
+   {
+      name = ch1n55
+      data_rle = 0 
+   }
+   {
+      name = ch1n56
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl57
+      data_rle = 0 
+   }
+   {
+      name = ch1n57
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl58
+      data_rle = 39 
+   }
+   {
+      name = ch1n58
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl59
+      data_rle = 0 
+   }
+   {
+      name = ch1n59
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl60
+      data_rle = 23 
+   }
+   {
+      name = ch1n60
+      data_rle = 0 
+   }
+   {
+      name = ch1n61
+      data_rle = 0 
+   }
+   {
+      name = ch1n62
+      data_rle = 0 
+   }
+   {
+      name = ch1n63
+      data_rle = 0 
+   }
+   {
+      name = ch1n65
+      data_rle = 0 
+   }
+   {
+      name = ch1n66
+      data_rle = 0 
+   }
+   {
+      name = ch1n68
+      data_rle = 0 
+   }
+   {
+      name = ch1n69
+      data_rle = 0 
+   }
+   {
+      name = ch1n70
+      data_rle = 0 
+   }
+   {
+      name = ch1n71
+      data_rle = 0 
+   }
+   {
+      name = ch1n72
+      data_rle = 0 
+   }
+   {
+      name = ch1n73
+      data_rle = 0 
+   }
+   {
+      name = ch1n74
+      data_rle = 0 
+   }
+   {
+      name = ch1n75
+      data_rle = 0 
+   }
+   {
+      name = ch1n76
+      data_rle = 0 
+   }
+   {
+      name = ch1n78
+      data_rle = 0 
+   }
+   {
+      name = ch1n79
+      data_rle = 0 
+   }
+   {
+      name = ch1n80
+      data_rle = 0 
+   }
+   {
+      name = ch1n81
+      data_rle = 0 
+   }
+   {
+      name = ch1n82
+      data_rle = 0 
+   }
+   {
+      name = ch1n83
+      data_rle = 0 
+   }
+   {
+      name = ch1n84
+      data_rle = 0 
+   }
+   {
+      name = ch1n85
+      data_rle = 0 
+   }
+   {
+      name = ch1n86
+      data_rle = 0 
+   }
+   {
+      name = ch1n90
+      data_rle = 0 
+   }
+   {
+      name = ch1n91
+      data_rle = 0 
+   }
+   {
+      name = ch1n92
+      data_rle = 0 
+   }
+   {
+      name = ch1n94
+      data_rle = 0 
+   }
+   {
+      name = ch1n95
+      data_rle = 0 
+   }
+   {
+      name = ch1n96
+      data_rle = 0 
+   }
+   {
+      name = ch1n97
+      data_rle = 0 
+   }
+   {
+      name = ch1n98
+      data_rle = 0 
+   }
+   {
+      name = ch1n99
+      data_rle = 0 
+   }
+   {
+      name = ch1n100
+      data_rle = 0 
+   }
+   {
+      name = ch1n101
+      data_rle = 0 
+   }
+   {
+      name = ch1n102
+      data_rle = 0 
+   }
+   {
+      name = ch1n103
+      data_rle = 0 
+   }
+   {
+      name = ch1n104
+      data_rle = 0 
+   }
+   {
+      name = ch1n107
+      data_rle = 0 
+   }
+   {
+      name = ch1n108
+      data_rle = 0 
+   }
+   {
+      name = ch1n111
+      data_rle = 0 
+   }
+   {
+      name = ch1n115
+      data_rle = 0 
+   }
+   {
+      name = ch1n116
+      data_rle = 0 
+   }
+   {
+      name = ch1n118
+      data_rle = 0 
+   }
+   {
+      name = ch1n119
+      data_rle = 0 
+   }
+   {
+      name = ch10ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch11ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch12ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch13ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch14ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch15ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch16ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch1n122
+      data_rle = 0 
+   }
+   {
+      name = ch2ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch3ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch4ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch5ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch6ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch7ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch8ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch9ctrl122
+      data_rle = 0 
+   }
+   {
+      name = ch10ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch11ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch12ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch13ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch14ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch15ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch16ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch1ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch2ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch3ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch4ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch5ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch6ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch7ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch8ctrl124
+      data_rle = 0 
+   }
+   {
+      name = ch9ctrl124
+      data_rle = 0 
+   }
+
+}
+0
+0
+0
+0
+0
+0

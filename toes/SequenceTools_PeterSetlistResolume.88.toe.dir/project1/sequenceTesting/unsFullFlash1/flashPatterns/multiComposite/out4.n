@@ -1,0 +1,8 @@
+TOP:out
+tile -250 -1670 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	renderselect3
+}
+end

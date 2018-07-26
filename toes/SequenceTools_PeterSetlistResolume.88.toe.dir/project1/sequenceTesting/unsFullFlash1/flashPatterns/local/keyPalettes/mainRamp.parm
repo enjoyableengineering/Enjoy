@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 1
+dat 0 finalKeys
+color1 0 0
+color2 0 0
+color3 0 0
+color4 0 0
+type 0 vertical
+position1 0 0
+position2 0 -0.7
+interp 0 hermite
+antialias 0 1
+resolutionw 0 1920
+resolutionh 0 1080
+filtertype 0 nearest
+?

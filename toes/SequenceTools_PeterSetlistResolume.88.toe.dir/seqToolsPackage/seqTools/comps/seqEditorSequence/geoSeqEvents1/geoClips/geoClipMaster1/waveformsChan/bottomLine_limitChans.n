@@ -1,0 +1,9 @@
+CHOP:null
+tile 430 -630 130 90
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	math1
+}
+view 5 -1 1 25.3969 -1.5 1.5 4 2 10648 20 0
+end

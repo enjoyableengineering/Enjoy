@@ -1,0 +1,17 @@
+TOP:glslmulti
+tile 700 200 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	regionScale1/out1
+1 	regionScale2/out1
+2 	regionScale3/out1
+3 	regionScale4/out1
+4 	regionScale5/out1
+5 	regionScale6/out1
+6 	regionScale7/out1
+7 	regionScale8/out1
+8 	regionScale9/out1
+9 	regionScale10/out1
+}
+end

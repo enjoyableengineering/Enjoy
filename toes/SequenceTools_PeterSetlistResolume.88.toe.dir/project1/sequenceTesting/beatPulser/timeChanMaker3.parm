@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 3
+clone 0 timeChanMaker
+Lookupchop 64 /project1/sequenceTesting/timingLookups/lookupChansBar
+Lookupchans 64 on_3_lag_off
+Lookupramp 64 4
+Newnames 64 on_3_lag_off
+?

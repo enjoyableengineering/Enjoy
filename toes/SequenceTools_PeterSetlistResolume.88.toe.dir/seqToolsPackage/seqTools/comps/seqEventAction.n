@@ -1,0 +1,6 @@
+COMP:base
+v 322.573 -38.6479 2.00707
+tags 0 3 seqTools seqCueAction seqEvent
+tile 100 -325 160 130
+flags =  parlanguage 0
+end

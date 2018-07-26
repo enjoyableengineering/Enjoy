@@ -1,0 +1,5 @@
+?
+fromop 17 "" parent()
+op 49 "'seqPlayerSequence' + str(me.digits)" "'seqPlayerSequence' + str(me.digits)"
+pars 0 Active
+?

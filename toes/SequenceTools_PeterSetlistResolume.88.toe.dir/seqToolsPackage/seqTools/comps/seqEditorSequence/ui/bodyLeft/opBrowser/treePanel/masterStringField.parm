@@ -1,0 +1,66 @@
+?
+stdswitcher1 0 3
+w 0 256
+h 0 24
+hmode 0 fill
+alignorder 0 -1000
+helpdat 256 ./help
+vieweraspect 17 unconstrained me.par.sizefromwindow
+resizel 256 0
+resizer 256 0
+resizeb 256 0
+resizet 256 0
+repocomp 17 "" me
+bgcolorr 0 0.2
+bgcolorg 0 0.2
+bgcolorb 0 0.2
+bgalpha 0 1
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+topborder 0 bordera
+align 0 horizlr
+spacing 0 1
+marginl 0 2
+marginr 0 2
+marginb 0 2
+margint 0 2
+justifyh 0 left
+justifyv 0 top
+crop 0 on
+drop 0 dropparent
+promoteextension1 0 on
+parentshortcut 0 Widget
+enablecloning 0 off
+Font 64 Segoe_UI
+Popuphelp 64 ""
+Widgetkitversion 448 0.0.18
+Widgettox 192 masterStringField
+Stringfieldborderleft 64 off
+Stringfieldborderright 64 off
+Stringfieldbordertop 64 off
+Stringfieldborderbottom 64 off
+Stringfieldfontsize 64 9
+Valname0 64 Value0
+Rollovercolorr 64 0.7
+Rollovercolorg 64 0.7
+Rollovercolorb 64 0.7
+Rollovercolora 64 0.35
+Disablecolorr 80 0.2 None
+Disablecolorg 80 0.2 None
+Disablecolorb 80 0.2 None
+Disablecolora 80 0.65 None
+Stringfieldbgcolorr 64 0.45
+Stringfieldbgcolorg 64 0.45
+Stringfieldbgcolorb 64 0.45
+Stringfieldbgcolora 64 1
+Stringfieldbordercolorr 64 0
+Stringfieldbordercolorg 64 0
+Stringfieldbordercolorb 64 0
+Stringfieldbordercolora 64 0
+Stringfieldfontcolorr 64 0.15
+Stringfieldfontcolorg 64 0.15
+Stringfieldfontcolorb 64 0.15
+Stringfieldfontcolora 64 1
+?

@@ -1,0 +1,5 @@
+?
+fromop 17 "" me.parent()
+op 49 parent() parent()
+pars 32 "Headercolor Rowcolor Breakcolor Columnwidth"
+?

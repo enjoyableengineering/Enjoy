@@ -1,0 +1,8 @@
+CHOP:math
+tile 1050 0 130 90
+flags =  viewer 1
+inputs
+{
+0 	function4
+}
+end

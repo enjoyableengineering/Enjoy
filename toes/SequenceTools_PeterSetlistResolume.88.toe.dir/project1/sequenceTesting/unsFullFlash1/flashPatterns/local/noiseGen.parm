@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 3
+opviewer 0 ./uiThumb
+clone 49 parent.FlashMain.op('local/noiseGen') parent.FlashMain.op('local/noiseGen')
+Transformspeedx 64 none
+Type 64 simplex4d
+Seed 64 4213
+Period 64 0.71
+Harmon 64 0
+Spread 64 1.6
+Gain 64 0.99
+Exp 64 1.54
+Amp 64 1.31
+Offset 64 0.714
+Format 64 rgba16float
+Rotationfactor 64 1.03
+?

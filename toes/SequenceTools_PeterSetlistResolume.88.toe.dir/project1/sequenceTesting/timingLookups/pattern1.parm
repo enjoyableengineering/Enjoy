@@ -1,0 +1,10 @@
+?
+wavetype 0 ramp
+length 49 1000 "4 * parent().par.Samplesperbeat"
+numcycles 0 8
+phase 0 -0.352
+amp 0 2
+channelname 0 ramp_up_8th
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,8 @@
+?
+pages 2 Widget Info
+-1374678781 Connectors Connectors 1 1 0 0 1 1 1 0 0 "" Widget 0
+772804868 Outputgroupname "Output Group Name" 1 1 0 0 1 1 1 0 0 "" Widget 1
+772804869 Resetvaluedefaults "Reset Value Defaults" 1 1 0 0 1 1 1 0 0 "" Widget 4
+772804879 Valuetype "Value Type" 1 1 0 0 1 1 1 0 0 Float Widget 4097 4 Float Float Int Integer Str String Bool Boolean 3
+772804867 Appendopname "Append OP Name" 1 1 0 0 1 1 1 0 1 "" Widget 2
+?

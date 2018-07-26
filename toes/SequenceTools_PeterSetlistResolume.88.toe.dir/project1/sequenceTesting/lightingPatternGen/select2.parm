@@ -1,0 +1,4 @@
+?
+chop 0 ../../devices/midiDev_cntrlr/testPattern
+autoexportroot 17 "" parent()
+?

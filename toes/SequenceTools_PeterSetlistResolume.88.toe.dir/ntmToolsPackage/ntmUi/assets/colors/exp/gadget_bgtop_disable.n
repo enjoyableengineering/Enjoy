@@ -1,0 +1,9 @@
+DAT:eval
+tile 340 2260 130 90
+flags =  viewer 1
+inputs
+{
+0 	gadget_bg_horz
+}
+color 0.226667 0.68 0 
+end

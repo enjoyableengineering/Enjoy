@@ -1,0 +1,9 @@
+DAT:parexec
+tile 225 -125 130 90
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	compParexec
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

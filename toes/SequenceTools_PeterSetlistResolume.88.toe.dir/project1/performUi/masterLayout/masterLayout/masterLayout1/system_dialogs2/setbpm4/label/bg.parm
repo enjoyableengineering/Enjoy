@@ -1,0 +1,22 @@
+?
+stdswitcher1 0 1
+text 0 `tabr(\"$gadget/local/define\",\"label\",1)`
+legacyparsing 0 on
+leadingzero 0 off
+chopvaluereplace 0 on
+font 2 Verdana
+dispmethod 0 bitmap
+antialias 0 off
+fontsizex 2 11
+fontsizeyunit 0 pixels
+alignx 0 left
+borderspace1 0 3
+borderspace2 0 0
+fontcolorr 2 1
+fontcolorg 2 1
+fontcolorb 2 1
+fontalpha 2 1
+resolutionw 17 50 ch(\"../panelw\")
+resolutionh 17 20 ch(\"../panelh\")
+resmult 0 off
+?

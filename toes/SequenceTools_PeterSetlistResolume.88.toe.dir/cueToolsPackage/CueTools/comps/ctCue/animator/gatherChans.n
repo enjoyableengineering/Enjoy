@@ -1,0 +1,5 @@
+COMP:base
+v 255.428 137.376 0.69271
+tile 200 0 160 130
+flags =  picked on current on viewer 1 networkCloneImmune on parlanguage 0
+end

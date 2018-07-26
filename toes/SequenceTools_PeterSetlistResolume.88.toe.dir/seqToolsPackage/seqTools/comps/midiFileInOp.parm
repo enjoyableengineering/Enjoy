@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 3
+opviewer 0 ./outPlayback
+Basetempo 64 140
+Notescope 64 1-128
+Channels 64 1
+Controlind 64 7
+Index 112 0 absTime.seconds
+Playmode 64 specify
+Samplesperbeat 64 60
+Indexunits 64 seconds
+Left 64 cycle
+Right 64 cycle
+?

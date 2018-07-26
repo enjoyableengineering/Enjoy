@@ -1,0 +1,13 @@
+DAT:switch
+tile -800 -425 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	inInstantTab
+1 	selectDurTab1
+}
+exports
+{
+bakedTableExport
+}
+end

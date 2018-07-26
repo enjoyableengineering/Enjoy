@@ -1,0 +1,8 @@
+COMP:opviewer
+tile 60 0 160 154
+flags =  current on viewer 1 parlanguage 0
+exports
+{
+routeStatus
+}
+end

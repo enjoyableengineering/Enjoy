@@ -1,0 +1,26 @@
+?
+pages 1 Folder
+-1374678769 Foldertablabelalignx "Label Align Horizontal" 1 1 0 0 1 1 1 0 0 Center Folder 4097 3 Left Left Center Center Right Right 0
+772804879 Foldertablabelaligny "Label Align Vertical" 1 1 0 0 1 1 1 0 0 Center Folder 4097 3 Bottom Bottom Center Center Top Top 1
+772804866 Foldertabmargin "Tab Margin" 1 3 0 0 1 4 4 0 1 "" Folder 2
+772804866 Foldertablabelmargin "Tab Label Margin" 1 3 0 0 1 10 10 0 4 "" Folder 3
+772804866 Foldertabopenmargin "Tab Open Margin" 1 3 0 0 1 8 8 0 1 "" Folder 4
+772804866 Foldertabrightindent "Tab Right Indent" 1 1 0 0 1 1 1 0 90 "" Folder 5
+-1374678781 Folderfontbold "Font Bold" 1 1 0 0 1 1 1 0 0 "" Folder 6
+772804866 Folderfontsize "Font Size" 1 1 1 6 1 20 20 0 10 "" Folder 7
+-1374673919 Foldertabofffacecolor "Tab Off Face Color" 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 0 0.1 "" 0 0.1 "" 0 0.1 "" 0 1 "" Folder 8
+772809729 Foldertabonfacecolor "Tab On Face Color" 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 0 0.2 "" 0 0.2 "" 0 0.2 "" 0 1 "" Folder 9
+772809729 Foldertabofffontcolor "Tab Off Font Color" 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 0 0.5 "" 0 0.5 "" 0 0.5 "" 0 1 "" Folder 10
+772809729 Foldertabonfontcolor "Tab On Font Color" 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 0 0.5 "" 0 0.5 "" 0 0.5 "" 0 1 "" Folder 11
+772809729 Foldertabrollcolor "Tab Roll Color" 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 0 0.45 "" 0 0.45 "" 0 0.45 "" 0 1 "" Folder 12
+772809729 Foldertaboffbordercolor "Tab Off Border Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" 0 0 "" Folder 13
+772809729 Foldertabonbordercolor "Tab On Border Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" 0 0 "" Folder 14
+772804867 Foldertaboffborderleft "Tab Off Border Left" 1 1 0 0 1 1 1 0 0 "" Folder 15
+772804867 Foldertaboffborderright "Tab Off Border Right" 1 1 0 0 1 1 1 0 0 "" Folder 16
+772804867 Foldertaboffbordertop "Tab Off Border Top" 1 1 0 0 1 1 1 0 0 "" Folder 17
+772804867 Foldertabonborderleft "Tab On Border Left " 1 1 0 0 1 1 1 0 0 "" Folder 18
+772804867 Foldertabonborderright "Tab On Border Right" 1 1 0 0 1 1 1 0 0 "" Folder 19
+772804867 Foldertabonbordertop "Tab On Border Top" 1 1 0 0 1 1 1 0 0 "" Folder 20
+-1374678781 Runcommand "Run Command" 1 1 0 0 1 1 1 0 0 "" Folder 21
+772804868 Foldercommand Command 1 1 0 0 1 1 1 0 0 "" Folder 22
+?

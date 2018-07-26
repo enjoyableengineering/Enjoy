@@ -1,0 +1,17 @@
+DAT:merge
+tile 900 -275 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	switchDeckOverlayOrder1
+1 	switchDeckOverlayOrder2
+2 	switchDeckOverlayOrder3
+3 	switchDeckOverlayOrder4
+4 	selectLayersSpecialsRouter
+5 	switchDeckOrder1
+6 	switchDeckOrder2
+7 	switchDeckOrder3
+8 	switchDeckOrder4
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

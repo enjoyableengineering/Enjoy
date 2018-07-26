@@ -1,0 +1,5 @@
+?
+name1 0 chan2
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

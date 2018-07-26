@@ -1,0 +1,7 @@
+COMP:container
+v 616.017 752.46 0.6028
+tags 0 3 ntmUiGadget ntmUi ntmUiPanel
+tile -100 -925 158 155
+flags =  viewer 1 parlanguage 0
+color 0.68 0.226667 0 
+end

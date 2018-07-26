@@ -1,0 +1,4 @@
+DAT:text
+tile 375 -1600 130 90
+flags =  parlanguage 0
+end

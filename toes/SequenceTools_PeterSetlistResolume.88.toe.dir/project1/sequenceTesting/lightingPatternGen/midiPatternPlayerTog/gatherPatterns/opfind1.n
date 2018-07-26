@@ -1,0 +1,4 @@
+DAT:opfind
+tile -400 10 130 90
+flags =  viewer 1 parlanguage 0
+end

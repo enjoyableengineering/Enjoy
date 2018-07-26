@@ -1,0 +1,22 @@
+?
+text 49 parent.Widget.WidgetValues[parent.Value.digits].name "parent.Widget.par.Sliderlabelname if parent.Widget.par.Sliderlabeldisplay.val else ''"
+legacyparsing 0 on
+chopvaluereplace 0 on
+font 49 Verdana parent.Widget.par.Font.menuLabels[parent.Widget.par.Font.menuIndex]
+dispmethod 0 bitmap
+antialias 0 off
+bold 49 off parent.Widget.par.Sliderlabelfontbold
+fontsizex 49 6 parent.Widget.par.Sliderlabelfontsize
+position1 49 0 "[3, 0, -3][parent.Widget.par.Sliderlabeltextalign.menuIndex]"
+position2 32 0
+alignx 49 center parent.Widget.par.Sliderlabeltextalign
+borderspace1 0 3
+borderspace2 0 3
+fontcolorr 49 0.7 parent.Widget.par.Sliderlabelfontcolorr
+fontcolorg 49 0.7 parent.Widget.par.Sliderlabelfontcolorg
+fontcolorb 49 0.9 parent.Widget.par.Sliderlabelfontcolorb
+fontalpha 49 0.7 parent.Widget.par.Sliderlabelfontcolora
+resolutionw 49 256 "parent().height if parent.Widget.par.Sliderorient.menuIndex else parent().width"
+resolutionh 49 256 "parent().width if parent.Widget.par.Sliderorient.menuIndex else parent().height"
+resmult 0 off
+?

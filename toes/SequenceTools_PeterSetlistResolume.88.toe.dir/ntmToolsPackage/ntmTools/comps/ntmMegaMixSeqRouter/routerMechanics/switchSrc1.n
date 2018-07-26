@@ -1,0 +1,14 @@
+TOP:switch
+tile 1900 -2020 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectSlot1
+1 	selectSlot2
+2 	selectSlot3
+}
+exports
+{
+layerSourceIds
+}
+end

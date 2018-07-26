@@ -1,0 +1,7 @@
+?
+ops 32 /seqToolsPackage/seqTools/comps/seqEditorSequence
+parameters 32 Playaudio
+renameto 0 state
+builtin 0 on
+autoexportroot 17 "" parent()
+?

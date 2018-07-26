@@ -1,0 +1,9 @@
+CHOP:math
+tile -500 1210 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	pulse4
+}
+view 5 -1 1 16.0313 -1.5 1.5 4 2 10648 20 0
+end

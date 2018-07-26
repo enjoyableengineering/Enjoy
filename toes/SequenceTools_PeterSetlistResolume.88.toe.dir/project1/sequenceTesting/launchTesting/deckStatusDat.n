@@ -1,0 +1,9 @@
+DAT:null
+tile 2200 -2700 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	merge3
+}
+color 0.68 0 0 
+end

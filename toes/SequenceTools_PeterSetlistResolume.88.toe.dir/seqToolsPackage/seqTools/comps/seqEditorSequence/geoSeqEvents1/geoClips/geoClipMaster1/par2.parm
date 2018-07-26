@@ -1,0 +1,5 @@
+?
+ops 49 "op(op('../repTable')[parent().digits, 'path'].val)" "op(op('../repTable')[parent().digits, 'path'].val)"
+parameters 0 Seqduration
+autoexportroot 17 "" parent()
+?

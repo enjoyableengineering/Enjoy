@@ -1,0 +1,25 @@
+?
+stdswitcher1 0 1
+text 0 N
+legacyparsing 0 on
+chopvaluereplace 0 on
+fontsizex 17 10 op('master').par.fontsizex
+fontcolorr 0 0.8
+fontcolorg 0 0.8
+fontcolorb 0 0.8
+bgcolorr 17 0.225801 "op('famColors')[me.name, 1]"
+bgcolorg 17 0.0816955 "op('famColors')[me.name, 2]"
+bgcolorb 17 0.449 "op('famColors')[me.name, 3]"
+bgalpha 0 1
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+borderbr 0 0.1
+borderbg 0 0.1
+borderbb 0 0.1
+borderbalpha 0 0.1
+resolutionw 0 256
+resolutionh 0 22
+resmult 0 off
+?

@@ -1,0 +1,9 @@
+?
+dat 49 parent.DeckReadout.par.Streamdatachop.eval() parent.DeckReadout.par.Deckdatadat.eval()
+extractrows 0 byindex
+rowindexstart 49 0 "parent.DeckReadout.par.Deckindex - 1"
+rowindexend 17 0 "parent.DeckReadout.par.Deckindex - 1"
+rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+colindexend 17 0 "me.inputTable.numCols - 1"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

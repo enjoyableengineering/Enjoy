@@ -1,0 +1,8 @@
+TOP:out
+tile 1675 -250 110 43
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	combo11/out2
+}
+end

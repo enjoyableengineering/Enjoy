@@ -1,0 +1,10 @@
+?
+pages 2 "Widget Value" "Widget Config"
+772804878 Targetop Targetop 1 1 0 0 1 1 1 0 0 "" "Widget Value" 0
+772804868 Targetpar Targetpar 1 1 0 0 1 1 1 0 0 "" "Widget Value" 2
+772804869 Initwidget Initwidget 1 1 0 0 1 1 1 0 0 "" "Widget Config" 2
+772805121 Valrange Valrange 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 1 "" "Widget Value" 3
+772804868 Widlabel Widlabel 1 1 0 0 1 1 1 0 0 "" "Widget Config" 1
+772804868 Partype Partype 1 1 0 0 1 1 1 0 0 "" "Widget Config" 0
+772804875 Buttonlist Buttonlist 1 1 0 0 1 1 1 0 0 "" "Widget Value" 1
+?

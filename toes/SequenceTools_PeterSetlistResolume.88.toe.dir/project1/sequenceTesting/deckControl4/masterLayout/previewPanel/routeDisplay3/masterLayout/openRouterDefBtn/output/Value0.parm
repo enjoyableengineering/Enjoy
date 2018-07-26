@@ -1,0 +1,7 @@
+?
+ops 0 ../..
+parameters 0 "Value0 Value1 Value2 Value3"
+renamefrom 0 "Value0 Value1 Value2 Value3"
+renameto 49 "x y z a" "[getattr(parent.Widget.par, 'Valname0', ''), getattr(parent.Widget.par, 'Valname1', ''), getattr(parent.Widget.par, 'Valname2', ''), getattr(parent.Widget.par, 'Valname3', '')]"
+autoexportroot 17 "" parent()
+?

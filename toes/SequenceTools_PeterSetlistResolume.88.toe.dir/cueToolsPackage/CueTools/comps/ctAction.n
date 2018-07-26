@@ -1,0 +1,6 @@
+COMP:base
+v 510.158 445.446 0.213566
+tags 0 2 cueTools ctAction
+tile 575 0 160 130
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,7 @@
+COMP:container
+v 669.562 337.418 0.122517
+tags 0 2 TDLayout TDWidget
+tile 200 0 100 157
+flags =  picked on current on viewer 1 parlanguage 0
+color 0 0 0.68 
+end

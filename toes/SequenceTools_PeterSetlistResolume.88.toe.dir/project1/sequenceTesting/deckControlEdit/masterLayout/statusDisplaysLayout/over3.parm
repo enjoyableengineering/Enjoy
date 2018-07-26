@@ -1,0 +1,12 @@
+?
+operand 0 add
+size 0 input1
+sx 0 0.26
+sy 0 1
+px 0 0
+py 0 0.5
+tstepx 0 1.4
+tstepy 0 0
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

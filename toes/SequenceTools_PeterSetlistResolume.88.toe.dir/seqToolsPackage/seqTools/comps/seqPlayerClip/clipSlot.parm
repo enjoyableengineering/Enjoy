@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 2
+extension1 0 op('./SeqToolsClipSlotExt').module.SeqToolsClipSlotExt(me)
+promoteextension1 0 on
+Seqtoolscomp 113 op.SeqTools op.SeqTools
+Sourceclipcomp 113 parent().par.Comptoplay parent().par.Comptoplay
+Externalsync 64 on
+Syncchop 64 timer1
+Syncchan 64 timer_seconds0
+?

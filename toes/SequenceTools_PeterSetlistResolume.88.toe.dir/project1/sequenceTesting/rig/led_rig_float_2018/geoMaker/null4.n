@@ -1,0 +1,8 @@
+TOP:null
+tile 440 -2470 124 52
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	rectangle3
+}
+end

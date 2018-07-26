@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 3
+clone 17 op.NtmUi.op('assets/header/styleUiHeaderMaster') op.NtmUi.op('assets/header/styleUiHeaderMaster')
+Fontcolorr 64 0.7
+Fontcolorg 64 0.7
+Fontcolorb 64 0.7
+Fontcolora 64 1
+Textalignx 64 center
+Textaligny 64 top
+Textsize 64 11
+Headerheight 64 19
+Bold 64 on
+Label 64 "Selected Preview Label"
+Backgroundr 64 0
+Backgroundg 64 0.3
+Backgroundb 64 0.5
+Backgrounda 64 1
+?

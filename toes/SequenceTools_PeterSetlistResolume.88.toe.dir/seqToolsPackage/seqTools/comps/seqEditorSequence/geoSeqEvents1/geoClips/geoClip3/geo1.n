@@ -1,0 +1,13 @@
+COMP:geo
+tile 1175 0 160 130
+flags =  viewer 1 render on display on pickable on parlanguage 0
+inputs
+{
+0 	null1
+}
+exports
+{
+null2
+}
+view 63 0.2 1 1 0 0 1 1.79599 0.0175439 1.53996 1.71199 0.5 0 1.79599 0.5 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 15 1 1 1 195 787 1 -1 1 1 4 0 0 2 0 1
+end

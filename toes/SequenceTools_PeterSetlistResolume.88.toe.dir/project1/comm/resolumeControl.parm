@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 2
+extension1 0 op('./ResolumeControlExt').module.ResolumeControlExt(me)
+promoteextension1 0 on
+parentshortcut 0 Main
+opshortcut 0 ResolumeControl
+Listenfordecks 64 on
+?

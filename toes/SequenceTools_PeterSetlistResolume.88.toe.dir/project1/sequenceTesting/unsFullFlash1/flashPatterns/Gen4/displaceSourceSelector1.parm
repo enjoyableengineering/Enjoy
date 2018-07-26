@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 2
+clone 49 parent.FlashMain.op('local/displaceSourceSelector') parent.FlashMain.op('local/displaceSourceSelector')
+Source 64 Gen6_Noise_out1
+?

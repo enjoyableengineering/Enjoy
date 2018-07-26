@@ -1,0 +1,10 @@
+CHOP:join
+tile 2025 -350 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	shuffle1
+1 	pattern1
+}
+view 5 -1 1 6.21562 -1.5 1.5 4 2 10648 20 0
+end

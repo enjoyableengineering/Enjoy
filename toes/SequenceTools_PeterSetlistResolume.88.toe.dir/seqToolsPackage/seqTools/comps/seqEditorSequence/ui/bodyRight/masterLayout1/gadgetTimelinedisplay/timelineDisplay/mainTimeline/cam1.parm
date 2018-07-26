@@ -1,0 +1,12 @@
+?
+tx 50 0 "parent.editorMain.SeqLengthSeconds /2"
+ty 32 0
+tz 32 5
+sx 32 1
+sy 50 106 1/106
+sz 32 1
+projection 0 ortho
+orthowidth 50 2.77778 parent.editorMain.SeqLengthSeconds
+aperture 0 44.1
+far 0 10000
+?

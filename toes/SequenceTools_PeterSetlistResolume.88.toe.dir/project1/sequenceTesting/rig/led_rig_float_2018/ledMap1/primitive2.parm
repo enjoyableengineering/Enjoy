@@ -1,0 +1,19 @@
+?
+group 0 led*
+doxform 0 on
+sx 0 0.1
+sy 0 0.1
+sz 0 0.1
+px 17 0 me.inputPrim.center[0]
+py 17 0 me.inputPrim.center[1]
+pz 17 0 me.inputPrim.center[2]
+upvectorx 17 1 me.inputPrim.normal[0]
+upvectory 17 1 me.inputPrim.normal[1]
+upvectorz 17 1 me.inputPrim.normal[2]
+diffr 17 1 me.inputColor[0]
+diffg 17 1 me.inputColor[1]
+diffb 17 1 me.inputColor[2]
+alpha 17 1 me.inputColor[3]
+crease 17 0 me.inputPrim.creaseweight[0]
+doweight 17 1 me.inputPrim.weight
+?

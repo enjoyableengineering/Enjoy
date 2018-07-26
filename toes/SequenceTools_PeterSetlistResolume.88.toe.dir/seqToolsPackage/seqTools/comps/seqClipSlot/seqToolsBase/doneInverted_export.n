@@ -1,0 +1,5 @@
+DAT:table
+tile 110 -1560 130 90
+flags =  viewer 1 showDocked off parlanguage 0
+dock doneInverted
+end

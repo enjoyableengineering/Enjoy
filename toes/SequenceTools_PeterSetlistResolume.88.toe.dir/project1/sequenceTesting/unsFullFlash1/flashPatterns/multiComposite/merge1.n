@@ -1,0 +1,12 @@
+DAT:merge
+tile -600 -2375 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	pixelTop
+1 	convertToGlsl/out1
+2 	convertToGlsl/out2
+3 	pixelBottom
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

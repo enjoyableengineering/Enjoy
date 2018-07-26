@@ -1,0 +1,29 @@
+?
+stdswitcher1 0 7
+layer 0 4
+hmode 0 fill
+vmode 0 fill
+alignorder 17 0 -me.nodeY
+display 49 on parent.Widget.par.Stringfielddisplay
+helpdat 49 ext.TDUIWidget.PopupHelpDat "parent.Widget.op('code/help') or parent.Widget.op('help')"
+repocomp 17 "" me
+top 0 ./bg
+align 0 horizlr
+spacing 0 1
+justifyv 0 center
+parentshortcut 0 Value
+enablecloning 0 off
+Stringfieldbgcolorr 64 0.618
+Stringfieldbgcolorg 64 0.618
+Stringfieldbgcolorb 64 0.618
+Stringfieldbgcolora 64 1
+Stringfieldbordercolorr 64 1
+Stringfieldbordercolorg 64 0
+Stringfieldbordercolorb 64 0
+Stringfieldbordercolora 64 1
+Stringfieldfontcolorr 64 0.184
+Stringfieldfontcolorg 64 0.184
+Stringfieldfontcolorb 64 0.184
+Stringfieldfontcolora 64 1
+Stringfieldfontsize 64 12
+?

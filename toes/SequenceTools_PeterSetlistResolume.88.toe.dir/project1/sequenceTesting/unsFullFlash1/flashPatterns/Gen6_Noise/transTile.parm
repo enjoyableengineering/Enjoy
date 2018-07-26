@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 1
+clone 49 parent.FlashMain.op('local/transTile') parent.FlashMain.op('local/transTile')
+Tilewetdry 64 1
+Tiletranspose 64 on
+Tileflipx 64 on
+Tileflipy 64 on
+Tilereflectx 64 on
+Tilereflecty 64 on
+Resx 64 480
+Resy 64 480
+Inputfiltertype 64 nearest
+Tilerepeaty 64 2
+Tilerepeatx 64 2
+?

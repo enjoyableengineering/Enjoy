@@ -1,0 +1,5 @@
+DAT:table
+tile 740 -490 130 90
+flags =  viewer 1
+color 0.68 0 0 
+end

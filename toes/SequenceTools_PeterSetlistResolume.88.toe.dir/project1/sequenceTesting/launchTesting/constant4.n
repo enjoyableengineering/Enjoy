@@ -1,0 +1,4 @@
+CHOP:constant
+tile 625 -2150 130 90
+flags =  bypass on parlanguage 0
+end

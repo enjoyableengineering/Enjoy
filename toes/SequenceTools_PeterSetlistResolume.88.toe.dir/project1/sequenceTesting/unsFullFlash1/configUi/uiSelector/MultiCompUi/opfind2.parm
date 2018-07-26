@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 2
+component 49 op('selectedGen')[1,1].val parent.UiMain.par.Rootconfigure.eval()
+tagsfilter 0 ntmMultiCompOut
+typecol 0 off
+pathcol 0 on
+callbacks 0 opfind1_callbacks1
+?

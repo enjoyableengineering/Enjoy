@@ -1,0 +1,15 @@
+DAT:switch
+tile 175 -1350 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectDeck1_musicTime
+1 	selectDeck1_musicTime1
+2 	selectDeck1_musicTime2
+3 	selectDeck1_musicTime3
+}
+exports
+{
+lastSongDeck
+}
+end

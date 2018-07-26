@@ -1,0 +1,6 @@
+?
+file 32 "BN_Audio://2018 mp3/3-2018 mp3/Hucci - Meg myers Desire LV13 - [3_DB CLIP GAIN].mp3"
+rate 17 60 me.time.rate
+overridevalue 17 0 me.curVal
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 3
+opviewer 0 ./outPlayback
+clone 49 op.SeqTools.op('comps/midiFileInOp') op.SeqTools.op('comps/midiFileInOp')
+Basetempo 64 140
+Notescope 64 1-128
+Channels 64 1
+Controlind 64 7
+Index 82 0 absTime.seconds
+Playmode 64 specify
+Samplesperbeat 64 60
+Indexunits 64 seconds
+Trimend 64 0
+?

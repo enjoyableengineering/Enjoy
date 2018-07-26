@@ -1,0 +1,15 @@
+?
+text 49 "'LAYER ' + str(me.digits)" parent().par.Layerlabel
+dispmethod 0 polygon
+antialias 0 aa16high
+fontsizex 0 165
+position1 49 0 "parent().digits * 15"
+position2 49 0 "parent().digits * 5"
+fontcolorr 0 1
+fontcolorg 0 0
+fontcolorb 0 0
+resolutionw 0 1920
+resolutionh 0 1200
+resmenu 0 1920x1200
+resmult 0 off
+?

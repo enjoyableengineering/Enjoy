@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 1
+width 34 1
+widthunit 32 samples
+pulse1 0 0
+pulse2 0 0
+pulse3 0 0
+pulse4 0 0
+pulse5 0 0
+pulse6 0 0
+pulse7 0 0
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

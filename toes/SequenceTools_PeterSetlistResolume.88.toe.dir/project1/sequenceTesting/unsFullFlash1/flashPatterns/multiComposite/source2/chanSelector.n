@@ -1,0 +1,10 @@
+COMP:base
+v -1264.46 -874.382 1.87189
+tags 0 1 ntmPattChanSelect
+tile -370 -780 160 136
+flags =  viewer 1 parlanguage 0
+exports
+{
+null3
+}
+end

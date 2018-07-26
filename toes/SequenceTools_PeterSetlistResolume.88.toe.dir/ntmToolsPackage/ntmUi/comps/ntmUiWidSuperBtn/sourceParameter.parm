@@ -1,0 +1,6 @@
+?
+ops 32 /ntmToolsPackage/ntmUi/comps/base1
+parameters 32 Test
+builtin 0 on
+autoexportroot 17 "" parent()
+?

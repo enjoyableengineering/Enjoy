@@ -1,0 +1,13 @@
+DAT:merge
+tile -325 -1225 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectLayersSpecials
+1 	switchEditMode1
+2 	selectLayersDeck6
+3 	selectLayersDeck7
+4 	selectLayersDeck8
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

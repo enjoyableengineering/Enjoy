@@ -1,0 +1,13 @@
+?
+stdswitcher1 0 3
+promoteextension1 0 on
+opviewer 32 ./icon/bg
+clone 49 "" op.NtmTools.op('comps/ntmMegaMixSlotLayerRouteDef')
+Tintcolor1r 64 1
+Tintcolor1g 64 1
+Tintcolor1b 64 1
+Tintstrength1 64 0
+Blendmode1 64 add
+Saturation1 80 1 op('null3')['chan1'].eval(me.digits)
+Texturemode1 64 2
+?

@@ -1,0 +1,6 @@
+?
+fps 0 off
+gpumemused 0 on
+timeslice 0 on
+autoexportroot 17 "" me.parent()
+?

@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 1
+port 0 6667
+typetag 0 on
+splitbundle 0 on
+splitmessage 0 on
+bundletimestamp 0 on
+callbacks 0 oscin1_callbacks
+fromop 17 "" parent()
+maxlines 0 1000
+?

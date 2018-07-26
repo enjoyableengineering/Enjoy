@@ -1,0 +1,10 @@
+?
+playmode 0 locked
+period 0 1
+bar 0 on
+beat 0 on
+bpm 0 on
+timeslice 0 on
+exportmethod 0 datname
+autoexportroot 17 "" parent()
+?

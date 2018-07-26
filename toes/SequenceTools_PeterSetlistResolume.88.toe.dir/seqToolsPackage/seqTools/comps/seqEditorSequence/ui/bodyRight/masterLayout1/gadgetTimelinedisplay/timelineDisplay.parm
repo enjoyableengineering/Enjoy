@@ -1,0 +1,8 @@
+?
+w 0 860
+hmode 49 fixed "'fill' if op('panelDivider').par.Orientation == 'Vertical' or not op('panelDivider').par.display else 'fixed'"
+vmode 17 fixed "'fill' if op('panelDivider').par.Orientation == 'Horizontal' or not op('panelDivider').par.display else 'fixed'"
+vieweraspect 0 unconstrained
+repocomp 17 "" me
+align 0 verttb
+?

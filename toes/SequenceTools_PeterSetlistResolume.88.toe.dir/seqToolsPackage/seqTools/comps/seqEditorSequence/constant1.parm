@@ -1,0 +1,7 @@
+?
+value0 49 0 parent().SeqNumWholeBeats
+name1 32 offset
+value1 49 0 parent().SeqBeatOffset
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

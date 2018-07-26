@@ -1,0 +1,9 @@
+TOP:multiply
+tile 475 -1150 130 88
+flags =  parlanguage 0
+inputs
+{
+0 	ramp4
+1 	circle4
+}
+end

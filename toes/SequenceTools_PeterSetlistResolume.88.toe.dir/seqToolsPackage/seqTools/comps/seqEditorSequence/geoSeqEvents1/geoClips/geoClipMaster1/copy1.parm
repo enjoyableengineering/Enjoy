@@ -1,0 +1,7 @@
+?
+ncy 17 2 op('math4')['numLoops']
+tx 0 1
+ty 0 0
+tz 0 0
+copyg 17 "" "'copyGroup' + str(me.copyIndex)"
+?

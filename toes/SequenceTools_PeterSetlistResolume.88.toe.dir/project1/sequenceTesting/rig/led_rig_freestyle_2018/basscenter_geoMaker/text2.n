@@ -1,0 +1,4 @@
+TOP:text
+tile 825 -700 130 72
+flags =  parlanguage 0
+end

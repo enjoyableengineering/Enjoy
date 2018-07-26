@@ -1,0 +1,4 @@
+COMP:field
+tile 1700 -500 160 130
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,7 @@
+?
+firstrow 0 on
+extractrows 0 byindex
+rowindexstart 0 3
+rowindexend 16 3 "$NR - 1"
+colindexend 17 2 "$NC - 1"
+?

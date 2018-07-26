@@ -1,0 +1,12 @@
+COMP:button
+tile 510 210 160 155
+flags =  viewer 1
+inputs
+{
+0 	field
+}
+exports
+{
+./parentoverride
+}
+end

@@ -1,0 +1,20 @@
+CHOP:join
+tile -1250 -325 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	source1/outColor
+1 	source2/outColor
+2 	source3/outColor
+3 	source4/outColor
+4 	source5/outColor
+5 	source6/outColor
+6 	source7/outColor
+7 	source8/outColor
+8 	source9/outColor
+9 	source10/outColor
+10 	source11/outColor
+11 	source12/outColor
+}
+view 5 -1 1 1.16875 -1.5 1.5 4 2 10648 20 0
+end

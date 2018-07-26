@@ -1,0 +1,7 @@
+?
+crname 0 wall_secondary
+usenumber 0 on
+pattern 0 1
+rangestart 0 0
+rangeend 17 7 len(me.inputs[0].prims)
+?

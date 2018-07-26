@@ -1,0 +1,6 @@
+?
+ops 32 /project1/sequenceTesting
+parameters 32 Focusdeck
+builtin 0 on
+autoexportroot 17 "" parent()
+?

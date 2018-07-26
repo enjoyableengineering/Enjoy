@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 1
+clone 17 parent.FlashMain.op('local/multiCompOutput') parent.FlashMain.op('local/multiCompOutput')
+Extend 64 hold
+Texturemode 64 2
+Blendmode 64 add
+Gamma 64 1.65
+Saturation 64 0.68
+Contrast 64 1.07
+Desaturate 64 0.102
+Tintstrength 64 0.38
+Tintcolorr 64 0.281
+Tintcolorg 64 0.413522
+Tintcolorb 64 1
+Tintactive 64 on
+?

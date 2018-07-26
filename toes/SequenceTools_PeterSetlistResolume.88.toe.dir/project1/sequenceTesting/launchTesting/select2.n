@@ -1,0 +1,9 @@
+DAT:select
+tags 0 1 clearCook
+tile 775 -2600 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	insert2
+}
+end

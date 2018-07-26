@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 3
+opviewer 0 ./clipTable
+Songname 64 "Was Will Be"
+Basetempo 64 88
+Defaultseqcomp 64 WWB_Was_Will_Be
+Seqbin 64 ..
+Defaultroutecomp 64 unsSeqRoute
+?

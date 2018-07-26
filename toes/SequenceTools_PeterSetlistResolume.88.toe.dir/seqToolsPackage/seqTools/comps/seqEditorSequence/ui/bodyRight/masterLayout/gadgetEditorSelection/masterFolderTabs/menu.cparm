@@ -1,0 +1,9 @@
+?
+pages 1 Menu
+-1374678780 Menunames "Menu Names" 1 1 0 0 1 1 1 0 0 "" Menu 0
+772804868 Menulabels "Menu Labels (optional)" 1 1 0 0 1 1 1 0 0 "" Menu 1
+-1374678781 Limitvaluestooptions "Limit Values To Options" 1 1 0 0 1 1 1 0 0 "" Menu 2
+-1374678773 Menuoptiontable "Menu Option Table" 1 1 0 0 1 1 1 0 0 "" Menu 4
+772804879 Tableformat "Table Format" 1 1 0 0 1 1 1 0 0 "" Menu 4097 3 AllRows_FirstCols "Include All Rows, Use First Columns" LabelRow_FirstCols "First Row Labels, Use First Columns" LabelRow_LabeledCols "First Row Labels, Use \"name\"/\"label\" Columns" 5
+772804867 Synctoboundmenu "Sync To Bound Menu" 1 1 0 0 1 1 1 0 0 "" Menu 3
+?

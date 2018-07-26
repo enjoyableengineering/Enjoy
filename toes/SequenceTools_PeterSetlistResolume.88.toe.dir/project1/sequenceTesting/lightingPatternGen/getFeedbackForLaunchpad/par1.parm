@@ -1,0 +1,5 @@
+?
+ops 0 ../midiPatternPlayerTog
+parameters 0 "Play Curpatternid"
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,9 @@
+DAT:merge
+tile 825 25 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	convert2
+1 	select3
+}
+end

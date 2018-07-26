@@ -1,0 +1,4 @@
+TOP:rectangle
+tile -100 -575 130 105
+flags =  viewer 1 parlanguage 0
+end

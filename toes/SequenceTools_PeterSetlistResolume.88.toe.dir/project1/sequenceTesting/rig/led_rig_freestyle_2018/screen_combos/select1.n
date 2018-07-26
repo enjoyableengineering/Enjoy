@@ -1,0 +1,4 @@
+SOP:select
+tile -1550 2016 964 569
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,10 @@
+DAT:merge
+tile 170 1750 130 90
+flags = 
+inputs
+{
+0 	heading
+1 	gadget_vertalign
+}
+color 0.226667 0.68 0 
+end

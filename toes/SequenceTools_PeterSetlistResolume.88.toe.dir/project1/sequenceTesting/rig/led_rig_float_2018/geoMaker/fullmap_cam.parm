@@ -1,0 +1,7 @@
+?
+tx 49 0 op('fullmapGeo').center[0]
+ty 49 0 op('fullmapGeo').center[1]
+tz 32 5
+projection 0 ortho
+orthowidth 49 3000 op('fullmapGeo').size[0]
+?

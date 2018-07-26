@@ -1,0 +1,6 @@
+?
+lag1 0 0
+lag2 0 0.1
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

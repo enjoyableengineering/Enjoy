@@ -1,0 +1,8 @@
+COMP:container
+tile 420 420 160 76
+flags =  viewer 1
+inputs
+{
+0 	container1
+}
+end

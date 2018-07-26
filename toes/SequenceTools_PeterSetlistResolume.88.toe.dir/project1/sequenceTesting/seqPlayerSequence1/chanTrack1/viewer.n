@@ -1,0 +1,4 @@
+COMP:opviewer
+tile 1200 -550 160 129
+flags =  current on viewer 1 parlanguage 0
+end

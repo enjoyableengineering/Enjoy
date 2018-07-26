@@ -1,0 +1,4 @@
+TOP:in
+tile -150 -175 130 86
+flags =  parlanguage 0
+end

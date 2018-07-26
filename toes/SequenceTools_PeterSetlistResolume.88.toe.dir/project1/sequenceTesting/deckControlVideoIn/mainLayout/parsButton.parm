@@ -1,0 +1,76 @@
+?
+stdswitcher1 0 8
+w 0 24
+h 0 24
+vmode 0 fill
+alignorder 17 0 me.nodeX
+helpdat 256 ./help
+vieweraspect 17 unconstrained me.par.sizefromwindow
+resizel 256 0
+resizer 256 0
+resizeb 256 0
+resizet 256 0
+repocomp 17 "" me
+bgcolorr 0 0.2
+bgcolorg 0 0.2
+bgcolorb 0 0.2
+bgalpha 0 1
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+topborder 0 bordera
+align 0 horizlr
+justifyh 0 left
+justifyv 0 top
+crop 0 on
+drop 0 dropparent
+promoteextension1 0 on
+parentshortcut 0 Widget
+enablecloning 0 off
+Font 64 Segoe_UI
+Popuphelp 64 ""
+Widgetkitversion 448 0.0.18
+Widgettox 192 masterButton
+Buttoncommandon 64 op.TDModules.mod.TDFunctions.showInPane(op(parent.CoreMain.op('videoIn/videodevin1')))
+Buttonfontsize 64 9
+Buttonofftop 64 ./bg
+Buttonontop 64 ./bg
+Buttonbordera 64 off
+Valname0 64 Value0
+Buttonfont 64 Segoe_UI
+Buttonruncommand 64 on
+Buttontype 64 Commands_Only_Ignore_Value
+Buttonofflabel 64 ""
+Buttononlabel 64 ""
+Rollovercolorr 64 0.7
+Rollovercolorg 64 0.7
+Rollovercolorb 64 0.7
+Rollovercolora 64 0.35
+Disablecolorr 80 0.2 None
+Disablecolorg 80 0.2 None
+Disablecolorb 80 0.2 None
+Disablecolora 80 0.25 None
+Buttontextoffsetx 80 0 None
+Buttontextoffsety 80 0 None
+Buttonofffacecolorr 64 0.28
+Buttonofffacecolorg 64 0.28
+Buttonofffacecolorb 64 0.28
+Buttonofffacecolora 64 0
+Buttononfacecolorr 64 0.3276
+Buttononfacecolorg 64 0.4719
+Buttononfacecolorb 64 0.52
+Buttononfacecolora 64 0
+Buttonofffontcolorr 80 0.1 None
+Buttonofffontcolorg 80 0.1 None
+Buttonofffontcolorb 80 0.1 None
+Buttonofffontcolora 80 0 None
+Buttononfontcolorr 80 0.2 None
+Buttononfontcolorg 80 0.2 None
+Buttononfontcolorb 80 0.2 None
+Buttononfontcolora 80 0 None
+Buttonborderacolorr 64 1
+Buttonborderacolorg 64 1
+Buttonborderacolorb 64 1
+Buttonborderacolora 64 1
+?

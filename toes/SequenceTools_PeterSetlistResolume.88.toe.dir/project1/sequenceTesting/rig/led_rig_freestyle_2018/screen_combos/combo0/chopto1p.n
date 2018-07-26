@@ -1,0 +1,4 @@
+TOP:chopto
+tile 450 -25 130 48
+flags =  parlanguage 0
+end

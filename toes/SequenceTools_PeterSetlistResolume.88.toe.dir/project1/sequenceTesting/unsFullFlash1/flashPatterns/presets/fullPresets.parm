@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./CueToolsCuePresetsExt').module.CueToolsCuePresetsExt(me)
+promoteextension1 0 on
+parentshortcut 0 cueMain
+Targetrootcomp 113 parent().FlashMain parent.FlashMain
+Cuelabel 64 "Presets 1"
+Cuetoolscomp 113 op.CueTools op.CueTools
+Selectpreset 64 41
+Partable 64 ./parsForPreset
+Usetableforadd 64 on
+?

@@ -1,0 +1,6 @@
+?
+pbx 49 1 op('../wholeBeatsChans')['wholeBeatsSec']
+pby 32 0
+pbz 32 0
+points 49 2 "op('../wholeBeatsChans')['wholeBeats'] + 1"
+?

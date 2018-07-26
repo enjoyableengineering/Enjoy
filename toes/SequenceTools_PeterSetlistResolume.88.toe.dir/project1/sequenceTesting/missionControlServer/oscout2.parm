@@ -1,0 +1,8 @@
+?
+protocol 0 multicastmsging
+netaddress 0 239.0.2.6
+port 0 9501
+active 0 off
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

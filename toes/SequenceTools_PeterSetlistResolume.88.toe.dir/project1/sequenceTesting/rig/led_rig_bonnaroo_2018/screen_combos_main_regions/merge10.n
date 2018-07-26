@@ -1,0 +1,12 @@
+CHOP:merge
+tile -2800 -4250 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	constant45
+1 	constant46
+2 	constant47
+3 	constant48
+4 	constant49
+}
+end

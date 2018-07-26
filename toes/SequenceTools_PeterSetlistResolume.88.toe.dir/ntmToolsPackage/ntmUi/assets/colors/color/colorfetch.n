@@ -1,0 +1,5 @@
+COMP:button
+tile 1650 400 160 130
+flags = 
+color 0.56 0.56 0.56 
+end

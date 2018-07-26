@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 2
+integer 0 round
+fromrange1 0 0
+fromrange2 0 8000
+torange1 0 -160
+torange2 0 0
+autoexportroot 17 "" me.parent()
+?

@@ -1,0 +1,6 @@
+?
+extractrows 0 byexpr
+rowindexend 17 13 "$NR - 1"
+rowexpr 0 if(strmatch(substr(\"$V\",0,1),\"#\"),0,1)
+colindexend 17 0 "$NC - 1"
+?

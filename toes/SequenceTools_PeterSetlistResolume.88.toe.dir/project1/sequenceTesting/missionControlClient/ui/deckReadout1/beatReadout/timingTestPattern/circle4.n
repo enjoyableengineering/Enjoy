@@ -1,0 +1,8 @@
+TOP:circle
+tile 150 -1225 130 88
+flags =  parlanguage 0
+exports
+{
+resExports
+}
+end

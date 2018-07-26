@@ -1,0 +1,7 @@
+?
+ncy 2 16
+rx 0 0
+ry 0 0
+rz 0 90
+copyg 17 "" "'copyGroup' + str(me.copyIndex)"
+?

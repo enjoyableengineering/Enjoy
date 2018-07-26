@@ -1,0 +1,20 @@
+?
+pages 4 "Movie Clip" "Clip Parameters" "Music Parameters" "Sequence Tools"
+772804877 Seqtoolscomp "SeqTools COMP" 1 1 0 0 1 1 1 0 0 "" "Sequence Tools" 0
+772804877 Sourcecomp "Source COMP" 1 1 0 0 1 1 1 0 0 "" "Movie Clip" 0
+772804868 Seqlabel Label 1 1 0 0 1 1 1 0 0 "" "Movie Clip" 1
+772804865 Trimstart "Trim Start" 1 1 0 0 1 1 1 0 0 "" "Clip Parameters" 1
+772804865 Trimend "Trim End" 1 1 0 0 1 1 1 0 0.01 "" "Clip Parameters" 2
+772804865 Speed Speed 1 1 0 0 1 1 1 0 1 "" "Clip Parameters" 0
+772804865 Loopstart "Loop Start" 1 1 0 0 1 1 1 0 0 "" "Clip Parameters" 4
+772804865 Loopend "Loop End" 1 1 0 0 1 1 1 0 0 "" "Clip Parameters" 5
+772804867 Loop Loop 1 1 0 0 1 1 1 0 0 "" "Clip Parameters" 3
+772804867 Tempolock Tempolock 1 1 0 0 1 1 1 0 1 "" "Music Parameters" 0
+772804865 Beatoffset Beatoffset 1 1 0 0 1 1 1 0 0 "" "Music Parameters" 2
+772804865 Basetempo Basetempo 1 1 0 0 1 1 1 0 90 "" "Music Parameters" 1
+772804869 Updatedatapulse Updatedatapulse 1 1 0 0 1 1 1 0 0 "" "Movie Clip" 3
+772804880 File File 1 1 0 0 1 1 1 0 0 "" "Movie Clip" 2
+772804865 Loopcrossfade "Loop Crossfade" 1 1 0 0 1 1 1 0 0 "" "Clip Parameters" 6
+772804865 Padbefore "Pad Before [sec]" 1 1 0 0 1 1 1 0 0 "" "Clip Parameters" 7
+772804865 Padafter "Pad After [sec]" 1 1 0 0 1 1 1 0 0 "" "Clip Parameters" 8
+?

@@ -1,0 +1,8 @@
+?
+rate 0 80
+end 0 20000
+rangeend 0 20000
+tempo 0 140
+independent 0 on
+clone 0 /sys/local/time
+?

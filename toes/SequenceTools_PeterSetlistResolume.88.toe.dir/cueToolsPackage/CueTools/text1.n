@@ -1,0 +1,4 @@
+DAT:text
+tile 650 307 347 233
+flags =  viewer 1 parlanguage 0
+end

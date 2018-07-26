@@ -1,0 +1,8 @@
+SOP:texture
+tile 4125 -725 149 90
+flags =  viewer 1
+inputs
+{
+0 	primitive2
+}
+end

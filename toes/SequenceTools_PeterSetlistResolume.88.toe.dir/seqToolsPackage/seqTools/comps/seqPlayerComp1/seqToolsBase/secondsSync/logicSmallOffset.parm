@@ -1,0 +1,7 @@
+?
+convert 0 bound
+boundmin 0 -0.04
+boundmax 0 0.04
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

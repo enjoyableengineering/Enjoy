@@ -1,0 +1,9 @@
+CHOP:trail
+tile 2350 1000 179 90
+flags =  viewer 1
+inputs
+{
+0 	analyzeMin
+}
+view 5 -1 1 1.4875 -1.5 1.5 4 2 8664 1 0
+end

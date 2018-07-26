@@ -1,0 +1,19 @@
+?
+stdswitcher1 0 1
+buttontype 0 toggledown
+y 17 0 "1-(me.digits == parent.Widget.par.Value0.eval())"
+w 49 101 "(op('./textInfo').textWidth + parent.Widget.par.Foldertablabelmargin) if parent.Widget.extensionsReady else 0"
+h 0 50
+vmode 0 anchors
+topoffset 17 346 "tdu.split(parent.Widget.par.Menunames)[me.digits] == parent.Widget.par.Value0"
+postoffsetx 32 0
+postoffsety 49 0 "1-(me.digits == parent.Widget.par.Value0.eval())"
+helpdat 49 ext.TDUIWidget.PopupHelpDat "parent.Widget.op('code/help') or parent.Widget.op('help')"
+repocomp 17 "" me
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+borderbalpha 0 0
+clone 0 tab0
+?

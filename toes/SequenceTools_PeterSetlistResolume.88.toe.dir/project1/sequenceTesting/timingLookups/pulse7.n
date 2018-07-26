@@ -1,0 +1,5 @@
+CHOP:pulse
+tile -750 800 130 90
+flags =  viewer 1 parlanguage 0
+view 5 -1 1 2.09063 -1.5 1.5 4 2 8600 1 0
+end

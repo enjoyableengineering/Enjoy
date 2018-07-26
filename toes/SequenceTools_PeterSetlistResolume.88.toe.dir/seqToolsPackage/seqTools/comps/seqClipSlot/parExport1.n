@@ -1,0 +1,9 @@
+CHOP:null
+tags 0 1 mechExport
+tile 450 -125 130 90
+flags =  viewer 1 export on parlanguage 0
+inputs
+{
+0 	seqToolsBase/outPlaybackPars
+}
+end

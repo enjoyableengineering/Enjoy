@@ -1,0 +1,14 @@
+TOP:comp
+tile 225 100 130 53
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	rectangle1
+1 	render1
+}
+exports
+{
+null2
+}
+view 3 0 0 1 1 16
+end

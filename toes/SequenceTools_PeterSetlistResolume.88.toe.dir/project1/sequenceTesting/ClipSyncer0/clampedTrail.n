@@ -1,0 +1,9 @@
+CHOP:trail
+tile 1225 -775 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	differenceBeats
+}
+view 5 -1 1 8.67188 -1.5 1.5 4 2 10648 20 0
+end

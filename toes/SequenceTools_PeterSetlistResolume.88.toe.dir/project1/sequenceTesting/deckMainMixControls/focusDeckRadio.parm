@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 9
+w 0 256
+h 0 26
+alignorder 17 0 me.nodeX
+repocomp 17 "" me
+top 0 ./bg
+extension1 0 op('./NtmUiWidRadioExt').module.NtmUiWidRadioExt(me)
+extname1 0 WidgetExt
+promoteextension1 0 on
+Targetop 113 parent.CoreMain parent.CoreMain
+Targetpar 64 Focusdeck
+Valrange1 64 0
+Valrange2 64 3
+Widlabel 64 DECK
+Partype 64 int
+Buttonlist 64 map_options
+?

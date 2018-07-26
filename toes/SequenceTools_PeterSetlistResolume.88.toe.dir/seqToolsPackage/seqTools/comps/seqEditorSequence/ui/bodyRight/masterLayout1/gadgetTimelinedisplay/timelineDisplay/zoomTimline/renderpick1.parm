@@ -1,0 +1,9 @@
+?
+rendertop 0 render1
+includenonpickable 0 off
+panel 16 .. parent()
+callbacks 0 renderpick1_callbacks
+uv 0 on
+exportmethod 0 datname
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,8 @@
+SOP:material
+tile 6200 4300 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	groupName1
+}
+end

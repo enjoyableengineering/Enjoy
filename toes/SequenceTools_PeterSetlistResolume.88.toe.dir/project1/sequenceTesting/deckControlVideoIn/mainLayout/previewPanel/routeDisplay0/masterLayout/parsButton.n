@@ -1,0 +1,6 @@
+COMP:container
+tags 0 2 TDMaster TDWidget
+tile 1025 0 160 130
+flags =  current on viewer 1 parlanguage 0
+color 0.6 0.6 0.6 
+end

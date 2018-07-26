@@ -1,0 +1,8 @@
+TOP:null
+tile 325 -525 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	comp2
+}
+end

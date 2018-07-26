@@ -1,0 +1,4 @@
+TOP:constant
+tile 1525 -1375 130 105
+flags =  picked on viewer 1 parlanguage 0
+end

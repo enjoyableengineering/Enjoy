@@ -1,0 +1,6 @@
+?
+ops 32 /project1/sequenceTesting/outputLevel
+parameters 32 brightness2
+builtin 0 on
+autoexportroot 17 "" parent()
+?

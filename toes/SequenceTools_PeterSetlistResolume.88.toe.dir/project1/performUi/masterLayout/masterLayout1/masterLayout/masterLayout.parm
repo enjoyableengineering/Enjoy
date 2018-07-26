@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 1
+w 17 200 "(270*4) + 6"
+hmode 0 fill
+vmode 0 fill
+alignorder 49 0 me.nodeX
+repocomp 17 "" me
+align 0 verttb
+?

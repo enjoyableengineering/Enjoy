@@ -1,0 +1,6 @@
+?
+chopop 0 mul
+torange1 0 0
+torange2 0 0.5
+autoexportroot 17 "" parent()
+?

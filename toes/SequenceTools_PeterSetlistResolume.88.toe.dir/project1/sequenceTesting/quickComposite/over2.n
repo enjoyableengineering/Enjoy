@@ -1,0 +1,9 @@
+TOP:over
+tile 1550 250 130 64
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	select2
+1 	layout2
+}
+end

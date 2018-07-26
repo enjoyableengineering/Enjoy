@@ -1,0 +1,8 @@
+CHOP:shift
+tile 75 175 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	shuffle1
+}
+end

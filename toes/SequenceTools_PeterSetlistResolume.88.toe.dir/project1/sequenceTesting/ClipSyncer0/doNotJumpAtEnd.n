@@ -1,0 +1,9 @@
+CHOP:math
+tile 2000 -525 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	logicJumpOffset
+1 	logic1
+}
+end

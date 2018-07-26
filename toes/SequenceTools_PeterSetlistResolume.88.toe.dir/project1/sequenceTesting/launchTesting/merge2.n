@@ -1,0 +1,10 @@
+DAT:merge
+tile 1675 -2600 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	trackStatusLabels
+1 	null2
+}
+color 0.68 0 0 
+end

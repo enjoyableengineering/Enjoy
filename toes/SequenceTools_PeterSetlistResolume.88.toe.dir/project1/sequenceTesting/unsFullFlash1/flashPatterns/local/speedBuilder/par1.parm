@@ -1,0 +1,5 @@
+?
+parameters 0 "Srcchanexternal Srcchanlocal Srcchanramp Srcchanlookup Gain Fromrange1 Fromrange2 Torange1 Torange2 Quantvalue Vstep  "
+renameto 0 *
+autoexportroot 17 "" parent()
+?

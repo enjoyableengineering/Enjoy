@@ -1,0 +1,8 @@
+COMP:parameter
+tile 300 -775 160 110
+flags =  viewer 1 parlanguage 0
+exports
+{
+null2
+}
+end

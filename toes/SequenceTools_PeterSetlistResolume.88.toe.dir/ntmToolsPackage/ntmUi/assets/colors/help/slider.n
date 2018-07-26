@@ -1,0 +1,4 @@
+DAT:text
+tile 10 10 130 90
+flags =  current on
+end

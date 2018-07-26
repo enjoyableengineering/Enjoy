@@ -1,0 +1,6 @@
+COMP:container
+v 240.504 280.548 0.0696585
+comment "mapped to template scaled green borders"
+tile 1875 1175 160 129
+flags =  viewer 1 parlanguage 0
+end

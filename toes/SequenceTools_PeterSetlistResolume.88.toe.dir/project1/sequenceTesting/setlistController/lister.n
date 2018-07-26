@@ -1,0 +1,9 @@
+COMP:list
+v 534.059 359.665 0.0971098
+tile 40 -50 89 155
+flags =  current on viewer 1 display on parlanguage 0
+inputs
+{
+0 	setlistControlsPanel
+}
+end

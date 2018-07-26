@@ -1,0 +1,5 @@
+COMP:button
+v 479.739 681.826 0.221198
+tile 325 125 175 79
+flags =  viewer 1 parlanguage 0
+end

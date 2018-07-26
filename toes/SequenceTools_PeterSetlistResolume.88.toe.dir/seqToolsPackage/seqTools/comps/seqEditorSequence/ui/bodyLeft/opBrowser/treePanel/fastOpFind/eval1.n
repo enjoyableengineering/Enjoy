@@ -1,0 +1,6 @@
+DAT:eval
+comment "May be a hack. Not sure why this is necessary"
+tile -1000 -200 130 90
+flags =  viewer 1 parlanguage 0
+color 0.68 0.68 0 
+end

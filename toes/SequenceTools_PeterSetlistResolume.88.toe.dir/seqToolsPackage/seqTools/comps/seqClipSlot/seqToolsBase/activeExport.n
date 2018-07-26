@@ -1,0 +1,9 @@
+CHOP:null
+tile -825 -700 130 90
+flags =  viewer 1 activate on export on parlanguage 0
+inputs
+{
+0 	parActive
+}
+color 0.68 0 0 
+end

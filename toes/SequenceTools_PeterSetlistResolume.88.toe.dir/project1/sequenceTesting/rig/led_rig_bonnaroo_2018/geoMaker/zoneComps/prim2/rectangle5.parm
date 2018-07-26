@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 1
+sizex 0 1
+sizey 0 1
+sizeunit 0 fraction
+fillalpha 0 0.25
+borderr 0 1
+borderg 0 1
+borderb 0 1
+borderwidth 0 1
+borderwidthunit 0 pixels
+antialias 0 off
+resolutionw 49 32 ext.Plugin.par.Tiledimx
+resolutionh 49 32 ext.Plugin.par.Tiledimy
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

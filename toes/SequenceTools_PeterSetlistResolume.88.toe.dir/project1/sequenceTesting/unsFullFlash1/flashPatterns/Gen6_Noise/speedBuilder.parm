@@ -1,0 +1,28 @@
+?
+stdswitcher1 0 1
+clone 49 parent.FlashMain.op('local/speedBuilder') parent.FlashMain.op('local/speedBuilder')
+Srcchanlocal 64 on
+Srcchanramp 64 gen_ramp8
+Gain 64 2.68
+Fromrange1 64 0
+Fromrange2 64 1
+Torange1 64 0
+Torange2 64 -1
+Vstep 64 0.0001
+Srcchanexternal2 64 8th_notes_on_off
+Srcchanramp2 64 gen_ramp4
+Srcchanlookup2 64 ramp_up_3
+Gain2 64 2.5
+Fromrange31 64 0
+Fromrange32 64 1
+Torange31 64 0
+Torange32 64 1
+Vstep2 64 0.5
+Srcchanexternal3 64 gen_ramp2
+Srcchanramp3 64 gen_ramp8
+Srcchanlookup3 64 on_3_lag_off
+Gain3 64 0.52
+Torange41 64 0.2
+Torange42 64 1
+Vstep3 64 0.43
+?

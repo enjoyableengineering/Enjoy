@@ -1,0 +1,4 @@
+TOP:circle
+tile -250 -970 130 72
+flags =  viewer 1 parlanguage 0
+end

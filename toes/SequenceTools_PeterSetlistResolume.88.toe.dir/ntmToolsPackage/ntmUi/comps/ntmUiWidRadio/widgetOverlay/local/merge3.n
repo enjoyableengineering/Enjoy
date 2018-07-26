@@ -1,0 +1,10 @@
+DAT:merge
+tile 375 -175 130 90
+flags =  viewer 1
+inputs
+{
+0 	set_variables1
+1 	eval2
+2 	set_variables
+}
+end

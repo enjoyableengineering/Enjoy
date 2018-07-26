@@ -1,0 +1,8 @@
+CHOP:analyze
+tile 2350 575 130 90
+flags =  viewer 1
+inputs
+{
+0 	trail4
+}
+end

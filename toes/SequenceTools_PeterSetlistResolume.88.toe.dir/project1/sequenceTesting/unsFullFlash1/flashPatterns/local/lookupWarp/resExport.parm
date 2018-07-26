@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 1
+exportmethod 0 autoname
+autoexportroot 17 "" me.parent()
+exporttable 0 res1_export
+?

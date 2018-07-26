@@ -1,0 +1,10 @@
+CHOP:merge
+tile 860 630 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	math6
+1 	math9
+2 	math10
+}
+end

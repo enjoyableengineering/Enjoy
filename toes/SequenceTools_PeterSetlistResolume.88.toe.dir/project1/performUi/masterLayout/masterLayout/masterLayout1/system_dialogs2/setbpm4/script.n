@@ -1,0 +1,4 @@
+DAT:panelexec
+tile 710 60 130 90
+flags =  current on viewer 1
+end

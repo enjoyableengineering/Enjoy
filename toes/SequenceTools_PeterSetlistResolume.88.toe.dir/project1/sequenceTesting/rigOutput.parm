@@ -1,0 +1,7 @@
+?
+w 49 1920 op(op.Core1.par.Currentrig).par.Rigoutdimx
+h 17 1080 op(op.Core1.par.Currentrig).par.Rigoutdimy
+repocomp 17 "" me
+top 0 ./pgmOut
+opviewer 0 ./pgmOut
+?

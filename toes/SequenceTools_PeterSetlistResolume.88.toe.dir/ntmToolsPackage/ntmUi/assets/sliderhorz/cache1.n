@@ -1,0 +1,8 @@
+TOP:cache
+tile 1140 20 219 70
+flags =  parlanguage 0
+inputs
+{
+0 	multiply1
+}
+end

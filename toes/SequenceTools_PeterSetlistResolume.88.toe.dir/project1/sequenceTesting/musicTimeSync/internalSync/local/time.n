@@ -1,0 +1,4 @@
+COMP:time
+tile 0 0 160 130
+flags =  current on parlanguage 0
+end

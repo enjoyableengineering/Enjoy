@@ -1,0 +1,9 @@
+CHOP:replace
+tile -250 -75 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	math5
+1 	in2
+}
+end

@@ -1,0 +1,9 @@
+CHOP:express
+tile 250 -250 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	wholeMinutes
+}
+view 5 -1 1 0.034375 -1.5 1.5 4 2 8600 1 0
+end

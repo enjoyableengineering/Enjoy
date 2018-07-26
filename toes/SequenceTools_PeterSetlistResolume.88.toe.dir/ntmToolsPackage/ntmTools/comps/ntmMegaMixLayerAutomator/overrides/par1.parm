@@ -1,0 +1,6 @@
+?
+ops 0 ../..
+parameters 0 Autocntllevel
+renameto 0 Transparency1
+autoexportroot 17 "" parent()
+?

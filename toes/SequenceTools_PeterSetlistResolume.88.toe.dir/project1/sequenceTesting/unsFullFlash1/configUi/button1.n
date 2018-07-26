@@ -1,0 +1,9 @@
+COMP:button
+v 51.2 396.422 1.56203
+tile -230 90 160 76
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	header1
+}
+end

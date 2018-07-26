@@ -1,0 +1,8 @@
+TOP:out
+tile 275 -275 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectLay3
+}
+end

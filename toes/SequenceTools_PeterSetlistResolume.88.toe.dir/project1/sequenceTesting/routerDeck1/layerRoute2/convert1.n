@@ -1,0 +1,9 @@
+DAT:convert
+tile 280 340 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	select1
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

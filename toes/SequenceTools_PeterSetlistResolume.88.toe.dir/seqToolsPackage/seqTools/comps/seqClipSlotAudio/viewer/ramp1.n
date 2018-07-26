@@ -1,0 +1,4 @@
+TOP:ramp
+tile 1900 230 96 105
+flags =  viewer 1 parlanguage 0
+end

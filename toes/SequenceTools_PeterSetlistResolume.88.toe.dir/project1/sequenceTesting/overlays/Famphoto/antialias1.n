@@ -1,0 +1,8 @@
+TOP:antialias
+tile 30 540 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	moviefilein3
+}
+end

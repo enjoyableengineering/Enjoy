@@ -1,0 +1,4 @@
+SOP:select
+tile -2050 -475 130 90
+flags =  viewer 1
+end

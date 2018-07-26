@@ -1,0 +1,8 @@
+CHOP:analyze
+tile -1100 -825 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	trail3
+}
+end

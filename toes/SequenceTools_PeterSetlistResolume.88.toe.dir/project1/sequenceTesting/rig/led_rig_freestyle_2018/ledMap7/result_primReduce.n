@@ -1,0 +1,8 @@
+SOP:null
+tile 3200 -1950 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	return1
+}
+end

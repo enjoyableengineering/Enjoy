@@ -1,0 +1,14 @@
+CHOP:switch
+tile -650 370 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	constant2
+1 	par2
+2 	par3
+}
+exports
+{
+syncMode
+}
+end

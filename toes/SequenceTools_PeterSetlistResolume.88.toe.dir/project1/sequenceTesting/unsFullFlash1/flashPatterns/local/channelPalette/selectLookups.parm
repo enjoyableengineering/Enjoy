@@ -1,0 +1,4 @@
+?
+chop 49 op.Core1.op('../timingLookups/lookupChansBar') parent.FlashMain.par.Beatchanscomp.eval().op('lookupChans')
+autoexportroot 17 "" parent()
+?

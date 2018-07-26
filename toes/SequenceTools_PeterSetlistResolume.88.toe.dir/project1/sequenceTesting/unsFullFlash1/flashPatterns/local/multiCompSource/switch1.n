@@ -1,0 +1,13 @@
+CHOP:switch
+tile 870 -800 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	activeHoldSw
+1 	lag1
+}
+exports
+{
+lagSwitchExport
+}
+end

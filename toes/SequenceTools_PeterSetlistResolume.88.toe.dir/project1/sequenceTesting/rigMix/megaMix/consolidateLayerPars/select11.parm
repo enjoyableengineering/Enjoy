@@ -1,0 +1,6 @@
+?
+chop 0 dummyChannels
+channames 0 "Sx Sx Sx Sx"
+renamefrom 0 Tintcolor
+autoexportroot 17 "" me.parent()
+?

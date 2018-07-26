@@ -1,0 +1,9 @@
+CHOP:null
+tile -440 1580 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	consolidateLayerPars/outMappingPars
+}
+view 13 -1 1 1 -1.5 1.5 7.85058 22.5396 -0.749293 7.42296 -1.05447 7.27023 -0.228741 0.954187 5 2 2072 20 3 0
+end

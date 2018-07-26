@@ -1,0 +1,8 @@
+?
+name0 0 ramp_up_on_3
+name1 0 ramp_up_2_4
+name2 0 ramp_up_alt_8ths
+name3 0 ramp_up_8th
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

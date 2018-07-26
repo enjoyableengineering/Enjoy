@@ -1,0 +1,19 @@
+?
+name0 0 ""
+value0 0 1
+name1 0 Blendmode1
+value1 0 17
+name2 0 Desaturate1
+name3 0 Contrast1
+value3 0 1
+name4 0 Saturation1
+value4 0 1
+name5 0 Brightness1
+value5 0 1
+name6 0 Gamma1
+value6 0 1
+name7 0 Blendstrength1
+value7 0 1
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

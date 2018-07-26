@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 1
+integer 0 ceiling
+gain 0 3
+autoexportroot 17 "" parent()
+?

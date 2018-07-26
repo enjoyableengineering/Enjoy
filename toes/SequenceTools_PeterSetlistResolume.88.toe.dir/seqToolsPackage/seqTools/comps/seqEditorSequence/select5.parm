@@ -1,0 +1,4 @@
+?
+chop 49 ../seqPlayerSequence/audioTrack1/out1 op('..').par.Playercomp.eval().op('audioTrack1/out1')
+autoexportroot 17 "" parent()
+?

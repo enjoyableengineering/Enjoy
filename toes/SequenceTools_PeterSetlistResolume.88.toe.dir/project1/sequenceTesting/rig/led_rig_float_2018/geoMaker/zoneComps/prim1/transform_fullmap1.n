@@ -1,0 +1,8 @@
+SOP:transform
+tile 6500 3950 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	material3
+}
+end

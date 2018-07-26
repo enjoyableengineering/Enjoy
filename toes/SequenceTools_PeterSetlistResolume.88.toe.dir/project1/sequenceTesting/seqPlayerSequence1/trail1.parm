@@ -1,0 +1,6 @@
+?
+wlength 0 20
+rate 17 60 me.time.rate
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

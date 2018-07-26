@@ -1,0 +1,20 @@
+?
+pages 2 Header Widget
+1846546703 Font Font 1 1 0 0 1 1 1 0 0 Verdana Widget 4097 57 Arial Arial Arial_Black "Arial Black" Bahnschrift Bahnschrift Calibri Calibri Calibri_Light "Calibri Light" Candara Candara Comic_Sans_MS "Comic Sans MS" Consolas Consolas Constantia Constantia Corbel Corbel Courier_New "Courier New" Ebrima Ebrima Franklin_Gothic_Medium "Franklin Gothic Medium" Gabriola Gabriola Gadugi Gadugi Georgia Georgia Impact Impact Ink_Free "Ink Free" Javanese_Text "Javanese Text" Leelawadee_UI "Leelawadee UI" Leelawadee_UI_Semilight "Leelawadee UI Semilight" Lucida_Console "Lucida Console" Lucida_Sans_Unicode "Lucida Sans Unicode" MV_Boli "MV Boli" Malgun_Gothic "Malgun Gothic" Malgun_Gothic_Semilight "Malgun Gothic Semilight" Microsoft_Himalaya "Microsoft Himalaya" Microsoft_New_Tai_Lue "Microsoft New Tai Lue" Microsoft_PhagsPa "Microsoft PhagsPa" Microsoft_Sans_Serif "Microsoft Sans Serif" Microsoft_Tai_Le "Microsoft Tai Le" Microsoft_Yi_Baiti "Microsoft Yi Baiti" Mongolian_Baiti "Mongolian Baiti" Myanmar_Text "Myanmar Text" Nirmala_UI "Nirmala UI" Nirmala_UI_Semilight "Nirmala UI Semilight" Palatino_Linotype "Palatino Linotype" Segoe_MDL2_Assets "Segoe MDL2 Assets" Segoe_Print "Segoe Print" Segoe_Script "Segoe Script" Segoe_UI "Segoe UI" Segoe_UI_Black "Segoe UI Black" Segoe_UI_Emoji "Segoe UI Emoji" Segoe_UI_Historic "Segoe UI Historic" Segoe_UI_Light "Segoe UI Light" Segoe_UI_Semibold "Segoe UI Semibold" Segoe_UI_Semilight "Segoe UI Semilight" Segoe_UI_Symbol "Segoe UI Symbol" SimSun-ExtB SimSun-ExtB Sylfaen Sylfaen Symbol Symbol Tahoma Tahoma Times_New_Roman "Times New Roman" Trebuchet_MS "Trebuchet MS" Verdana Verdana Webdings Webdings Wingdings Wingdings 20 2 op.TDResources.op('TDUI/fontMenuSource').par.font
+772804868 Popuphelp "Popup Help" 1 1 0 0 1 1 1 0 0 "Master Widget" Widget 26
+-1374678780 Widgetkitversion Version 1 1 0 0 1 1 1 0 0 0.0.18 Widget 100
+772804868 Widgettox "Widget Tox" 1 1 0 0 1 1 1 0 0 masterWidget Widget 101
+772804868 Headerlabel Label 1 1 0 0 1 1 1 0 0 Header Header 43
+-1374678781 Headerlabeldisplay "Label Display" 1 1 0 0 1 1 1 0 1 "" Header 44
+-1374678769 Headerlabelalignx "Label Align Horizontal" 1 1 0 0 1 1 1 0 0 Center Header 4097 3 Left Left Center Center Right Right 45
+772804879 Headerlabelaligny "Label Align Vertical" 1 1 0 0 1 1 1 0 0 Center Header 4097 3 Bottom Bottom Center Center Top Top 46
+-1374678782 Headerlabelfontsize "Label Font Size" 1 3 1 6 1 20 20 0 8 "" Header 47
+772804867 Headerlabelfontbold "Label Font Bold" 1 1 0 0 1 1 1 0 0 "" Header 48
+-1374678781 Headerrepositionwindow "Reposition Window" 1 1 0 0 1 1 1 0 0 "" Header 62
+772809729 Rollovercolor "Rollover Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 1 "" 0 1 "" 0 1 "" 0 0.1 "" Widget 17
+772809729 Disablecolor "Disable Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" 0 0.5 "" Widget 18
+-1374662143 Headerlabelpadding Padding 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" Header 49
+772813313 Headerlabeloffset "Label Offset" 1 1 -5 -5 1 5 5 1 -5 -5 1 5 5 0 0 "" 0 0 "" Header 50
+-1374673919 Headerlabelbgcolor "Label Bg Color" 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 0 0.15 "" 0 0.15 "" 0 0.15 "" 0 1 "" Header 51
+772809729 Headerlabelfontcolor "Label Font Color" 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 3 0 0 3 1 1 0 0.8 "" 0 0.8 "" 0 0.8 "" 0 0.6 "" Header 52
+?

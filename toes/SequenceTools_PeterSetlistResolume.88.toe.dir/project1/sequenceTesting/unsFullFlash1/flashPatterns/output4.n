@@ -1,0 +1,6 @@
+COMP:base
+v 655.935 183.598 0.503497
+tags 0 1 ntmMultiCompOut
+tile 600 -2325 160 130
+flags =  viewer 1 parlanguage 0
+end

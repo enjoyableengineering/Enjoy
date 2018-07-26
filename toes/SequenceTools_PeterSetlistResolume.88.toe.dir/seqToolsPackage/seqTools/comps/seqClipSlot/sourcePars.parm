@@ -1,0 +1,8 @@
+?
+ops 49 parent().par.Sourceclipcomp.eval() "parent().par.Sourceclipcomp.eval().PlayOp if parent().par.Active else None"
+parameters 0 "loopcrossfade interp multalpha textendright"
+renameto 0 playOp:*
+custom 0 off
+builtin 0 on
+autoexportroot 17 "" parent()
+?

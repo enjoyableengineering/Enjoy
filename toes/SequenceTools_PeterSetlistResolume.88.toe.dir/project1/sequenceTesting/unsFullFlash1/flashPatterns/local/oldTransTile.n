@@ -1,0 +1,6 @@
+COMP:container
+v 334.862 359.166 0.064586
+tags 0 1 ntmGenSub
+tile 800 -500 160 129
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,7 @@
+?
+extractrows 0 byindex
+rowindexend 0 0
+rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+colindexend 0 0
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

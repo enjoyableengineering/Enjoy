@@ -1,0 +1,9 @@
+COMP:base
+v 3005.97 686.383 1.33022
+tile 300 -2075 160 130
+flags =  viewer 1 parlanguage 0
+exports
+{
+outputExports
+}
+end

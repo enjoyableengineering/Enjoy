@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 1
+operand 0 maximum
+size 0 input1
+r 0 90
+tstepx 0 0.16
+tstepy 0 0
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

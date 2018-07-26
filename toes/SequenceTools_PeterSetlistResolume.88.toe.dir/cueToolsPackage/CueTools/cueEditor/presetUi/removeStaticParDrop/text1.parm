@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 3
+text 0 "Remove Par"
+leadingzero 0 off
+fontsizex 0 12
+fontcolorr 0 0.7
+fontcolorg 0 0.7
+fontcolorb 0 0.7
+resolutionw 17 218 parent().panel.screenw
+resolutionh 17 40 parent().panel.screenh
+resmult 0 off
+?

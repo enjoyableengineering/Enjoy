@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 3
+clone 49 op.SeqTools.op('comps/seqPlayerData') op.SeqTools.op('comps/seqPlayerData')
+Playercomp 64 /seqToolsPackage/seqTools/comps/seqPlayer
+?

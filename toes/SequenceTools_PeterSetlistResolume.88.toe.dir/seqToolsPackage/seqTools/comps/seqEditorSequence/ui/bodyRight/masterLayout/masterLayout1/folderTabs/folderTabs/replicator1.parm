@@ -1,0 +1,10 @@
+?
+method 0 bynum
+numreplicants 49 0 len(tdu.split(parent.Widget.par.Menunames.eval()))-1
+template 0 baseTable
+opprefix 0 tab
+master 0 tab0
+destination 17 "" me.parent()
+callbacks 0 replicator1_callbacks
+layout 0 vertical
+?

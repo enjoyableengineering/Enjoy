@@ -1,0 +1,5 @@
+?
+fromop 16 transport_play1 me.parent()
+panel 16 transport_play1 me.parent()
+panelvalue 0 state
+?

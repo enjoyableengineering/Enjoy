@@ -1,0 +1,4 @@
+DAT:select
+tile 1500 1425 130 90
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,8 @@
+?
+fromop 17 "" me.parent()
+op 0 ..
+pars 0 *
+valuechange 0 off
+onpulse 0 on
+builtin 0 off
+?

@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 1
+postoff 49 -6 -op('math3').par.postoff
+autoexportroot 17 "" parent()
+?

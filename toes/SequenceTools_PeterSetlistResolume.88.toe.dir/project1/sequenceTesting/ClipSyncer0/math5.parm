@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 1
+chopop 0 mul
+gain 0 0.25
+autoexportroot 17 "" parent()
+?

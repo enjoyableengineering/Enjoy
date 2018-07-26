@@ -1,0 +1,9 @@
+COMP:opviewer
+v 635.5 620 1
+tile 875 -925 132 155
+flags =  viewer 1 parlanguage 0
+exports
+{
+null2
+}
+end

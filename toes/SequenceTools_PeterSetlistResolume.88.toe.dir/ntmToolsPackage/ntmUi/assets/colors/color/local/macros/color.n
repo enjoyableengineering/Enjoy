@@ -1,0 +1,4 @@
+DAT:text
+tile 2000 0 130 90
+flags =  current on viewer 1
+end

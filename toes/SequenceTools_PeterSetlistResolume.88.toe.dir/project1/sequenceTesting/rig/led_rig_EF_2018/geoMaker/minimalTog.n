@@ -1,0 +1,8 @@
+CHOP:null
+tile -875 50 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	button1/out1
+}
+end

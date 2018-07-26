@@ -1,0 +1,6 @@
+COMP:base
+v 2221.25 -133.805 1.63863
+tags 0 2 cueTools ctUtilParGroupFetch
+tile -1525 -175 160 130
+flags =  current on viewer 1 parlanguage 0
+end

@@ -1,0 +1,13 @@
+?
+stdswitcher1 0 2
+h 0 16
+hmode 0 fill
+vfillweight 0 0.862
+alignorder 49 -100 me.nodeX
+repocomp 17 "" me
+bgcolorr 0 0.854
+bgcolorg 0 0.526633
+bgcolorb 0 0
+bgalpha 0 0.616
+top 0 ./bg
+?

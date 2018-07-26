@@ -1,0 +1,4 @@
+?
+rowindexend 17 3 "$NR - 1"
+colindexend 17 0 "$NC - 1"
+?

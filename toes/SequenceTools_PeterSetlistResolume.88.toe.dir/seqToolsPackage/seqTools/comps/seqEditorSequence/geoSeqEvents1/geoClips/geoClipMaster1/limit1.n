@@ -1,0 +1,9 @@
+CHOP:limit
+tile -2660 120 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	math10
+}
+view 5 -1 1 5.48125 -1.5 1.5 4 2 10648 20 0
+end

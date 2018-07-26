@@ -1,0 +1,9 @@
+?
+file 16 BN_Sync://TELEPORT_MASSIVE_BG_06[MASTER].mov app.samplesFolder+'/Map/Banana.tif'
+playmode 2 sequential
+play 2 on
+speed 2 1
+index 18 0 me.time.frame
+indexunit 0 seconds
+trim 0 on
+?

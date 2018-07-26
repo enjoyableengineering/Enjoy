@@ -1,0 +1,8 @@
+?
+wavetype 0 pulse
+numcycles 49 1 "(op('../wholeBeatsChans')['wholeBeats']+1) / 4"
+phase 2 0.75
+channelname 0 "r g b"
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

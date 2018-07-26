@@ -1,0 +1,5 @@
+?
+parameters 0 "Textalignx Textaligny"
+renameto 0 "alignx aligny"
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,9 @@
+CHOP:math
+tile -125 -1025 130 90
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	resample4
+}
+view 5 -1 1 0.0968265 -1.5 1.5 4 2 8600 3 0
+end

@@ -1,0 +1,7 @@
+DAT:text
+tile 50 -2650 130 90
+flags =  viewer 1 showDocked off parlanguage 0
+dock osc_track_status_Ra
+view 8 0 1 1 1 0 0 0 0 1 1
+dict 80037D7100580B0000006C617374436F6D6D616E647101580C0000002F636C69705F656E645F4C627102732E
+end

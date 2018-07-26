@@ -1,0 +1,5 @@
+DAT:table
+tile -400 -50 130 90
+flags =  viewer 1 showDocked off parlanguage 0
+dock modePars
+end

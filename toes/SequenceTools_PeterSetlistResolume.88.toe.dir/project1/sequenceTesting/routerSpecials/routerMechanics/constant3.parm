@@ -1,0 +1,29 @@
+?
+name0 0 Extend1
+name1 0 Scalemode1
+name2 0 Regionmode1
+name3 0 Texturemode1
+value3 0 2
+name4 0 Blendmode1
+value4 0 1
+name5 0 Gamma1
+value5 0 1
+name6 0 Brightness1
+value6 0 1
+name7 0 Saturation1
+value7 0 1
+name8 0 Contrast1
+value8 0 1
+name9 0 Desaturate1
+name10 0 Tintstrength1
+value10 0 1
+name11 0 Tintcolor1r
+value11 0 1
+name12 0 Tintcolor1g
+value12 0 1
+name13 0 Tintcolor1b
+value13 0 1
+name14 0 Tintactive1
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

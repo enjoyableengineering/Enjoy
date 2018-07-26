@@ -1,0 +1,12 @@
+DAT:merge
+tile -375 -200 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	convert2
+1 	text21
+2 	convert1
+3 	text22
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

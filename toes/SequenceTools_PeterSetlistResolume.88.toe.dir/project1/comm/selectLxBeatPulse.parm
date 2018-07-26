@@ -1,0 +1,5 @@
+?
+chop 49 op.Core1.op('beatPulser/lightingPulses') op.Core1.op('beatPulser/lightingPulses')
+renameto 0 ch1n[0-2]
+autoexportroot 17 "" parent()
+?

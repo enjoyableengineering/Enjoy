@@ -1,0 +1,17 @@
+?
+text 49 op('group')[0,0] "str(ext.Plugin.par.Regionsizex) + 'x' + str(ext.Plugin.par.Regionsizey) + ' ' + ext.Plugin.par.Regionlabel + '  ' + '('  + str(ext.Plugin.par.Regionposx) + ',' + str(ext.Plugin.par.Regionposy) + ')'"
+legacyparsing 0 on
+leadingzero 0 off
+chopvaluereplace 0 on
+wordwrap 0 on
+font 0 Liberation_Mono
+antialias 0 aa8mid
+fontautosize 0 fitiffat
+fontsizex 0 35.38
+fontsizexunit 0 pixels
+resolutionw 17 256 ext.Plugin.par.Regionsizex
+resolutionh 17 256 ext.Plugin.par.Regionsizey
+resmult 0 off
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

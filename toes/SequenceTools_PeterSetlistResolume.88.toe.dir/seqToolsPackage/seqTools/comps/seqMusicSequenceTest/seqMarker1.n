@@ -1,0 +1,6 @@
+COMP:base
+v 449.723 356.088 1.06897
+tags 0 3 seqMarker seqTools seqEvent
+tile 600 -150 160 130
+flags =  viewer 1 parlanguage 0
+end

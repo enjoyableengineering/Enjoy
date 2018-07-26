@@ -1,0 +1,6 @@
+DAT:text
+tile 175 -500 130 90
+flags =  viewer 1 showDocked off parlanguage 0
+dock opfindByMediaTags
+view 8 0 1 1 1 0 0 0 0 1 1
+end

@@ -1,0 +1,6 @@
+?
+active 0 off
+fromop 16 clearMidi me.parent()
+panel 16 clearMidi me.parent()
+panelvalue 0 state
+?

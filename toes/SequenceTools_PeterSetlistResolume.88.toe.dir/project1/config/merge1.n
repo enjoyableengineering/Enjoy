@@ -1,0 +1,9 @@
+DAT:merge
+tile 1075 -25 130 90
+flags =  viewer 1
+inputs
+{
+0 	table1
+1 	init_values
+}
+end

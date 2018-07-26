@@ -1,0 +1,5 @@
+?
+ops 49 parent().par.Sourceclipcomp.eval() "parent().par.Sourceclipcomp.eval() if parent().par.Active else None"
+parameters 0 Syncadjustmode
+autoexportroot 17 "" parent()
+?

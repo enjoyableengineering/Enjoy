@@ -1,0 +1,5 @@
+?
+parameters 32 "Type Seed Period Harmon Spread Gain Exp Amp Offset Mono"
+renameto 0 "type seed period harmon spread gain exp amp offset mono "
+autoexportroot 17 "" parent()
+?

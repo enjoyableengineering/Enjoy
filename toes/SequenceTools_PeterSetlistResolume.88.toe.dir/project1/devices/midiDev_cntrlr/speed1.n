@@ -1,0 +1,9 @@
+CHOP:speed
+tile 980 340 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	math3
+1 	math3
+}
+end

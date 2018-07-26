@@ -1,0 +1,19 @@
+?
+stdswitcher1 0 1
+dat 49 parent.editorMain.op('selectTimcode') parent.editorMain.op('selectTimecode')
+text 0 ""
+font 0 Segoe_UI
+dispmethod 0 texture
+bold 0 on
+fontautosize 0 fitiffat
+fontsizex 0 14
+alignx 0 left
+borderspace1 0 5
+borderspace2 0 0
+fontcolorr 0 0.7
+fontcolorg 0 0.7
+fontcolorb 0 0.7
+resolutionw 17 256 parent().width
+resolutionh 17 256 parent().height
+resmult 0 off
+?

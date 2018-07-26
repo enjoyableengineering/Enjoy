@@ -1,0 +1,5 @@
+?
+fromop 17 "" me.parent()
+chop 0 timeTransport
+channel 0 tempo
+?

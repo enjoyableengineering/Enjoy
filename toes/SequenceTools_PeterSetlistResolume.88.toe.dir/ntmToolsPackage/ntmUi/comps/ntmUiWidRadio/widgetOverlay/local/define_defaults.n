@@ -1,0 +1,4 @@
+DAT:table
+tile 0 250 130 90
+flags =  viewer 1
+end

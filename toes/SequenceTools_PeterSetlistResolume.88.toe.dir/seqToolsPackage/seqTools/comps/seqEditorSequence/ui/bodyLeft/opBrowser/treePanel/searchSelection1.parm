@@ -1,0 +1,10 @@
+?
+firstrow 0 on
+extractrows 0 byexpr
+rowindexend 17 0 "me.inputTable.numRows - 1"
+rowexpr 49 "" mod.evalCheck1.cellEval(me.inputCell.val)
+fromcol 0 7
+extractcols 0 byindex
+colindexend 49 0 "me.inputTable.numCols - 2"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

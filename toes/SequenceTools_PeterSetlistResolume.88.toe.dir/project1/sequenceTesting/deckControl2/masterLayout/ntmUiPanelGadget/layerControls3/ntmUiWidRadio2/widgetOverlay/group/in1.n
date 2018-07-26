@@ -1,0 +1,4 @@
+DAT:in
+tile 20 70 130 90
+flags =  viewer 1
+end

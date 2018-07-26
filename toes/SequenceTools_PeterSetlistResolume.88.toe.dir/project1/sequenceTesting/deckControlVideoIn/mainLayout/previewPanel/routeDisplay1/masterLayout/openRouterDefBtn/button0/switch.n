@@ -1,0 +1,9 @@
+TOP:switch
+tile 600 -100 130 90
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	off
+1 	on
+}
+end

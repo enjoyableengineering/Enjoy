@@ -1,0 +1,8 @@
+CHOP:select
+tile 25 175 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	reorder1
+}
+end

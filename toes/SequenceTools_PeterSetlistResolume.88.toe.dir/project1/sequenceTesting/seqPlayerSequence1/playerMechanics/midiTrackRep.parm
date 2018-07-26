@@ -1,0 +1,11 @@
+?
+repsuffixstart 0 0
+template 0 tracksDataMidi
+opprefix 0 midiTrack
+master 49 op.SeqTools.op('comps/seqClipSlot') op.SeqTools.op('comps/seqClipSlotMidi')
+destination 48 ../.. ../..
+callbacks 0 track_replicate_callbacks
+layout 0 vertical
+layoutorigin1 0 650
+layoutorigin2 0 -100
+?

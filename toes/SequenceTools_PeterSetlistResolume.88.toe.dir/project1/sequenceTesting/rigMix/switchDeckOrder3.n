@@ -1,0 +1,15 @@
+DAT:switch
+tile 525 -625 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectMainDeck1
+1 	selectMainDeck2
+2 	selectMainDeck3
+3 	selectMainDeck4
+}
+exports
+{
+deckOrder
+}
+end

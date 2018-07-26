@@ -1,0 +1,6 @@
+COMP:base
+v 217.755 594.878 0.191566
+tags 0 1 ntmKeyPrst
+tile -170 -1120 160 130
+flags =  viewer 1 parlanguage 0
+end

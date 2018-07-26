@@ -1,0 +1,11 @@
+?
+file 16 "BN_Audio://2017 mp3/10-2017 mp3/Chromatek - LV24.2.mp3" app.samplesFolder+'/Audio/JeremyCaulfield_www.dumb-unit.com.mp3'
+index 17 0 "me.time.frame / root.time.rate"
+trim 0 on
+trimstart 17 0 parent().par.Trimstart
+trimstartunit 0 fraction
+trimend 17 1 parent().par.Trimend
+trimendunit 0 fraction
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

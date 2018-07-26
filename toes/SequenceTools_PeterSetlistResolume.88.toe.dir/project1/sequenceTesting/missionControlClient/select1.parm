@@ -1,0 +1,4 @@
+?
+chop 0 ../missionControlServer/syncChans
+autoexportroot 17 "" parent()
+?

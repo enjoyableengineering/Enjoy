@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 1
+colorr 0 0
+colorg 0 0
+colorb 0 0
+resolutionw 49 256 op('ledMapGeo').size[0]
+resolutionh 49 256 op('ledMapGeo').size[1]
+?

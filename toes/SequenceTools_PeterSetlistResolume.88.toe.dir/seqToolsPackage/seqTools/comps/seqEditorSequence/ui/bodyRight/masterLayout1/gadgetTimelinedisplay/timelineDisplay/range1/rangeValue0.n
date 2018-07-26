@@ -1,0 +1,6 @@
+COMP:container
+tags 0 1 TDSubComp
+tile 0 -200 160 130
+flags =  picked on current on viewer 1 parlanguage 0
+color 0.68 0.453333 0 
+end

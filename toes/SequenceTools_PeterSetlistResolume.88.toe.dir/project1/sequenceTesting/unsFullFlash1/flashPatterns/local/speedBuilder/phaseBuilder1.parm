@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 3
+clone 49 parent.FlashMain.op('local/phaseBuilder') parent.FlashMain.op('local/phaseBuilder')
+Vstep 66 0.1
+Quantvalue 66 off
+Torange1 66 0
+Torange2 66 0
+Fromrange1 66 0
+Fromrange2 66 0
+Gain 66 1
+Srcchanexternal 66 gen_ramp8
+Srcchanlookup 66 square_quarters
+Srcchanramp 98 gen_ramp1
+Srcchanlocal 66 off
+?

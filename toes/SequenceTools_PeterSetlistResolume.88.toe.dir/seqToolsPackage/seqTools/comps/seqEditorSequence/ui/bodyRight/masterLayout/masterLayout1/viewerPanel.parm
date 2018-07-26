@@ -1,0 +1,38 @@
+?
+stdswitcher1 0 7
+x 0 330
+w 0 524
+h 0 306
+aspect 0 1.33333
+hmode 0 fill
+vmode 0 fill
+alignorder 17 5 me.nodeX
+sizefromwindow 0 on
+display 34 off
+vieweraspect 0 unconstrained
+repocomp 17 "" me
+bgcolorr 0 0.1
+bgcolorg 0 0.1
+bgcolorb 0 0.1234
+bgalpha 0 1
+top 0 ./bg
+topfill 0 best
+borderar 0 0
+borderag 0 0.45
+borderab 0 0.6
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+borderover 0 on
+justifyh 0 center
+justifyv 0 center
+fit 0 best
+drag 0 legacy
+paneldragop 49 op('opFindTagTreeLister').par.paneldragop op.seqEditorBrowser.TreeLister.par.paneldragop
+parentshortcut 0 Viewer
+opviewer 17 op op('opFindTagTreeLister').par.paneldragop.eval()
+Allowinteraction 64 on
+Interactionbutton 112 on parent.Browser.par.Viewerinteractionbutton
+Opviewer 113 op( "op.seqEditorBrowser.CurrentOP if not op.seqEditorBrowser.CurrentOP.path.startswith(op.seqEditorBrowser.path) else ''"
+?

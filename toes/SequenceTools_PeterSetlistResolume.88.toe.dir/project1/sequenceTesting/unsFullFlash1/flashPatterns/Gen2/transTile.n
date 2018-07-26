@@ -1,0 +1,6 @@
+COMP:base
+v 243.152 366.477 0.0752885
+tags 0 1 ntmGenSub
+tile 600 125 160 130
+flags =  picked on current on viewer 1 parlanguage 0
+end

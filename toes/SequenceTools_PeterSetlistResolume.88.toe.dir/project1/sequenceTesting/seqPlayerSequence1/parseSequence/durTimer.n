@@ -1,0 +1,8 @@
+CHOP:timer
+tile 2075 -625 130 90
+flags =  picked on current on viewer 1 cloneImmune on master_cloneImmune on parlanguage 0
+exports
+{
+../playerMechanics/parserActive
+}
+end

@@ -1,0 +1,10 @@
+COMP:base
+v 7.19693 474.032 0.361635
+tags 0 4 ntmRoute ntmTools ntmMegaMix ntmLayerRoute
+tile 270 -640 160 130
+flags =  current on viewer 1 parlanguage 0
+exports
+{
+routerMechanics/exportFlashMappings
+}
+end

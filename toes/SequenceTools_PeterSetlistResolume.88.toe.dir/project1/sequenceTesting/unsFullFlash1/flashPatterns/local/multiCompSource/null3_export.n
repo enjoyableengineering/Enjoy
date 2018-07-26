@@ -1,0 +1,6 @@
+DAT:table
+tile -590 -750 130 90
+flags =  viewer 1 activate on parlanguage 0
+dock null3
+view 8 0 1 1 1 0 0 0 0 1 1
+end

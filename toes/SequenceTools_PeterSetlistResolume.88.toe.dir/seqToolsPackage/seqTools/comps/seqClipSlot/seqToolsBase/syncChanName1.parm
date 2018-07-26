@@ -1,0 +1,5 @@
+?
+name0 49 parent().par.Syncchan "'done' + parent(2).par.Syncchan.eval()[-1:]"
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

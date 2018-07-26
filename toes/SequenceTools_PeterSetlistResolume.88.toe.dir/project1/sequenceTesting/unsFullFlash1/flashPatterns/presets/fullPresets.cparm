@@ -1,0 +1,14 @@
+?
+pages 2 Cue "Cue Tools"
+772804877 Targetrootcomp "Target Root Comp" 1 1 0 0 1 1 1 0 0 "" Cue 0
+772804868 Cuelabel "Cue Label" 1 1 0 0 1 1 1 0 0 "" Cue 2
+772804877 Cuetoolscomp "CueTools COMP" 1 1 0 0 1 1 1 0 0 "" "Cue Tools" 0
+772804869 Executepreset "Execute Preset" 1 1 0 0 1 1 1 0 0 "" Cue 8
+-1374678779 Rebuildcue Rebuildcue 1 1 0 0 1 1 1 0 0 "" Cue 5
+772804869 Addpreset "Add Preset" 1 1 0 0 1 1 1 0 0 "" Cue 3
+772804866 Idtoexecute "ID To Execute" 1 1 0 0 1 15 15 0 0 "" Cue 7
+772804879 Selectpreset "Select Preset" 1 1 0 0 1 1 1 0 0 "" Cue 4097 64 0 "Preset 1" 1 "Preset 2" 2 "Al Gore Playing" 3 "Put It Down Working" 4 "Put It Down Working 2" 5 "Put It Down Working 3" 6 LaserBros 7 CmykPewpew 8 SunsetOverdrive 9 BadJokes1 10 WeirdBird 11 Dreamofthenineties 12 "Preset 12" 13 LooneyTuynes 14 WeirderTuynes 15 RampsofInution 16 EyeballNEwMexico 17 WobblyCounterChevrons 18 getgilmore 19 bandyGilmore 20 "Preset 20" 21 "Preset 21" 22 "Preset 22" 23 "Preset 23" 24 "Preset 24" 25 PopNLock 26 LocoDunno 27 "Preset 27" 28 NiceForTwisted 29 SpookyWildstyle 30 ANother 31 MoreNintiesShit 32 EvenMoreNintiesFive 33 brokenramps 34 TyeDie 35 PsychoHallway 36 BlockySandArt 37 "Preset 37" 38 "Crazy Chevs And Beats" 39 PutItDownJanxMod 40 PutItDownJanxMod2 41 PutitDownJanxMod3 42 "Support Look 1" 43 "Preset 43" 44 "Preset 44" 45 "Preset 45" 46 "Preset 46" 47 "Preset 47" 48 "Mode 6 Flasher" 49 "Mode 6 Flasher ALT " 50 DistVert3 51 Whirlwinds 52 "Flashy Basic" 53 "Costas Goopy" 54 "Insano Strobes" 55 "Simple Circs Hit Beats" 56 "Circ Ramp Beats 1" 57 "Simple Circles 1" 58 YellowMagDistort 59 "Simple Vert Ramps" 60 "Gnarly Noise Low Res Flash" 61 "Hucci Flash Patterns" 62 "Goopy Circs Hit Beats" 63 "Static Sync Test A" 6
+772804875 Partable Partable 1 1 0 0 1 1 1 0 0 "" Cue 4
+772804867 Usetableforadd Usetableforadd 1 1 0 0 1 1 1 0 0 "" Cue 1
+-1374678779 Updatepreset Updatepreset 1 1 0 0 1 1 1 0 0 "" Cue 9
+?

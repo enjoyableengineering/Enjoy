@@ -1,0 +1,5 @@
+CHOP:info
+tags 0 1 assetFileInfoChop
+tile 150 0 130 90
+flags =  cloneImmune on parlanguage 0
+end

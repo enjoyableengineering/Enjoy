@@ -1,0 +1,8 @@
+CHOP:null
+tile 2000 0 130 90
+flags =  viewer 1
+inputs
+{
+0 	shuffle1
+}
+end

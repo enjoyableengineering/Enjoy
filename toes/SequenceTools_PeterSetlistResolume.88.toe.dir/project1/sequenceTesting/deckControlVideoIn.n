@@ -1,0 +1,7 @@
+COMP:container
+v 234.681 84.1975 1.17187
+tags 0 1 TDGadget
+tile -500 -875 160 104
+flags =  viewer 1 parlanguage 0
+color 0.453333 0 0.68 
+end

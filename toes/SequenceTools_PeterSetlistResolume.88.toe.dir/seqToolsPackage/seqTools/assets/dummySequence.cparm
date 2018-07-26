@@ -1,0 +1,12 @@
+?
+pages 2 "Music Sequence" "Sequence Tools"
+772804865 Seqtempo "Sequnece Tempo" 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 1
+772804865 Seqoffset "Sequence Offset" 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 2
+772805121 Seqtimesig "Time Signature" 1 1 0 0 1 1 1 1 0 0 1 1 1 0 4 "" 0 4 "" "Music Sequence" 3
+772804877 Seqtoolscomp "SeqTools COMP" 1 1 0 0 1 1 1 0 0 "" "Sequence Tools" 3
+772804868 Seqlabel Label 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 0
+772804869 Editsequence Editsequence 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 4
+772804869 Addclip Addclip 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 5
+772804869 Updatetables Updatetables 1 1 0 0 1 1 1 0 0 0 "Music Sequence" 6
+772804869 Cleanupnet Cleanupnet 1 1 0 0 1 1 1 0 0 0 "Music Sequence" 7
+?

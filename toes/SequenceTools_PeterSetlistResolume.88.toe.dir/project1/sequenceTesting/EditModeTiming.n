@@ -1,0 +1,7 @@
+COMP:base
+v 1080.83 530.053 0.42932
+tags 0 2 seqTools seqClipSync
+tile -1500 250 160 130
+flags =  parlanguage 0
+color 0.226667 0.68 0 
+end

@@ -1,0 +1,6 @@
+?
+active 49 on parent.Widget.par.Sliderruncommands
+fromop 17 "" me.parent()
+panel 49 button* parent()
+ontooff 0 on
+?

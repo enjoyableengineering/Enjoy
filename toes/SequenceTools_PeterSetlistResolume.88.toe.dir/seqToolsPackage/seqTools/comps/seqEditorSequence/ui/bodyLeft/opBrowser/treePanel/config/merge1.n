@@ -1,0 +1,14 @@
+DAT:merge
+tile -200 100 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectStandardCols
+1 	selectOptionalCols
+2 	selectOptionalCols1
+3 	selectOptionalCols2
+4 	selectOptionalCols3
+5 	selectOptionalCols4
+6 	selectOptionalCols5
+}
+end

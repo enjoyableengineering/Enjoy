@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 2
+clone 49 op.CueTools.op('comps/seqActionAnimation') op.CueTools.op('comps/ctActionAnimation')
+Cuetoolscomp 81 op.CueTools op.CueTools
+Actiondef 64 .
+Targetrootcomp 64 ..
+Actiontype 192 animation
+Actionlabel 64 "Action Animation 1"
+Actionid 192 0
+?

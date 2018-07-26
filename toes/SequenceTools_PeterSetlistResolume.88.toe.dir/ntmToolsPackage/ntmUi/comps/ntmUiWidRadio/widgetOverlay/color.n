@@ -1,0 +1,4 @@
+DAT:table
+tile -350 -1130 130 90
+flags =  viewer 1 cloneImmune on
+end

@@ -1,0 +1,5 @@
+DAT:panelexec
+tile 30 440 130 90
+flags =  viewer 1
+view 8 0 1 1 1 0 0 0 0 1 1
+end

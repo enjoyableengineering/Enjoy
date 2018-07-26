@@ -1,0 +1,25 @@
+TOP:glslmulti
+tile -1220 -1290 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	source1/outTop
+1 	source2/outTop
+2 	source3/outTop
+3 	source4/outTop
+4 	source5/outTop
+5 	source6/outTop
+6 	source7/outTop
+7 	source8/outTop
+8 	source9/outTop
+9 	source10/outTop
+10 	source11/outTop
+11 	source12/outTop
+}
+exports
+{
+huseShiftExport
+levelsControl
+resExport
+}
+end

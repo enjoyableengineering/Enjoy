@@ -1,0 +1,12 @@
+?
+name0 0 Play
+name1 0 Externalsync
+value1 0 2
+name2 0 Speed
+value2 0 1
+name3 0 Trimstart
+name4 0 Trimend
+value4 0 1
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

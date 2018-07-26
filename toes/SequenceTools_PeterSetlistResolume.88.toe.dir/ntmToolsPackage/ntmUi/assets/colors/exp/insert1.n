@@ -1,0 +1,8 @@
+DAT:insert
+tile 3830 590 130 90
+flags = 
+inputs
+{
+0 	tbl_lister_off
+}
+end

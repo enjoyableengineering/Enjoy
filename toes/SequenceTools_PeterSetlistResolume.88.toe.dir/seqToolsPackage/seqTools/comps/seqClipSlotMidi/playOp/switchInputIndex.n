@@ -1,0 +1,9 @@
+CHOP:switch
+tile 175 -125 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	getIndex
+1 	inIndex
+}
+end

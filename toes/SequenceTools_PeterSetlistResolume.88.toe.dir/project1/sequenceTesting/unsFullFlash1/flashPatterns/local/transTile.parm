@@ -1,0 +1,7 @@
+?
+stdswitcher1 0 4
+clone 49 parent.FlashMain.op('local/transTile') parent.FlashMain.op('local/transTile')
+Tilewetdry 64 0.975
+Tilerepeaty 64 1
+Tilerepeatx 64 1
+?

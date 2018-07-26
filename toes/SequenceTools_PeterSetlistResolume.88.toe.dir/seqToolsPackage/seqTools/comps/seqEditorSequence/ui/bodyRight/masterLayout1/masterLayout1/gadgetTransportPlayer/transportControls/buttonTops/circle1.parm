@@ -1,0 +1,22 @@
+?
+stdswitcher1 0 1
+radiusx 0 0.132
+radiusy 0 0.132
+radiusunit 0 fraction
+rotate 0 180
+centerx 0 -0.043
+centery 0 0
+centerunit 0 fractionaspect
+fillcolorr 0 0.4
+fillcolorg 0 0.4
+fillcolorb 0 0.4
+borderalpha 0 0
+bgcolorr 0 0.1
+bgcolorg 0 0.1
+bgcolorb 0 0.1
+bgalpha 0 0.5
+softness 0 0.01
+ispolygon 0 on
+resolutionw 49 256 op('../buttonScript/button0').width
+resolutionh 49 256 op('../buttonScript/button0').height
+?

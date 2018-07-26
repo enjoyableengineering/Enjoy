@@ -1,0 +1,13 @@
+?
+w 17 196 "me.parent().par.w - 4"
+h 0 24
+repocomp 17 "" me
+borderar 0 0.061588
+borderag 0 0.356
+borderab 0 0.356
+topborder 0 bordera
+align 0 horizlr
+spacing 0 1
+justifyh 0 left
+justifyv 0 center
+?

@@ -1,0 +1,8 @@
+TOP:blur
+tile -720 -419 93 51
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	antialias2
+}
+end

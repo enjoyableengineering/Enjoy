@@ -1,0 +1,4 @@
+?
+renameto 0 clip[1-100]:Play
+autoexportroot 17 "" parent()
+?

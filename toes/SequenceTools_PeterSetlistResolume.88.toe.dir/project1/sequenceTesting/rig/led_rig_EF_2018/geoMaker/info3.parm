@@ -1,0 +1,5 @@
+?
+op 0 outFullMap
+iscope 0 "resx resy"
+autoexportroot 17 "" me.parent()
+?

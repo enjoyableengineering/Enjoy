@@ -1,0 +1,24 @@
+DAT:switch
+tile -240 120 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	ui
+1 	nature
+2 	vegetation
+3 	activities
+4 	tourism
+5 	animals
+6 	human
+7 	various
+8 	financial
+9 	office
+10 	clocks
+11 	emoji
+12 	numbersLetters
+}
+exports
+{
+null2
+}
+end

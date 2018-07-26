@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 2
+parentshortcut 0 Main
+clone 49 parent.FlashMain.op('local/rampInputKeys') parent.FlashMain.op('local/rampInputKeys')
+Period 64 2
+Resx 64 1280
+Resy 64 720
+?

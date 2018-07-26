@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 3
+limitmaxdepth 0 off
+typefilter 0 *opfind*
+pathcol 0 on
+cooktimescol 0 on
+callbacks 0 opfind2_callbacks
+?

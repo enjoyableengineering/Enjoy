@@ -1,0 +1,8 @@
+?
+pages 2 "Action Definition" "Cue Tools"
+772804877 Cuetoolscomp "CueTools COMP" 1 1 0 0 1 1 1 0 0 "" "Cue Tools" 0
+772804879 Actiontype "Action Type" 1 1 0 0 1 1 1 0 0 preset "Action Definition" 4097 4 preset Preset animation Animation script Script cue Cue 1
+772804868 Actionlabel "Action Label" 1 1 0 0 1 1 1 0 0 "" "Action Definition" 2
+772804877 Targetrootcomp "Target Root Comp" 1 1 0 0 1 1 1 0 0 "" "Action Definition" 0
+772804866 Actionid "Action ID" 1 1 0 0 1 1 1 0 0 "" "Cue Tools" 3
+?

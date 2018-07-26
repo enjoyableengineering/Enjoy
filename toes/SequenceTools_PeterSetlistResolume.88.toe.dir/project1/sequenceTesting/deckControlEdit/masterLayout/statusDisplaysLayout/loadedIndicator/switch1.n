@@ -1,0 +1,9 @@
+TOP:switch
+tile 100 25 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectUnloaded
+1 	selectLoaded
+}
+end

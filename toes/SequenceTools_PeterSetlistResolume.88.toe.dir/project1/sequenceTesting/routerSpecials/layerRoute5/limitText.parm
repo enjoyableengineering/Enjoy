@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 2
+type 0 clamp
+min 0 0
+max 0 7
+scope 0 Texturemode1
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 1
+text 49 "" chr(57346)
+legacyparsing 0 on
+chopvaluereplace 0 on
+font 0 Segoe_UI_Symbol
+fontsizex 0 7.2
+position1 0 0.8
+position2 0 0
+fontcolorr 0 0.459
+fontcolorg 0 0.114291
+fontcolorb 0 0.114291
+resolutionw 0 20
+resolutionh 0 20
+resmult 0 off
+?

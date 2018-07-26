@@ -1,0 +1,6 @@
+?
+chop 0 /project1/sequenceTesting/launchTesting/timeSyncChans
+channames 0 "tempo transportstate"
+renameto 0 "transport_tempo transport_state"
+autoexportroot 17 "" parent()
+?

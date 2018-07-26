@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 1
+gain 49 1 1/parent().par.Samplesperbeat
+autoexportroot 17 "" parent()
+?

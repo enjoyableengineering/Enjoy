@@ -1,0 +1,23 @@
+?
+text 48 Path: ''
+legacyparsing 0 on
+chopvaluereplace 0 on
+dispmethod 0 bitmap
+antialias 0 on
+bold 0 on
+fontsizex 0 8
+position1 0 6
+position2 0 0
+alignx 0 left
+fontcolorr 0 0.7
+fontcolorg 0 0.7
+fontcolorb 0 0.7
+borderar 0 0.232
+borderag 0 0.232
+borderab 0 0.232
+resolutionw 49 256 parent().par.w
+resolutionh 49 256 parent().par.h
+resmult 0 off
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

@@ -1,0 +1,6 @@
+?
+fromop 17 "" me.parent()
+op 49 parent.Widget parent.Widget
+pars 32 Sliderruncommands
+builtin 0 off
+?

@@ -1,0 +1,4 @@
+?
+chop 49 parent.FlashMain.op('local/keyPalettes/keyOption1/out1') parent.FlashMain.op('local/channelPalette/rampChans')
+autoexportroot 17 "" parent()
+?

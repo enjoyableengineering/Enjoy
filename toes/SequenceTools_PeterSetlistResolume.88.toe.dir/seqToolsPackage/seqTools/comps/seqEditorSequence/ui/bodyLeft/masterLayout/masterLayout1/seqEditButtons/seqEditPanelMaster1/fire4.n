@@ -1,0 +1,5 @@
+COMP:button
+v -690.928 -115.128 1.54463
+tile -75 0 160 120
+flags =  current on viewer 1 parlanguage 0
+end

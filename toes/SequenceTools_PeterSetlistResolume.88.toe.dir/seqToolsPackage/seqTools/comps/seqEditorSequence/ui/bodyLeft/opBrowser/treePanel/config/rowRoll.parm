@@ -1,0 +1,23 @@
+?
+stdswitcher1 0 2
+text 0 "Row Roll"
+legacyparsing 0 on
+chopvaluereplace 0 on
+font 17 Verdana op('master').par.font
+fontsizex 17 19.5556 op('master').par.fontsizex
+fontsizexunit 0 pixels
+position1 17 5 op('master').par.position1
+position2 0 0
+alignx 0 left
+fontcolorr 48 0.7 parent.Widget.par.Listerrowrollfontcolorr
+fontcolorg 48 0.7 parent.Widget.par.Listerrowrollfontcolorg
+fontcolorb 48 0.7 parent.Widget.par.Listerrowrollfontcolorb
+fontalpha 48 1 parent.Widget.par.Listerrowrollfontcolora
+bgcolorr 48 0.372 parent.Widget.par.Listerrowrollcolorr
+bgcolorg 48 0.394867 parent.Widget.par.Listerrowrollcolorg
+bgcolorb 48 0.4 parent.Widget.par.Listerrowrollcolorb
+bgalpha 48 0.5 parent.Widget.par.Listerrowrollcolora
+resolutionw 0 256
+resolutionh 0 22
+resmult 0 off
+?

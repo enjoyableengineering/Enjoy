@@ -1,0 +1,25 @@
+?
+stdswitcher1 0 4
+name0 0 constant
+name1 0 gen_ramp1
+name2 0 gen_ramp2
+name3 0 gen_ramp4
+name4 0 gen_ramp8
+name5 0 gen_ramp16
+name6 0 gen_ramp32
+name7 0 gen_ramp64
+name8 0 gen_ramp128
+name9 0 4th_notes_on_off
+name10 0 8th_notes_on_off
+name11 0 16th_notes_on_off
+name12 0 on_3_lag_off
+name13 0 ramp_up_2_4
+name14 0 ramp_up_alt_8ths
+name15 0 ramp_up_on_3
+name16 0 ramp_up_8th
+name17 0 2nd_notes_on_off
+name18 0 crayStrobe
+name19 0 on_break_kick1
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

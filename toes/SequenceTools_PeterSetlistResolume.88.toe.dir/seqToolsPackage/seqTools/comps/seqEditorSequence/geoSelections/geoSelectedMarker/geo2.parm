@@ -1,0 +1,10 @@
+?
+sx 32 1
+sy 32 0.996
+sz 32 1
+px 0 0
+py 0 -0.5
+pz 0 0
+material 0 loopLineMat
+drawpriority 0 13
+?

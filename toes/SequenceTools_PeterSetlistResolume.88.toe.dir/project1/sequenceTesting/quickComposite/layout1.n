@@ -1,0 +1,11 @@
+TOP:layout
+tile 1275 450 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	player1/out1
+1 	player2/out1
+2 	player3/out1
+3 	player4/out1
+}
+end

@@ -1,0 +1,11 @@
+?
+file 16 "C:/Derivative Experimental/TouchDesigner099/Samples/Audio/SonarBlackie666.wav" app.samplesFolder+'/Audio/JeremyCaulfield_www.dumb-unit.com.mp3'
+index 17 0 "me.time.frame / root.time.rate"
+trim 0 on
+trimstart 17 0 parent().par.Trimstart
+trimstartunit 0 fraction
+trimend 17 1 parent().par.Trimend
+trimendunit 0 fraction
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,13 @@
+?
+stdswitcher1 0 3
+clone 49 op.NtmUi.op('assets/uiButtonMaster') op.NtmUi.op('assets/button/styleUiButtonMaster')
+Backgroundr 64 0
+Backgroundg 64 0
+Backgroundb 64 0
+Backgrounda 64 1
+Rolloncolorr 64 0.9
+Rolloncolorg 64 0.9
+Rolloncolorb 64 0.9
+Rolloncolora 64 1
+Textsize 64 11
+?

@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 2
+font 49 parent().par.Font parent().par.Font
+bold 49 off parent().par.Bold
+fontsizex 49 30 parent().par.Textsize
+fontcolorr 49 1 parent().par.Fontcolorr
+fontcolorg 49 1 parent().par.Fontcolorg
+fontcolorb 49 1 parent().par.Fontcolorb
+fontalpha 17 1 parent().par.Fontcolora
+bgalpha 49 0 parent().par.Fontcolora
+resmult 0 off
+?

@@ -1,0 +1,8 @@
+?
+selectpanel 49 op('selPanelUI')[0,0] 'zoneComps/'+op('selPanelUI')[0,0]
+matchsize 0 off
+w 0 559
+h 0 294
+clickthrough 0 on
+repocomp 17 "" me
+?

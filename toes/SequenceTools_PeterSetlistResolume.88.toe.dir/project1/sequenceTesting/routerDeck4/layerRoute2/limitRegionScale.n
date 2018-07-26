@@ -1,0 +1,8 @@
+CHOP:limit
+tile 2420 -370 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	limitText
+}
+end

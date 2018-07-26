@@ -1,0 +1,8 @@
+SOP:subdivide
+tile 21275 -5175 130 90
+flags =  viewer 1 bypass on parlanguage 0
+inputs
+{
+0 	texture1
+}
+end

@@ -1,0 +1,15 @@
+CHOP:switch
+tile 2220 -670 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	switchEditModeMidi
+1 	getDeckMidi2/out1
+2 	getDeckMidi3/out1
+3 	getDeckMidi4/out1
+}
+exports
+{
+focusDeckExport
+}
+end

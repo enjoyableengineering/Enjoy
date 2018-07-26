@@ -1,0 +1,12 @@
+TOP:comp
+tile 1875 -1075 130 76
+flags =  picked on viewer 1 parlanguage 0
+inputs
+{
+0 	comp1
+1 	level2
+2 	level3
+3 	level4
+4 	level5
+}
+end

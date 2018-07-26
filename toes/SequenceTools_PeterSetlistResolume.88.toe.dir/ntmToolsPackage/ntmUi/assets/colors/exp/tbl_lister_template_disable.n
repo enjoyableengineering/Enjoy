@@ -1,0 +1,8 @@
+DAT:eval
+tile 4470 440 130 90
+flags = 
+inputs
+{
+0 	tbl_lister_template_off
+}
+end

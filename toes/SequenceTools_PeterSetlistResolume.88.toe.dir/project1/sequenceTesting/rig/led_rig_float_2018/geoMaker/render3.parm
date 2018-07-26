@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 4
+multicamerahint 0 off
+geometry 32 pixmapGeo
+antialias 0 aa1
+overridemat 0 constant3
+outputresolution 0 custom
+resolutionw 17 1280 ext.MasterRaster.par.Rasterx
+resolutionh 17 720 ext.MasterRaster.par.Rastery
+filtertype 0 nearest
+?

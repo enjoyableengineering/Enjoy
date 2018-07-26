@@ -1,0 +1,13 @@
+COMP:geo
+tile 1175 -375 160 130
+flags =  viewer 1 render on display on parlanguage 0
+inputs
+{
+0 	null1
+}
+exports
+{
+preLoopLength
+}
+view 63 0.2 1 1 0 0 1 1.86406 0.04 1.6 1.75602 0 0 1.86406 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 15 1 1 1 195 787 1 -1 1 1 4 0 0 2 0 1
+end

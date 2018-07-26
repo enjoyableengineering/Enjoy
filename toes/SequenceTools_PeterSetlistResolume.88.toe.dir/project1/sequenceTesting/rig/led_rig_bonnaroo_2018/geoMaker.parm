@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 7
+w 0 1440
+h 0 900
+repocomp 17 "" me
+parentshortcut 0 MasterRaster
+opviewer 0 ./outFullMapGeo
+Rasterx 96 3840
+Rastery 64 1080
+Regiondeftable 64 regionDefTable
+Rigname 113 me.parent().name me.parent().name
+?

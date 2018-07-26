@@ -1,0 +1,5 @@
+?
+colormap 0 ledMap
+colormapfilter 0 nearest
+skelrootpath 17 "" me.parent()
+?

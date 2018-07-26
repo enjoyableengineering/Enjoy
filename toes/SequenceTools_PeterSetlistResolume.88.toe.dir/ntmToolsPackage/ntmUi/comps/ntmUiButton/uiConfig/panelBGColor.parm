@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 1
+chop 49 parent().par.Widgetassetscomp.eval().op(me.name) parent().par.Widgetassetscomp.eval().op(me.name)
+exportmethod 0 autoname
+autoexportroot 49 "" parent(2)
+?

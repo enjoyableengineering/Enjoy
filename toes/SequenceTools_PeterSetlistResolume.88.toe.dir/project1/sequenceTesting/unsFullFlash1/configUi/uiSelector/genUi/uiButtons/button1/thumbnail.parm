@@ -1,0 +1,23 @@
+?
+hmode 0 fill
+vmode 0 fill
+alignorder 17 0 me.nodeX
+clickthrough 0 on
+repocomp 17 "" me
+top 0 ./bg
+topfill 0 best
+borderar 0 0.7
+borderag 0 0.7
+borderab 0 0.7
+borderaalpha 2 1
+borderbr 0 0.3
+borderbg 0 0.3
+borderbb 0 0.3
+leftborder 0 bordera
+rightborder 0 bordera
+topborder 0 bordera
+marginl 0 4
+marginr 0 4
+marginb 0 4
+margint 0 4
+?

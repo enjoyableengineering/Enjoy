@@ -1,0 +1,7 @@
+?
+name0 0 ch1n[1-128]
+name1 0 ch2n[1-128]
+name2 0 ch10n[1-128]
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

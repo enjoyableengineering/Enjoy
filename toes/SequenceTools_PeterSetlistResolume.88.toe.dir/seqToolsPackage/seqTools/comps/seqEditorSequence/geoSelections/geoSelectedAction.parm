@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 4
+render 49 on "1 if parent.editorMain.SelectedEventType == 'action' else 0"
+drawpriority 0 12
+?

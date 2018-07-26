@@ -1,0 +1,8 @@
+CHOP:oscout
+tile 200 30 130 90
+flags =  viewer 1 parlanguage 0
+exports
+{
+null1
+}
+end

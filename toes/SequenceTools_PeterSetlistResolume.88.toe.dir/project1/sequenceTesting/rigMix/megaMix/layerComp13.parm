@@ -1,0 +1,23 @@
+?
+stdswitcher1 0 2
+extension1 0 op('./LayerExt').module.LayerExt(me)
+promoteextension1 0 on
+enablecloning 0 off
+clone 0 layerComp0
+Background 192 ""
+Layerorder1 81 0 me.digits
+Layertop1 64 /project1/sequenceTesting/unsFullFlash1/flashLayer3
+Layert1x 192 0
+Layert1y 192 0
+Layers1x 192 1
+Layers1y 192 1
+Tintcolor1r 192 1
+Tintcolor1g 192 1
+Tintcolor1b 192 1
+Blendmode1 64 over
+Saturation1 80 1 op('null3')['chan1'].eval(me.digits)
+Texturemode1 64 2
+Layerlabel 81 op('null4')[me.digits,1].val op('layerNames')[me.digits,0].val
+Overrideschop 64 /project1/sequenceTesting/routerSpecials/layerAutomation5/overridesChans
+Parmultschop 64 /project1/sequenceTesting/routerSpecials/layerAutomation5/multChans
+?

@@ -1,0 +1,7 @@
+?
+ops 32 /project1/sequenceTesting
+parameters 32 Editmode
+renameto 0 state
+builtin 0 on
+autoexportroot 17 "" parent()
+?

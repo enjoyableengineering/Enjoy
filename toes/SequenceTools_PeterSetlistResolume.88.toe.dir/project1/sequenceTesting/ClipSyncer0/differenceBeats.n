@@ -1,0 +1,9 @@
+CHOP:math
+tile 825 -600 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	timerAndClipPos_beats
+}
+color 0.68 0 0 
+end

@@ -1,0 +1,4 @@
+CHOP:par
+tile 1350 820 130 90
+flags =  parlanguage 0
+end

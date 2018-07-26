@@ -1,0 +1,9 @@
+COMP:container
+v 316.17 240.18 1.0001
+tile 975 -300 160 76
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	middleCol1
+}
+end

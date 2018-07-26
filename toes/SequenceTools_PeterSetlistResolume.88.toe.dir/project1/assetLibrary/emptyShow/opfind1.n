@@ -1,0 +1,4 @@
+DAT:opfind
+tile -590 1380 130 90
+flags =  viewer 1 bypass on parlanguage 0
+end

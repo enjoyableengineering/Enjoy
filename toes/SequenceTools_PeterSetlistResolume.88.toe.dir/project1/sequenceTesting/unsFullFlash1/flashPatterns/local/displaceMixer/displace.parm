@@ -1,0 +1,19 @@
+?
+stdswitcher1 0 3
+clone 49 parent.FlashMain.op('local/displace') parent.FlashMain.op('local/displace')
+Horzsource 98 red
+Vertsource 66 blue
+Midpoint1 66 0.6
+Midpoint2 66 0.6
+Displaceweight1 66 0.04
+Displaceweight2 66 0.04
+Offset1 98 0
+Offset2 98 0
+Uvweight 66 1
+Extend 66 hold
+Displacemultiply 66 1
+Resx 66 256
+Resy 66 0
+Useinputres 66 off
+Inputfiltertype 66 linear
+?

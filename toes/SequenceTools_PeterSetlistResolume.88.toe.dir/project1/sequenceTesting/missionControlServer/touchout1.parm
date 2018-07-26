@@ -1,0 +1,6 @@
+?
+protocol 0 multicastmsging
+address 0 239.0.2.5
+active 0 off
+redendantsends 0 4
+?

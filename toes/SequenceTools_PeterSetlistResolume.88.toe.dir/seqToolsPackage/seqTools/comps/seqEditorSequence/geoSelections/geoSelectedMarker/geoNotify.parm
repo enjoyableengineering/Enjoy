@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 4
+tx 0 0
+ty 0 0.486
+tz 0 0
+sx 34 0
+sy 34 1
+sz 32 1
+material 0 notifyMat
+render 2 on
+?

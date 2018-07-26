@@ -1,0 +1,7 @@
+COMP:container
+v 127.028 509.004 0.760861
+tags 0 1 TDWidget
+tile 100 -225 160 76
+flags =  viewer 1 parlanguage 0
+color 0.6 0.6 0.6 
+end

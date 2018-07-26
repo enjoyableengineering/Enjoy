@@ -1,0 +1,8 @@
+?
+limittype 0 loop
+max 17 1 op('null2')['maxBars']
+resetcondition 0 off
+resetvalue 32 -1
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

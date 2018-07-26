@@ -1,0 +1,17 @@
+1
+compinputs
+{
+0 	math2
+	in1
+	CHOP
+1 	math10
+	in2
+	CHOP
+2 	math7
+	in3
+	CHOP
+3 	math8
+	in4
+	CHOP
+}
+end

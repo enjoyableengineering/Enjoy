@@ -1,0 +1,7 @@
+?
+xord 0 tsr
+tx 49 0 -me.inputs[0].center[0]
+ty 32 560
+tz 32 0
+scale 0 1.484
+?

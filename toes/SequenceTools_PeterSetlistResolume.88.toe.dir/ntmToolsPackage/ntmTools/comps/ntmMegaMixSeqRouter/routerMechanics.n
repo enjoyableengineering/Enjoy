@@ -1,0 +1,5 @@
+COMP:base
+v 344.252 422.318 0.0589118
+tile 0 -175 160 130
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,5 @@
+?
+dat 0 /top/core/assets/ip_address1
+rowindexend 17 0 "$NR - 1"
+colindexend 17 0 "$NC - 1"
+?

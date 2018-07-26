@@ -1,0 +1,6 @@
+?
+chanop 0 or
+timeslice 0 on
+scope 0 Solo*
+autoexportroot 17 "" me.parent()
+?

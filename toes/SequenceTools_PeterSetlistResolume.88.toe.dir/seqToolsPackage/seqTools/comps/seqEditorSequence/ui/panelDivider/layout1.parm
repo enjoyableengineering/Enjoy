@@ -1,0 +1,7 @@
+?
+stdswitcher1 0 1
+outputresolution 0 custom
+resolutionw 49 30 "parent.Divider.par.Knobsize * 3"
+resolutionh 49 10 parent.Divider.par.Knobsize
+outputaspect 0 resolution
+?

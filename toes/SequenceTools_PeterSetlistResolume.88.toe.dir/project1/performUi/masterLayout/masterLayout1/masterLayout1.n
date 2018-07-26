@@ -1,0 +1,5 @@
+COMP:container
+v 354.549 293.871 0.806828
+tile 0 -75 236 219
+flags =  viewer 1 parlanguage 0
+end

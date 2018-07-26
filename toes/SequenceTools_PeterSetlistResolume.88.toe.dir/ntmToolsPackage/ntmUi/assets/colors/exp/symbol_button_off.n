@@ -1,0 +1,9 @@
+DAT:merge
+tile 1080 1600 130 90
+flags = 
+inputs
+{
+0 	button_off
+1 	symbol_font
+}
+end

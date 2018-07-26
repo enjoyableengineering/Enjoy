@@ -1,0 +1,9 @@
+TOP:over
+tile 875 -2525 130 72
+flags =  parlanguage 0
+inputs
+{
+0 	remap3
+1 	crop1
+}
+end

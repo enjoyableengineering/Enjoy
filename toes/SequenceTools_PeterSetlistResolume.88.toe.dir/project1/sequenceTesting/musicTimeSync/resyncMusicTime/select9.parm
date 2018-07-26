@@ -1,0 +1,5 @@
+?
+chop 0 incomingTimeChans
+channames 0 "syncbars syncbeats syncunits"
+autoexportroot 17 "" parent()
+?

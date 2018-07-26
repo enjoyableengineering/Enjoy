@@ -1,0 +1,10 @@
+?
+active 0 off
+fromop 17 "" me.parent()
+op 16 .. parent()
+pars 0 *
+onpulse 0 on
+expressionchange 0 on
+exportchange 0 on
+builtin 0 off
+?

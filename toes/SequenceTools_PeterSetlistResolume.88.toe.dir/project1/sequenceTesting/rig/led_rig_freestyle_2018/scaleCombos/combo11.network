@@ -1,0 +1,17 @@
+1
+compinputs
+{
+0 	merge5
+	in1
+	CHOP
+1 	merge6
+	in2
+	CHOP
+2 	math5
+	in3
+	CHOP
+3 	math6
+	in4
+	CHOP
+}
+end

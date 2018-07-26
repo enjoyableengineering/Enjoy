@@ -1,0 +1,4 @@
+CHOP:select
+tile 1880 450 130 90
+flags = 
+end

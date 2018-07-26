@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 2
+parentshortcut 0 Main
+clone 49 parent.FlashMain.op('local/rampInputKeys') parent.FlashMain.op('local/lookupWarp')
+Altramptoggle 64 off
+?

@@ -1,0 +1,5 @@
+DAT:table
+tile -675 725 130 90
+flags =  viewer 1 parlanguage 0
+dock attrExports
+end

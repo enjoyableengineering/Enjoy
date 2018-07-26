@@ -1,0 +1,9 @@
+DAT:chopexec
+tile 2675 575 130 90
+flags =  viewer 1 parlanguage 0
+exports
+{
+fixSyncActiveExport
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

@@ -1,0 +1,21 @@
+?
+stdswitcher1 0 1
+radiusx 0 0.3
+radiusy 0 0.3
+radiusunit 0 fraction
+centerx 0 -0.04
+centery 0 0
+centerunit 0 fractionaspect
+fillcolorr 0 0
+fillcolorg 0 0.659
+fillcolorb 0 0.116294
+borderalpha 0 0
+bgcolorr 0 0.1
+bgcolorg 0 0.1
+bgcolorb 0 0.1
+softness 0 3
+softnessunit 0 pixels
+ispolygon 0 on
+resolutionw 32 80
+resolutionh 32 80
+?

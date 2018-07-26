@@ -1,0 +1,5 @@
+COMP:select
+v 475 439 1
+tile 250 75 160 121
+flags =  current on viewer 1 parlanguage 0
+end

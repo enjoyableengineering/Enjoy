@@ -1,0 +1,8 @@
+TOP:null
+tile 1650 150 130 86
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	switchTile
+}
+end

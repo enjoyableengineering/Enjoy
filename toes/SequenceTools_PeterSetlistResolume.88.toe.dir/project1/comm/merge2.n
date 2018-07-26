@@ -1,0 +1,9 @@
+CHOP:merge
+tile -270 -270 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectMasterTiming
+1 	select1
+}
+end

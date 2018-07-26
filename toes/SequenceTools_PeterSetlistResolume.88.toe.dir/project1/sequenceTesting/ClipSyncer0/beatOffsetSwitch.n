@@ -1,0 +1,10 @@
+CHOP:switch
+tile 1350 -25 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	beatSafeOffset
+1 	applyBeatOffset
+}
+color 0.68 0 0 
+end

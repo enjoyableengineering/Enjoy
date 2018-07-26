@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 2
+extension1 0 op('./CueToolsCuePresetsRefExt').module.CueToolsCuePresetsRefExt(me)
+promoteextension1 0 on
+parentshortcut 0 cueMain
+Targetrootcomp 64 ..
+Cuelabel 64 "Presets 1"
+Cuetoolscomp 113 op.CueTools op.CueTools
+Presetsrefcomp 64 ctCuePresets
+?

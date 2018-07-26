@@ -1,0 +1,9 @@
+CHOP:merge
+tile 625 -1375 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	track_sync_const
+1 	os_master_time_const
+}
+end

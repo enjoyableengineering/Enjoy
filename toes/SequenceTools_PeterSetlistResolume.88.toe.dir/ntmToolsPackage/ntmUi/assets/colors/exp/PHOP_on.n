@@ -1,0 +1,10 @@
+DAT:merge
+tile 1200 -1930 130 90
+flags =  viewer 1
+inputs
+{
+0 	PHOP_off
+1 	PHOP_on3
+}
+color 0.226667 0.68 0 
+end

@@ -1,0 +1,5 @@
+?
+address 49 192.168.0.10 op.Comm.par.Ipresolume
+port 49 10101 op.Comm.par.Portresolumeout
+fromop 17 "" parent()
+?

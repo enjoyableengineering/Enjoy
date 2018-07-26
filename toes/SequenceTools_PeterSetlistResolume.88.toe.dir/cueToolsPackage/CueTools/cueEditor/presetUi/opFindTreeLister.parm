@@ -1,0 +1,26 @@
+?
+stdswitcher1 0 1
+w 0 1055
+h 0 493
+sizefromwindow 0 on
+display 0 off
+vieweraspect 0 unconstrained
+repocomp 17 "" me
+bgcolorr 0 0.25
+bgcolorg 0 0.25
+bgcolorb 0 0.25
+bgalpha 0 1
+extension1 0 op('./TreeListerExt').module.TreeListerExt(op('./lister'))
+promoteextension1 0 on
+parentshortcut 0 TreeLister
+clone 17 op.TDTox.op('treeLister') op.TDTox.op('treeLister')
+Refresh 64 1
+Rawdata 192 ""
+Refreshoninputchange 64 on
+Autodefinecols 64 on
+Dragtoreorderrows 192 off
+Deletekey 192 off
+Lockconfigs 64 on
+Configcomp 192 ./config
+Callbackdat 192 ./config/callbacks
+?

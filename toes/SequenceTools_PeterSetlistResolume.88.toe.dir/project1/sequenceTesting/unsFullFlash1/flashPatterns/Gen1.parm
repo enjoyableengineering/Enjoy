@@ -1,0 +1,7 @@
+?
+stdswitcher1 0 2
+enablecloning 0 off
+Resw 113 0 parent.FlashMain.par.Resw.eval()
+Resh 113 0 parent.FlashMain.par.Resh.eval()
+Genlabel 113 me.digits me.name
+?

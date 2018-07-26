@@ -1,0 +1,6 @@
+COMP:container
+v 268.924 437.916 0.0755252
+tile 2500 1175 160 129
+flags =  viewer 1 parlanguage 0
+color 0.68 0 0.453333 
+end

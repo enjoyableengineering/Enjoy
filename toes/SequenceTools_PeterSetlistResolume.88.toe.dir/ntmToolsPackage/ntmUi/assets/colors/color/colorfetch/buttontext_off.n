@@ -1,0 +1,4 @@
+CHOP:par
+tile 0 0 130 90
+flags =  viewer 1
+end

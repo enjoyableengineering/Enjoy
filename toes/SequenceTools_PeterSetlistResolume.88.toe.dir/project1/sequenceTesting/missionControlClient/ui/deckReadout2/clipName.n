@@ -1,0 +1,8 @@
+COMP:container
+tile 1925 -275 160 79
+flags =  parlanguage 0
+inputs
+{
+0 	infoReadout
+}
+end

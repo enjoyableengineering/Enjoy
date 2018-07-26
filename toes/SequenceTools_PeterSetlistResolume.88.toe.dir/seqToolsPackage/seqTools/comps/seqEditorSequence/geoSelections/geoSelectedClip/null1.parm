@@ -1,0 +1,8 @@
+?
+tx 50 5 "op('../../geoSeqEvents1/geoClips/geoClip' + str(parent.editorMain.SelectedClipId) + '/null1').par.tx"
+ty 49 0 "op('../../geoSeqEvents1/geoClips/geoClip' + str(parent.editorMain.SelectedEventId) + '/null1').par.ty"
+tz 32 0
+sx 32 1
+sy 49 0.15 parent.editorMain.op('geoSeqEvents1/geoClips/trackScaleY')['resY']
+sz 32 1
+?

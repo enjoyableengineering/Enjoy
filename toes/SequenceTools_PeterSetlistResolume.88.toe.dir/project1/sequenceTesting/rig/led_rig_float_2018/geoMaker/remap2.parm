@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 1
+outputresolution 0 custom
+resolutionw 49 256 ext.MasterRaster.par.Rasterx
+resolutionh 49 1080 ext.MasterRaster.par.Rastery
+outputaspect 0 resolution
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

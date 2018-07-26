@@ -1,0 +1,13 @@
+?
+stdswitcher1 0 4
+extension1 0 op('./SeqToolsEventClipExt').module.SeqToolsEventClipExt(me)
+promoteextension1 0 on
+Seqtoolscomp 81 op.SeqTools op.SeqTools
+Seqeventlabel 64 "none selected"
+Seqtime 64 64.4
+Seqduration 64 83.6
+Seqloops 64 3
+Seqnotify 64 on
+Seqnotifyadvtime 64 4.25
+Seqclipcomp 64 /project1/assetLibrary/clipAssets/seqMovieClip
+?

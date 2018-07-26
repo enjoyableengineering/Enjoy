@@ -1,0 +1,13 @@
+?
+stdswitcher1 0 3
+opviewer 0 ./uiThumb
+clone 49 parent.FlashMain.op('local/multiCompSource') parent.FlashMain.op('local/multiCompSource')
+Basetempo 81 0 "op(str(parent.FlashMain.par.Bpmsource)+ '/out1')['transport_tempo']"
+Active 66 off
+Lagenvelope 64 easeout
+Source 64 Gen8_Displace_out1
+Srcchanlookup 64 8ths_offset
+Srcchanramp 64 gen_ramp8
+Srcchanlocal 64 on
+Activehold 66 off
+?

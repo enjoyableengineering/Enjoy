@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 3
+clone 49 parent.FlashMain.op('local/keyPaletteChooser') parent.FlashMain.op('local/keyPaletteChooser')
+Coloroption 64 colorOption5
+Keyoption 64 keyOption9
+?

@@ -1,0 +1,4 @@
+DAT:null
+tile -700 -600 130 90
+flags =  lock on viewer 1 parlanguage 0
+end

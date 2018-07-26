@@ -1,0 +1,8 @@
+TOP:text
+tile -225 -125 130 75
+flags =  viewer 1
+exports
+{
+out1
+}
+end

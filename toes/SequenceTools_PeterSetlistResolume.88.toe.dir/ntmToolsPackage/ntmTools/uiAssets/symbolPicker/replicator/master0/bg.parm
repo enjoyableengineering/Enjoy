@@ -1,0 +1,27 @@
+?
+stdswitcher1 0 1
+text 49 Button chr(op('../allSymbols')[parent().digits,'chr'])
+legacyparsing 0 on
+chopvaluereplace 0 on
+font 0 Segoe_UI_Symbol
+dispmethod 0 polygon
+antialias 0 aa8mid
+fontsizex 0 20
+fontcolorr 17 1 op('color')[int(op('i')['state']+1),'font']
+fontcolorg 17 1 op('color')[int(op('i')['state']+1),'font']
+fontcolorb 17 1 op('color')[int(op('i')['state']+1),'font']
+bgcolorr 17 0 op('color')[int(op('i')['state']+1),'background']
+bgcolorg 17 0 op('color')[int(op('i')['state']+1),'background']
+bgcolorb 17 0 op('color')[int(op('i')['state']+1),'background']
+bgalpha 0 1
+borderar 17 1 op('color')[int(op('i')['state']+1),'border']
+borderag 17 1 op('color')[int(op('i')['state']+1),'border']
+borderab 17 1 op('color')[int(op('i')['state']+1),'border']
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+resolutionw 17 256 me.parent().par.panelw
+resolutionh 17 256 me.parent().par.panelh
+resmult 0 off
+?

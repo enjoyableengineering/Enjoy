@@ -1,0 +1,9 @@
+CHOP:null
+tile -440 1830 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	consolidateLayerPars/outBlend
+}
+view 11 -1 1 1 -1.5 1.5 -9.80335 25.1155 -4.01013 19.8697 -0.138915 1.08677 5 2 2072 20 2 0
+end

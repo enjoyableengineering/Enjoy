@@ -1,0 +1,4 @@
+DAT:in
+tile -375 -125 130 90
+flags =  viewer 1 parlanguage 0
+end

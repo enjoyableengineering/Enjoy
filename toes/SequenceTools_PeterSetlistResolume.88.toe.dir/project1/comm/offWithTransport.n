@@ -1,0 +1,13 @@
+CHOP:math
+tile 410 2210 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	merge3
+}
+exports
+{
+transport_off
+}
+view 5 -1 1 363.351 -1.5 1.5 4 2 10648 20 0
+end

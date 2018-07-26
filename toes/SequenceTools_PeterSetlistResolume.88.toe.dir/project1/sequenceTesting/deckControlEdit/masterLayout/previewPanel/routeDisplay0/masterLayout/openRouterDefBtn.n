@@ -1,0 +1,7 @@
+COMP:container
+v 393.37 334.662 0.0222222
+tags 0 2 TDMaster TDWidget
+tile -75 25 150 155
+flags =  picked on current on viewer 1 parlanguage 0
+color 0.6 0.6 0.6 
+end

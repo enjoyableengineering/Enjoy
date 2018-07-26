@@ -1,0 +1,5 @@
+?
+chop 0 /project1/sequenceTesting/launchTesting/timing_state_ableton
+channames 0 "transport_tempo transport_state"
+autoexportroot 17 "" parent()
+?

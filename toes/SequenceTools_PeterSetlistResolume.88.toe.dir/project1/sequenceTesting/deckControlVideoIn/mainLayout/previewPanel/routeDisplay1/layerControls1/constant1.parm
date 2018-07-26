@@ -1,0 +1,15 @@
+?
+name0 0 over
+name1 0 add
+value1 0 1
+name2 0 mult
+value2 0 15
+name3 0 diff
+value3 0 6
+name4 0 max
+value4 0 11
+name5 0 other
+value5 0 18
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

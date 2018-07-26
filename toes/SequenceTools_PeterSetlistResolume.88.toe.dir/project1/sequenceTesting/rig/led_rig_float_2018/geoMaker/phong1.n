@@ -1,0 +1,4 @@
+MAT:phong
+tile 75 -1600 130 90
+flags =  parlanguage 0
+end

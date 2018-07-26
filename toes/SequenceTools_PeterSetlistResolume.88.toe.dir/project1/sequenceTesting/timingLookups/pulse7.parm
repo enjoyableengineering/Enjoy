@@ -1,0 +1,13 @@
+?
+stdswitcher1 0 5
+width 49 0.1 parent().par.Samplesperbeat/16
+widthunit 32 samples
+channelname 0 on_8th_lag
+startunit 0 samples
+end 49 239 "4 * parent().par.Samplesperbeat - 1"
+endunit 32 samples
+rate 17 60 me.time.rate
+left 0 cycle
+right 0 cycle
+autoexportroot 17 "" parent()
+?

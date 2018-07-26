@@ -1,0 +1,7 @@
+?
+ops 49 parent.editorMain.op('ui/masterLayout1/masterLayout2/timeHeader') op.seqToolsEditorTimelineTopHeader
+parameters 0 h
+custom 0 off
+builtin 0 on
+autoexportroot 17 "" parent()
+?

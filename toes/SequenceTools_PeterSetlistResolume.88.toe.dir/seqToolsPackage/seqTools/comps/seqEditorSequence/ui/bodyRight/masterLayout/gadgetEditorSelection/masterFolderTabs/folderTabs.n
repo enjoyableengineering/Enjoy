@@ -1,0 +1,7 @@
+COMP:container
+v 315.937 238.25 0.64105
+tags 0 1 TDSubComp
+tile 200 -300 160 76
+flags =  picked on current on viewer 1 parlanguage 0
+color 0.68 0.453333 0 
+end

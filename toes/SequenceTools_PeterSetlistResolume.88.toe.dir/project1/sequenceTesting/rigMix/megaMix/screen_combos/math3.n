@@ -1,0 +1,8 @@
+CHOP:math
+tile -800 -8275 130 90
+flags =  viewer 1 bypass on parlanguage 0
+inputs
+{
+0 	constant41
+}
+end

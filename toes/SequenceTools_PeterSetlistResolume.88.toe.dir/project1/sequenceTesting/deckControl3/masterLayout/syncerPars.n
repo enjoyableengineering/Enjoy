@@ -1,0 +1,5 @@
+CHOP:par
+tags 0 1 activeKick
+tile -1400 -700 130 90
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,5 @@
+?
+dat 2 $colorexp/symbol_button_off
+rowindexend 17 15 "$NR - 1"
+colindexend 17 2 "$NC - 1"
+?

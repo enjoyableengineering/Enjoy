@@ -1,0 +1,15 @@
+CHOP:switch
+tile 340 -1880 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	themeDeck1
+1 	themeDeck2
+2 	themeDeck3
+3 	themeDeck4
+}
+exports
+{
+focusDeckExport
+}
+end

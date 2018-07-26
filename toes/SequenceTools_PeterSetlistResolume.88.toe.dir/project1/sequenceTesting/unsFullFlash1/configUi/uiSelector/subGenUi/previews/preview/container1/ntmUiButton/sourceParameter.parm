@@ -1,0 +1,7 @@
+?
+ops 32 /project1/sequenceTesting/unsFullFlash1/configUi/uiSelector/subGenUi/previews/preview/container1/ntmUiButton/ntmUiBase
+parameters 32 Basepar
+renameto 0 state
+builtin 0 on
+autoexportroot 17 "" parent()
+?

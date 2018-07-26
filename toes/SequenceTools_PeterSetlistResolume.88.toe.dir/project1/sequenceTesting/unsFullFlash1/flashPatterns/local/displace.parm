@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 3
+clone 49 parent.FlashMain.op('local/displace') parent.FlashMain.op('local/displace')
+Vertsource 64 green
+Midpoint1 64 0.6
+Midpoint2 64 0.6
+Displaceweight1 64 0.04
+Displaceweight2 64 0.04
+Offset1 96 0.7
+Offset2 96 0.5
+Uvweight 64 1.5
+Extend 64 repeat
+Displacemultiply 64 1
+Inputfiltertype 64 nearest
+?

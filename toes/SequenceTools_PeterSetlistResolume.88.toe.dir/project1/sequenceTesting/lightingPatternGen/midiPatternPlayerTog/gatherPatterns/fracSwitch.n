@@ -1,0 +1,113 @@
+CHOP:switch
+tile 1410 -420 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	fractChan1
+1 	fractChan2
+2 	fractChan3
+3 	fractChan4
+4 	fractChan5
+5 	fractChan6
+6 	fractChan7
+7 	fractChan8
+8 	fractChan9
+9 	fractChan10
+10 	fractChan11
+11 	fractChan12
+12 	fractChan13
+13 	fractChan14
+14 	fractChan15
+15 	fractChan16
+16 	fractChan17
+17 	fractChan18
+18 	fractChan19
+19 	fractChan20
+20 	fractChan21
+21 	fractChan22
+22 	fractChan23
+23 	fractChan24
+24 	fractChan25
+25 	fractChan26
+26 	fractChan27
+27 	fractChan28
+28 	fractChan29
+29 	fractChan30
+30 	fractChan31
+31 	fractChan32
+32 	fractChan33
+33 	fractChan34
+34 	fractChan35
+35 	fractChan36
+36 	fractChan37
+37 	fractChan38
+38 	fractChan39
+39 	fractChan40
+40 	fractChan41
+41 	fractChan42
+42 	fractChan43
+43 	fractChan44
+44 	fractChan45
+45 	fractChan46
+46 	fractChan47
+47 	fractChan48
+48 	fractChan49
+49 	fractChan50
+50 	fractChan51
+51 	fractChan52
+52 	fractChan53
+53 	fractChan54
+54 	fractChan55
+55 	fractChan56
+56 	fractChan57
+57 	fractChan58
+58 	fractChan59
+59 	fractChan60
+60 	fractChan61
+61 	fractChan62
+62 	fractChan63
+63 	fractChan64
+64 	fractChan65
+65 	fractChan66
+66 	fractChan67
+67 	fractChan68
+68 	fractChan69
+69 	fractChan70
+70 	fractChan71
+71 	fractChan72
+72 	fractChan73
+73 	fractChan74
+74 	fractChan75
+75 	fractChan76
+76 	fractChan77
+77 	fractChan78
+78 	fractChan79
+79 	fractChan80
+80 	fractChan81
+81 	fractChan82
+82 	fractChan83
+83 	fractChan84
+84 	fractChan85
+85 	fractChan86
+86 	fractChan87
+87 	fractChan88
+88 	fractChan89
+89 	fractChan90
+90 	fractChan91
+91 	fractChan92
+92 	fractChan93
+93 	fractChan94
+94 	fractChan95
+95 	fractChan96
+96 	fractChan97
+97 	fractChan98
+98 	fractChan99
+99 	fractChan100
+100 	fractChan101
+}
+exports
+{
+null1
+}
+view 5 -1 1 22.5469 -1.5 1.5 4 2 10648 20 0
+end

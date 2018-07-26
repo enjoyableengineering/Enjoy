@@ -1,0 +1,20 @@
+?
+stdswitcher1 0 1
+number 0 16
+width 49 0.1 parent().par.Samplesperbeat/32
+widthunit 32 samples
+pulse1 0 0
+pulse2 0 0
+pulse4 0 0
+pulse10 0 0
+pulse12 0 0
+pulse13 0 0
+channelname 0 on_8th_lag
+startunit 0 samples
+end 49 239 "4 * parent().par.Samplesperbeat - 1"
+endunit 32 samples
+rate 17 60 me.time.rate
+left 0 cycle
+right 0 cycle
+autoexportroot 17 "" parent()
+?

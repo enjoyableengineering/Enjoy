@@ -1,0 +1,12 @@
+TOP:text
+tile 525 -275 73 105
+flags =  viewer 1 parlanguage 0
+exports
+{
+uiConfig/boldExport
+uiConfig/fontExport
+uiConfig/alignText
+uiConfig/BorderSize
+uiConfig/Text_ColorsExport1
+}
+end

@@ -1,0 +1,4 @@
+CHOP:constant
+tile 800 400 130 90
+flags =  viewer 1 parlanguage 0
+end

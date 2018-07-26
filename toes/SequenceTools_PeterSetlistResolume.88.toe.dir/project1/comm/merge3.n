@@ -1,0 +1,11 @@
+CHOP:merge
+tile -120 2130 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	shift1
+1 	selectLxBeatPulse1
+2 	themKickMath
+}
+view 5 -1 1 13.2156 -1.5 1.5 4 2 10648 20 0
+end

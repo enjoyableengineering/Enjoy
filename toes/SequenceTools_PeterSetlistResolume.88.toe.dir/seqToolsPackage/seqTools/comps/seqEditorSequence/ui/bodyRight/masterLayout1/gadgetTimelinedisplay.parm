@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 3
+w 0 951
+h 0 309
+hmode 0 fill
+vmode 0 fill
+bottomanchor 0 1
+vorigin 0 1
+alignorder 0 1000
+sizefromwindow 0 on
+repocomp 17 "" me
+align 0 horizlr
+parentshortcut 0 Gadget
+Targetplayer 113 parent.editorMain.Playercomp parent.editorMain.PlayerComp
+Editor 113 parent.editorMain parent.editorMain
+?

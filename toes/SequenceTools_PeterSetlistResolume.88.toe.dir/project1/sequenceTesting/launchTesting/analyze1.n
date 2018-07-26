@@ -1,0 +1,9 @@
+CHOP:analyze
+tile 2840 -2550 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	trail3
+}
+color 0.68 0 0 
+end

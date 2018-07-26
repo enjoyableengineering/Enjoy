@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 2
+extension1 0 op('./SeqToolsClipSlotExt').module.SeqToolsClipSlotExt(me)
+promoteextension1 0 on
+opviewer 0 ./viewer
+clone 17 op.SeqTools.op('comps/seqClipSlot') op.SeqTools.op('comps/seqClipSlotAudio')
+Seqtoolscomp 113 op.SeqTools op.SeqTools
+Sourceclipcomp 64 seqClipMovie
+Play 64 off
+Syncchop 64 ../timerChans
+Syncchan 64 timer_seconds1
+?

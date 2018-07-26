@@ -1,0 +1,8 @@
+TOP:flip
+tile 550 -525 150 125
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	nudgeBeatLeftBg
+}
+end

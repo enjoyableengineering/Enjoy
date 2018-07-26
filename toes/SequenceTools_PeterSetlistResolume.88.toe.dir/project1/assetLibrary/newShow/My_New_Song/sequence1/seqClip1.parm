@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 4
+extension1 0 op('./SeqToolsEventClipExt').module.SeqToolsEventClipExt(me)
+promoteextension1 0 on
+Seqlabel 64 "seqClip_Chromatek - LV24.2.mp3"
+Seqduration 64 258.064
+Seqclipcomp 64 ./clip
+Seqreference 64 on
+?

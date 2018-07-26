@@ -1,0 +1,5 @@
+?
+chop 0 /project1/performUi/masterLayout/masterLayout/masterLayout1/system_dialogs/midiTestChannel
+renameto 0 ch1n12
+autoexportroot 17 "" parent()
+?

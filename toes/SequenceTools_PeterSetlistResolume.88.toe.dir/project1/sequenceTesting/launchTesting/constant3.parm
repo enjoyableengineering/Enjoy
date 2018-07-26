@@ -1,0 +1,6 @@
+?
+name0 0 playing_Ra
+value0 0 1
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

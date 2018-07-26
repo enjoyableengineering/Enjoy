@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 2
+type 0 clamp
+min 0 0
+max 0 3
+autoexportroot 17 "" me.parent()
+exporttable 0 limit1_export
+?

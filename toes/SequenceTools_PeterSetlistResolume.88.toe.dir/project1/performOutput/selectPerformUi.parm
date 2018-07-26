@@ -1,0 +1,7 @@
+?
+selectpanel 0 ../performUi
+w 0 1920
+h 0 1080
+alignorder 17 0 me.nodeX
+repocomp 17 "" me
+?

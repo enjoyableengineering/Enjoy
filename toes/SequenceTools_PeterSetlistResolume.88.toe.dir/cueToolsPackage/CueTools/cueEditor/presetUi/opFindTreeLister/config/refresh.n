@@ -1,0 +1,5 @@
+TOP:text
+tile -150 -325 114 94
+flags =  lock on picked on current on viewer 1 master_cloneImmune on parlanguage 0
+color 0 0.68 0 
+end

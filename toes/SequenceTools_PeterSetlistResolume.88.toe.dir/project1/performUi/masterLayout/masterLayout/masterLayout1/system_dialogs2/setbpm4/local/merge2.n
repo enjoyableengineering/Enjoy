@@ -1,0 +1,9 @@
+DAT:merge
+tile 210 420 130 90
+flags =  viewer 1
+inputs
+{
+0 	color_defaults
+1 	select_color
+}
+end

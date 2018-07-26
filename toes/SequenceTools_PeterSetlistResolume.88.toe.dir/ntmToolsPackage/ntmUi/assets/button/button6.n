@@ -1,0 +1,6 @@
+COMP:base
+v 322.173 362.373 0.132712
+tags 0 3 ntmUiStyle ntmUi ntmUiStyleButton
+tile -650 50 160 130
+flags =  current on viewer 1 parlanguage 0
+end

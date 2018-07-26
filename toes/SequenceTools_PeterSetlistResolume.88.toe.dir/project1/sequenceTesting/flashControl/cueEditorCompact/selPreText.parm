@@ -1,0 +1,14 @@
+?
+dat 0 quickPreSel
+text 0 "Selected Preset : "
+fontsizex 0 10
+alignx 0 left
+borderspace1 0 6
+borderspace2 0 0
+fontcolorr 0 0.7
+fontcolorg 0 0.7
+fontcolorb 0 0.7
+resolutionw 49 256 op('quickSelect').width
+resolutionh 49 256 op('quickSelect').height
+resmult 0 off
+?

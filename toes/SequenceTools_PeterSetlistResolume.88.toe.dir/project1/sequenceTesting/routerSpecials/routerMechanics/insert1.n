@@ -1,0 +1,8 @@
+DAT:insert
+tile 1000 -1870 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	choptoSourceIds
+}
+end

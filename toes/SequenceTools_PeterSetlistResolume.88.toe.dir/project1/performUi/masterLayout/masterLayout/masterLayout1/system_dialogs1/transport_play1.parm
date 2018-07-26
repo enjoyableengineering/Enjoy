@@ -1,0 +1,21 @@
+?
+stdswitcher1 0 2
+w 0 40
+h 0 28
+alignorder 17 0 $OD
+display 0 off
+bgcolorr 0 0.125
+bgcolorg 0 0.125
+bgcolorb 0 0.125
+bgalpha 0 1
+top 0 ./bg
+borderar 0 0.081648
+borderag 0 0.567
+borderab 0 0.567
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+drag 0 dragparent
+drop 0 dropparent
+?

@@ -1,0 +1,4 @@
+COMP:base
+tile 450 -150 160 130
+flags =  parlanguage 0
+end

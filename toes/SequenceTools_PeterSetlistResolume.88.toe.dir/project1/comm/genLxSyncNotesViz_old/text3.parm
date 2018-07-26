@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 1
+dat 0 noteFxNames1
+text 0 ""
+fontsizex 0 27
+linespacing 0 146
+alignx 0 left
+aligny 0 top
+borderspace1 0 15
+borderspace2 0 24
+resolutionw 49 696 "op('crop1').height * 1.2"
+resolutionh 49 1980 "op('crop1').width "
+resmult 0 off
+?

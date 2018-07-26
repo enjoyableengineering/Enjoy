@@ -1,0 +1,9 @@
+CHOP:math
+tile 590 2210 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	offWithTransport
+1 	select2
+}
+end

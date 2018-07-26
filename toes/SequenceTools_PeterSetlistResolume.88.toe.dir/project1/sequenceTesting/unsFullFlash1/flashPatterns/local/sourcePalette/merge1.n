@@ -1,0 +1,15 @@
+DAT:merge
+tile 370 20 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	evalGenSrc1
+1 	evalGenSrc2
+2 	evalGenSrc3
+3 	evalGenSrc4
+4 	evalGenSrc5
+5 	evalGenSrc6
+6 	evalGenSrc7
+7 	evalGenSrc8
+}
+end

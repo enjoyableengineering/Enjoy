@@ -1,0 +1,6 @@
+?
+pages 1 Viewer
+772804867 Allowinteraction "Allow Interaction" 1 1 0 0 1 1 1 0 0 "" Viewer 1
+772804867 Interactionbutton "Interaction Button" 1 1 0 0 1 1 1 0 0 "" Viewer 2
+772804878 Opviewer "Operator Viewer" 1 1 0 0 1 1 1 0 0 ./out1 Viewer 0
+?

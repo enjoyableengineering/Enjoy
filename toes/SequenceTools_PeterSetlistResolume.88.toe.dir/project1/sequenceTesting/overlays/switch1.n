@@ -1,0 +1,15 @@
+TOP:switch
+tile 900 -170 130 54
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	in1
+1 	over1
+}
+exports
+{
+null1
+null2
+}
+color 0.226667 0.68 0 
+end

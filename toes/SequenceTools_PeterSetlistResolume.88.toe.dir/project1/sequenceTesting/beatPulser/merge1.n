@@ -1,0 +1,17 @@
+CHOP:merge
+tile 600 -650 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	timeChanMaker8/out1
+1 	timeChanMaker/out1
+2 	timeChanMaker1/out1
+3 	timeChanMaker2/out1
+4 	math1
+5 	timeChanMaker3/out1
+6 	timeChanMaker6/out1
+7 	timeChanMaker4/out1
+8 	timeChanMaker5/out1
+9 	timeChanMaker7/out1
+}
+end

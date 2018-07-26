@@ -1,0 +1,9 @@
+CHOP:replace
+tile -2650 2980 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	constant1
+1 	midiin1
+}
+end

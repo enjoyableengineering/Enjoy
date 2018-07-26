@@ -1,0 +1,9 @@
+TOP:render
+tile 50 50 130 53
+flags =  viewer 1 parlanguage 0
+exports
+{
+pixelDims
+}
+view 3 0 0 1 1 0
+end

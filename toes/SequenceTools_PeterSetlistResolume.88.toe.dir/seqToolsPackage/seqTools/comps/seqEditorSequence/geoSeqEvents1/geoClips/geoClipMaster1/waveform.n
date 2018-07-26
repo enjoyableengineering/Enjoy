@@ -1,0 +1,9 @@
+CHOP:null
+tile 275 375 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	trim1
+}
+view 9 -1 1 2.33307 -1.5 1.5 5831.27 9563.14 -1.60192 1.56495 5 2 10264 10 1 0
+end

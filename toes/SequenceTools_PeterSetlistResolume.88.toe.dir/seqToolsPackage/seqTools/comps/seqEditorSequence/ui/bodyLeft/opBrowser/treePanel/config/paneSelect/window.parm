@@ -1,0 +1,11 @@
+?
+winop 49 "" parent()
+title 17 "" me
+justifyoffsetto 0 allmonitors
+justifyh 0 mouse
+justifyv 0 mouse
+winoffsetx 17 0 "parent().par.w / 2"
+winoffsety 17 0 "- parent().par.h / 2"
+single 0 singlemonitor
+borders 0 off
+?

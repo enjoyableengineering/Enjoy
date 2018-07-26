@@ -1,0 +1,11 @@
+?
+repsuffixstart 0 0
+template 0 tracksDataChan
+opprefix 0 chanTrack
+master 49 op.SeqTools.op('comps/seqClipSlot') op.SeqTools.op('comps/seqClipSlotChan')
+destination 48 ../.. ../..
+callbacks 0 track_replicate_callbacks
+layout 0 vertical
+layoutorigin1 0 850
+layoutorigin2 0 -100
+?

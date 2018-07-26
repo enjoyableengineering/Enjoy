@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 3
+h 49 300 parent.UiMain.par.Previewheight+parent.UiMain.par.Labelheight
+hmode 0 fill
+alignorder 17 0 me.nodeX
+repocomp 17 "" me
+align 0 horizlr
+?

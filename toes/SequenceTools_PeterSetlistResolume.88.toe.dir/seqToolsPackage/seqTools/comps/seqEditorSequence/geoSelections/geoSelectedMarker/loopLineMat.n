@@ -1,0 +1,4 @@
+MAT:constant
+tile 3250 -225 130 90
+flags =  viewer 1 parlanguage 0
+end

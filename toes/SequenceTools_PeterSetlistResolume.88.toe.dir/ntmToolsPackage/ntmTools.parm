@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 1
+extension1 0 op('./NtmToolsExt').module.NtmToolsExt(me)
+promoteextension1 0 on
+parentshortcut 0 NtmToolsParent
+opshortcut 0 NtmTools
+Editrouter 64 /project1/sequenceTesting/routerDeckEdit
+?

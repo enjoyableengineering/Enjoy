@@ -1,0 +1,9 @@
+CHOP:replace
+tile 250 -875 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	constant3
+1 	rename1
+}
+end

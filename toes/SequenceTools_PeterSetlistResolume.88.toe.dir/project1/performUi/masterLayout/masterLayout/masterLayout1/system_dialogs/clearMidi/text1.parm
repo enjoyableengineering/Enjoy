@@ -1,0 +1,29 @@
+?
+text 0 "CLEAR NOTES"
+legacyparsing 0 on
+leadingzero 0 off
+chopvaluereplace 0 on
+fontfile 0 Font/ocr-aregular.1.ttf
+antialias 0 aa8mid
+fontsizex 0 12
+fontsizexunit 0 pixels
+fontsizey 0 15
+fontsizeyunit 0 pixels
+multrgbbyalpha 0 off
+fontcolorr 0 0.9
+fontcolorg 0 0
+fontcolorb 0 0
+bgcolorr 0 0.05
+bgcolorg 0 0.05
+bgcolorb 0 0.05
+bgalpha 0 0.1
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+borderbalpha 0 0
+resolutionw 17 85 par(\"../panelw\")
+resolutionh 17 20 par(\"../panelh\")
+resmenu 0 400x300
+resmult 0 off
+?

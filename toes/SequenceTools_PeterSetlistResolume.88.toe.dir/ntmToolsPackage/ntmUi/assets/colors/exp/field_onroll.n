@@ -1,0 +1,9 @@
+DAT:eval
+tile 3540 2030 130 90
+flags = 
+inputs
+{
+0 	field_on
+}
+color 0.226667 0.68 0 
+end

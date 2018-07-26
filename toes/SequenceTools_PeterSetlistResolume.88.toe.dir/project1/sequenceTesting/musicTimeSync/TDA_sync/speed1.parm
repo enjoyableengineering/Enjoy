@@ -1,0 +1,6 @@
+?
+limittype 0 loop
+resetcondition 0 ontooff
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

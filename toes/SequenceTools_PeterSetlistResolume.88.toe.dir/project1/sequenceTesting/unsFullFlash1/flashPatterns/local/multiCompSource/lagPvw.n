@@ -1,0 +1,8 @@
+CHOP:lag
+tile 470 -1250 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	null4
+}
+end

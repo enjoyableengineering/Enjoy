@@ -1,0 +1,5 @@
+?
+dat 0 $colorexp/button_border
+rowindexend 17 8 "$NR - 1"
+colindexend 17 2 "$NC - 1"
+?

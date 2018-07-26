@@ -1,0 +1,4 @@
+CHOP:perform
+tile 375 800 130 90
+flags =  export on parlanguage 0
+end

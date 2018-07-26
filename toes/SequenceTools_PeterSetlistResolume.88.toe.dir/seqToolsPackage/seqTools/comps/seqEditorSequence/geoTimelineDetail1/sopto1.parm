@@ -1,0 +1,6 @@
+?
+sop 0 sopBeatPoints
+rate 17 60 me.time.rate
+exportmethod 0 datname
+autoexportroot 17 "" parent()
+?

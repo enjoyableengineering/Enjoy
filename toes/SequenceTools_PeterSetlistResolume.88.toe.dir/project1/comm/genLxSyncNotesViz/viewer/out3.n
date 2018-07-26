@@ -1,0 +1,8 @@
+TOP:out
+tile 1050 -340 124 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	chopto1
+}
+end

@@ -1,0 +1,23 @@
+?
+text 0 ""
+posttext 49 parent().digits op('../templateTable')[parent().digits,'name']
+dispmethod 0 bitmap
+antialias 0 off
+fontsizex 49 10 parent.UiMain.par.Labelfontsize
+fontcolorr 49 1 op('color')[int(op('i')['state']+1),'font']
+fontcolorg 49 1 op('color')[int(op('i')['state']+1),'font']
+fontcolorb 49 1 op('color')[int(op('i')['state']+1),'font']
+bgcolorr 49 0 op('color')[int(op('i')['state']+1),'background']
+bgcolorg 49 0 op('color')[int(op('i')['state']+1),'background']
+bgcolorb 49 0 op('color')[int(op('i')['state']+1),'background']
+borderar 17 1 op('color')[int(op('i')['state']+1),'border']
+borderag 17 1 op('color')[int(op('i')['state']+1),'border']
+borderab 17 1 op('color')[int(op('i')['state']+1),'border']
+borderaalpha 0 0
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+resolutionw 49 256 op('label').width
+resolutionh 49 256 op('label').height
+?

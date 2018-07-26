@@ -1,0 +1,5 @@
+?
+chop 0 ../layerComp*/controlPars
+autoprefix 0 off
+autoexportroot 17 "" parent()
+?

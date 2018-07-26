@@ -1,0 +1,10 @@
+TOP:over
+tile 175 400 130 92
+flags =  parlanguage 0
+inputs
+{
+0 	render2
+1 	constant2
+}
+view 3 0 0 1 1 0
+end

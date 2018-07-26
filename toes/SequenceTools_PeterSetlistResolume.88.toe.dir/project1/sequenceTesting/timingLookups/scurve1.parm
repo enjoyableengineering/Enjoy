@@ -1,0 +1,7 @@
+?
+length 0 60
+steepness 0 1.21
+rate 17 60 me.time.rate
+right 0 default
+autoexportroot 17 "" parent()
+?

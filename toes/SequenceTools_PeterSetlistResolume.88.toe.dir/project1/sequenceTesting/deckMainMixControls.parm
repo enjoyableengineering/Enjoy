@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 7
+w 0 270
+h 0 180
+repocomp 17 "" me
+align 0 verttb
+spacing 0 2
+justifyh 0 left
+extension1 0 op('./NtmUiPanelGadgetExt').module.NtmUiPanelGadgetExt(me)
+extname1 0 PanelExt
+promoteextension1 0 on
+parentshortcut 0 PanelMain
+Panellabel 64 "Deck Mix"
+Decklevel1 64 1
+?

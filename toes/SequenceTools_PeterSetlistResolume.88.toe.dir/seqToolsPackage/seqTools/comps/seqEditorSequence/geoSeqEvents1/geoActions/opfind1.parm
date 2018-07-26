@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 2
+component 49 parent().par.Seqcomp.eval() parent.editorMain.PlayerComp.SeqComp
+limitmaxdepth 0 off
+tagsfilter 0 seqCueAction
+typecol 0 off
+pathcol 0 on
+callbacks 0 opfind1_callbacks
+?

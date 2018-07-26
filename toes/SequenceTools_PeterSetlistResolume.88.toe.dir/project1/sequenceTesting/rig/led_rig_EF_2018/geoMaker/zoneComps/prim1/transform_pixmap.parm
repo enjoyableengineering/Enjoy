@@ -1,0 +1,5 @@
+?
+tx 49 -448 "-(ext.MasterRaster.par.Rasterx/2 - (ext.Plugin.par.Regionsizex/2)) + ext.Plugin.par.Regionposx"
+ty 49 352 "(ext.MasterRaster.par.Rastery/2 - (ext.Plugin.par.Regionsizey/2)) - ext.Plugin.par.Regionposy"
+tz 48 0 int(op('region')[0,3])
+?

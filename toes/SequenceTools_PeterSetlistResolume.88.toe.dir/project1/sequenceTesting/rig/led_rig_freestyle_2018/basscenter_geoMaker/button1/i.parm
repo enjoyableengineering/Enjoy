@@ -1,0 +1,11 @@
+?
+chanperexpr 0 2
+limitexpr 0 on
+expr0 17 0 me.inputVal+2*me.inputs[0][1][0]
+expr1 17 0 me.inputVal
+expr2 17 0 me.inputVal
+expr3 17 0 me.inputVal
+expr4 17 0 me.inputVal
+expr5 17 0 me.inputVal
+autoexportroot 17 "" me.parent()
+?

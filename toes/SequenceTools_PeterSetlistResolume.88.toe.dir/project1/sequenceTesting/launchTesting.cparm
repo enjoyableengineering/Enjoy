@@ -1,0 +1,22 @@
+?
+pages 3 Launcher "Cue Writing" "System Comps"
+772804867 Writecues Writecues 1 1 0 0 1 1 1 0 0 "" "Cue Writing" 0
+772804877 Songcuescomp Songcuescomp 1 1 0 0 1 1 1 0 0 "" "Cue Writing" 3
+772804869 Updatecuedict Updatecuedict 1 1 0 0 1 1 1 0 0 "" Launcher 2
+772804877 Clipsync1 Clipsync1 1 1 0 0 1 1 1 0 0 "" "System Comps" 4
+772804877 Clipsync2 Clipsync2 1 1 0 0 1 1 1 0 0 "" "System Comps" 5
+772804877 Clipsync3 Clipsync3 1 1 0 0 1 1 1 0 0 "" "System Comps" 6
+772804877 Clipsync4 Clipsync4 1 1 0 0 1 1 1 0 0 "" "System Comps" 7
+772804877 Player1 Player1 1 1 0 0 1 1 1 0 0 "" "System Comps" 8
+772804877 Player2 Player2 1 1 0 0 1 1 1 0 0 "" "System Comps" 9
+772804877 Cuedatacomp Cuedatacomp 1 1 0 0 1 1 1 0 0 "" Launcher 0
+772804867 Newsong Newsong 1 1 0 0 1 1 1 0 0 "" "Cue Writing" 1
+772804868 Newsongname Newsongname 1 1 0 0 1 1 1 0 0 "" "Cue Writing" 2
+772804877 Seqbincomp Seqbincomp 1 1 0 0 1 1 1 0 0 "" Launcher 1
+772804877 Player4 Player4 1 1 0 0 1 1 1 0 0 "" "System Comps" 11
+772804877 Player3 Player3 1 1 0 0 1 1 1 0 0 "" "System Comps" 10
+772804877 Seqroute1 Seqroute1 1 1 0 0 1 1 1 0 0 "" "System Comps" 0
+772804877 Seqroute2 Seqroute2 1 1 0 0 1 1 1 0 0 "" "System Comps" 1
+772804877 Seqroute3 Seqroute3 1 1 0 0 1 1 1 0 0 "" "System Comps" 2
+772804877 Seqroute4 Seqroute4 1 1 0 0 1 1 1 0 0 "" "System Comps" 3
+?

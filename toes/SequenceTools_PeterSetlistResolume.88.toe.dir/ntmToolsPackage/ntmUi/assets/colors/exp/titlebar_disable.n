@@ -1,0 +1,9 @@
+DAT:null
+tile 170 1500 130 90
+flags = 
+inputs
+{
+0 	titlebar_off
+}
+color 0.226667 0.68 0 
+end

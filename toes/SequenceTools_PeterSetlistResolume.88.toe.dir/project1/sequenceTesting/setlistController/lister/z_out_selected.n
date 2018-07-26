@@ -1,0 +1,8 @@
+DAT:out
+tile 800 -1300 130 90
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	merge_colHeaders1
+}
+end

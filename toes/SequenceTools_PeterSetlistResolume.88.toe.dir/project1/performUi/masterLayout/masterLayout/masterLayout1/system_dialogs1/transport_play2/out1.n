@@ -1,0 +1,8 @@
+CHOP:out
+tile 575 300 130 90
+flags =  current on viewer 1
+inputs
+{
+0 	panel1
+}
+end

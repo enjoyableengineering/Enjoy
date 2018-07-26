@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 2
+h 32 225
+hmode 0 fill
+bottomanchor 0 0.75
+alignorder 49 0 me.nodeX
+repocomp 17 "" me
+align 0 horizlr
+spacing 0 1
+marginl 0 1
+marginr 0 1
+marginb 0 1
+margint 0 1
+?

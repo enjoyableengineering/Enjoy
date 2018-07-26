@@ -1,0 +1,13 @@
+?
+pages 1 Config
+772809729 Fontcolor "Text Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" 0 0 "" Config 2
+-300936945 Font Font 1 1 0 0 1 1 1 0 0 "" Config 4097 57 Arial Arial Arial_Black "Arial Black" Bahnschrift Bahnschrift Calibri Calibri Calibri_Light "Calibri Light" Candara Candara Comic_Sans_MS "Comic Sans MS" Consolas Consolas Constantia Constantia Corbel Corbel Courier_New "Courier New" Ebrima Ebrima Franklin_Gothic_Medium "Franklin Gothic Medium" Gabriola Gabriola Gadugi Gadugi Georgia Georgia Impact Impact Ink_Free "Ink Free" Javanese_Text "Javanese Text" Leelawadee_UI "Leelawadee UI" Leelawadee_UI_Semilight "Leelawadee UI Semilight" Lucida_Console "Lucida Console" Lucida_Sans_Unicode "Lucida Sans Unicode" MV_Boli "MV Boli" Malgun_Gothic "Malgun Gothic" Malgun_Gothic_Semilight "Malgun Gothic Semilight" Microsoft_Himalaya "Microsoft Himalaya" Microsoft_New_Tai_Lue "Microsoft New Tai Lue" Microsoft_PhagsPa "Microsoft PhagsPa" Microsoft_Sans_Serif "Microsoft Sans Serif" Microsoft_Tai_Le "Microsoft Tai Le" Microsoft_Yi_Baiti "Microsoft Yi Baiti" Mongolian_Baiti "Mongolian Baiti" Myanmar_Text "Myanmar Text" Nirmala_UI "Nirmala UI" Nirmala_UI_Semilight "Nirmala UI Semilight" Palatino_Linotype "Palatino Linotype" Segoe_MDL2_Assets "Segoe MDL2 Assets" Segoe_Print "Segoe Print" Segoe_Script "Segoe Script" Segoe_UI "Segoe UI" Segoe_UI_Black "Segoe UI Black" Segoe_UI_Emoji "Segoe UI Emoji" Segoe_UI_Historic "Segoe UI Historic" Segoe_UI_Light "Segoe UI Light" Segoe_UI_Semibold "Segoe UI Semibold" Segoe_UI_Semilight "Segoe UI Semilight" Segoe_UI_Symbol "Segoe UI Symbol" SimSun-ExtB SimSun-ExtB Sylfaen Sylfaen Symbol Symbol Tahoma Tahoma Times_New_Roman "Times New Roman" Trebuchet_MS "Trebuchet MS" Verdana Verdana Webdings Webdings Wingdings Wingdings 4 2 op('./master').par.font
+1846546703 Textalignx "Text Align X" 1 1 0 0 1 1 1 0 0 "" Config 4097 3 left Left center Center right Right 5 2 op('./master').par.alignx
+1846546703 Textaligny "Text Align Y" 1 1 0 0 1 1 1 0 0 "" Config 4097 3 bottom Bottom center Center top Top 6 2 op('./master').par.aligny
+772804865 Textsize "Text Size" 1 1 0 0 1 50 50 0 0 "" Config 3
+-1374678783 Headerheight "Header Height" 1 1 0 0 1 100 100 0 0 "" Config 7
+772804867 Bold Bold 1 1 0 0 1 1 1 0 0 "" Config 8
+772804868 Label Label 1 1 0 0 1 1 1 0 0 "" Config 0
+772809729 Background "Background Panel Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" 0 0 "" Config 1
+772805121 Borders Borders 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" Config 9
+?

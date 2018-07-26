@@ -1,0 +1,8 @@
+?
+integer 0 round
+fromrange1 0 1
+fromrange2 0 60
+torange1 0 -59
+torange2 0 0
+autoexportroot 17 "" me.parent()
+?

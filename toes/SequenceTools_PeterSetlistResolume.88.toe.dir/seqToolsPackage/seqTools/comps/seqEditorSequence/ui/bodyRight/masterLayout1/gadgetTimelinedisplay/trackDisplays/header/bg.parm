@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 1
+text 0 ""
+appendvalue 0 on
+valuetouse 2 0
+decimaldigits 0 0
+dispmethod 0 texture
+fontsizex 0 14
+alignx 0 right
+borderspace1 0 6
+borderspace2 0 0
+fontcolorr 0 0.7
+fontcolorg 0 0.7
+fontcolorb 0 0.7
+resolutionw 49 256 parent().width
+resolutionh 49 256 parent().height
+resmult 0 off
+?

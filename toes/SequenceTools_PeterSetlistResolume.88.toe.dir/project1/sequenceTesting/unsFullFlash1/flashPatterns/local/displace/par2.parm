@@ -1,0 +1,5 @@
+?
+parameters 0 "Displaceweight1 Displaceweight2"
+renameto 0 "displace1:displaceweight1 displace1:displaceweight2"
+autoexportroot 17 "" parent()
+?

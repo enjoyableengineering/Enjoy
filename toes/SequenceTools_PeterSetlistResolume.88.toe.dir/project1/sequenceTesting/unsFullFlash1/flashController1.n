@@ -1,0 +1,9 @@
+COMP:base
+v 611.073 452.395 0.171039
+tile 600 50 160 130
+flags =  viewer 1 parlanguage 0
+exports
+{
+../videoDataRouter/exportPatternTriggers
+}
+end

@@ -1,0 +1,15 @@
+CHOP:switch
+tile 100 800 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	constant2
+1 	renameDeck2
+2 	renameDeck3
+3 	renameDeck4
+}
+exports
+{
+limit1
+}
+end

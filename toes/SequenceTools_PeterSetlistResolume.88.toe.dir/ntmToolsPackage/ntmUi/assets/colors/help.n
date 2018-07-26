@@ -1,0 +1,4 @@
+COMP:base
+tile 600 30 160 130
+flags = 
+end

@@ -1,0 +1,13 @@
+?
+activecook 0 off
+objects 0 off
+panels 0 off
+tops 0 off
+sops 0 off
+mats 0 off
+dats 0 off
+namefilter 0 fileInOp
+typefilter 0 midi*
+pathcol 0 on
+callbacks 0 opfind1_callbacks
+?

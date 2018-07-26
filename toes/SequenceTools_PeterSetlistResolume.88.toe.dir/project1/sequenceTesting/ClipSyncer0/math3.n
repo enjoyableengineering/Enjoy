@@ -1,0 +1,8 @@
+CHOP:math
+tile 1575 -650 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	diffAvg_4frames1
+}
+end

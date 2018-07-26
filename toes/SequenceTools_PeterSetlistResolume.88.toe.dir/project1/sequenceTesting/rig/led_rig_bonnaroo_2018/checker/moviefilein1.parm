@@ -1,0 +1,5 @@
+?
+file 17 "" "app.samplesFolder + '/Map/BoxMap.tif'"
+index 17 0 me.time.frame
+multalpha 0 off
+?

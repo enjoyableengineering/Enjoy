@@ -1,0 +1,9 @@
+TOP:over
+tile 820 120 130 54
+flags =  current on viewer 1 parlanguage 0
+inputs
+{
+0 	level1
+1 	over2
+}
+end

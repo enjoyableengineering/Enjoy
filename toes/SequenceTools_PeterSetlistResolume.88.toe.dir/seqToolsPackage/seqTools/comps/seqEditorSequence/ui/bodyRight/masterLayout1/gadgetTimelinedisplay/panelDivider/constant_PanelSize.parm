@@ -1,0 +1,8 @@
+?
+name0 32 parentHeight
+value0 49 0 "getattr(me.parent(2), 'height', 0) "
+name1 32 parentWidth
+value1 49 0 "getattr(me.parent(2), 'width', 0)"
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

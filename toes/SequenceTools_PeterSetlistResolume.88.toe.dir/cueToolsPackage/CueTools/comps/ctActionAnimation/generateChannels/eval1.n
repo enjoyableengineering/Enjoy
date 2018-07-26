@@ -1,0 +1,9 @@
+DAT:eval
+tile 525 150 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	select2
+1 	table1
+}
+end

@@ -1,0 +1,4 @@
+TOP:text
+tile 280 250 150 125
+flags =  picked on current on viewer 1 parlanguage 0
+end

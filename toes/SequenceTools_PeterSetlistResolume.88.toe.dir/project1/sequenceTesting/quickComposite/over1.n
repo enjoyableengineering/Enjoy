@@ -1,0 +1,9 @@
+TOP:over
+tile 1475 625 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	player2/out1
+1 	transform1
+}
+end

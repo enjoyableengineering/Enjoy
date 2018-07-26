@@ -1,0 +1,9 @@
+COMP:button
+v 33.65 378.747 1.02661
+tile -125 225 160 155
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	song_name
+}
+end

@@ -1,0 +1,7 @@
+?
+stdswitcher1 0 3
+chopop 0 mul
+gain 48 1 op('solo')[me.sampleIndex]
+scope 0 "Transparency Solo"
+autoexportroot 17 "" me.parent()
+?

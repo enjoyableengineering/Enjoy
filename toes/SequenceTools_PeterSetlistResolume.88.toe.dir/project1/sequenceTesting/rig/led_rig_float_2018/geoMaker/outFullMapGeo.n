@@ -1,0 +1,11 @@
+SOP:out
+tags 0 1 saveGeo
+tile 0 -325 130 90
+flags =  viewer 1 activate on parlanguage 0
+inputs
+{
+0 	fullmapGeo
+}
+color 0.68 0 0 
+view 63 0.2 1 1 0 0 1 4434.42 45.7143 3911.11 3646.46 0 84 4434.42 0 84 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 -648.5 0 -1633.92 1 0 0 2.1754 0 0 0 1 0 0 0 1 0 0 0 1 15 1 1 1 195 787 1 -1 1 1 4 1 0 2 0 1
+end

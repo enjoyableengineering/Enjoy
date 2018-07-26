@@ -1,0 +1,79 @@
+CHOP:merge
+tile 0 0 130 90
+flags =  current on viewer 1
+inputs
+{
+0 	field_on
+1 	knob_off
+2 	button_on
+3 	gadget_bg
+4 	header_bg
+5 	knob_roll
+6 	root_time
+7 	button_off
+8 	label_text
+9 	template_on
+10 	titlebar_on
+11 	transparent
+12 	field_onroll
+13 	knob_disable
+14 	operator_DAT
+15 	operator_MAT
+16 	operator_SOP
+17 	operator_TOP
+18 	slider_bg_on
+19 	template_off
+20 	titlebar_off
+21 	button_onroll
+22 	buttontext_on
+23 	field_disable
+24 	indicator_off
+25 	operator_CHOP
+26 	operator_COMP
+27 	operator_PHOP
+28 	button_bordera
+29 	button_borderb
+30 	button_disable
+31 	button_offroll
+32 	buttontext_off
+33 	gadget_bordera
+34 	gadget_borderb
+35 	header_bordera
+36 	indicator_roll
+37 	checkbox_border
+38 	template_onroll
+39 	slider_bg_onroll
+40 	slider_range_off
+41 	template_bordera
+42 	template_borderb
+43 	template_offroll
+44 	titlebar_bordera
+45 	buttontext_onroll
+46 	indicator_disable
+47 	knobindicator_off
+48 	operator_COMPvoid
+49 	slider_bg_disable
+50 	titlebar_text_off
+51 	buttontext_disable
+52 	buttontext_offroll
+53 	knobindicator_roll
+54 	label_text_disable
+55 	operator_DATfilter
+56 	operator_MATfilter
+57 	operator_SOPfilter
+58 	operator_TOPfilter
+59 	operator_CHOPfilter
+60 	operator_COMPfilter
+61 	operator_PHOPfilter
+62 	button_border_disable
+63 	knobindicator_disable
+64 	operator_DATgenerator
+65 	operator_MATgenerator
+66 	operator_SOPgenerator
+67 	operator_TOPgenerator
+68 	operator_CHOPgenerator
+69 	operator_COMPgenerator
+70 	operator_PHOPgenerator
+71 	checkbox_border_disable
+}
+end

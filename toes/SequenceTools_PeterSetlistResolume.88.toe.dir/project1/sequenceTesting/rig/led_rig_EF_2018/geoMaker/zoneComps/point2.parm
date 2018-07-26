@@ -1,0 +1,26 @@
+?
+tx 49 0 me.inputPoint.x
+ty 49 0 me.inputPoint.y
+tz 49 0 "me.inputPoint.z - 10"
+weight 17 1 me.inputPoint.w
+doclr 0 on
+diffr 32 0
+diffg 32 0
+diffb 32 0
+alpha 0 0
+nx 17 0 me.inputNormal[0]
+ny 17 0 me.inputNormal[1]
+nz 17 0 me.inputNormal[2]
+mapu 17 0 me.inputTexture[0]
+mapv 17 0 me.inputTexture[1]
+mapw 17 0 me.inputTexture[2]
+tension 17 1 me.inputPoint.tension[0]
+springk 17 30 me.inputPoint.springk[0]
+vx 17 0 me.inputPoint.v[0]
+vy 17 0 me.inputPoint.v[1]
+vz 17 0 me.inputPoint.v[2]
+upx 17 0 me.inputPoint.up[0]
+upy 17 0 me.inputPoint.up[1]
+upz 17 0 me.inputPoint.up[2]
+pscale 17 1 me.inputPoint.pscale[0]
+?

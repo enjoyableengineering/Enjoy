@@ -1,0 +1,4 @@
+TOP:text
+tile 1020 50 150 125
+flags =  viewer 1
+end

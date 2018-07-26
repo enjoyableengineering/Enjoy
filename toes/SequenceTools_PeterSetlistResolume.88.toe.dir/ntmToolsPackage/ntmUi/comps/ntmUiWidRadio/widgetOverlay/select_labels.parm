@@ -1,0 +1,9 @@
+?
+dat 0 $gadget/local/define
+extractrows 0 bynames
+rowindexend 17 21 "$NR - 1"
+rownames 0 button[1-999]
+extractcols 0 byindex
+colindexstart 0 1
+colindexend 16 1 "$NC - 1"
+?

@@ -1,0 +1,4 @@
+CHOP:timer
+tile 2075 -625 130 90
+flags =  viewer 1 cloneImmune on parlanguage 0
+end

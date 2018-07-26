@@ -1,0 +1,9 @@
+TOP:over
+tile 210 -970 130 50
+flags =  viewer 1 display on parlanguage 0
+inputs
+{
+0 	render1
+1 	constant7
+}
+end

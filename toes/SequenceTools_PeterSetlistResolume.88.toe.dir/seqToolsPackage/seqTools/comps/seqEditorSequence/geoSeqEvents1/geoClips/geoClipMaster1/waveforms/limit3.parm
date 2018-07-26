@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 1
+chop 0 limit_parms
+chanx 0 tx
+chanrad 0 chan1
+chanr 0 r
+chang 0 g
+chanb 0 b
+customattrib0chan0 0 chan1vol
+output 0 tubes
+divisions 0 2
+rad 0 1
+flipsmooth 0 0
+normals 0 off
+?

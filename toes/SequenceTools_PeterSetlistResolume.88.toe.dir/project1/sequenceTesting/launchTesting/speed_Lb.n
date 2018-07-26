@@ -1,0 +1,8 @@
+CHOP:speed
+tile 800 -1925 130 90
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	constant2
+}
+end

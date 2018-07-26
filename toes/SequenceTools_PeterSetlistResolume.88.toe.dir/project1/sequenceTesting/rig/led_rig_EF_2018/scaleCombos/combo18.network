@@ -1,0 +1,17 @@
+1
+compinputs
+{
+0 	constant46
+	in1
+	CHOP
+1 	constant47
+	in2
+	CHOP
+2 	math25
+	in3
+	CHOP
+3 	math26
+	in4
+	CHOP
+}
+end

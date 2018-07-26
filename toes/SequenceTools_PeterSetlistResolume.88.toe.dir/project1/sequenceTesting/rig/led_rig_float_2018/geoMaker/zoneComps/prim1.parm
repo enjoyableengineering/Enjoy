@@ -1,0 +1,21 @@
+?
+stdswitcher1 0 7
+h 0 211
+display 0 off
+repocomp 17 "" me
+parentshortcut 0 Plugin
+Regionsizex 96 832
+Regionsizey 96 448
+Regionposx 64 256
+Tiledimx 64 80
+Tiledimy 64 80
+Regiontag 81 0 me.digits
+Regionlabel 80 led_main_ctr me.name
+Groupname1 64 led_main
+Fullmapposx 113 0 -me.par.Regionsizex/2
+Fullmapposy 112 560 -me.par.Regionsizey/2
+Ismainfullmap 64 on
+Fullmapdimx 81 0 me.par.Regionsizex
+Fullmapdimy 81 80 me.par.Regionsizey
+Includeinfullmap 64 on
+?

@@ -1,0 +1,6 @@
+?
+chop 49 op.UnsMusicTime.op('outBeatsCount') op.UnsMusicTime.op('outBeatsCount')
+channames 0 gen_beatsCumul
+renameto 0 position_Ma
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,5 @@
+?
+limittype 0 clamp
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

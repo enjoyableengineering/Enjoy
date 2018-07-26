@@ -1,0 +1,6 @@
+?
+preop 0 invert
+timeslice 0 on
+autoexportroot 17 "" me.parent()
+exporttable 0 logic3_export
+?

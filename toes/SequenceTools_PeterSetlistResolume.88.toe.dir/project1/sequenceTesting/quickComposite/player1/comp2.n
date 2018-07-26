@@ -1,0 +1,12 @@
+TOP:comp
+tile 1225 725 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	fxFlash/out1
+1 	level2
+2 	level3
+3 	level4
+4 	level5
+}
+end

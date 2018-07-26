@@ -1,0 +1,10 @@
+DAT:merge
+tile 180 -1040 130 90
+flags = 
+inputs
+{
+0 	void
+1 	void_rollover1
+}
+color 0.226667 0.68 0 
+end

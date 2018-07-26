@@ -1,0 +1,10 @@
+CHOP:replace
+tile 1050 -1300 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	constant7
+1 	join5
+}
+view 5 -1 1 1.81875 -1.5 1.5 4 2 10648 20 0
+end

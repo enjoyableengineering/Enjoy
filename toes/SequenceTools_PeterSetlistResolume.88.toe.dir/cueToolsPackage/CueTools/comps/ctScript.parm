@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 2
+clone 49 "" op.CueTools.op('comps/ctScript')
+Targetrootcomp 64 ..
+Actionlabel 64 "Script 1"
+Cuetoolscomp 113 op.CueTools.op('seqTools') op.CueTools
+Actiontype 192 script
+Scriptdat 64 ./script
+Scripttype 64 dat
+Actionid 192 0
+?

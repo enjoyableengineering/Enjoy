@@ -1,0 +1,6 @@
+COMP:base
+v -27.0577 150.528 3.27088
+tags 0 4 cueTools ctActionDef ctAction ctPreset
+tile -230 10 160 130
+flags =  picked on current on viewer 1 parlanguage 0
+end

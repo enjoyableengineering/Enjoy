@@ -1,0 +1,8 @@
+CHOP:null
+tile 150 -1025 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	timeChanMaker6/out1
+}
+end

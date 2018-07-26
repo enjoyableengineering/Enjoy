@@ -1,0 +1,26 @@
+3
+1
+0
+12
+1
+1
+12
+1
+1
+0
+0
+1
+1
+2 0 0 
+0
+{
+   rate = 60
+   start = 509
+   tracklength = 12
+   tracks = 1
+   {
+      name = speed
+      data_rle = 1 @11 0 
+   }
+
+}

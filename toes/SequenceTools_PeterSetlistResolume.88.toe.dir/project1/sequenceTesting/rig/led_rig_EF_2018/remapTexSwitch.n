@@ -1,0 +1,14 @@
+TOP:switch
+tile -420 -280 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	chanmix1
+1 	null3
+}
+exports
+{
+ledmapmode
+}
+color 0 0 0.68 
+end

@@ -1,0 +1,12 @@
+?
+repsuffixstart 0 0
+template 0 eval_expandedPaths
+ignorefirstrow 0 off
+opprefix 0 expanded
+master 0 opfindComponent
+destination 17 "" parent()
+callbacks 0 replicator_callbacks
+layout 0 horizontal
+layoutorigin1 0 0
+layoutorigin2 0 -100
+?

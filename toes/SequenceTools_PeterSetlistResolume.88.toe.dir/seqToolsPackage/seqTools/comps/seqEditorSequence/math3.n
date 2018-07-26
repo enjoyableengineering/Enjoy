@@ -1,0 +1,9 @@
+CHOP:math
+tile -225 -775 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	secPerBeatMath
+1 	wholeBeats
+}
+end

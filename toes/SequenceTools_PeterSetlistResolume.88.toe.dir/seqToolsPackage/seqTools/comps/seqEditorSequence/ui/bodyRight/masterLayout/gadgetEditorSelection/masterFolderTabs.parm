@@ -1,0 +1,84 @@
+?
+w 0 256
+h 0 23
+hmode 0 fill
+bottomanchor 0 1
+vorigin 0 1
+alignorder 17 2 me.nodeX
+helpdat 256 ./help
+vieweraspect 17 unconstrained me.par.sizefromwindow
+resizel 256 0
+resizer 256 0
+resizeb 256 0
+resizet 256 0
+repocomp 17 "" me
+bgcolorr 0 0.2
+bgcolorg 0 0.2
+bgcolorb 0 0.2
+bgalpha 0 1
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+borderover 0 on
+align 0 horizlr
+crop 0 on
+drop 0 dropparent
+promoteextension1 0 on
+parentshortcut 0 Widget
+opviewer 0 ./menuOptionsOut
+enablecloning 0 off
+Font 64 Segoe_UI
+Widgetkitversion 448 0.0.18
+Widgettox 192 masterFolderTabs
+Popuphelp 64 "Master Menu Widget"
+Menunames 64 "browser sequence event clip media"
+Menulabels 64 "browser sequence event clip media"
+Valname0 64 Value0
+Foldertablabelmargin 64 41
+Foldertabopenmargin 64 2
+Foldertabrightindent 64 0
+Folderfontsize 64 11
+Foldertaboffborderleft 64 on
+Foldertaboffborderright 64 on
+Foldertaboffbordertop 64 on
+Foldertabonborderleft 64 on
+Foldertabonborderright 64 on
+Foldertabonbordertop 64 on
+Rollovercolorr 64 0.7
+Rollovercolorg 64 0.7
+Rollovercolorb 64 0.7
+Rollovercolora 64 0.35
+Disablecolorr 80 0.2 None
+Disablecolorg 80 0.2 None
+Disablecolorb 80 0.2 None
+Disablecolora 80 0.65 None
+Foldertabonfacecolorr 64 0.25
+Foldertabonfacecolorg 64 0.25
+Foldertabonfacecolorb 64 0.25
+Foldertabonfacecolora 64 1
+Foldertabofffontcolorr 64 0.664
+Foldertabofffontcolorg 64 0.664
+Foldertabofffontcolorb 64 0.664
+Foldertabofffontcolora 64 1
+Foldertabonfontcolorr 64 0.7
+Foldertabonfontcolorg 64 0.7
+Foldertabonfontcolorb 64 0.7
+Foldertabonfontcolora 64 1
+Foldertabrollcolorr 64 0.7
+Foldertabrollcolorg 64 0.7
+Foldertabrollcolorb 64 0.7
+Foldertabrollcolora 64 0.35
+Foldertaboffbordercolorr 64 0
+Foldertaboffbordercolorg 64 0
+Foldertaboffbordercolorb 64 0
+Foldertaboffbordercolora 64 0
+Foldertabonbordercolorr 64 0
+Foldertabonbordercolorg 64 0
+Foldertabonbordercolorb 64 0
+Foldertabonbordercolora 64 0
+?

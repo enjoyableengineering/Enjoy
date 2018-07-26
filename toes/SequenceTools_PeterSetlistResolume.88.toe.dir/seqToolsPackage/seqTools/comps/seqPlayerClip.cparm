@@ -1,0 +1,14 @@
+?
+pages 2 "Sequence Tools" "Sequence Player"
+772804877 Seqtoolscomp "SeqTools COMP" 1 1 0 0 1 1 1 0 0 "" "Sequence Tools" 0
+772804877 Comptoplay "Clip COMP" 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 1
+772804865 Playtempo Playtempo 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 4
+772804867 Tempolock Tempolock 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 5
+772804867 Play Play 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 3
+772804869 Initialize Initialize 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 2
+772804867 Speedlock "Speed Lock" 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 6
+772804867 Synclock "Sync Lock" 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 7
+772804877 Synccomp Synccomp 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 8
+772804865 Speed Speed 1 3 0 0 3 10 4 0 1 "" "Sequence Player" 9
+772804867 Active Active 1 1 0 0 1 1 1 0 0 "" "Sequence Player" 0
+?

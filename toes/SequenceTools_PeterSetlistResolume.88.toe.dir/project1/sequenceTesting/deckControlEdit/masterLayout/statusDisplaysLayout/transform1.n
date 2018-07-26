@@ -1,0 +1,8 @@
+TOP:transform
+tile 450 -20 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	barMeasure
+}
+end

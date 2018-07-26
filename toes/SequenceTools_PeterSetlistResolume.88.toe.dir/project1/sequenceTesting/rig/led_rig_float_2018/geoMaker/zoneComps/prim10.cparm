@@ -1,0 +1,17 @@
+?
+pages 1 "Region Def"
+772804866 Regionsizex "Region Size X" 1 1 -3.40282e+38 0 1 3.40282e+38 1920 0 0 "" "Region Def" 0
+772804866 Regionsizey "Region Size Y" 1 1 -3.40282e+38 0 1 3.40282e+38 1080 0 0 "" "Region Def" 1
+772804866 Regionposx "REgion Pos X" 1 1 -3.40282e+38 0 1 3.40282e+38 1920 0 0 "" "Region Def" 2
+772804866 Tiledimx "Tile Dim X" 1 1 -3.40282e+38 0 1 3.40282e+38 120 0 0 "" "Region Def" 4
+772804866 Tiledimy "Tile Dimension Y" 1 1 -3.40282e+38 0 1 3.40282e+38 120 0 0 "" "Region Def" 5
+772804866 Regiontag "REgion Tag" 1 1 -3.40282e+38 0 1 3.40282e+38 10 0 0 "" "Region Def" 6
+772804868 Regionlabel "Region Label" 1 1 -3.40282e+38 0 1 3.40282e+38 1 0 0 "" "Region Def" 7
+772804866 Regionposy "Region Pos Y" 1 1 -3.40282e+38 0 1 3.40282e+38 1080 0 0 "" "Region Def" 3
+772804868 Groupname1 Groupname1 1 1 0 0 1 1 1 0 0 "" "Region Def" 8
+772813313 Fullmappos Fullmappos 1 1 0 -4000 1 1 4000 1 0 -4000 1 1 4000 0 0 "" 0 0 "" "Region Def" 9
+772804867 Ismainfullmap Ismainfullmap 1 1 0 0 1 1 1 0 0 "" "Region Def" 10
+772813313 Fullmapdim Fullmapdim 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" "Region Def" 11
+772804867 Includeinfullmap Includeinfullmap 1 1 0 0 1 1 1 0 0 "" "Region Def" 12
+772804865 Fullmaprotation Fullmaprotation 1 1 0 0 1 360 360 0 0 "" "Region Def" 13
+?

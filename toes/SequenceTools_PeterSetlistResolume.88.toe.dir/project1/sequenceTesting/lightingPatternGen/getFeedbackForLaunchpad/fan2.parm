@@ -1,0 +1,5 @@
+?
+channame 0 chan[0-31]
+range 0 loop
+autoexportroot 17 "" parent()
+?

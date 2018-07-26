@@ -1,0 +1,12 @@
+?
+play 49 on op('../seqToolsBase/timerPars')[1]
+speed 49 1 op('../seqToolsBase/timerPars')[0]
+callbacks 0 timer1_callbacks1
+segdat 0 instantTimerTab
+interpolation 0 lineartovalue
+outseg 0 on
+rate 17 60 me.time.rate
+timeslice 0 on
+exportmethod 0 datname
+autoexportroot 17 "" parent()
+?

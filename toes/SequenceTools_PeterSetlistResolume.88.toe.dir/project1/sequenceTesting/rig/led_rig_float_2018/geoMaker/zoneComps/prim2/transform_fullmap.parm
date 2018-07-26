@@ -1,0 +1,5 @@
+?
+tx 49 -448 "ext.Plugin.par.Fullmapposx + (ext.Plugin.par.Regionsizex/2)"
+ty 49 352 "ext.Plugin.par.Fullmapposy - (ext.Plugin.par.Regionsizey/2)"
+tz 48 0 int(op('region')[0,3])
+?

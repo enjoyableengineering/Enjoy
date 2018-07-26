@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 4
+clone 49 op.CueTools.op('comps/seqPreset') op.CueTools.op('comps/ctPreset')
+Cuetoolscomp 81 "" op.CueTools
+Actiontype 192 preset
+Actionlabel 64 "Preset 12"
+Targetrootcomp 81 .. parent.cueMain.par.Targetrootcomp.eval()
+Actionid 192 12
+?

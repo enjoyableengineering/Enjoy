@@ -1,0 +1,5 @@
+COMP:base
+v -1461.69 2299.43 3.67291
+tile 25 -400 160 130
+flags =  current on parlanguage 0
+end

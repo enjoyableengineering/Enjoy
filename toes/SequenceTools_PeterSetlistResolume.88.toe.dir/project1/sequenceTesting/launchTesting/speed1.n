@@ -1,0 +1,10 @@
+CHOP:speed
+tile 3170 -2670 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	math4
+1 	math4
+}
+color 0.68 0 0 
+end

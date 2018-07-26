@@ -1,0 +1,6 @@
+?
+delchannels 0 on
+discard 0 nonscoped
+delscope 49 op('excludeNames').text op('includeNames').text
+autoexportroot 17 "" parent()
+?

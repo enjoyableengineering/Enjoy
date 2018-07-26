@@ -1,0 +1,5 @@
+TOP:chopto
+tile 450 -25 130 48
+flags =  current on activate on parlanguage 0
+view 3 0 0 1 1 4
+end

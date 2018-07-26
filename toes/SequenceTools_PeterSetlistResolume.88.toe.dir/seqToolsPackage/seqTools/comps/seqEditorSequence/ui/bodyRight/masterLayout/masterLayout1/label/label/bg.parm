@@ -1,0 +1,26 @@
+?
+stdswitcher1 0 1
+text 49 parent.Widget.par.Widgetlabel parent.Widget.par.Widgetlabel
+legacyparsing 0 on
+chopvaluereplace 0 on
+font 49 Verdana parent.Widget.par.Font.menuLabels[parent.Widget.par.Font.menuIndex]
+dispmethod 0 bitmap
+antialias 0 on
+bold 49 off parent.Widget.par.Labelfontbold
+fontsizex 49 7.5 parent.Widget.par.Labelfontsize
+position1 49 0 parent.Widget.par.Labeloffsetx
+position2 49 0 parent.Widget.par.Labeloffsety
+alignx 49 right parent.Widget.par.Labelalignx
+aligny 49 center parent.Widget.par.Labelaligny
+borderspace1 49 0 parent.Widget.par.Labelpaddingw
+borderspace2 49 0 parent.Widget.par.Labelpaddingh
+fontcolorr 49 1 parent.Widget.par.Labelfontcolorr
+fontcolorg 49 1 parent.Widget.par.Labelfontcolorg
+fontcolorb 49 1 parent.Widget.par.Labelfontcolorb
+fontalpha 49 0.7 parent.Widget.par.Labelfontcolora
+resolutionw 49 256 parent().width
+resolutionh 49 256 parent().height
+resmult 0 off
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

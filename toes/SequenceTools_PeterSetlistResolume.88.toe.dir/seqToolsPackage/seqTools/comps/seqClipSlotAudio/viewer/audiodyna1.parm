@@ -1,0 +1,6 @@
+?
+inputgain 2 0
+ratiocompressor 0 0.7
+timeslice 0 on
+autoexportroot 17 "" me.parent()
+?

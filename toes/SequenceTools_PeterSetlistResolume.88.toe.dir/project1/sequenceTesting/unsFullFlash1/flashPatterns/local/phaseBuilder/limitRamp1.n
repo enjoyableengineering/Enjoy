@@ -1,0 +1,12 @@
+CHOP:limit
+tile -250 -250 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	gainRamp1
+}
+exports
+{
+parExport
+}
+end

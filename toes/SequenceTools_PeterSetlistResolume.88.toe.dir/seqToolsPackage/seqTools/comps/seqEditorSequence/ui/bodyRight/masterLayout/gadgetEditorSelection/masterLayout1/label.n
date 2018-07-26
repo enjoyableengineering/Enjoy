@@ -1,0 +1,6 @@
+COMP:container
+tags 0 2 TDMaster TDWidget
+tile 925 -425 160 76
+flags =  parlanguage 0
+color 0.6 0.6 0.6 
+end

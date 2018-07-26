@@ -1,0 +1,8 @@
+CHOP:out
+tile 310 760 130 90
+flags =  current on viewer 1
+inputs
+{
+0 	math2
+}
+end

@@ -1,0 +1,5 @@
+?
+tx 49 0 -me.inputs[0].center[0]
+ty 49 0 -me.inputs[0].center[1]
+tz 32 0
+?

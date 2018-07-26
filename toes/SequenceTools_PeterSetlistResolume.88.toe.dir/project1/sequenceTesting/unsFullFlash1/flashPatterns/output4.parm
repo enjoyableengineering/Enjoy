@@ -1,0 +1,10 @@
+?
+clone 17 parent.FlashMain.op('local/multiCompOutput') parent.FlashMain.op('local/multiCompOutput')
+Extend 64 hold
+Texturemode 64 2
+Blendmode 64 add
+Tintstrength 64 0.75
+Tintcolorr 64 1
+Tintcolorg 64 1
+Tintcolorb 64 1
+?

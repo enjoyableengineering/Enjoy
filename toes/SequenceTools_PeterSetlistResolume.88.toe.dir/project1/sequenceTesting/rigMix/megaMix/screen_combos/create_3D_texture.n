@@ -1,0 +1,22 @@
+TOP:glslmulti
+tile 4462 -352 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	cacheselect1
+1 	cacheselect2
+2 	cacheselect3
+3 	cacheselect4
+4 	cacheselect5
+5 	cacheselect6
+6 	cacheselect7
+7 	cacheselect8
+8 	cacheselect9
+9 	cacheselect10
+10 	cacheselect11
+11 	cacheselect12
+12 	cacheselect13
+13 	cacheselect14
+14 	cacheselect15
+}
+end

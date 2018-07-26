@@ -1,0 +1,9 @@
+CHOP:shuffle
+tile 400 -475 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectSoloPars
+}
+view 11 -1 1 0.455343 -1.5 1.5 1.23512 15.8825 -0.5 0.5 -0.132292 1.10985 5 2 2072 20 2 0
+end

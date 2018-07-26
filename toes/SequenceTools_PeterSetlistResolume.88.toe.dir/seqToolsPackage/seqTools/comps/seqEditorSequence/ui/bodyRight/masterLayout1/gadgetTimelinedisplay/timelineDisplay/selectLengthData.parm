@@ -1,0 +1,5 @@
+?
+chop 49 parent.editorMain.op('seqTimeDataChop') parent.Gadget.par.Editor.eval().op('lengthDataChop')
+channames 0 length
+autoexportroot 17 "" parent()
+?

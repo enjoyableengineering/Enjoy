@@ -1,0 +1,22 @@
+?
+stdswitcher1 0 1
+buttontype 0 toggledown
+w 0 85
+h 0 20
+alignorder 17 0 me.nodeX
+repocomp 17 "" me
+bgcolorr 0 0.125
+bgcolorg 0 0.125
+bgcolorb 0 0.125
+bgalpha 0 1
+top 0 ./bg
+borderar 0 0.081648
+borderag 0 0.567
+borderab 0 0.567
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+drag 0 dragparent
+drop 0 dropparent
+?

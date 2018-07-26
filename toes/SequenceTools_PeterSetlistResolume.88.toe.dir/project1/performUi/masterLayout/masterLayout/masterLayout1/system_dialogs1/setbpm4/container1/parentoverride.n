@@ -1,0 +1,4 @@
+DAT:select
+tile 10 0 130 90
+flags =  current on viewer 1 export on
+end

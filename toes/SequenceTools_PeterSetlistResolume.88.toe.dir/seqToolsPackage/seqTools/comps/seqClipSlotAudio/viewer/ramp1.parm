@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 1
+dat 0 ramp1_keys
+color1 0 1
+color2 0 0
+color3 0 0
+color4 0 1
+interp 0 step
+resolutionw 0 11
+resolutionh 0 20
+filtertype 0 nearest
+?

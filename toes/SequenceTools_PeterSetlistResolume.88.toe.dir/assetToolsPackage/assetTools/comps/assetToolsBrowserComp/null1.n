@@ -1,0 +1,8 @@
+DAT:null
+tile 850 -350 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	lister/out_table
+}
+end

@@ -1,0 +1,8 @@
+?
+name0 0 timer_seconds
+name1 0 speed
+name2 0 Play
+name3 0 clipPosBeats
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

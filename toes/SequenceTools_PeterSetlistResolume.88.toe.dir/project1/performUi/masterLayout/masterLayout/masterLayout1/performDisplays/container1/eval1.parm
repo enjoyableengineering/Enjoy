@@ -1,0 +1,7 @@
+?
+output 0 expr
+rowindexend 17 0 "me.inputs[0].numRows - 1"
+rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+colindexend 17 0 "me.inputs[0].numCols - 1"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

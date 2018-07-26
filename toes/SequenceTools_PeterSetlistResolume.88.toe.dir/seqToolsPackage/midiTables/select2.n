@@ -1,0 +1,8 @@
+DAT:select
+tile -1330 2030 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	sort1
+}
+end

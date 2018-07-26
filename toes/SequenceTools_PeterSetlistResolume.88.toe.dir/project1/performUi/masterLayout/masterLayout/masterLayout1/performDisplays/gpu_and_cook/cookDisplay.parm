@@ -1,0 +1,23 @@
+?
+x 0 36
+w 0 22
+h 0 22
+alignorder 0 0.3
+postoffsetx 0 36
+postoffsety 0 0
+repocomp 17 "" me
+borderar 0 0
+borderag 0 0.743
+borderab 0 0.743
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+align 0 horizlr
+marginl 0 1
+marginr 0 1
+marginb 0 1
+margint 0 1
+justifyh 0 center
+justifyv 0 center
+?

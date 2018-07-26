@@ -1,0 +1,9 @@
+TOP:over
+tile 1175 50 130 49
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	text4
+1 	crop1
+}
+end

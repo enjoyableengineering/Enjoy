@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 3
+opviewer 0 ./pvw
+clone 49 parent.FlashMain.op('./local/keyPalettes/masterColorPalette') parent.FlashMain.op('./local/keyPalettes/masterColorPalette')
+Color1r 64 0
+Color1g 64 1
+Color1b 64 0
+Color1a 64 1
+Color2r 64 0
+Color2g 64 1
+Color2b 64 0
+Color2a 64 1
+Color3r 64 0
+Color3g 64 0
+Color3b 64 0
+Color3a 64 1
+Label 113 "" me.name
+?

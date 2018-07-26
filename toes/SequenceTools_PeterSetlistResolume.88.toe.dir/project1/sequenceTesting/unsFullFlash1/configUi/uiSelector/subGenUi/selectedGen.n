@@ -1,0 +1,8 @@
+DAT:null
+tile 1275 0 130 103
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	uiButtons1/out2
+}
+end

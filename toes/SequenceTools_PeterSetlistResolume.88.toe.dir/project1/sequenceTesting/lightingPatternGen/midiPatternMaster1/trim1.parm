@@ -1,0 +1,6 @@
+?
+relative 0 abs
+end 49 0 "op('snapToBar')['length'] - 1"
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,54 @@
+?
+stdswitcher1 0 7
+w 0 74
+h 0 21
+hmode 0 fill
+alignorder 17 0 me.nodeX
+vieweraspect 17 unconstrained me.par.sizefromwindow
+resizel 256 0
+resizer 256 0
+resizeb 256 0
+resizet 256 0
+repocomp 17 "" me
+bgcolorr 0 0.2
+bgcolorg 0 0.2
+bgcolorb 0 0.2
+bgalpha 0 1
+borderar 0 0
+borderag 0 0
+borderab 0 0
+borderaalpha 0 0
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+borderover 0 on
+align 0 horizlr
+justifyh 0 left
+justifyv 0 top
+drop 0 dropparent
+promoteextension1 0 on
+parentshortcut 0 Widget
+enablecloning 0 off
+Font 64 Segoe_UI
+Popuphelp 64 ""
+Widgetkitversion 448 0.0.18
+Widgettox 192 masterLabel
+Widgetlabel 113 "" parent.Gadget.par.Editor.eval().SelectedEventPath
+Labelaligny 64 Center
+Labelfontbold 64 off
+Rollovercolorr 64 0.7
+Rollovercolorg 64 0.7
+Rollovercolorb 64 0.7
+Rollovercolora 64 0.35
+Disablecolorr 80 0.2 None
+Disablecolorg 80 0.2 None
+Disablecolorb 80 0.2 None
+Disablecolora 80 0.65 None
+Labelpaddingw 64 6
+Labelpaddingh 64 6
+Labelbgcolorr 64 0.2
+Labelbgcolorg 64 0.2
+Labelbgcolorb 64 0.2
+Labelbgcolora 64 1
+?

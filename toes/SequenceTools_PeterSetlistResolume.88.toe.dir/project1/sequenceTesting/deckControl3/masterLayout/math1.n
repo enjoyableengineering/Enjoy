@@ -1,0 +1,12 @@
+CHOP:math
+tile -1275 -250 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	select1
+}
+exports
+{
+null1
+}
+end

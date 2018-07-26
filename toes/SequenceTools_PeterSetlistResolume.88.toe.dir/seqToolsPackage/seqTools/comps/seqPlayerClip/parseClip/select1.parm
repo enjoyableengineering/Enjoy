@@ -1,0 +1,10 @@
+?
+extractrows 0 byindex
+rowindexstart 0 1
+rowindexend 17 0 "me.inputTable.numRows - 1"
+rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+extractcols 0 byindex
+colindexstart 0 1
+colindexend 16 1 "me.inputTable.numCols - 1"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

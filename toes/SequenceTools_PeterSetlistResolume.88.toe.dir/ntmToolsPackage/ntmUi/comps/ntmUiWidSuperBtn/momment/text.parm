@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 1
+text 0 M
+dispmethod 0 polygon
+antialias 0 aa1
+bold 0 on
+fontsizex 0 8
+fontcolorr 0 0.6
+fontcolorg 0 0.6
+fontcolorb 0 0.6
+resolutionw 17 256 parent().width
+resolutionh 17 256 parent().height
+resmult 0 off
+?

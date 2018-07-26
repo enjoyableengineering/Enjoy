@@ -1,0 +1,8 @@
+DAT:eval
+tile 700 180 130 90
+flags = 
+inputs
+{
+0 	tbl_radiogroup_off
+}
+end

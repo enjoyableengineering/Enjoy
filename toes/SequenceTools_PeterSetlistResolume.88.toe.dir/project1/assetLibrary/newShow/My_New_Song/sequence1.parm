@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./SeqToolsSequenceExt').module.SeqToolsSequenceExt(me)
+promoteextension1 0 on
+parentshortcut 32 Sequence
+Seqtempo 81 80 op('..').par.Basetempo
+Seqoffset 64 4.025
+Seqtoolscomp 113 op.SeqTools op.SeqTools
+Seqlabel 81 sequence1 "op('..').par.Songname + ' Sequence 1'"
+?

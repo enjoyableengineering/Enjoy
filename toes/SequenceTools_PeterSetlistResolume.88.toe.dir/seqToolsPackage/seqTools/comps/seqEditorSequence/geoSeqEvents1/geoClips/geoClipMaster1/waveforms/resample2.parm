@@ -1,0 +1,4 @@
+?
+rate 16 60 $FPS
+interp 0 cubic
+?

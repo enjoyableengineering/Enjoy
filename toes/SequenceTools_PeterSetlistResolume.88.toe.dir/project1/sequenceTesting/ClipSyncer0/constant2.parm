@@ -1,0 +1,20 @@
+?
+name0 0 gen_ramp1
+value0 0 4
+name1 0 gen_ramp2
+value1 16 2 1/2
+name2 0 gen_ramp4
+value2 16 1 1/4
+name3 0 gen_ramp8
+value3 17 0.213145 1/2
+name4 0 gen_ramp16
+value4 17 0.106572 1/4
+name5 0 gen_ramp32
+value5 17 0.0532862 1/8
+name6 0 gen_ramp64
+value6 17 0.0266431 1/16
+name7 0 gen_ramp128
+value7 17 0.0133216 1/32
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

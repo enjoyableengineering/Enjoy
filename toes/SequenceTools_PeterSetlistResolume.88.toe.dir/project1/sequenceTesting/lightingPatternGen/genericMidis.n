@@ -1,0 +1,9 @@
+DAT:null
+tile -320 190 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	merge2
+}
+view 8 0 1 1 1 0 0 0 0 1 1
+end

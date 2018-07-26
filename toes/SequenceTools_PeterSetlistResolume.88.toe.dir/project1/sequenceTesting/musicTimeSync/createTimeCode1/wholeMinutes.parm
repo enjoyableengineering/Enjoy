@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 1
+chopop 0 sub
+gain 49 1 1/60
+autoexportroot 17 "" me.parent()
+?

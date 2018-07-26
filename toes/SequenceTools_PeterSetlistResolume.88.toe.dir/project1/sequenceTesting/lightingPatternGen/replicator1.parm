@@ -1,0 +1,7 @@
+?
+template 0 genericMidis
+opprefix 0 patt
+master 0 midiPatternMaster1
+destination 17 "" parent()
+callbacks 0 replicator1_callbacks
+?

@@ -1,0 +1,6 @@
+?
+opviewer 49 "op('slotPaths')[parent().digits, 0].val" "op('../slotPaths')[parent().digits, 0].val"
+hmode 0 fill
+vmode 0 anchors
+repocomp 17 "" me
+?

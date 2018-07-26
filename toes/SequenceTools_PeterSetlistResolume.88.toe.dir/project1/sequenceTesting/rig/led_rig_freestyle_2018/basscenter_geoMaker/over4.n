@@ -1,0 +1,9 @@
+TOP:over
+tile 450 -2725 130 63
+flags =  parlanguage 0
+inputs
+{
+0 	renderOutputMapRemapTexture2
+1 	constant2
+}
+end

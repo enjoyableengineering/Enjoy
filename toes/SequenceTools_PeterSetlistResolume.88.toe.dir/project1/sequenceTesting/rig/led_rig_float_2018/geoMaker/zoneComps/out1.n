@@ -1,0 +1,9 @@
+DAT:out
+tile -2875 200 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	opfind1
+}
+view 8 0 1 0.9 0.0700003 0 0 0 -0 1 1
+end

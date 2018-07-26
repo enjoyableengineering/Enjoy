@@ -1,0 +1,8 @@
+CHOP:script
+tile 1530 0 130 90
+flags =  viewer 1
+inputs
+{
+0 	signalstrength
+}
+end

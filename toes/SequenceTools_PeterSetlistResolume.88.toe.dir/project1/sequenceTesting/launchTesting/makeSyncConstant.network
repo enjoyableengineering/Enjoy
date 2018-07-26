@@ -1,0 +1,8 @@
+1
+compinputs
+{
+0 	osc_master_sync
+	in1
+	CHOP
+}
+end

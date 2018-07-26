@@ -1,0 +1,5 @@
+DAT:table
+tile 400 930 130 90
+flags =  viewer 1 showDocked off
+dock frame_nudge
+end

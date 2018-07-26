@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 2
+w 17 436 parent().par.w
+h 49 436 "parent().par.h-40 - op('parameter1').par.h"
+repocomp 17 "" me
+align 0 gridrows
+marginl 0 2
+marginr 0 2
+marginb 0 2
+margint 0 2
+?

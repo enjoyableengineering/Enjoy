@@ -1,0 +1,9 @@
+DAT:eval
+tile 1740 1700 130 90
+flags = 
+inputs
+{
+0 	button_disable1
+}
+color 0.226667 0.68 0 
+end

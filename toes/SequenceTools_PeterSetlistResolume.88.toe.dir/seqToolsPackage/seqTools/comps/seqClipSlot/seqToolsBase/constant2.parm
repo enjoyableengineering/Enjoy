@@ -1,0 +1,6 @@
+?
+name0 32 lengthSeconds
+value0 49 0 parent(2).ClipLengthSeconds
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

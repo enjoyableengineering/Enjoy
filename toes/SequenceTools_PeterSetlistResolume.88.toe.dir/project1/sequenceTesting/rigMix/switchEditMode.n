@@ -1,0 +1,13 @@
+DAT:switch
+tile -350 -125 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selectLayersDeck1
+1 	selectLayersDeckEdit
+}
+exports
+{
+null7
+}
+end

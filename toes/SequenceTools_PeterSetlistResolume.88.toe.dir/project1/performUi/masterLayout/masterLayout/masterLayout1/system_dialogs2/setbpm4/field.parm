@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 2
+w 17 150 par(opparent(\".\",0)+\"/panelw\")-par(\"label/paneldisplay\")*par(\"label/panelw\")
+h 17 20 par(opparent(\".\",0)+\"/panelh\")
+alignorder 0 1
+enable 17 on par(\"../panelenable\")
+align 0 horizlr
+spacing 0 2
+drag 0 dragparent
+drop 0 dropparent
+?

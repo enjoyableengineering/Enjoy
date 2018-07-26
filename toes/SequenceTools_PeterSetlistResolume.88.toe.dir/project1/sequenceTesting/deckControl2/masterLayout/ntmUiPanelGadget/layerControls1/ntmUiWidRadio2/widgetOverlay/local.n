@@ -1,0 +1,4 @@
+COMP:base
+tile -370 -1280 160 130
+flags =  viewer 1
+end

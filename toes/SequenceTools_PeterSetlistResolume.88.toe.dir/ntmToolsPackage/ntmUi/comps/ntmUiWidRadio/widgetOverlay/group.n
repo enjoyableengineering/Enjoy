@@ -1,0 +1,5 @@
+COMP:table
+v 607.007 338.382 0.260186
+tile 750 -1230 160 76
+flags =  current on viewer 1
+end

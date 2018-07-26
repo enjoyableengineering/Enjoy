@@ -1,0 +1,9 @@
+DAT:in
+tile -800 350 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	excludeList
+}
+color 0.68 0 0 
+end

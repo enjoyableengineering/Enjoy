@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 2
+text 49 "" chr(57610)
+legacyparsing 0 on
+leadingzero 0 off
+chopvaluereplace 0 on
+font 0 Segoe_UI_Symbol
+fontautosize 0 alwaysfit
+position1 0 6
+position2 0 -4
+fontcolorr 17 1 op('executeTopPress').par.fontcolorr
+fontcolorg 17 1 op('executeTopPress').par.fontcolorg
+fontcolorb 17 1 op('executeTopPress').par.fontcolorb
+resolutionw 0 100
+resolutionh 0 100
+resmult 0 off
+?

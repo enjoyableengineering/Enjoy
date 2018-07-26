@@ -1,0 +1,9 @@
+?
+relative 0 abs
+start 49 0 parent().par.Trimstart
+startunit 32 fraction
+end 49 0 parent().par.Trimend
+endunit 32 fraction
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,5 @@
+?
+chop 49 op.UnsSeqDataExtRouter.op('focusDeckFan') op.UnsSeqDataExtRouter.op('focusDeckFan')
+channames 49 "'chan' + str(parent.DeckControl.par.Deckid)" "'chan' + str(parent.DeckControl.par.Deckid + 1)"
+autoexportroot 17 "" parent()
+?

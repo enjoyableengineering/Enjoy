@@ -1,0 +1,8 @@
+TOP:cacheselect
+tile 125 -75 130 64
+flags =  viewer 1 parlanguage 0
+exports
+{
+fps_lookup
+}
+end

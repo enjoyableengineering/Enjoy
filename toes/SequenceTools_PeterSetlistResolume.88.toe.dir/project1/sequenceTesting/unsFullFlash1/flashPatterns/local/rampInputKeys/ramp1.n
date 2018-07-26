@@ -1,0 +1,11 @@
+TOP:ramp
+tile 650 -575 202 140
+flags =  picked on current on viewer 1 parlanguage 0
+exports
+{
+limit1
+pars
+phaseChop
+res1
+}
+end

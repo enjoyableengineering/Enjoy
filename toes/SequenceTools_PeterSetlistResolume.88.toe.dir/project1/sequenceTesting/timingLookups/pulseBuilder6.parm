@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 3
+opviewer 0 ./outBaked
+Pulse7 64 on
+Pulse8 64 on
+Width1 64 1
+Width2 64 1
+Width3 64 1
+Width5 64 1
+Width7 64 1
+Channame 64 hard_only4
+?

@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 1
+wavetype 0 tri
+length 17 1000 "4 * parent().par.Samplesperbeat"
+phase 0 0.25
+fromrange1 0 -1
+fromrange2 0 1
+channelname 0 Triangle_HalfUpDown
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

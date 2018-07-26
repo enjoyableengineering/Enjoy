@@ -1,0 +1,5 @@
+?
+tx 50 5 "op('../../geoSeqEvents1/geoClips/geoClip' + str(parent.editorMain.SelectedClipId) + '/null1').par.tx"
+ty 32 0
+tz 32 0.7
+?

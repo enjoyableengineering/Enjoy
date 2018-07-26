@@ -1,0 +1,8 @@
+?
+name0 0 bigMix1:top[0-9]extendu
+value0 0 1
+name1 0 bigMix2:top[0-9]extendu
+value1 0 1
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

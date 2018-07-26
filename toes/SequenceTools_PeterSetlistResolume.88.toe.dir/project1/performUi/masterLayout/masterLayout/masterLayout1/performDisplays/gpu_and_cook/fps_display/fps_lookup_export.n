@@ -1,0 +1,5 @@
+DAT:table
+tile 300 25 130 90
+flags =  viewer 1 showDocked off
+dock fps_lookup
+end

@@ -1,0 +1,8 @@
+DAT:eval
+tile 160 80 130 90
+flags = 
+inputs
+{
+0 	tbl_dropdownrow_off
+}
+end

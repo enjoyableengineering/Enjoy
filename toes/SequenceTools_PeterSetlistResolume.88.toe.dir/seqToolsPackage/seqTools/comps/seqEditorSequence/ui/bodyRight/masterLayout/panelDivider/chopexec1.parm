@@ -1,0 +1,6 @@
+?
+active 49 on parent().par.display
+fromop 17 "" parent()
+chop 0 constant_PanelSize
+channel 49 * "'parentHeight' if parent.Divider.par.Orientation == 'Vertical' else 'parentWidth'"
+?

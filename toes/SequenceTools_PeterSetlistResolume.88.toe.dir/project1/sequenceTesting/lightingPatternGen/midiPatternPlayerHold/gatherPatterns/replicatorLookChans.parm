@@ -1,0 +1,10 @@
+?
+template 0 patternTable
+opprefix 0 patternChans
+master 0 selectPatternChansMaster1
+destination 17 "" parent()
+maxops 0 128
+callbacks 0 replicator1_callbacks
+layoutorigin1 0 0
+layoutorigin2 0 -80
+?

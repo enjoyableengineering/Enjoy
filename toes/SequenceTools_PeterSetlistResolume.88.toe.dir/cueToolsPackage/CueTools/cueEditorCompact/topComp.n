@@ -1,0 +1,4 @@
+COMP:container
+tile 375 600 160 125
+flags =  current on parlanguage 0
+end

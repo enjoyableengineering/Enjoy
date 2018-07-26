@@ -1,0 +1,19 @@
+?
+stdswitcher1 0 1
+horzsource 2 green
+vertsource 2 green
+midpoint1 34 0.1
+midpoint2 34 0.5
+displaceweight1 34 -0.36
+displaceweight2 34 0.04
+uvweight 2 0.995
+offset1 2 0.5
+offset2 2 0.5
+offsetweight 17 0 "1 - me.par.uvweight.eval()"
+extend 2 repeat
+outputresolution 34 custom
+resolutionw 18 256 256
+resolutionh 2 256
+outputaspect 0 resolution
+inputfiltertype 34 linear
+?

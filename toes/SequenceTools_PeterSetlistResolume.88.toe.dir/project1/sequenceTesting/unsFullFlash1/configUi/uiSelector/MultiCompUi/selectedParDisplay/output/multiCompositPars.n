@@ -1,0 +1,5 @@
+COMP:parameter
+v 234.706 328.573 0.110162
+tile -125 -75 160 76
+flags =  viewer 1 parlanguage 0
+end

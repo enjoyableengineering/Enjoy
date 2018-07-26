@@ -1,0 +1,4 @@
+?
+selectpanel 49 op.Core1.op('deckMainMixControls') op.Core1.op('mainMixFxControls')
+repocomp 17 "" me
+?

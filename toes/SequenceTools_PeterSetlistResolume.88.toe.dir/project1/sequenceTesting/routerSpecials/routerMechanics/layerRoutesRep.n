@@ -1,0 +1,6 @@
+COMP:replicator
+v 635.5 331.5 0.0702083
+tags 0 1 routeReplicator
+tile 1675 -2525 160 130
+flags =  viewer 1 parlanguage 0
+end

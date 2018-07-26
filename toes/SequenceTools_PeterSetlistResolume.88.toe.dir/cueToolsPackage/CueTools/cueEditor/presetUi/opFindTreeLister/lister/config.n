@@ -1,0 +1,6 @@
+COMP:base
+v 114.323 336.559 0.393636
+comment "Contains all user-configurable ops for lister"
+tile 0 100 160 130
+flags =  masterNetworkCloneImmune on parlanguage 0
+end

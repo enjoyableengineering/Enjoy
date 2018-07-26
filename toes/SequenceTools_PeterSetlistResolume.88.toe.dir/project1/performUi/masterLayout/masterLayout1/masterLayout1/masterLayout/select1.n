@@ -1,0 +1,9 @@
+COMP:select
+v 635.5 384 1
+tile 600 325 99 155
+flags =  viewer 1 parlanguage 0
+exports
+{
+editDisplays
+}
+end

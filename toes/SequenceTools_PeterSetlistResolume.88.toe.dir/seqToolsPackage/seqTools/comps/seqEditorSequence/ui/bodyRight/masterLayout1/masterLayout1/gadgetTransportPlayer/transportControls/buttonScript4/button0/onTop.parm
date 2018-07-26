@@ -1,0 +1,6 @@
+?
+top 49 empty "parent.Widget.par.Buttonontop.eval() if isinstance(parent.Widget.par.Buttonontop.eval(), TOP) else 'empty'"
+outputresolution 0 custom
+resolutionw 49 256 parent().width
+resolutionh 49 256 parent().height
+?

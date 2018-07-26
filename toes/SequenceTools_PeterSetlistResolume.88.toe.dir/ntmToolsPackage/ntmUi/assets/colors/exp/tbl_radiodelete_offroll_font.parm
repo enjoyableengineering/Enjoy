@@ -1,0 +1,6 @@
+?
+output 0 string
+expr 0 `substitute($V,\"button_delete_off\",\"button_delete_offroll\")`
+rowindexend 17 0 "$NR - 1"
+colindexend 17 0 "$NC - 1"
+?

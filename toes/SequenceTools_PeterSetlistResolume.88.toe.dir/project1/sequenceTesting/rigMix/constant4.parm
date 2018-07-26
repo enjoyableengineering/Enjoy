@@ -1,0 +1,5 @@
+?
+name0 0 overlayA
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

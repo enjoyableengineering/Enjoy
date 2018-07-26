@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 3
+h 0 35
+hmode 0 fill
+alignorder 32 10
+repocomp 17 "" me
+bgcolorr 0 0.15
+bgcolorg 0 0.15
+bgcolorb 0 0.15
+bgalpha 0 1
+top 0 ./bg
+align 0 horizlr
+spacing 0 1
+marginl 0 1
+marginr 0 1
+marginb 0 1
+margint 0 1
+?

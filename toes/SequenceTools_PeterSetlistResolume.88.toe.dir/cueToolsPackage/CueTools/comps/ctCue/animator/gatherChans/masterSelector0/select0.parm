@@ -1,0 +1,5 @@
+?
+chop 49 parent(2).AnimData[me.digits]['chop'] parent.animator.AnimData[parent().digits]['chop']
+renameto 49 parent(2).AnimData[me.digits]['newNames'] parent.animator.AnimData[parent().digits]['newNames']
+autoexportroot 17 "" parent()
+?

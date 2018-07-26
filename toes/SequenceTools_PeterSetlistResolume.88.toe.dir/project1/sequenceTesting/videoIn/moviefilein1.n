@@ -1,0 +1,4 @@
+TOP:moviefilein
+tile -1480 -249 93 51
+flags =  bypass on parlanguage 0
+end

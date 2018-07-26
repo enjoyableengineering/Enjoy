@@ -1,0 +1,9 @@
+?
+wavetype 0 ramp
+length 0 5
+torange1 0 15
+torange2 0 19
+integer 0 round
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

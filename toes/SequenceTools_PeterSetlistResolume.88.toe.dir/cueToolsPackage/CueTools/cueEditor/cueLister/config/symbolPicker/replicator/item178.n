@@ -1,0 +1,4 @@
+COMP:button
+tile 250 -2605 160 130
+flags =  parlanguage 0
+end

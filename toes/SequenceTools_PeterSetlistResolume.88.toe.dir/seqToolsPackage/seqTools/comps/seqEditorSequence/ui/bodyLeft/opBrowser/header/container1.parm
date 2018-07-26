@@ -1,0 +1,19 @@
+?
+w 49 70 "2 + sum([c.width + 2 for c in me.outputCOMPs if c.par.display]) "
+h 0 24
+layer 0 1.27
+leftanchor 0 1
+horigin 0 1
+alignorder 0 2
+display 49 on "[c for c in me.outputCOMPs if c.par.display]"
+repocomp 17 "" me
+scrolloverlay 0 ignoreover
+bgcolorr 0 0.212394
+bgcolorg 0 0.212394
+bgcolorb 0 0.389
+bgalpha 0 1
+align 0 horizlr
+spacing 0 2
+justifyh 0 center
+justifyv 0 center
+?

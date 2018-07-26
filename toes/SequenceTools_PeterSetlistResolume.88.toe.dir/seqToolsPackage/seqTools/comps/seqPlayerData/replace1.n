@@ -1,0 +1,9 @@
+CHOP:replace
+tile 375 275 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	datto1
+1 	selectDurTimer
+}
+end

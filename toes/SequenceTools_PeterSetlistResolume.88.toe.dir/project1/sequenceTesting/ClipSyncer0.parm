@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./ClipSyncer').module.ClipSyncer(me)
+promoteextension1 0 on
+parentshortcut 0 clipSyncMain
+opviewer 0 ./outSyncChans
+Musictimecomp 64 musicTimeSync
+Triggertempo 96 90
+Sync 66 on
+Play 98 on
+Timerlength 64 1000
+Beatsafeoffset 64 500
+Quantsize 80 0.25 1/8
+Active 66 on
+?

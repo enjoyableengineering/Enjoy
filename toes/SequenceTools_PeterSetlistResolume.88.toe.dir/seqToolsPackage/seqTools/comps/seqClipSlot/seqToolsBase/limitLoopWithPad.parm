@@ -1,0 +1,6 @@
+?
+type 0 clamp
+min 0 0
+max 49 1 op('clipData')['lengthSeconds']
+autoexportroot 17 "" parent()
+?

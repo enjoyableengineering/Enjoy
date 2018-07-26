@@ -1,0 +1,12 @@
+?
+stdswitcher1 0 1
+x 0 -201
+y 0 135
+w 0 135
+h 0 800
+hmode 49 fixed "'fill' if op('panelDivider').par.Orientation == 'Vertical' or not op('panelDivider').par.display else 'fixed'"
+vmode 49 fixed "'fill' if op('panelDivider').par.Orientation == 'Horizontal' or not op('panelDivider').par.display else 'fixed'"
+display 48 off "op('./pane0').par.display or op('./pane1').par.display"
+reposition 0 component
+repocomp 0 ""
+?

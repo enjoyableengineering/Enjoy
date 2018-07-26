@@ -1,0 +1,7 @@
+?
+name0 0 rangeOff
+name1 0 smallOff
+name2 0 jumpOff
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,7 @@
+COMP:container
+v 761.242 173.22 0.0828818
+tags 0 1 led_region_define
+tile -3400 -750 188 120
+flags =  viewer 1 render on display on pickable on parlanguage 0
+color 0.68 0 0 
+end

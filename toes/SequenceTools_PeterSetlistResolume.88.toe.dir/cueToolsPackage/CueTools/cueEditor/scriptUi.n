@@ -1,0 +1,13 @@
+COMP:container
+v 230.64 431.484 0.714323
+tile 1950 -1125 160 116
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	actionUi
+}
+exports
+{
+actionTypeUiDisplayExport
+}
+end

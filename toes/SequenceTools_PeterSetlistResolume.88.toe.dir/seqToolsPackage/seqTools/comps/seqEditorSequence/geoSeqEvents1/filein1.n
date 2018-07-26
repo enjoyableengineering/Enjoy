@@ -1,0 +1,5 @@
+CHOP:filein
+tile 50 125 130 90
+flags =  parlanguage 0
+view 5 -1 1 44.5875 -1.5 1.5 4 2 10648 20 0
+end

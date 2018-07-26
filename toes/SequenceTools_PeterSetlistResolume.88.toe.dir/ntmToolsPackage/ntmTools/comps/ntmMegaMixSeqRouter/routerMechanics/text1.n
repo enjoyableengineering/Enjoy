@@ -1,0 +1,4 @@
+DAT:text
+tile 1650 -875 1229 483
+flags =  viewer 1 parlanguage 0
+end

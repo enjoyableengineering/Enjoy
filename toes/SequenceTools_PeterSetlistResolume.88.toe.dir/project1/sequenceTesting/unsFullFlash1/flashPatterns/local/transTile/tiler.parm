@@ -1,0 +1,21 @@
+?
+stdswitcher1 0 2
+cropleft 34 0
+cropright 34 1
+cropbottom 34 0
+croptop 2 1
+flop 34 off
+repeatx 34 2
+repeaty 34 2
+flipx 34 off
+flipy 34 off
+reflectx 34 off
+reflecty 34 off
+overlapu 34 0
+overlapv 34 0
+outputresolution 34 useinput
+resolutionw 2 256
+resolutionh 2 256
+outputaspect 0 resolution
+inputfiltertype 2 linear
+?

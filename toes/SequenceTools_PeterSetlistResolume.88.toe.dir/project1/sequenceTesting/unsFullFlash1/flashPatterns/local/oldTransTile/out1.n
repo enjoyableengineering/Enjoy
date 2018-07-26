@@ -1,0 +1,8 @@
+TOP:out
+tile 700 -325 130 86
+flags =  parlanguage 0
+inputs
+{
+0 	uiThumb
+}
+end

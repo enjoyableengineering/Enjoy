@@ -1,0 +1,15 @@
+TOP:switch
+tile 350 -175 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	switchEditLay2
+1 	player2/out2
+2 	player3/out2
+3 	player4/out2
+}
+exports
+{
+../focusDeckExport
+}
+end

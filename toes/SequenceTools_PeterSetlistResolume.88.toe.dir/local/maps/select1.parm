@@ -1,0 +1,9 @@
+?
+dat 0 /local/midi/device
+rowindexend 17 0 "me.inputs[0].numRows - 1"
+rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+extractcols 0 bynames
+colindexend 17 4 "me.inputs[0].numCols - 1"
+colnames 0 "id definition"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

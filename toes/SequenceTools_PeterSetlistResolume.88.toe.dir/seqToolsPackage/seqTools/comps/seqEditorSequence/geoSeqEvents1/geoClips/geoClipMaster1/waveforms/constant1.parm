@@ -1,0 +1,10 @@
+?
+name0 0 r
+value0 0 0.26
+name1 0 g
+value1 0 0.25
+name2 0 b
+value2 0 0.42
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

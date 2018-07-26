@@ -1,0 +1,14 @@
+TOP:switch
+tile -20 -299 93 51
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	level4
+1 	blur1
+2 	over1
+}
+exports
+{
+../flashControl_old/mainLayout/previewPanel1/container1/switchVin1Export
+}
+end

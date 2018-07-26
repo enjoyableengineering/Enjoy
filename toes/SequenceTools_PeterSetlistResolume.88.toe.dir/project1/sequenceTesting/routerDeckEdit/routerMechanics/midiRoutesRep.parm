@@ -1,0 +1,11 @@
+?
+repsuffixstart 0 0
+template 0 midiRepCount
+opprefix 0 midiRoute
+master 49 op.SeqTools.op('comps/seqClipSlot') op.NtmTools.op('comps/ntmMidiRoute')
+destination 48 ../.. ../..
+callbacks 0 routes_replicate_callbacks1
+layout 0 vertical
+layoutorigin1 0 670
+layoutorigin2 0 -50
+?

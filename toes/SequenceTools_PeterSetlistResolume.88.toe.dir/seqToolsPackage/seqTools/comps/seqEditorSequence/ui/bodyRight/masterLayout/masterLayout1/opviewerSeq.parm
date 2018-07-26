@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 1
+hmode 0 fill
+vmode 0 fill
+alignorder 17 5 me.nodeX
+display 2 on
+repocomp 17 "" me
+?

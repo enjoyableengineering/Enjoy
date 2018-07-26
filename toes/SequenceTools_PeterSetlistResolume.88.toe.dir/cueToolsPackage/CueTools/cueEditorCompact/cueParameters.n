@@ -1,0 +1,8 @@
+COMP:parameter
+tile 250 -500 137 157
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	middleCol
+}
+end

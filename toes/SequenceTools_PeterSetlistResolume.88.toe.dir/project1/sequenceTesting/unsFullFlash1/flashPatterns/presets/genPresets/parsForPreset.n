@@ -1,0 +1,8 @@
+DAT:null
+tile -250 584 157 156
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	gatherPars/out1
+}
+end

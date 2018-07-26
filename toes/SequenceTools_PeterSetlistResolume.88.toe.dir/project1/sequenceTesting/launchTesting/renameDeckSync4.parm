@@ -1,0 +1,4 @@
+?
+renameto 49 'deck'+str(me.digits)* 'deck'+str(me.digits)+':*'
+autoexportroot 17 "" parent()
+?

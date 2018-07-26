@@ -1,0 +1,34 @@
+?
+stdswitcher1 0 8
+buttontype 49 momentary me.par.Buttontype.val
+w 0 50
+h 0 20
+alignorder 49 0 me.nodeX
+repocomp 17 "" me
+bgcolorr 2 0
+bgcolorg 2 0
+bgcolorb 2 0
+bgalpha 2 1
+top 0 ./bg
+extension1 0 op('./NtmUiWidBtnExt').module.NtmUiWidBtnExt(me)
+extname1 0 WidgetExt
+promoteextension1 0 on
+parentshortcut 0 Widget
+enablecloning 32 off
+clone 49 op.NtmUi.op('comps/button1') op.NtmUi.op('comps/button')
+Buttonlabelstate0 209 me.name me.name
+Styletype 64 icon2
+Scripttype 64 Scriptdat
+Script 192 ""
+Scriptdat 64 resetScript
+Targetop 64 ./ntmUiBase
+Targetpar 64 Basepar
+Partype 64 bool
+Iconindexstate0 64 57673
+Bindoutbound 64 on
+Bindinbound 64 on
+Buttonlabelstate1 192 me
+Iconindexstate1 192 57633
+Buttonstates 64 1
+Grabiconstate1 192 0
+?

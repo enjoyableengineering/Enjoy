@@ -1,0 +1,10 @@
+CHOP:merge
+tile 250 -500 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	math2
+1 	wave1
+}
+view 5 -1 1 1.15886 -1.5 1.5 4 2 8600 3 0
+end

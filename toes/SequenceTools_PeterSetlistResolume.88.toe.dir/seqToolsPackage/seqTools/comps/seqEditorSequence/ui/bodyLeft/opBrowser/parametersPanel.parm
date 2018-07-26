@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 2
+op 49 "parent.Browser.op('treeAndView/opFindTreeLister').par.paneldragop.eval() or ''" "parent.Browser.CurrentOP or ''"
+header 0 on
+pagenames 0 on
+w 0 508
+h 0 281
+sizefromwindow 0 on
+display 0 off
+enable 0 off
+vieweraspect 0 unconstrained
+repocomp 17 "" me
+bgcolorr 17 0 ui.colors['parms.dialog.bg'][0]
+bgcolorg 17 0 ui.colors['parms.dialog.bg'][1]
+bgcolorb 17 0 ui.colors['parms.dialog.bg'][2]
+bgalpha 0 1
+crop 0 on
+?

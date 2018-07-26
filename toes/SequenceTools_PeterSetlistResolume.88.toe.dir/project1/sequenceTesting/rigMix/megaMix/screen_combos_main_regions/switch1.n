@@ -1,0 +1,22 @@
+TOP:switch
+tile 1525 -950 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	out1
+1 	out2
+2 	out3
+3 	out4
+4 	out5
+5 	out6
+6 	out7
+7 	out8
+8 	out9
+9 	out10
+}
+exports
+{
+null4
+}
+view 3 0 0 1 1 16
+end

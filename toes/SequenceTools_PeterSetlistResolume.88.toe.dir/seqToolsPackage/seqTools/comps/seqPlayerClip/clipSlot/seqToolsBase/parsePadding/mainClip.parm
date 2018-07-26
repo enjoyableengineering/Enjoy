@@ -1,0 +1,9 @@
+?
+value0 32 1
+single 0 off
+end 49 10 parent(3).par.Sourceclipcomp.eval().SourceComp.FileLengthSeconds
+rate 17 60 me.time.rate
+left 0 cycle
+right 0 cycle
+autoexportroot 17 "" parent()
+?

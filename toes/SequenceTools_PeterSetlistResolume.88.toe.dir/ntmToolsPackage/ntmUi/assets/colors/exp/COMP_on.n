@@ -1,0 +1,10 @@
+DAT:merge
+tile 1200 -670 130 90
+flags = 
+inputs
+{
+0 	COMP_off
+1 	COMP_on1
+}
+color 0.226667 0.68 0 
+end

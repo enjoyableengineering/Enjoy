@@ -1,0 +1,7 @@
+?
+method 0 strech
+rate 17 60 me.time.rate
+relative 0 abs
+end 32 2
+autoexportroot 17 "" me.parent()
+?

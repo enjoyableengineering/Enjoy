@@ -1,0 +1,6 @@
+COMP:base
+v 598.939 582.124 1.00118
+tags 0 1 ntmClrPrst
+tile -175 -150 160 130
+flags =  viewer 1 parlanguage 0
+end

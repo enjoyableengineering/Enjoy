@@ -1,0 +1,9 @@
+?
+pages 1 RasterMaster
+772804866 Rasterx "Raster Resolution X" 1 1 -3.40282e+38 0 1 3.40282e+38 1 0 0 "" RasterMaster 0
+772804866 Rastery "Raster Resolution Y" 1 1 -3.40282e+38 0 1 3.40282e+38 1 0 0 "" RasterMaster 1
+772804878 Regiondeftable "REgion Pos Y1" 1 1 -3.40282e+38 0 1 3.40282e+38 1 0 0 "" RasterMaster 2
+772804869 Saverig Saverig 1 1 0 0 1 1 1 0 0 "" RasterMaster 3
+772804868 Rigname Rigname 1 1 0 0 1 1 1 0 0 "" RasterMaster 4
+772804869 Saveassets Saveassets 1 1 0 0 1 1 1 0 0 "" RasterMaster 5
+?

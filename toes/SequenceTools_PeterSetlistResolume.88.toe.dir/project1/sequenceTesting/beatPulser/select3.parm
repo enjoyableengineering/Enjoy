@@ -1,0 +1,5 @@
+?
+chop 0 ../musicTimeSync/globalTimeChans
+channames 0 transport_tempo
+autoexportroot 17 "" parent()
+?

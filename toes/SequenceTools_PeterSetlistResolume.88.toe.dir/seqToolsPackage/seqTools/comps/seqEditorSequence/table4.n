@@ -1,0 +1,5 @@
+DAT:table
+tile 1800 -1000 130 90
+flags =  parlanguage 0
+view 8 0 1 1 1 0 0 0 0 1 1
+end

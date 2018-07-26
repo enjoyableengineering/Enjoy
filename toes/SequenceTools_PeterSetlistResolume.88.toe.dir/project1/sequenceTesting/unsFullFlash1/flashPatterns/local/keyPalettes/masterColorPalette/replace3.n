@@ -1,0 +1,10 @@
+CHOP:replace
+tile -650 -400 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	Color3Constant
+1 	par1
+}
+view 5 -1 1 0.034375 -1.5 1.5 4 2 8600 1 0
+end

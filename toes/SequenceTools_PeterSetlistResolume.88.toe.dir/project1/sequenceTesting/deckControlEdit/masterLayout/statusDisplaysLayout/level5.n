@@ -1,0 +1,8 @@
+TOP:level
+tile 590 -20 130 48
+flags =  viewer 1 bypass on parlanguage 0
+inputs
+{
+0 	transform1
+}
+end

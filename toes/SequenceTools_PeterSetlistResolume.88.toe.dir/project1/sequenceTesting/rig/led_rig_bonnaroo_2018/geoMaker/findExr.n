@@ -1,0 +1,4 @@
+DAT:opfind
+tile 1425 -725 130 90
+flags =  parlanguage 0
+end

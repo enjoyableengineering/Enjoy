@@ -1,0 +1,27 @@
+?
+stdswitcher1 0 1
+text 49 \\u0123 '\\uE1A0'
+legacyparsing 0 on
+chopvaluereplace 0 on
+wordwrap 0 on
+font 48 Segoe_UI_Symbol parent().par.Font
+charset 0 symbol
+dispmethod 0 texture
+antialias 0 aa8mid
+fontautosize 0 alwaysfit
+fontsizex 0 13
+fontsizexunit 0 pixels
+position1 0 1
+position2 0 0
+fontcolorr 0 0.9
+fontcolorg 0 0.9
+fontcolorb 0 0.9
+fontalpha 49 1 "1 if parent().panel.inside.val else 0.7"
+bgcolorr 32 0.5
+bgcolorg 32 0.5
+bgcolorb 32 0.5
+bgalpha 49 0 parent().panel.select
+resolutionw 49 956 parent().par.w
+resolutionh 49 256 parent().par.h
+resmult 0 off
+?

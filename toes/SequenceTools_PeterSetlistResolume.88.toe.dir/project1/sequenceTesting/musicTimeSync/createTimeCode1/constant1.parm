@@ -1,0 +1,8 @@
+?
+name0 0 hh
+name1 0 mm
+name2 0 ss
+name3 0 ff
+rate 17 60 me.time.rate
+autoexportroot 17 "" me.parent()
+?

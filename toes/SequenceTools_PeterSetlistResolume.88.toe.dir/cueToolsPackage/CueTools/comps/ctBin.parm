@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 1
+extension1 0 op('./CueToolsCueBinExt').module.CueToolsCueBinExt(me)
+promoteextension1 0 on
+parentshortcut 0 cueBin
+Targetrootcomp 96 ..
+Cuebinlabel 64 "Act 1 Cues"
+Cuetoolscomp 113 op.CueTools op.CueTools
+?

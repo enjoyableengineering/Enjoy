@@ -1,0 +1,23 @@
+?
+name0 0 ""
+value0 0 1
+name1 0 Masterbright
+value1 0 1
+name2 0 Mastergamma
+value2 0 1
+name3 0 Mastercontrast
+value3 0 1
+name4 0 Masterlacklevel
+name5 0 Masterhueshift
+name6 0 Masterinvert
+name7 0 Masterintcolorr
+name8 0 Masterintcolorg
+value8 0 1
+name9 0 Masterintcolorb
+value9 0 0.366667
+name10 0 Mastersat
+value10 0 1
+name11 0 Mastertintstrength
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,8 @@
+CHOP:null
+tile 1370 0 130 90
+flags =  viewer 1
+inputs
+{
+0 	lag1
+}
+end

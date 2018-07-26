@@ -1,0 +1,14 @@
+TOP:switch
+tile -490 310 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	OutMapIn
+1 	geoMaker/outOutputPixmap
+}
+exports
+{
+ledmapmode
+}
+color 0 0 0.68 
+end

@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 3
+component 49 op(str(parent.UiMain.par.Rootconfigure.eval()) "op(str(parent.UiMain.par.Rootconfigure.eval()) + '/multiComposite')"
+tagsfilter 0 ntm*
+typecol 0 off
+pathcol 0 on
+callbacks 0 opfind1_callbacks
+?

@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 3
+fromrange1 0 1
+fromrange2 0 0
+torange1 0 0
+torange2 0 9
+scope 0 rampAlt:outputresolution
+autoexportroot 17 "" parent()
+?

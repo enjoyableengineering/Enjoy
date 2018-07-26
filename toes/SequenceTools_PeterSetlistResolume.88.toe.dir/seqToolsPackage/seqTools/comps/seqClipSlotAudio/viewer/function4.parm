@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 1
+func 0 log
+error 0 replace
+domval 0 -1000
+?

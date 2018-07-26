@@ -1,0 +1,6 @@
+?
+output 0 expr
+expr 0 trim($V)
+rowindexend 17 0 "$NR - 1"
+colindexend 17 0 "$NC - 1"
+?

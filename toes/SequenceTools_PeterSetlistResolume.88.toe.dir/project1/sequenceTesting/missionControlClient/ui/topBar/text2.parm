@@ -1,0 +1,20 @@
+?
+stdswitcher1 0 1
+text 0 ""
+appendvalue 0 on
+valuetouse 2 0
+decimaldigits 0 0
+dispmethod 0 texture
+fontsizex 0 25
+position1 0 62
+position2 0 0
+alignx 0 left
+borderspace1 0 17
+borderspace2 0 0
+fontcolorr 0 0.3048
+fontcolorg 0 0.63246
+fontcolorb 0 0.762
+resolutionw 32 200
+resolutionh 49 80 parent().height
+resmult 0 off
+?

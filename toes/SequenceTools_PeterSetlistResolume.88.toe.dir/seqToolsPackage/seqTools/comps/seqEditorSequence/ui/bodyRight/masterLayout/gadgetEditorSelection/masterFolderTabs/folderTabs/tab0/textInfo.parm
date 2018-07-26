@@ -1,0 +1,20 @@
+?
+text 49 parent.Widget.Label tdu.split(parent.Widget.par.Menulabels)[parent().digits]
+legacyparsing 0 on
+chopvaluereplace 0 on
+dispmethod 0 bitmap
+antialias 0 on
+bold 49 off parent.Widget.par.Folderfontbold
+fontsizex 49 10 parent.Widget.par.Folderfontsize
+fontsizexunit 32 pixels
+borderar 32 0
+borderag 32 0
+borderab 32 0
+borderaalpha 32 0
+borderbalpha 0 0
+resolutionw 32 20
+resolutionh 32 20
+resmult 0 off
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

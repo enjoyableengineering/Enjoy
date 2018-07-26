@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 1
+align 0 gridcols
+maxrows 0 12
+maxcols 0 11
+outputresolution 0 custom
+resolutionw 0 1200
+resolutionh 0 1024
+outputaspect 0 resolution
+?

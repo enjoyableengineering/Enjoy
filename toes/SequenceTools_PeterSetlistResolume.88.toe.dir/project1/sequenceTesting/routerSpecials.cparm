@@ -1,0 +1,14 @@
+?
+pages 1 Config
+772804874 Top1 "Video In 1" 1 1 0 0 1 1 1 0 0 "" Config 5
+772804874 Top2 "Video In 2" 1 1 0 0 1 1 1 0 0 "" Config 6
+772804874 Top3 "Flash Patt 1" 1 1 0 0 1 1 1 0 0 "" Config 7
+772804874 Top4 "Flash Patt 2" 1 1 0 0 1 1 1 0 0 "" Config 8
+772804874 Top5 "Flash Patt 3" 1 1 0 0 1 1 1 0 0 "" Config 9
+772804874 Top6 "Flash Patt 4" 1 1 0 0 1 1 1 0 0 "" Config 10
+772804869 Initroutes Initroutes 1 1 0 0 1 1 1 0 0 "" Config 0
+772804866 Numlayers "# Layers" 1 1 0 0 1 1 1 0 0 "" Config 1
+772804866 Nummidi "# MIDI" 1 1 0 0 1 1 1 0 0 "" Config 2
+772804866 Absstartlayer Absstartlayer 1 1 0 0 1 1 1 0 0 "" Config 3
+772804866 Deckorder Deckorder 1 1 0 0 1 1 1 0 0 "" Config 4
+?

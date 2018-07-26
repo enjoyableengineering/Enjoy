@@ -1,0 +1,7 @@
+?
+colorr 0 0
+colorg 0 0.356
+colorb 0 0.712
+resolutionw 49 256 "me.parent().par.w - 4"
+resolutionh 49 256 "me.parent().par.h - 6"
+?

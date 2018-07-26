@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 3
+enablecloning 0 off
+clone 49 parent.FlashMain.op('local/chanSelector') parent.FlashMain.op('local/chanSelector')
+Channel 64 gen_ramp1
+Rampchannel 64 gen_ramp8
+Lookupschannel 64 Triangle_HalfUpDown
+Local 64 on
+?

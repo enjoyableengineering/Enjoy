@@ -1,0 +1,6 @@
+COMP:base
+v 247.158 805.864 1.07817
+tags 0 2 seqTools seqSequence
+tile -1000 -250 160 130
+flags =  parlanguage 0
+end

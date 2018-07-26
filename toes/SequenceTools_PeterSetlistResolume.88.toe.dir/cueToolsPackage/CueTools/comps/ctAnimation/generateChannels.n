@@ -1,0 +1,5 @@
+COMP:base
+v -115.447 213.503 0.618058
+tile 1375 25 160 130
+flags =  current on networkCloneImmune on parlanguage 0
+end

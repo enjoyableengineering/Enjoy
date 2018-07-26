@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 1
+postoff 49 0 -parent(3).BeatOffset
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,15 @@
+?
+name0 0 Tintcolorr
+value0 0 1
+name1 0 Tintcolorg
+value1 0 17
+name2 0 Tintcolorb
+name3 0 Tintstrength
+value3 0 1
+value4 0 1
+value5 0 1
+value6 0 1
+value7 0 1
+rate 16 60 me.time.rate
+autoexportroot 17 "" parent()
+?

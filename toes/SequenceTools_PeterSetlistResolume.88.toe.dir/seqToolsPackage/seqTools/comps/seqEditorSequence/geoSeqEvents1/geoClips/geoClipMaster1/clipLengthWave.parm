@@ -1,0 +1,8 @@
+?
+wavetype 0 square
+period 0 10
+amp 0 0.1
+end 17 10 op('clipData')[1,0].val
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

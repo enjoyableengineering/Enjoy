@@ -1,0 +1,14 @@
+?
+pages 1 "Router Config"
+772804868 Ntmlabel "[ntm] Label" 1 1 0 0 1 1 1 0 0 "" "Router Config" 0
+772804866 Absstartlayer Absstartlayer 1 1 0 0 1 1 1 0 0 "" "Router Config" 1
+772804866 Deckorder Deckorder 1 1 0 0 1 1 1 0 0 "" "Router Config" 2
+772804877 Sourcecomp "Source Comp [sequence player]" 1 1 0 0 1 1 1 0 0 "" "Router Config" 3
+772804877 Defcomp "Router Def Comp" 1 1 0 0 1 1 1 0 0 "" "Router Config" 4
+772804869 Initroutes Initroutes 1 1 0 0 1 1 1 0 0 0 "Router Config" 5
+772804866 Numlayers "# Layers" 1 1 0 0 1 1 1 0 0 "" "Router Config" 6
+772804866 Nummidi "# MIDI" 1 1 0 0 1 1 1 0 0 "" "Router Config" 7
+772804867 Useexternalmidi Useexternalmidi 1 1 0 0 1 1 1 0 0 "" "Router Config" 8
+772804873 Externalmidichop Externalmidichop 1 1 0 0 1 1 1 0 0 "" "Router Config" 9
+772804873 Externalmidichop2 Externalmidichop2 1 1 0 0 1 1 1 0 0 "" "Router Config" 10
+?

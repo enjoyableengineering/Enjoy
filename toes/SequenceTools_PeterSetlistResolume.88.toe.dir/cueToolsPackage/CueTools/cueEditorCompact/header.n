@@ -1,0 +1,4 @@
+COMP:container
+tile 375 750 160 125
+flags =  parlanguage 0
+end

@@ -1,0 +1,4 @@
+DAT:midiin
+tile -725 200 130 90
+flags =  current on viewer 1 parlanguage 0
+end

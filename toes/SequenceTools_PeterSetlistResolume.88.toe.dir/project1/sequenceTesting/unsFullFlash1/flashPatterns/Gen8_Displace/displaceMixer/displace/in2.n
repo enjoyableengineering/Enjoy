@@ -1,0 +1,4 @@
+TOP:in
+tile 50 -1800 130 72
+flags =  viewer 1 parlanguage 0
+end

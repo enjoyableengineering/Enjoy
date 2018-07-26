@@ -1,0 +1,11 @@
+?
+pages 1 Player
+772804867 Play Play 1 1 0 0 1 1 1 0 0 "" Player 0
+772804865 Playtempo Playtempo 1 1 0 0 1 1 1 0 90 "" Player 3
+772804877 Comptoplay "COMP To Play" 1 1 0 0 1 1 1 0 0 "" Player 2
+772804867 Speedlock "Speed Lock" 1 1 0 0 1 1 1 0 0 "" Player 4
+772804867 Synclock "Sync Lock" 1 1 0 0 1 1 1 0 0 "" Player 5
+772804877 Synccomp Synccomp 1 1 0 0 1 1 1 0 0 "" Player 6
+772804865 Speed Speed 1 3 0 0 3 10 4 0 1 "" Player 1
+772804867 Active Active 1 1 0 0 1 1 1 0 0 "" Player 7
+?

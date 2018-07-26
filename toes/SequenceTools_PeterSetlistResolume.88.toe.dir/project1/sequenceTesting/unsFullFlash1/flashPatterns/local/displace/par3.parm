@@ -1,0 +1,5 @@
+?
+parameters 0 "Useinputres Resx Resy Inputfiltertype"
+renameto 0 "outputresolution resolutionw resolutionh inputfiltertype"
+autoexportroot 17 "" parent()
+?

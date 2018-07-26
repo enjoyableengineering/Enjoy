@@ -1,0 +1,21 @@
+?
+pages 2 "Routing and Mapping" "Levels and Blend"
+772804867 Tintactive1 "Tint to Color" 1 1 0 0 1 1 1 0 0 "" "Levels and Blend" 0
+772809473 Tintcolor1 "RGB Tint Color" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 1 "" 0 0 "" 0 0 "" "Levels and Blend" 1
+772804865 Tintstrength1 "Tint Strength" 1 3 0 0 1 1 5 0 1 "" "Levels and Blend" 2
+772804879 Blendmode1 "Blending Mode" 1 1 0 0 1 1 1 0 0 17 "Levels and Blend" 4097 30 over OVER add ADD average AVERAGE colorburn COLOR_BURN colordodge COLOR_DODGE darken DARKEN difference DIFFERENCE exclusion EXCLUSION glow GLOW hardlight HARD_LIGHT hardmix HARD_MIX lighten LIGHTEN linearburn LINEAR_BURN lineardodge LINEAR_DODGE linearlight LINEAR_LIGHT multiply MULTIPLY negation NEGATION normal NORMAL overlay OVERLAY phoenix PHOENIX pinlight PIN_LIGHT reflect REFLECT screen SCREEN softlight SOFT_LIGHT subtract SUBTRACT vividlight VIVID_LIGHT hue HUE saturation SATURATION color COLOR luminosity LUMINOSITY 3
+772804865 Blendstrength1 "Blending Strength" 1 3 0 0 1 1 1 0 1 "" "Levels and Blend" 4
+772804865 Transparency1 Level 1 3 0 0 1 1 2 0 1 "" "Levels and Blend" 5
+772804865 Desaturate1 "Perceptional Desaturation" 1 3 0 0 1 1 1 0 0 "" "Levels and Blend" 6
+772804865 Contrast1 Contrast 1 3 0 0 1 1 5 0 1 "" "Levels and Blend" 7
+772804865 Saturation1 Saturation 1 3 0 0 1 1 5 0 1 "" "Levels and Blend" 8
+772804865 Brightness1 Brightness 1 3 0 0 1 1 5 0 1 "" "Levels and Blend" 9
+772804865 Gamma1 Gamma 1 3 0.01 0 1 5 5 0 1 "" "Levels and Blend" 10
+772804866 Texturemode1 Texturemode1 1 3 0 0 3 7 7 0 0 "" "Routing and Mapping" 3
+772804866 Regionmode1 Regionmode1 1 1 0 0 1 1 9 0 0 "" "Routing and Mapping" 4
+772804866 Scalemode1 Scalemode1 1 1 0 0 1 1 9 0 0 "" "Routing and Mapping" 5
+772804866 Sourcetrack "Source Track" 1 3 0 0 3 2 2 0 0 "" "Routing and Mapping" 0
+772804867 Overlay Overlay 1 1 0 0 1 1 1 0 0 "" "Routing and Mapping" 1
+772804879 Extend1 Extend 1 1 0 0 1 1 10 0 0 zero "Routing and Mapping" 4097 4 hold Hold zero Zero repeat Repeat mirror Mirror 6
+772804879 Trackreorder "Track Order" 1 1 0 0 1 1 1 0 0 "" "Routing and Mapping" 4097 3 0 Top 1 Middle 2 Bottom 2
+?

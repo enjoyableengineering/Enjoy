@@ -1,0 +1,4 @@
+TOP:text
+tile 0 0 130 48
+flags =  viewer 1 master_cloneImmune on parlanguage 0
+end

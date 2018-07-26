@@ -1,0 +1,9 @@
+COMP:base
+tile 25 -325 160 130
+flags =  viewer 1 parlanguage 0
+exports
+{
+basetempoExport
+parExport1
+}
+end

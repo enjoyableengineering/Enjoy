@@ -1,0 +1,7 @@
+COMP:base
+v 560.503 88.5481 1.06897
+tags 0 3 seqTools seqClip seqAsset
+tile -450 -175 160 130
+flags =  parlanguage 0
+color 0.68 0 0 
+end

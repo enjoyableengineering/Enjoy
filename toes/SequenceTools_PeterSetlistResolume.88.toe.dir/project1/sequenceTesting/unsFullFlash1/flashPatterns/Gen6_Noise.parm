@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 3
+enablecloning 0 off
+clone 0 Gen5_Noise
+Resw 113 0 parent.FlashMain.par.Resw.eval()
+Resh 113 0 parent.FlashMain.par.Resh.eval()
+Genlabel 113 me.name me.name
+?

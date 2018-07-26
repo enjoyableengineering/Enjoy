@@ -1,0 +1,8 @@
+CHOP:express
+tile 290 130 130 90
+flags =  viewer 1 activate on export on parlanguage 0
+inputs
+{
+0 	panel1
+}
+end

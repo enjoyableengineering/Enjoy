@@ -1,0 +1,5 @@
+CHOP:par
+tags 0 1 widSourcePar
+tile -290 -370 130 90
+flags =  viewer 1 parlanguage 0
+end

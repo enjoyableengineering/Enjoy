@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 3
+Resw 81 0 parent().panel.screenw
+Resh 81 0 parent().panel.screenh
+?

@@ -1,0 +1,9 @@
+TOP:multiply
+tile 325 250 79 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	select2
+1 	text
+}
+end

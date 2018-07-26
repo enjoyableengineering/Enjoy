@@ -1,0 +1,8 @@
+TOP:text
+tile 125 0 130 48
+flags =  viewer 1 parlanguage 0
+exports
+{
+null1
+}
+end

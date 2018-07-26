@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 2
+text 0 "Drag Symbol to Pane to create Text TOP."
+legacyparsing 0 on
+leadingzero 0 off
+chopvaluereplace 0 on
+dispmethod 0 bitmap
+antialias 0 on
+fontsizex 0 8
+fontcolorr 0 0.5
+fontcolorg 0 0.5
+fontcolorb 0 0.5
+resolutionw 17 256 parent().par.w
+resolutionh 17 256 parent().par.h
+resmult 0 off
+?

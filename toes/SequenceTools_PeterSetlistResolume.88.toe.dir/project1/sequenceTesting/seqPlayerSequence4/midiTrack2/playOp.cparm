@@ -1,0 +1,19 @@
+?
+pages 1 "Midi File In"
+772804880 File File 1 1 0 0 1 1 1 0 0 "" "Midi File In" 0
+772804865 Basetempo Basetempo 1 1 0 0 1 1 1 0 0 "" "Midi File In" 8
+772804868 Notescope Notescope 1 1 0 0 1 1 1 0 0 "" "Midi File In" 5
+772804868 Channels Channels 1 1 0 0 1 1 1 0 0 "" "Midi File In" 6
+772804868 Controlind Controlind 1 1 0 0 1 1 1 0 0 "" "Midi File In" 7
+772804865 Index Index 1 1 0 0 1 1 1 0 0 "" "Midi File In" 11
+772804879 Playmode "Play Mode" 1 1 0 0 1 1 10 0 0 sequential "Midi File In" 4097 3 locked "Locked to Timeline" specify "Specify Index" sequential Sequential 9
+772804865 Samplesperbeat Samplesperbeat 1 1 0 0 1 1 1 0 0 "" "Midi File In" 12
+772804879 Indexunits Indexunits 1 1 0 0 1 1 1 0 0 "" "Midi File In" 4097 5 index index frames frames seconds seconds fraction fraction beats beats 13
+772804879 Left "Extend Left" 1 1 0 0 1 1 10 0 0 hold "Midi File In" 4097 5 hold Hold slope Slope cycle Cycle mirror Mirror default "Default Value" 14
+772804879 Right "Extend Right" 1 1 0 0 1 1 10 0 0 hold "Midi File In" 4097 5 hold Hold slope Slope cycle Cycle mirror Mirror default "Default Value" 15
+772804865 Trimstart Trimstart 1 1 0 0 1 1 1 0 0 "" "Midi File In" 3
+772804865 Trimend Trimend 1 1 0 0 1 1 1 0 1 "" "Midi File In" 4
+772804867 Useinputindex Useinputindex 1 1 0 0 1 1 1 0 0 "" "Midi File In" 10
+772804867 Useselectchop Useselectchop 1 1 0 0 1 1 1 0 0 "" "Midi File In" 1
+772804873 Selectchop Selectchop 1 1 0 0 1 1 1 0 0 "" "Midi File In" 2
+?

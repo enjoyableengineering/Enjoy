@@ -1,0 +1,13 @@
+DAT:switch
+tile 600 -175 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	parRoutingTable
+1 	switchActivePars
+}
+exports
+{
+useDefExport
+}
+end

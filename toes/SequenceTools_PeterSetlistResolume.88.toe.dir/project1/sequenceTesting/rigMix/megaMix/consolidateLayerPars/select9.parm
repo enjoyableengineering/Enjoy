@@ -1,0 +1,5 @@
+?
+channames 0 "Sx Ty Sx Tx Tx Tx Sx Sx Sx Sx Tx Sx"
+renameto 0 "Level Matterlow Matterhi MatteLuma Blendmode Desaturate Contrast Saturation Brightness Gamma Linktransforms Blendstrength"
+autoexportroot 17 "" me.parent()
+?

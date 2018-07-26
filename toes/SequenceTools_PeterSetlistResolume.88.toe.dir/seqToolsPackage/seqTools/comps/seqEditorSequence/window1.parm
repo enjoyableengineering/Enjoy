@@ -1,0 +1,10 @@
+?
+winop 0 ui
+title 17 "" me
+justifyh 0 center
+justifyv 0 center
+dpiscaling 0 native
+size 0 custom
+winw 0 1500
+winh 0 800
+?

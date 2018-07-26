@@ -1,0 +1,7 @@
+?
+ops 32 off_roll
+parameters 0 "fontcolor* bgcolor* bgalpha* fontalpha*"
+custom 0 off
+builtin 0 on
+autoexportroot 17 "" parent()
+?

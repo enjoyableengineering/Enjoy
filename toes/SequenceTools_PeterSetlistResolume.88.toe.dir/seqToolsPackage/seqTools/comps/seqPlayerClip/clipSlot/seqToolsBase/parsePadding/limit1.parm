@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 1
+type 0 clamp
+min 0 0
+quantvalue 0 ceiling
+vstep 0 1
+autoexportroot 17 "" parent()
+?

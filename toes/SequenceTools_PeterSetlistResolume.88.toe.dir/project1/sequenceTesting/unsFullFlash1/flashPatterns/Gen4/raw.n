@@ -1,0 +1,9 @@
+TOP:null
+tags 0 1 displaceSource
+tile 50 150 73 105
+flags =  picked on current on viewer 1 parlanguage 0
+inputs
+{
+0 	rampInputKeys/out1
+}
+end

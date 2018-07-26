@@ -1,0 +1,6 @@
+COMP:base
+v 287.225 129.805 2.04468
+tags 0 1 unsSongCues
+tile 200 -300 160 130
+flags =  viewer 1 parlanguage 0
+end

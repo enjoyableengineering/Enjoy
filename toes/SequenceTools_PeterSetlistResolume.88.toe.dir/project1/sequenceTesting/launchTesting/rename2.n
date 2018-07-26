@@ -1,0 +1,10 @@
+CHOP:rename
+tile 3125 -925 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	selectSyncChans2
+1 	renameDeckSync2
+}
+color 0.68 0 0 
+end

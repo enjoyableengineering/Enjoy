@@ -1,0 +1,8 @@
+?
+playmode 0 locked
+period 32 16
+setperiod 32 4
+timeslice 0 on
+exportmethod 0 datname
+autoexportroot 17 "" parent()
+?

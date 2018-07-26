@@ -1,0 +1,9 @@
+?
+winop 0 configUi
+title 17 "" me
+justifyh 0 center
+justifyv 0 center
+size 0 custom
+winw 0 1600
+winh 0 900
+?

@@ -1,0 +1,4 @@
+SOP:rectangle
+tile 4625 4125 130 90
+flags =  viewer 1 parlanguage 0
+end

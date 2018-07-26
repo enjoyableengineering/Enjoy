@@ -1,0 +1,12 @@
+CHOP:lag
+tile 670 -900 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	activeHoldSw
+}
+exports
+{
+animSwitched1
+}
+end

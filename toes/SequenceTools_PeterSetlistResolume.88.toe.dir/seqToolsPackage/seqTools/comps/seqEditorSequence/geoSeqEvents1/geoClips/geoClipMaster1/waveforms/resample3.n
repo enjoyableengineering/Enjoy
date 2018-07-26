@@ -1,0 +1,9 @@
+CHOP:resample
+tile -600 -1000 130 90
+flags =  bypass on
+inputs
+{
+0 	para1
+}
+view 9 -1 1 19.6891 -1.5 1.5 953.114 2648.46 -0.57303 0.596374 5 2 8216 3 1 0
+end

@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 1
+prefit 0 nativeres
+tx 2 0
+ty 0 0
+sx 0 2
+sy 0 1
+resmenu 0 400x300
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

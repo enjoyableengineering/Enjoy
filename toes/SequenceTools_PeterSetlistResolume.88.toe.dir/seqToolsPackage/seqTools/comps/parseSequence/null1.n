@@ -1,0 +1,8 @@
+DAT:null
+tile 1825 200 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	table4
+}
+end

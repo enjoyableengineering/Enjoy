@@ -1,0 +1,24 @@
+?
+stdswitcher1 0 7
+layer 0 1
+hmode 0 fill
+vmode 0 fill
+display 49 on parent.Widget.par.Labeldisplay
+helpdat 49 ./help "parent.Widget.op('code/help') or parent.Widget.op('help')"
+uvbuttonsleft 32 0
+uvbuttonsmiddle 32 0
+uvbuttonsright 32 0
+repocomp 17 "" me
+bgcolorr 49 0 parent.Widget.par.Labelbgcolorr
+bgcolorg 49 0 parent.Widget.par.Labelbgcolorg
+bgcolorb 49 0 parent.Widget.par.Labelbgcolorb
+bgalpha 49 0 parent.Widget.par.Labelbgcolora
+top 0 ./bg
+enablecloning 0 off
+Labelhorizontalmode 64 fill
+Labelwidth 64 256
+Labeloffsetx 64 0
+Labeloffsety 64 0
+Labelverticalmode 64 fill
+Labelheight 64 32
+?

@@ -1,0 +1,8 @@
+DAT:convert
+tile 200 0 425 90
+flags = 
+inputs
+{
+0 	pathstring
+}
+end

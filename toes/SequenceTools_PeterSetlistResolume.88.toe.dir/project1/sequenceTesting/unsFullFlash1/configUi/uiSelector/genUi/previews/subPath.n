@@ -1,0 +1,8 @@
+DAT:null
+tile -100 225 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	in2
+}
+end

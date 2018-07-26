@@ -1,0 +1,8 @@
+DAT:select
+tile 550 40 130 90
+flags =  viewer 1
+inputs
+{
+0 	switch1
+}
+end

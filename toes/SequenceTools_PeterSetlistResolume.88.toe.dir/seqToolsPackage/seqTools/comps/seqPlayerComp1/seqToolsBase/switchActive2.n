@@ -1,0 +1,13 @@
+DAT:switch
+tile -950 -475 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	selecttimerTimecodeDat
+1 	info1
+}
+exports
+{
+exportActive
+}
+end

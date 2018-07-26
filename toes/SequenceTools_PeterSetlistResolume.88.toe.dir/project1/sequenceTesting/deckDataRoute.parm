@@ -1,0 +1,5 @@
+?
+stdswitcher1 0 3
+opshortcut 0 UnsSeqDataExtRouter
+Editmode 113 off op('..').par.Editmode
+?

@@ -1,0 +1,16 @@
+?
+pages 2 Cue "Cue Tools"
+772804877 Targetrootcomp "Target Root Comp" 1 1 0 0 1 1 1 0 0 "" Cue 2
+772804868 Cuelabel "Cue Label" 1 1 0 0 1 1 1 0 0 "" Cue 4
+772804877 Cuetoolscomp "CueTools COMP" 1 1 0 0 1 1 1 0 0 "" "Cue Tools" 0
+772804869 Executepreset "Execute Preset" 1 1 0 0 1 1 1 0 0 "" Cue 10
+-1374678779 Rebuildcue Rebuildcue 1 1 0 0 1 1 1 0 0 "" Cue 7
+772804869 Addpreset "Add Preset" 1 1 0 0 1 1 1 0 0 "" Cue 5
+772804866 Idtoexecute "ID To Execute" 1 1 0 0 1 15 15 0 0 "" Cue 9
+772804879 Selectpreset "Select Preset" 1 1 0 0 1 1 1 0 0 "" Cue 4097 7 0 "All White Static" 1 "simple white circ" 2 "3x3 Vert" 3 "Simple HD Circle" 4 "Goopy Cirlces" 5 "Simple Windmill" 6 "Preset 53" 8
+772804875 Partable Partable 1 1 0 0 1 1 1 0 0 "" Cue 6
+772804867 Usetableforadd Usetableforadd 1 1 0 0 1 1 1 0 0 "" Cue 3
+-1374678779 Updatepreset Updatepreset 1 1 0 0 1 1 1 0 0 "" Cue 11
+772804877 Presetsrefcomp Presetsrefcomp 1 1 0 0 1 1 1 0 0 "" Cue 0
+772804869 Refregister "Register Reference" 1 1 0 0 1 1 1 0 0 "" Cue 1
+?

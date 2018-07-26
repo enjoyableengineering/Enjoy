@@ -1,0 +1,9 @@
+?
+extractrows 0 bynames
+rowindexend 17 0 "me.inputs[0].numRows - 1"
+rownames 0 ?*
+rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+fromcol 0 1
+colindexend 17 1 "me.inputs[0].numCols - 1"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

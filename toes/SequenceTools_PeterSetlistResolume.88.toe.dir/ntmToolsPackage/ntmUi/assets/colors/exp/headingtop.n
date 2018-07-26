@@ -1,0 +1,9 @@
+DAT:eval
+tile 340 1940 130 90
+flags =  viewer 1
+inputs
+{
+0 	heading
+}
+color 0.226667 0.68 0 
+end

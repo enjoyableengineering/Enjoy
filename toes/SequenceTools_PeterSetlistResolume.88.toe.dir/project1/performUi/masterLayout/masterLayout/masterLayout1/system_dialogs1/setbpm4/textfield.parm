@@ -1,0 +1,21 @@
+?
+stdswitcher1 0 4
+fieldtype 2 string
+fieldlock 2 off
+fieldfocus 0 `tabr(\"local/define\",\"focusorderdat\",1)`
+w 17 128 par(opparent(\".\",0)+\"/panelw\")-par(opparent(\".\",0)+\"/panelh\")-2
+h 17 20 par(opparent(\".\",0)+\"/panelh\")
+enable 17 on par(\"../panelenable\")
+top 0 ./bg
+borderar 2 1
+borderag 2 1
+borderab 2 1
+borderaalpha 2 1
+borderbalpha 0 0
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+drag 0 dragparent
+drop 0 dropparent
+?

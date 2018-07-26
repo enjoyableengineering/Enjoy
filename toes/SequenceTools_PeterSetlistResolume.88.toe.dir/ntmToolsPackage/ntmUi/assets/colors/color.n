@@ -1,0 +1,5 @@
+COMP:base
+v 313.784 -252.955 0.235967
+tile 210 30 160 130
+flags =  current on
+end

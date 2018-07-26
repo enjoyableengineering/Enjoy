@@ -1,0 +1,7 @@
+?
+delchannels 0 on
+chanvalue 0 complete
+selrange1 0 0
+selrange2 0 0.1
+autoexportroot 17 "" parent()
+?

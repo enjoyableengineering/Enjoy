@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 1
+expr0 49 0 "op('tracksDataMidi')[me.chanIndex + 1, 0].val is not ''"
+expr1 17 0 me.inputVal
+expr2 17 0 me.inputVal
+expr3 17 0 me.inputVal
+expr4 17 0 me.inputVal
+expr5 17 0 me.inputVal
+autoexportroot 17 "" parent()
+?

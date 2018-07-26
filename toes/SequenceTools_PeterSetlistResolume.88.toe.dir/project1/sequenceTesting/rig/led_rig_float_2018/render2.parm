@@ -1,0 +1,11 @@
+?
+camera 49 me.var('LED_CAM') me.var('LED_CAM')
+multicamerahint 0 off
+geometry 0 material2
+lights 0 ""
+antialias 0 aa1
+allowbufblending 0 on
+outputresolution 0 custom
+resolutionw 17 1280 op('ledMapGeo').size[0]
+resolutionh 17 720 op('ledMapGeo').size[1]
+?

@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 2
+limitmaxdepth 0 off
+typefilter 0 parameterexecuteDAT
+parvaluefilter 0 Editmode
+pathcol 0 on
+callbacks 0 opfind1_callbacks
+?

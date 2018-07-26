@@ -1,0 +1,25 @@
+?
+pages 2 "Transform Pars" "Tile Pars"
+772804865 Transwetdry "Trans wetdry" 1 1 0 0 1 1 1 0 0 "" "Transform Pars" 0
+772813313 Pivot Pivot 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0.5 "" 0 0.5 "" "Transform Pars" 1
+772813313 Translate Translate 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" "Transform Pars" 2
+772813313 Scale Scale 1 1 0 0 1 1 5 1 0 0 1 1 5 0 1 "" 0 1 "" "Transform Pars" 3
+772804865 Tilewetdry "Tile wetdry" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 0
+772804867 Tiletranspose "Tile  Transpose" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 1
+772804867 Tileflipx "Tile Flip X" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 4
+772804867 Tileflipy "Tile Flip Y" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 5
+772804867 Tilereflectx "Tile Reflect X" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 6
+772804867 Tilereflecty "Tile Reflect Y" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 7
+772804865 Rotate Rotate 1 1 0 -360 1 1 360 0 0 "" "Transform Pars" 5
+772804879 Extend Extend 1 1 0 0 1 1 1 0 0 Zero "Transform Pars" 4097 4 Hold Hold Zero Zero Repeat Repeat Mirror Mirror 4
+772817409 Tileoverlap "Tile Overlap" 1 3 0 0 3 0.5 0.5 3 0 0 3 0.5 0.5 0 0 "" 0 0 "" "Tile Pars" 8
+772804865 Cropleft "Crop Left" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 9
+772804865 Cropright "Crop Right" 1 1 0 0 1 1 1 0 1 "" "Tile Pars" 10
+772804865 Cropbottom "Crop Bottom" 1 1 0 0 1 1 1 0 0 "" "Tile Pars" 11
+772804865 Croptop "Crop Top" 1 1 0 0 1 1 1 0 1 "" "Tile Pars" 12
+772813313 Res "Res XY" 1 3 1 1 3 1920 1920 3 1 1 3 1920 1920 0 256 "" 0 256 "" "Tile Pars" 14
+772804867 Useinputres "Use Input Res" 1 1 0 0 1 1 1 0 1 "" "Tile Pars" 13
+772804879 Inputfiltertype "Input Smoothness" 1 1 0 0 1 1 10 0 0 linear "Tile Pars" 4097 3 nearest "Nearest Pixel" linear "Interpolate Pixels" mipmap "Mipmap Pixels" 15
+772804866 Tilerepeaty "Tile Repeat Y" 1 1 0 1 1 1 2 0 0 "" "Tile Pars" 3
+772804866 Tilerepeatx "Tile Repeat X" 1 1 0 1 1 1 2 0 0 "" "Tile Pars" 2
+?

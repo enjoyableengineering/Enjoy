@@ -1,0 +1,15 @@
+?
+text 49 parent.uiMain.par.Selectedaction.name parent.uiMain.SelectedCueLabel
+leadingzero 0 off
+font 0 Consolas
+fontsizex 0 12
+alignx 0 left
+borderspace1 0 5
+borderspace2 0 0
+fontcolorr 0 0.498039
+fontcolorg 0 0.866667
+fontcolorb 0 1
+resolutionw 17 256 parent().panel.screenw
+resolutionh 17 256 parent().panel.screenh
+resmult 0 off
+?

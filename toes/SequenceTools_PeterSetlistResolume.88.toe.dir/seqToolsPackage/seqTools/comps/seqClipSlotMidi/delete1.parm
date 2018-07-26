@@ -1,0 +1,7 @@
+?
+delchannels 0 on
+discard 0 nonscoped
+select 0 bynum
+selnumbers 49 str(int(op('syncMode')[0])) str(int(op('syncMode')[0]))
+autoexportroot 17 "" parent()
+?

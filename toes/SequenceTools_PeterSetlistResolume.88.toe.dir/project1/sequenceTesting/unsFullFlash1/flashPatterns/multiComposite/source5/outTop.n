@@ -1,0 +1,9 @@
+TOP:out
+tile 970 -1690 130 72
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	sourceSelector/out1
+}
+color 0.68 0.226667 0 
+end

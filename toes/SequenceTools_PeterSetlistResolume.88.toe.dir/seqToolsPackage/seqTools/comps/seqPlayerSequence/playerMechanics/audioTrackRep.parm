@@ -1,0 +1,11 @@
+?
+repsuffixstart 0 0
+template 0 tracksDataAudio
+opprefix 0 audioTrack
+master 49 op.SeqTools.op('comps/seqClipSlot') op.SeqTools.op('comps/seqClipSlotAudio')
+destination 48 ../.. ../..
+callbacks 0 track_replicate_callbacks
+layout 0 vertical
+layoutorigin1 0 460
+layoutorigin2 0 -100
+?

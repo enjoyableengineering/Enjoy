@@ -1,0 +1,4 @@
+COMP:container
+tile 950 860 160 155
+flags =  current on viewer 1 parlanguage 0
+end

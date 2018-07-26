@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./PresetChooserExt').module.PresetChooserExt(me)
+promoteextension1 0 on
+Presetsbase 64 presets/fullPresets
+Selectedindex 64 5.4
+Incfactor 64 0.2
+?

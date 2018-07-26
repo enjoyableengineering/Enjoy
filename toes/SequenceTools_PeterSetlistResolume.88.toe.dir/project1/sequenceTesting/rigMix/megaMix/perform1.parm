@@ -1,0 +1,9 @@
+?
+msec 0 on
+cook 0 on
+droppedframes 0 on
+timeslice 0 on
+exportmethod 0 datname
+autoexportroot 17 "" parent()
+exporttable 0 perform1_export
+?

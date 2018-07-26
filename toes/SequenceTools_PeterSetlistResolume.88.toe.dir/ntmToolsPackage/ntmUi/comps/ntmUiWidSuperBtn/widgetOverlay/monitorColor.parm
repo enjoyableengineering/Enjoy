@@ -1,0 +1,7 @@
+?
+colorr 17 1 op('..').par.Monitorcolorr
+colorg 17 0.416 op('..').par.Monitorcolorg
+colorb 17 0.416 op('..').par.Monitorcolorb
+resolutionw 0 2
+resolutionh 0 2
+?

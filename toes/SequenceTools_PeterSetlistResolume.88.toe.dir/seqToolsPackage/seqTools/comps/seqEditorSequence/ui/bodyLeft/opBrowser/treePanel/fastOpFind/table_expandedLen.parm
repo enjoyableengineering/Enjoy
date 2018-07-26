@@ -1,0 +1,5 @@
+?
+dims 32 on
+rows 49 3 "len([path for rootList in parent.OPTree.Expanded.values() for path in rootList])"
+cols 0 1
+?

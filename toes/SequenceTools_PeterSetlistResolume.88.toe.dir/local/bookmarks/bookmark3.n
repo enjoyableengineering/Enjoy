@@ -1,0 +1,5 @@
+COMP:container
+tile 0 -225 160 130
+flags =  picked on
+color 0.56 0.56 0.56 
+end

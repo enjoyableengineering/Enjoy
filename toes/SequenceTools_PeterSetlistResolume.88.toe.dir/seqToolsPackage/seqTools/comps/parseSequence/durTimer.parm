@@ -1,0 +1,13 @@
+?
+play 48 off parent().par.Play
+ondone 0 restart
+callbacks 0 timer1_callbacks
+segdat 0 durTimerTab
+segmethod 0 parallel
+interpolation 0 lineartovalue
+outtimercount 0 seconds
+rate 17 60 me.time.rate
+timeslice 0 on
+exportmethod 0 datname
+autoexportroot 17 "" parent()
+?

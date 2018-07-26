@@ -1,0 +1,6 @@
+DAT:table
+tile -125 75 130 90
+flags =  viewer 1 parlanguage 0
+dock ramp8
+view 8 0 1 1 1 0 0 0 0 1 1
+end

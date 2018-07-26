@@ -1,0 +1,10 @@
+?
+dat 0 ../../../../flashPatterns/presetChooser/selectedPreset
+extractrows 0 byindex
+rowindexstart 0 1
+rowindexend 16 1 "me.inputTable.numRows - 1"
+rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+extractcols 0 byindex
+colindexend 16 0 "me.inputTable.numCols - 1"
+colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
+?

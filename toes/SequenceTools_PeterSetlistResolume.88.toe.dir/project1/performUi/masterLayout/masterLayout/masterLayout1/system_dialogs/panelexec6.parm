@@ -1,0 +1,5 @@
+?
+fromop 17 "" me.parent()
+panel 16 openDMX me.parent()
+panelvalue 0 state
+?

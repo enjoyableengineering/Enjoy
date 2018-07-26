@@ -1,0 +1,9 @@
+CHOP:math
+tile -500 -1100 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	express1
+1 	secPerBeatMath
+}
+end

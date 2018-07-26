@@ -1,0 +1,14 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./RouterSpecialsExt').module.RouterSpecialsExt(me)
+promoteextension1 0 on
+Top1 81 op.UnsVideoIn.op('vidInSrc1') op.UnsVideoIn.op('vidInSrc1')
+Top2 81 "" op.UnsVideoIn.op('vidInSrc2')
+Top3 81 op.UnsFlasher1.op('flashLayer1') op.UnsFlasher1.op('flashLayer1')
+Top4 81 "" op.UnsFlasher1.op('flashLayer2')
+Top5 81 op.UnsFlasher1.op('flashLayer3') op.UnsFlasher1.op('flashLayer3')
+Top6 81 op.UnsFlasher1.op('flashLayer4') op.UnsFlasher1.op('flashLayer4')
+Numlayers 64 6
+Absstartlayer 64 12
+Deckorder 64 5
+?

@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 1
+type 0 clamp
+min 0 -0.125
+max 0 0.125
+quantvalue 0 round
+vstep 0 0.0025
+autoexportroot 17 "" parent()
+?

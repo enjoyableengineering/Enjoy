@@ -1,0 +1,5 @@
+CHOP:midiin
+tags 0 1 assetFileInOp
+tile 375 0 130 90
+flags =  cloneImmune on parlanguage 0
+end

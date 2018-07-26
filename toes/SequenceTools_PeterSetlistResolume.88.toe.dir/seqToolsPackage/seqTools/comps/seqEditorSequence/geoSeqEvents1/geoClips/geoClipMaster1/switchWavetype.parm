@@ -1,0 +1,4 @@
+?
+index 49 0 "1 if op('clipData')[0,0].val == 'midi' else 0"
+autoexportroot 17 "" parent()
+?

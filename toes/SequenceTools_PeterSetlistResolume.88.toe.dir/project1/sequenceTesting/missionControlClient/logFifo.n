@@ -1,0 +1,4 @@
+DAT:fifo
+tile -525 -800 130 90
+flags =  viewer 1 parlanguage 0
+end

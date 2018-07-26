@@ -1,0 +1,4 @@
+TOP:opview
+tile -300 -25 130 67
+flags =  viewer 1 parlanguage 0
+end

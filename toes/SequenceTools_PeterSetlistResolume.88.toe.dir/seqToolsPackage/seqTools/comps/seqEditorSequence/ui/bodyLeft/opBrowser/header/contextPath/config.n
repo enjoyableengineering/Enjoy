@@ -1,0 +1,4 @@
+COMP:base
+tile 225 0 160 130
+flags =  current on viewer 1 cloneImmune on master_cloneImmune on parlanguage 0
+end

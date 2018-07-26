@@ -1,0 +1,8 @@
+TOP:crop
+tile 0 475 54 29
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	constant6
+}
+end

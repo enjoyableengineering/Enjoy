@@ -1,0 +1,8 @@
+CHOP:null
+tile 700 -2025 130 90
+flags =  viewer 1 activate on export on parlanguage 0
+inputs
+{
+0 	selectSourceIds
+}
+end

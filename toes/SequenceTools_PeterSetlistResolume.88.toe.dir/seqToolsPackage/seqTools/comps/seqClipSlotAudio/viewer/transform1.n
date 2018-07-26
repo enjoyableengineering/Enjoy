@@ -1,0 +1,8 @@
+TOP:transform
+tile 2240 230 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	res1
+}
+end

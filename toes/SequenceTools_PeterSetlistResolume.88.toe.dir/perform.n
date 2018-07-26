@@ -1,0 +1,6 @@
+COMP:window
+v 378 419 1
+comment "Perform Mode configuration:\\nPress F1 to enter Perform Mode, ESC to exit"
+tile -200 40 160 130
+flags =  parlanguage 0
+end

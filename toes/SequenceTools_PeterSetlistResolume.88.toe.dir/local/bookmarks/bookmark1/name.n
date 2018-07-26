@@ -1,0 +1,5 @@
+DAT:table
+tile 0 200 363 90
+flags = 
+color 0.56 0.56 0.56 
+end

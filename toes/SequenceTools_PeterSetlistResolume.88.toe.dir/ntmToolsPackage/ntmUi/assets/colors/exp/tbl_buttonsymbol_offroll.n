@@ -1,0 +1,8 @@
+DAT:eval
+tile 2190 760 130 90
+flags = 
+inputs
+{
+0 	tbl_buttonsymbol_off
+}
+end

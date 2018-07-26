@@ -1,0 +1,18 @@
+?
+stdswitcher1 0 7
+repocomp 17 "" me
+top 0 ./out1
+opshortcut 0 parent.FlashMain.op('local/transTile')
+clone 49 parent.FlashMain.op('local/transTile') parent.FlashMain.op('local/oldTransTile')
+Pivotx 64 0.5
+Pivoty 64 0.5
+Extend 64 Mirror
+Transwetdry 64 1
+Tiletranspose 64 on
+Tilerptx 64 2
+Tilerpty 64 2
+Tileflipy 64 on
+Tilereflectx 64 on
+Tilereflecty 64 on
+Rotate 80 360 "absTime.seconds * 10"
+?

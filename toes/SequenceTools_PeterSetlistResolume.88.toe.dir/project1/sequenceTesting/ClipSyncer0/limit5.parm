@@ -1,0 +1,6 @@
+?
+type 0 clamp
+quantvalue 0 round
+vstep 49 0.25 parent().par.Quantsize
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,12 @@
+?
+op 49 op('null1')[0,0].val op('null1')[0,0].val
+pagenames 0 on
+w 0 480
+h 0 360
+repocomp 17 "" me
+bgcolorr 17 0 ui.colors['parms.dialog.bg'][0]
+bgcolorg 17 0 ui.colors['parms.dialog.bg'][1]
+bgcolorb 17 0 ui.colors['parms.dialog.bg'][2]
+bgalpha 0 1
+crop 0 on
+?

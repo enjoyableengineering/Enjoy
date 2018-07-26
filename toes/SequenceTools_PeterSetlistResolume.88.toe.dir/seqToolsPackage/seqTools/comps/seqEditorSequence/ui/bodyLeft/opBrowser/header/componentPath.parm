@@ -1,0 +1,31 @@
+?
+stdswitcher1 0 1
+w 16 400 parent().par.w
+h 0 24
+layer 0 1
+hmode 0 fill
+alignorder 0 1
+repocomp 17 "" me
+bgcolorr 32 0.18
+bgcolorg 32 0.18
+bgcolorb 32 0.18
+bgalpha 0 1
+topfill 0 best
+borderar 49 0.16089 "0 if parent.Browser.CurrentOP == parent.Browser.Component else 0.5"
+borderag 49 0.465 "0.45 if parent.Browser.CurrentOP == parent.Browser.Component else 0.5"
+borderab 49 0.419383 "0.6 if parent.Browser.CurrentOP == parent.Browser.Component else 0.5"
+leftborder 0 bordera
+rightborder 0 bordera
+bottomborder 0 bordera
+topborder 0 bordera
+borderover 0 on
+align 0 horizlr
+justifyh 0 right
+justifyv 0 center
+offsetx 0 -2
+offsety 0 0
+drop 0 legacy
+dropscript 0 compDrop
+promoteextension1 0 on
+enablecloning 0 off
+?

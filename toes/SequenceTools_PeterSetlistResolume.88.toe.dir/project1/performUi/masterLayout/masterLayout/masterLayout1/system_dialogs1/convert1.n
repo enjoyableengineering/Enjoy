@@ -1,0 +1,8 @@
+DAT:convert
+tile 770 -580 130 90
+flags =  viewer 1
+inputs
+{
+0 	setbpm4/out1
+}
+end

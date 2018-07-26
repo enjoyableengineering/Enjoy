@@ -1,0 +1,6 @@
+?
+chop 0 ../seqPlayerSequenceEdit/seqToolsBase/streamDataChop
+channames 0 beat
+renameto 0 clipPosBeats
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,5 @@
+?
+chop 49 "op('../repTable')[parent().digits, 'path'].val)" "op(op('../repTable')[parent().digits, 'path'].val).ClipComp.PlayOp"
+renameto 0 chan1
+autoexportroot 17 "" parent()
+?

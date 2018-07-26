@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 1
+w 17 198 "me.parent().par.w - 4"
+h 0 24
+alignorder 0 2
+repocomp 17 "" me
+borderar 0 0.061588
+borderag 0 0.356
+borderab 0 0.356
+bottomborder 0 bordera
+topborder 0 bordera
+align 0 horizlr
+justifyh 0 left
+justifyv 0 center
+?

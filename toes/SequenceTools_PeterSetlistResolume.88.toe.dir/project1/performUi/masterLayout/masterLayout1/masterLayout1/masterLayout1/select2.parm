@@ -1,0 +1,4 @@
+?
+selectpanel 49 op.Core1.op('deckControlVideoIn') op.Core1.op('flashControl')
+repocomp 17 "" me
+?

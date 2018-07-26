@@ -1,0 +1,5 @@
+COMP:parameter
+v 1125.86 123.353 0.350439
+tile 250 -100 160 121
+flags =  current on viewer 1 parlanguage 0
+end

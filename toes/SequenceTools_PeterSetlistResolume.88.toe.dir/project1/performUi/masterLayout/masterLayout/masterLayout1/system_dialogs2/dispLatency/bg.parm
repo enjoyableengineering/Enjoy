@@ -1,0 +1,13 @@
+?
+stdswitcher1 0 1
+text 0 ""
+appendvalue 0 on
+valuetouse 17 0 op('../../../../../../sequenceTesting/syncAdjust')['Lxsyncslip']
+totaldigits 0 4
+decimaldigits 0 3
+dispmethod 0 texture
+fontsizex 0 10
+resolutionw 17 256 parent().width
+resolutionh 17 256 parent().height
+resmult 0 off
+?

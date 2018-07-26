@@ -1,0 +1,7 @@
+?
+fromop 17 "" parent()
+op 0 ..
+pars 0 *
+onpulse 0 on
+builtin 0 off
+?

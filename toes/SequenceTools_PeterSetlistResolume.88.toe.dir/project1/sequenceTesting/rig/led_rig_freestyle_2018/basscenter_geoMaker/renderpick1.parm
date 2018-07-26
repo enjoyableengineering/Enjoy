@@ -1,0 +1,6 @@
+?
+rendertop 0 render1
+panel 16 container1 me.parent()
+exportmethod 0 datname
+autoexportroot 17 "" me.parent()
+?

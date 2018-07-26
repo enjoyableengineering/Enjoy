@@ -1,0 +1,8 @@
+CHOP:limit
+tile -825 -525 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	transdwetdryreplace
+}
+end

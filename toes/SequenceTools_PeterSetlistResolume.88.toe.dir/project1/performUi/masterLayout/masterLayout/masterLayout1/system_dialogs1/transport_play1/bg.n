@@ -1,0 +1,9 @@
+TOP:null
+tile 660 79 270 180
+flags =  viewer 1
+inputs
+{
+0 	switch1
+}
+color 0.56 0.56 0.56 
+end

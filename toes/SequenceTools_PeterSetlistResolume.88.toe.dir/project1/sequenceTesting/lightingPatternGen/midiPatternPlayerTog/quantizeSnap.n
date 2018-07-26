@@ -1,0 +1,12 @@
+CHOP:limit
+tile -280 -610 130 90
+flags =  parlanguage 0
+inputs
+{
+0 	rampStartFract
+}
+exports
+{
+128_beats_quant_value
+}
+end

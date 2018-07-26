@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 1
+sizex 32 3.5
+sizey 48 1 parent.editorMain.par.Trackdispheight
+sizeunit 32 fraction
+fillalpha 0 0
+borderalpha 0 0.5
+borderwidth 0 1
+borderwidthunit 0 pixels
+antialias 0 off
+resolutionw 32 2
+resolutionh 49 256 "parent.editorMain.par.Trackdispheight + (parent.editorMain.par.Trackdispspacing * .5)"
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 1
+chop 0 bottomLine_limitChans
+chanx 0 tx
+chany 0 chan1
+chanr 0 r
+chang 0 g
+chanb 0 b
+customattrib0chan0 0 chan1vol
+divisions 0 2
+rad 0 1
+flipsmooth 0 0
+orient 0 off
+normals 0 off
+?

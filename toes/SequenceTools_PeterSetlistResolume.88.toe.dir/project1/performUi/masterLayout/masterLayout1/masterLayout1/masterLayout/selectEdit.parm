@@ -1,0 +1,11 @@
+?
+stdswitcher1 0 2
+selectpanel 0 /project1/sequenceTesting/deckControlEdit
+alignorder 0 0.5
+display 2 on
+repocomp 17 "" me
+bgcolorr 0 0.1
+bgcolorg 0 0.1
+bgcolorb 0 0.1
+bgalpha 0 1
+?

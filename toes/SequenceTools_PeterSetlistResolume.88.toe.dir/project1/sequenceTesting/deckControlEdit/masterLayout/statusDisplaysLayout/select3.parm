@@ -1,0 +1,5 @@
+?
+chop 48 ../musicRamps parent.DeckControl.par.Clipsyncer.eval().op('differenceBeats')
+channames 0 gen_ramp4
+autoexportroot 17 "" parent()
+?

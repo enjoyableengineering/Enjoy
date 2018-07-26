@@ -1,0 +1,8 @@
+CHOP:math
+tile 250 75 130 90
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	shift1
+}
+end

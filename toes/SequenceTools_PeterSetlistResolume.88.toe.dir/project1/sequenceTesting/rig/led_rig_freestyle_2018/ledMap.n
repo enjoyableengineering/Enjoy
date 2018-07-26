@@ -1,0 +1,8 @@
+TOP:null
+tile 625 75 130 65
+flags =  parlanguage 0
+inputs
+{
+0 	ledMapExtents
+}
+end

@@ -1,0 +1,10 @@
+?
+stdswitcher1 0 4
+sx 32 1
+sy 32 0.985
+sz 32 1
+px 0 0
+py 0 -0.3
+pz 0 0
+material 0 loopLineMat
+?

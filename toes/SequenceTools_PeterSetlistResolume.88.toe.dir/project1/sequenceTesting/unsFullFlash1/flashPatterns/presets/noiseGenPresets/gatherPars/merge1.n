@@ -1,0 +1,8 @@
+DAT:merge
+tile -1300 -150 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	fetchParsForPreset2/out1
+}
+end

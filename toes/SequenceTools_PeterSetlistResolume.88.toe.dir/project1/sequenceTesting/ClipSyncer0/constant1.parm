@@ -1,0 +1,8 @@
+?
+name0 0 clipPosBeats
+name1 0 tempo
+value1 0 120
+name2 0 play
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

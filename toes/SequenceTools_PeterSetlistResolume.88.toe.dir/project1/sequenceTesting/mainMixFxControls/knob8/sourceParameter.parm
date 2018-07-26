@@ -1,0 +1,6 @@
+?
+ops 32 /project1/sequenceTesting/rigMix/megaMix
+parameters 32 Masterintcolorg
+builtin 0 on
+autoexportroot 17 "" parent()
+?

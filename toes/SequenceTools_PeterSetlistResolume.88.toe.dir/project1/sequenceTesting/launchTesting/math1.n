@@ -1,0 +1,8 @@
+CHOP:math
+tile 1150 -1975 130 90
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	merge4
+}
+end

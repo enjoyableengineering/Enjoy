@@ -1,0 +1,6 @@
+?
+ops 32 /project1/sequenceTesting/deckMainMixControls
+parameters 32 Decklevel3
+builtin 0 on
+autoexportroot 17 "" parent()
+?

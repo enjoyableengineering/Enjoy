@@ -1,0 +1,5 @@
+?
+tx 49 0 "op('rectangle1').min[0] - me.inputs[0].min[0]"
+ty 32 0
+tz 32 0
+?

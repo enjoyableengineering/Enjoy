@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 2
+fieldlock 49 off passive(me).panel.alt
+w 0 30
+h 0 30
+hmode 0 fill
+vmode 0 fill
+alignorder 17 1 "10000 - (me.nodeY)"
+repocomp 17 "" me
+bgcolorr 0 0.6
+bgcolorg 0 0.6
+bgcolorb 0 0.6
+bgalpha 49 0 passive(me).panel.rollover
+top 0 ./bg
+borderaalpha 0 0
+?

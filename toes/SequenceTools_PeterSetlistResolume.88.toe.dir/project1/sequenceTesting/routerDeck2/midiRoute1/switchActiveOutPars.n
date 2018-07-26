@@ -1,0 +1,13 @@
+CHOP:switch
+tile 1150 -225 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	noChans
+1 	parRouteParse/out1
+}
+exports
+{
+useDefExport
+}
+end

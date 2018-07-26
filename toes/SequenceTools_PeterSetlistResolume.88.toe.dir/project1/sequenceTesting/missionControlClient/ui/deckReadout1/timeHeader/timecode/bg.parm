@@ -1,0 +1,16 @@
+?
+dat 49 parent.editorMain.op('selectTimcode') parent.editorMain.op('selectTimecode')
+text 0 ""
+font 0 Segoe_UI
+dispmethod 0 texture
+fontsizex 0 12
+alignx 0 left
+borderspace1 0 5
+borderspace2 0 0
+fontcolorr 0 0.8
+fontcolorg 0 0.8
+fontcolorb 0 0.8
+resolutionw 49 256 parent().width
+resolutionh 49 256 parent().height
+resmult 0 off
+?

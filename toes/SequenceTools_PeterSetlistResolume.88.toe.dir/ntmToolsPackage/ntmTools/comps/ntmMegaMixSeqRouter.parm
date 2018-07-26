@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 3
+extension1 0 op('./NtmToolsMegaMixSeqRouterExt').module.NtmToolsMegaMixSeqRouterExt(me)
+extname1 0 RouterExt
+promoteextension1 0 on
+Numlayers 64 3
+Nummidi 64 1
+?

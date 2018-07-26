@@ -1,0 +1,5 @@
+DAT:table
+tile 2510 2030 130 90
+flags =  current on viewer 1
+color 0.68 0.453333 0 
+end

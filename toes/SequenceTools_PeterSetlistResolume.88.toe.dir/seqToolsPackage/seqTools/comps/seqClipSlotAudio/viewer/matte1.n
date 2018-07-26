@@ -1,0 +1,10 @@
+TOP:matte
+tile 2630 220 130 48
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	transform1
+1 	level1
+2 	chopto1
+}
+end

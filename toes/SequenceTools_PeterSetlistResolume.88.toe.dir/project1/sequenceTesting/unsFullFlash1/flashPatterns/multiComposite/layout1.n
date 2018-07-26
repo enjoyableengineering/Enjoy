@@ -1,0 +1,19 @@
+TOP:layout
+tile -1250 50 130 101
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	source1/uiThumb
+1 	source2/uiThumb
+2 	source3/uiThumb
+3 	source4/uiThumb
+4 	source5/uiThumb
+5 	source6/uiThumb
+6 	source7/uiThumb
+7 	source8/uiThumb
+8 	source9/uiThumb
+9 	source10/uiThumb
+10 	source11/uiThumb
+11 	source12/uiThumb
+}
+end

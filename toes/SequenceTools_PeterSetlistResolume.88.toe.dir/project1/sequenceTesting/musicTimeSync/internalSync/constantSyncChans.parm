@@ -1,0 +1,11 @@
+?
+name0 0 transportstate
+value0 0 1
+name1 0 tempo
+value1 0 120
+name2 0 syncbars
+name3 0 syncbeats
+name4 0 syncunits
+rate 16 60 me.time.rate
+autoexportroot 17 "" me.parent()
+?

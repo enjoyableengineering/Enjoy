@@ -1,0 +1,13 @@
+COMP:button
+v 20.8 326.7 0.96
+tile 510 40 160 155
+flags =  viewer 1
+inputs
+{
+0 	buttonborder
+}
+exports
+{
+./parentoverride
+}
+end

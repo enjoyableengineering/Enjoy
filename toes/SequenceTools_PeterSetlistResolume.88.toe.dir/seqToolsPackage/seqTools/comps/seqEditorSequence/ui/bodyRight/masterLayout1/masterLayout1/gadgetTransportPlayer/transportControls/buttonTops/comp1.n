@@ -1,0 +1,11 @@
+TOP:comp
+tile 0 -175 130 105
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	rectangle1
+1 	circle1
+2 	circle1
+}
+view 3 0 0 1 1 0
+end

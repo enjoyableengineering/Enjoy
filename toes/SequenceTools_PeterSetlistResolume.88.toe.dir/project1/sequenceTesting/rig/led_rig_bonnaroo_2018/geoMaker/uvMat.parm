@@ -1,0 +1,6 @@
+?
+vdat 0 vertex2
+pdat 0 pixel2
+lightingspace 0 cameraspace
+skelrootpath 17 "" me.parent()
+?

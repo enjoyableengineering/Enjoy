@@ -1,0 +1,6 @@
+?
+integer 0 ceiling
+fromrange1 0 120
+fromrange2 0 200
+autoexportroot 17 "" parent()
+?

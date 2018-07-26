@@ -1,0 +1,4 @@
+COMP:replicator
+tile 25 175 160 130
+flags =  current on viewer 1 parlanguage 0
+end

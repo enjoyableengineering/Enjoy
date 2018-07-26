@@ -1,0 +1,8 @@
+CHOP:timer
+tile 550 -450 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+1 	button1/out1
+}
+end

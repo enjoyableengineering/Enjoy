@@ -1,0 +1,43 @@
+?
+stdswitcher1 0 7
+w 0 219
+h 0 673
+hmode 0 fill
+vmode 0 fill
+sizefromwindow 0 on
+vieweraspect 0 unconstrained
+repocomp 17 "" me
+bgcolorr 0 0.6
+bgcolorg 0 0.6
+bgcolorb 0 0.6
+borderar 0 0.7
+borderag 0 0.7
+borderab 0 0.7
+align 0 verttb
+extension1 0 op('./BrowserExt').module.BrowserExt(me)
+promoteextension1 0 on
+parentshortcut 0 Browser
+opshortcut 0 seqEditorBrowser
+Showviewer 64 off
+Showparameters 64 off
+Sizeablemainorientation 64 off
+Sizeablesplitorientation 64 off
+Viewerinteractionbutton 64 off
+Allowviewerinteraction 64 off
+Showparametersbutton 64 off
+Paneconfiguration 64 Horizontal
+Component 64 /project1/assetLibrary/workingShowData
+Typecolumn 64 off
+Multiplerowselect 64 off
+Editsettingsbutton 64 off
+Doubleclicktosetcomponent 64 off
+Maxdepth 192 1
+Tagsfilter 64 "seq* uns* ntm*"
+Parnondefaultonly 64 on
+Lambdafilterkey 113 "" ""
+Showtreebutton 64 off
+Showviewerbutton 64 off
+Showheader 64 off
+Version 320 1.2.1
+Pathrightclickmenu 64 off
+?

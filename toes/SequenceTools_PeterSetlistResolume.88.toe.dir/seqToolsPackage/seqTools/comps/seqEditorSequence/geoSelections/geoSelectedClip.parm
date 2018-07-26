@@ -1,0 +1,7 @@
+?
+tx 0 0
+ty 0 0
+tz 0 0.4
+constrain 0 ../geoSeqEvents1/geoClips
+render 49 on "1 if parent.editorMain.SelectedEventType == 'clip' else 0"
+?

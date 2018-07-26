@@ -1,0 +1,25 @@
+?
+tx 49 0 op('../ledMapTemplate').points[me.inputPoint.index].P[0]
+ty 49 0 op('../ledMapTemplate').points[me.inputPoint.index].P[1]
+tz 49 0 me.inputPoint.z
+weight 17 1 me.inputPoint.w
+diffr 17 0 me.inputPoint.Cd[0]
+diffg 17 0 me.inputPoint.Cd[1]
+diffb 17 0 me.inputPoint.Cd[2]
+alpha 17 0 me.inputPoint.Cd[3]
+nx 17 0 me.inputPoint.N[0]
+ny 17 0 me.inputPoint.N[1]
+nz 17 0 me.inputPoint.N[2]
+mapu 17 0 me.inputPoint.uv[0]
+mapv 17 0 me.inputPoint.uv[1]
+mapw 17 0 me.inputPoint.uv[2]
+tension 17 0 me.inputPoint.tension[0]
+springk 17 0 me.inputPoint.springk[0]
+vx 17 0 me.inputPoint.v[0]
+vy 17 0 me.inputPoint.v[1]
+vz 17 0 me.inputPoint.v[2]
+upx 17 0 me.inputPoint.up[0]
+upy 17 0 me.inputPoint.up[1]
+upz 17 0 me.inputPoint.up[2]
+pscale 17 0 me.inputPoint.pscale[0]
+?

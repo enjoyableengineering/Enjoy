@@ -1,0 +1,11 @@
+?
+repsuffixstart 0 0
+template 0 subSourcesDat
+opprefix 0 source
+master 49 parent.FlashMain.op('local/multiCompSource') parent.FlashMain.op('local/multiCompSource')
+destination 17 "" parent()
+callbacks 0 replicator1_callbacks
+layout 0 vertical
+layoutorigin1 0 -2130
+layoutorigin2 0 0
+?

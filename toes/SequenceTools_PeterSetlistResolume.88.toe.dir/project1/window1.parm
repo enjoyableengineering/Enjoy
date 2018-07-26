@@ -1,0 +1,9 @@
+?
+winop 0 performUi
+title 17 "" me
+monitor 0 1
+justifyh 0 center
+justifyv 0 center
+dpiscaling 0 native
+borders 0 off
+?

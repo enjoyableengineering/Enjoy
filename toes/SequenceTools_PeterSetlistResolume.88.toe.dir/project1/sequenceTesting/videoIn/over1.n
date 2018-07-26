@@ -1,0 +1,9 @@
+TOP:over
+tile -540 -759 93 51
+flags =  bypass on parlanguage 0
+inputs
+{
+0 	antialias1
+1 	constant1
+}
+end

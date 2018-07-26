@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 2
+text 0 "Current Deck Layer 2"
+wordwrap 0 on
+fontsizex 0 180
+fontcolorr 0 1
+fontcolorg 0 0.545098
+fontcolorb 0 0
+bgcolorr 0 0.178431
+bgcolorg 0 0
+bgcolorb 0 0.5
+bgalpha 0 1
+resolutionw 0 1920
+resolutionh 0 1080
+resmenu 0 1920x1080
+resmult 0 off
+?

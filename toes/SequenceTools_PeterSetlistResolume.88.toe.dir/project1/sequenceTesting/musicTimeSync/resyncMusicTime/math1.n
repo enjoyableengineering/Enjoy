@@ -1,0 +1,9 @@
+CHOP:math
+tile 850 725 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	math7
+1 	selectSyncUnits
+}
+end

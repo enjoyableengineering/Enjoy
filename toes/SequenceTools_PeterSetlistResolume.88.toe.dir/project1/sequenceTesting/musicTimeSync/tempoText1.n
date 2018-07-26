@@ -1,0 +1,8 @@
+TOP:null
+tile -75 -125 130 75
+flags =  viewer 1
+inputs
+{
+0 	text3
+}
+end

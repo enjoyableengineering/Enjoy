@@ -1,0 +1,4 @@
+CHOP:in
+tile -1725 -800 130 90
+flags =  parlanguage 0
+end

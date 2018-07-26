@@ -1,0 +1,46 @@
+?
+stdswitcher1 0 3
+clone 17 op.NtmUi.op('assets/uiButtonMaster') op.NtmUi.op('assets/button/styleUiButtonMaster')
+Backgroundr 64 0.5
+Backgroundg 64 0.5
+Backgroundb 64 0.5
+Backgrounda 64 1
+Font 64 Segoe_UI_Symbol
+Textalignx 64 center
+Textaligny 64 center
+Rolloncolorr 64 0.2
+Rolloncolorg 64 0.2
+Rolloncolorb 64 0.2
+Rolloncolora 64 1
+Textsize 64 16
+Bold 64 on
+Label 64 "Icon Audio"
+Rolloffcolorr 64 0.3
+Rolloffcolorg 64 0.3
+Rolloffcolorb 64 0.3
+Rolloffcolora 64 1
+Offcolorr 64 0
+Offcolorg 64 0
+Offcolorb 64 0
+Offcolora 64 1
+Oncolorr 64 0
+Oncolorg 64 0
+Oncolorb 64 0
+Oncolora 64 1
+Rollofftextcolorr 64 1
+Rollofftextcolorg 64 0
+Rollofftextcolorb 64 0
+Rollofftextcolora 64 1
+Rollontextcolorr 64 0.7
+Rollontextcolorg 64 0.7
+Rollontextcolorb 64 0.7
+Rollontextcolora 64 1
+Offtextcolorr 64 1
+Offtextcolorg 64 0.498039
+Offtextcolorb 64 0.501961
+Offtextcolora 64 0.6
+Ontextcolorr 64 0.54
+Ontextcolorg 64 0.54
+Ontextcolorb 64 0.54
+Ontextcolora 64 0.64
+?

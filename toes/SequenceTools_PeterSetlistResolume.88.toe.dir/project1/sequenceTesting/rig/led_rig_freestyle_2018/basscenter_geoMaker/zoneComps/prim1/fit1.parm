@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 1
+outputresolution 0 custom
+resolutionw 17 1000 "ext.Plugin.par.Regionsizex if ext.Plugin.par.Regionsizex < ext.Plugin.par.Regionsizey else ext.Plugin.par.Regionsizey"
+resolutionh 17 1000 "ext.Plugin.par.Regionsizex if ext.Plugin.par.Regionsizex < ext.Plugin.par.Regionsizey else ext.Plugin.par.Regionsizey"
+outputaspect 0 resolution
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

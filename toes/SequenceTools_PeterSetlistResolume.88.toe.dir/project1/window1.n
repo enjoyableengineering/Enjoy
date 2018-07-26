@@ -1,0 +1,5 @@
+COMP:window
+v 812.007 436.143 0.7143
+tile 400 -2000 160 130
+flags =  viewer 1 parlanguage 0
+end

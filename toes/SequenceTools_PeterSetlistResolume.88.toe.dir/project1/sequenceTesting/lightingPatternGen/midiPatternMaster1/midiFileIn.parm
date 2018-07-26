@@ -1,0 +1,11 @@
+?
+source 0 file
+file 49 "" parent().par.File
+onebased 0 off
+channel 17 parent().par.Channels parent().par.Channels
+notescope 49 parent().par.Notescope parent().par.Notescope
+controlind 32 ""
+rate 17 60 me.time.rate
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

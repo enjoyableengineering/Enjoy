@@ -1,0 +1,4 @@
+TOP:select
+tile -120 -380 130 94
+flags =  viewer 1 parlanguage 0
+end

@@ -1,0 +1,12 @@
+CHOP:merge
+tile 490 1660 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	pulseBuilder3/outBaked
+1 	pulseBuilder4/outBaked
+2 	pulseBuilder5/outBaked
+3 	pulseBuilder6/outBaked
+}
+view 5 -1 1 22.9438 -1.5 1.5 4 2 10648 20 0
+end

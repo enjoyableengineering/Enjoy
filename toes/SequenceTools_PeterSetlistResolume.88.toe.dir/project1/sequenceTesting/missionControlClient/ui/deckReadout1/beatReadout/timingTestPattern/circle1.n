@@ -1,0 +1,8 @@
+TOP:circle
+tile 425 75 130 101
+flags =  viewer 1 parlanguage 0
+exports
+{
+resExports
+}
+end

@@ -1,0 +1,9 @@
+COMP:container
+tile 225 -700 100 155
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	panes
+}
+color 0.745 0.745 0.745 
+end

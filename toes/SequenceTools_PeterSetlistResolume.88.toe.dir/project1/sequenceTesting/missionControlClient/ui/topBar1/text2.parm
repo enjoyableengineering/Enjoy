@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 1
+dat 0 labelText1
+text 0 ""
+dispmethod 0 texture
+fontsizex 0 15
+alignx 0 left
+aligny 0 top
+borderspace1 0 308
+borderspace2 0 4
+fontcolorr 0 0.498039
+fontcolorg 0 0.866667
+fontcolorb 0 1
+resolutionw 49 256 parent().width
+resolutionh 49 256 parent().height
+resmult 0 off
+?

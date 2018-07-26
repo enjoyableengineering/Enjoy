@@ -1,0 +1,5 @@
+DAT:table
+tile 275 -2050 130 90
+flags =  viewer 1 showDocked off parlanguage 0
+dock bitDepthRes
+end

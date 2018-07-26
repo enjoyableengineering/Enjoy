@@ -1,0 +1,4 @@
+?
+chop 49 "op(op('patternTable')[me.digits,1].val + \"/lookupChans\")" "op(op('patternTable')[me.digits,1].val + \"/lookupChans\")"
+autoexportroot 17 "" parent()
+?

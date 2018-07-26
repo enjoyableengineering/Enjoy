@@ -1,0 +1,11 @@
+CHOP:merge
+tile 2020 -4740 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	rename9
+1 	rename10
+2 	rename11
+3 	rename12
+}
+end

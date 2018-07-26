@@ -1,0 +1,9 @@
+COMP:container
+v 254.033 822.635 1.35156
+tile 130 -200 160 129
+flags =  picked on current on viewer 1 parlanguage 0
+exports
+{
+./null2
+}
+end

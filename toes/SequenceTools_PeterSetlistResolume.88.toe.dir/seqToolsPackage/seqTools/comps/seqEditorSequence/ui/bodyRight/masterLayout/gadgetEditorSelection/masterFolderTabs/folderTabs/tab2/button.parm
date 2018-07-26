@@ -1,0 +1,20 @@
+?
+w 0 317
+h 0 22
+hmode 0 fill
+vmode 0 fill
+alignorder 49 0 "100000 - me.nodeY"
+clickthrough 0 on
+repocomp 17 "" me
+top 0 bg
+topfill 0 native
+borderar 0 -0.1
+borderag 0 -0.1
+borderab 0 -0.1
+borderaalpha 0 0
+borderbalpha 0 0
+align 0 horizlr
+justifyh 0 left
+justifyv 0 center
+promoteextension1 0 on
+?

@@ -1,0 +1,7 @@
+?
+file 16 Images/ui_seqs/knob1_sez/ app.samplesFolder+'/Map/Smiley.tif'
+playmode 0 specify
+index 49 255 me.time.frame-1
+indexunit 32 indices
+multalpha 0 off
+?

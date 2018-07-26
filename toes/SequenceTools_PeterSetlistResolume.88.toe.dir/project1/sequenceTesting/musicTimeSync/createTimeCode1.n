@@ -1,0 +1,5 @@
+COMP:base
+v -441.129 656.017 1.43429
+tile -675 -325 160 130
+flags =  parlanguage 0
+end

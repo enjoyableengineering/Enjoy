@@ -1,0 +1,5 @@
+COMP:button
+v 369.567 133.251 1.34556
+tile 3120 -1280 160 130
+flags =  parlanguage 0
+end

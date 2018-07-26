@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 1
+text 0 Seq
+dispmethod 0 polygon
+antialias 0 aa16mid
+fontsizex 0 160
+fontcolorr 0 0.8
+fontcolorg 0 0.8
+fontcolorb 0 0.8
+bgcolorr 0 0.15
+bgcolorg 0 0.15
+bgcolorb 0 0.15
+bgalpha 0 1
+resolutionw 0 640
+resolutionh 0 480
+resmult 0 off
+?

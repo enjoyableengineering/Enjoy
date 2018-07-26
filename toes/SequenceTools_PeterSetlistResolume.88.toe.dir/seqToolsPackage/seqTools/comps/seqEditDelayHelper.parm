@@ -1,0 +1,7 @@
+?
+stdswitcher1 0 3
+parentshortcut 0 EditHelper
+Seqeditor 64 seqEditorSequence
+Editplayer 64 seqPlayerSequence
+Editrouter 64 /project1/sequenceTesting/routerDeckEdit
+?

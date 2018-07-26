@@ -1,0 +1,5 @@
+?
+fromop 16 setbpm2 me.parent()
+panel 16 setbpm2 me.parent()
+panelvalue 0 state
+?

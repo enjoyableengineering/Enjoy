@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 1
+port 49 7000 "op('osc_ports')[me.name, 1]"
+addscope 16 /playingclipnameRb_stream op('track_status_addresses')[0,0]
+splitmessage 0 on
+callbacks 0 osc_track_info_callbacks6
+fromop 17 "" parent()
+maxlines 0 1
+?

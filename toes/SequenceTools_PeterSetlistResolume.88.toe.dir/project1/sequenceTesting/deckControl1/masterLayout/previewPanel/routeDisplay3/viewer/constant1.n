@@ -1,0 +1,4 @@
+CHOP:constant
+tile -320 180 130 90
+flags =  viewer 1 render on parlanguage 0
+end

@@ -1,0 +1,9 @@
+CHOP:merge
+tile 225 -400 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	getDeckSyncChans
+1 	getTransportTempo
+}
+end

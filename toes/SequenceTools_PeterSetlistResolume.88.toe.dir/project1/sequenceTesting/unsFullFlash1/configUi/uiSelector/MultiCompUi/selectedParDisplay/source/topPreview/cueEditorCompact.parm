@@ -1,0 +1,17 @@
+?
+stdswitcher1 0 3
+w 0 540
+h 0 700
+hmode 0 fill
+vmode 0 fill
+repocomp 17 "" me
+align 0 verttb
+extension1 0 op('./CueToolsCueEditorExt').module.CueToolsCueEditorExt(me)
+promoteextension1 0 on
+parentshortcut 0 uiMain
+Cuetoolscomp 113 op.CueTools op.CueTools
+Rootcomp 64 /
+Selectedcue 113 op('selectedPreset')[0,0].val op('selectedPreset')[0,0].val
+Selectedaction 64 /project1/sequenceTesting/unsFullFlash1/flashPatterns/presets/sourcePresets/Preset5
+Selectedcuebin 64 /
+?

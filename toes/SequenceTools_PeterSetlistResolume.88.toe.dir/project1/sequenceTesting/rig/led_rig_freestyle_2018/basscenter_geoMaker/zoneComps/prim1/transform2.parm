@@ -1,0 +1,15 @@
+?
+stdswitcher1 0 2
+extend 0 repeat
+limittiles 0 on
+tileu1 0 -150
+tileu2 0 150
+tilev1 0 -150
+tilev2 0 150
+outputresolution 0 custom
+resolutionw 17 256 ext.Plugin.par.Regionsizex
+resolutionh 17 256 ext.Plugin.par.Regionsizey
+outputaspect 0 resolution
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

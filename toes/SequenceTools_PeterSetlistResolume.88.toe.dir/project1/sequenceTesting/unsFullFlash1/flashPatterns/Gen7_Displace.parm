@@ -1,0 +1,7 @@
+?
+stdswitcher1 0 2
+clone 0 Gen7_Displace
+Resw 81 0 parent.FlashMain.par.Resw.eval()
+Resh 81 0 parent.FlashMain.par.Resh.eval()
+Genlabel 81 me.name me.name
+?

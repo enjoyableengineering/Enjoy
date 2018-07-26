@@ -1,0 +1,19 @@
+?
+stdswitcher1 0 1
+sizex 0 0.04
+sizey 0 0.198
+centerx 0 -0.161
+centery 0 0
+fillcolorr 0 0.4
+fillcolorg 0 0.4
+fillcolorb 0 0.4
+bgcolorr 0 0.1
+bgcolorg 0 0.1
+bgcolorb 0 0.1
+bgalpha 0 0.5
+antialias 0 off
+resolutionw 49 256 op('../buttonScript/button0').width
+resolutionh 49 256 op('../buttonScript/button0').height
+inputfiltertype 0 nearest
+filtertype 0 nearest
+?

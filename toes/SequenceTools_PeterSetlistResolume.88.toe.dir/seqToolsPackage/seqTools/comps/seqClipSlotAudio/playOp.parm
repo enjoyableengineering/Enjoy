@@ -1,0 +1,13 @@
+?
+file 49 "" op('filePath')[0,0].val
+play 2 on
+playmode 34 specify
+index 18 0 "me.time.frame / root.time.rate"
+trim 0 on
+trimstart 18 0 parent().par.Trimstart
+trimstartunit 0 fraction
+trimend 18 1 parent().par.Trimend
+trimendunit 0 fraction
+timeslice 0 on
+autoexportroot 17 "" parent()
+?

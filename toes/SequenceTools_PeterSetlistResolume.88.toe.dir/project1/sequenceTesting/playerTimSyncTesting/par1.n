@@ -1,0 +1,4 @@
+CHOP:par
+tile 425 -1025 130 90
+flags =  picked on current on parlanguage 0
+end

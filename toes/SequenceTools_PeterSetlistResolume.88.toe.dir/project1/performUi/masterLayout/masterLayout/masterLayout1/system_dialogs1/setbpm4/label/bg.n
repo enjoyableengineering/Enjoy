@@ -1,0 +1,8 @@
+TOP:text
+tile 20 40 150 67
+flags =  current on viewer 1
+exports
+{
+parentoverride
+}
+end

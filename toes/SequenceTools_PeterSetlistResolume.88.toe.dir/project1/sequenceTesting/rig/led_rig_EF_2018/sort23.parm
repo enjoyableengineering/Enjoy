@@ -1,0 +1,7 @@
+?
+stdswitcher1 0 1
+primsort 0 prox
+primproxx 49 320 me.inputs[0].center[0]
+primproxy 49 -208 me.inputs[0].center[1]
+primproxz 32 0
+?

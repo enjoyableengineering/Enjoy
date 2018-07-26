@@ -1,0 +1,13 @@
+CHOP:switch
+tile -500 900 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	parameters_deck1
+1 	parameters_editDeck
+}
+exports
+{
+null1
+}
+end

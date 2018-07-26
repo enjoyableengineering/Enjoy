@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 2
+parentshortcut 0 Main
+clone 49 parent.FlashMain.op('local/rampInputKeys') parent.FlashMain.op('local/lookupWarp')
+Centerx 64 0
+Centery 64 0.1
+Resx 96 1280
+Resy 96 720
+Altlooku 64 -0.1
+Altlookv 64 0.2
+Altmagu 64 -3.3
+Altmagv 64 4.4
+Altrampextend 64 zero
+Useinputres 64 off
+Inputfiltertype 64 nearest
+?

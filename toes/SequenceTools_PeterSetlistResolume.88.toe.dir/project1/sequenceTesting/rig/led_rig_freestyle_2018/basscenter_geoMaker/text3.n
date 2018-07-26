@@ -1,0 +1,4 @@
+DAT:text
+tile 2000 -2025 1136 847
+flags =  parlanguage 0
+end

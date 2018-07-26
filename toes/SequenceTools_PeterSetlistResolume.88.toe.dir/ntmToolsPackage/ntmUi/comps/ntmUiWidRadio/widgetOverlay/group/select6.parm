@@ -1,0 +1,5 @@
+?
+dat 0 $colorexp/tbl_radiodelete_off
+rowindexend 17 15 "$NR - 1"
+colindexend 17 5 "$NC - 1"
+?

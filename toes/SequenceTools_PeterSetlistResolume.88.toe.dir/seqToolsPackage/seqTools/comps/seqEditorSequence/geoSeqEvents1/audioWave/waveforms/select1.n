@@ -1,0 +1,9 @@
+CHOP:select
+tile -1000 -575 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	in1
+}
+view 9 -1 1 -27.7184 -1.5 1.5 3755.1 3867.01 -1.4597 1.39425 5 2 8216 1 1 0
+end

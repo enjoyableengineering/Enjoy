@@ -1,0 +1,4 @@
+TOP:constant
+tile 2425 700 130 105
+flags =  parlanguage 0
+end

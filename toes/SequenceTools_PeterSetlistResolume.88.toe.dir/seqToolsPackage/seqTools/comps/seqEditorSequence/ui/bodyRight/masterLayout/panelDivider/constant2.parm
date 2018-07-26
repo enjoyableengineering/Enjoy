@@ -1,0 +1,8 @@
+?
+stdswitcher1 0 1
+alpha 0 0.272
+resolutionw 49 50 "5 * parent.Divider.par.Knobsize"
+resolutionh 49 50 parent.Divider.par.Knobsize
+outputaspect 0 useinput
+fillmode 0 useinput
+?

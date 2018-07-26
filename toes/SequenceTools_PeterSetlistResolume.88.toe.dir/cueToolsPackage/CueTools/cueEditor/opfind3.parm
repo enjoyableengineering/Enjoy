@@ -1,0 +1,9 @@
+?
+stdswitcher1 0 2
+component 48 /project1 /
+limitmaxdepth 0 off
+tagsfilter 0 *ctCueBin*
+typecol 0 off
+pathcol 0 on
+callbacks 0 opfind1_callbacks2
+?

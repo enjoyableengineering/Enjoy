@@ -1,0 +1,14 @@
+?
+name0 0 Position1
+value0 0 1
+name1 0 Color1r
+value1 0 1
+name2 0 Color1g
+value2 0 0.75
+name3 0 Color1b
+value3 0 0.71
+name4 0 Color1a
+value4 0 1
+rate 16 60 me.time.rate
+autoexportroot 17 "" me.parent()
+?

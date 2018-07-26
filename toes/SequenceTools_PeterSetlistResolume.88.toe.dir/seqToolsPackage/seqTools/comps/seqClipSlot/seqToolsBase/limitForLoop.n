@@ -1,0 +1,12 @@
+CHOP:limit
+tile 1700 -1350 130 90
+flags =  viewer 1 parlanguage 0
+inputs
+{
+0 	applySpeed
+}
+exports
+{
+loopPars
+}
+end

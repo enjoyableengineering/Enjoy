@@ -1,0 +1,6 @@
+?
+channames 0 /project/sequenceTesting/lightControlOut:*
+renamefrom 0 /project/sequenceTesting/lightControlOut:*
+renameto 0 *
+autoexportroot 17 "" parent()
+?

@@ -1,0 +1,16 @@
+?
+stdswitcher1 0 3
+clone 49 parent.FlashMain.op('local/displaceMixer') parent.FlashMain.op('local/displaceMixer')
+Vertsource 64 green
+Midpoint1 64 0.5
+Midpoint2 64 0
+Displaceweight1 96 0.3
+Displaceweight2 96 0.3
+Offset1 64 0.5
+Offset2 64 0
+Uvweight 64 0.542
+Extend 64 repeat
+Displacemultiply 64 0.997
+Source1 64 Gen4_out1
+Source2 64 Gen6_Noise_out1
+?

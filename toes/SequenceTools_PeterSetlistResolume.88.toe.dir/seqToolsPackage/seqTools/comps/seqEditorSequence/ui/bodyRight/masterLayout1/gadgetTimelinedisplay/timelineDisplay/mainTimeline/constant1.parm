@@ -1,0 +1,8 @@
+?
+name0 32 resX
+value0 49 0 parent().width
+name1 32 resY
+value1 49 0 parent().height
+rate 17 60 me.time.rate
+autoexportroot 17 "" parent()
+?

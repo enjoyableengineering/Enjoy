@@ -1,0 +1,4 @@
+COMP:button
+tile 825 -25 160 155
+flags =  viewer 1 parlanguage 0
+end

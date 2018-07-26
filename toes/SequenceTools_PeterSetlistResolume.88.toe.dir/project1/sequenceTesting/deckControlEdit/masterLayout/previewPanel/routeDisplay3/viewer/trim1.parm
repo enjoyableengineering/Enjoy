@@ -1,0 +1,6 @@
+?
+relative 0 abs
+timeslice 0 on
+exportmethod 0 autoname
+autoexportroot 17 "" parent()
+?

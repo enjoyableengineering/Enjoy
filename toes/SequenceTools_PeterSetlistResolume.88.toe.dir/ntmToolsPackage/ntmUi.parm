@@ -1,0 +1,6 @@
+?
+stdswitcher1 0 2
+extension1 0 op('./NtmUiExt').module.NtmUiExt(me)
+promoteextension1 0 on
+opshortcut 0 NtmUi
+?

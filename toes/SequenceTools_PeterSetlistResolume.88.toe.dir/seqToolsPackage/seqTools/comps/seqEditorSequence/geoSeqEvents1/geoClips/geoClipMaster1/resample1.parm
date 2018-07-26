@@ -1,0 +1,7 @@
+?
+method 0 strech
+rate 17 60 me.time.rate
+relative 0 abs
+end 49 0 op('clipData')[1,0].val
+autoexportroot 17 "" parent()
+?

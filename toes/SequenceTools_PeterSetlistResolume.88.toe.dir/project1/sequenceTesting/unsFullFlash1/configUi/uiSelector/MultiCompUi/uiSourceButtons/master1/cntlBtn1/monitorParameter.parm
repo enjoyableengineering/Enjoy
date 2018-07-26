@@ -1,0 +1,6 @@
+?
+ops 32 /project1/sequenceTesting/unsFullFlash1/flashController1
+parameters 32 Hold1
+builtin 0 on
+autoexportroot 17 "" parent()
+?

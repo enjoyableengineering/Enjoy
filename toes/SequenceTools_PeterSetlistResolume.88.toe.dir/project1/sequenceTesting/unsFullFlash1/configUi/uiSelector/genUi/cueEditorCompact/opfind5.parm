@@ -1,0 +1,17 @@
+?
+component 17 parent().par.Rootcomp.eval() parent().SelectedSourceCue
+combinefilters 0 any
+namefilter 0 ""
+typefilter 0 ""
+pathfilter 0 ""
+parentfilter 0 ""
+commentfilter 0 ""
+tagsfilter 0 "ctActionDef ctAction"
+textfilter 0 ""
+parnamefilter 0 ""
+parvaluefilter 0 ""
+parexpressionfilter 0 ""
+typecol 0 off
+pathcol 0 on
+callbacks 0 opfind1_callbacks4
+?

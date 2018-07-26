@@ -1,0 +1,5 @@
+?
+integer 0 floor
+gain 0 30
+autoexportroot 17 "" me.parent()
+?

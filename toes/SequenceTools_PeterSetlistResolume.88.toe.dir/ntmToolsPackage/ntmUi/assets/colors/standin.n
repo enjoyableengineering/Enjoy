@@ -1,0 +1,4 @@
+CHOP:constant
+tile 20 -100 130 90
+flags = 
+end
