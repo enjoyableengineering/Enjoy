@@ -1,6 +1,0 @@
-?
-file 17 "" app.samplesFolder+'/MIDI/default.midi'
-rate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

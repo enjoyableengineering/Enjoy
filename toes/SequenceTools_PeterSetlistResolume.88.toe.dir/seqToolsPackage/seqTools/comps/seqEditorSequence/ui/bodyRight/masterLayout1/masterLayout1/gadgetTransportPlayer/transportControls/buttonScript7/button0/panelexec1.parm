@@ -1,6 +1,0 @@
-?
-fromop 17 "" me.parent()
-panel 0 ..
-panelvalue 0 lselect
-ontooff 0 on
-?

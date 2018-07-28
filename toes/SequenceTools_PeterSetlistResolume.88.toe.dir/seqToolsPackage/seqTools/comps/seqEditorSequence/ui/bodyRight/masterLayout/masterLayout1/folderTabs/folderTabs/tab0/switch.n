@@ -1,9 +1,0 @@
-TOP:switch
-tile 200 100 130 105
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	off
-1 	on
-}
-end

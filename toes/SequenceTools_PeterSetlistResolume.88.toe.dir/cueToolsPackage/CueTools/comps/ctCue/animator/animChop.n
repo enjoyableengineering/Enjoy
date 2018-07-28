@@ -1,9 +1,0 @@
-CHOP:null
-tile 425 0 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	gatherChans/out1
-}
-view 5 -1 1 4.98438 -1.5 1.5 4 2 10648 20 0
-end

@@ -1,3 +1,0 @@
-?
-index 49 0 if(tabr(\"$gadget/local/define\",\"delete\",1)==1,1,0)
-?

@@ -1,4 +1,0 @@
-?
-chop 49 op.Core1.op('beatPulser/lightingPulses') op.LxDataRoute.op('lxGenericTriggers')
-autoexportroot 17 "" parent()
-?

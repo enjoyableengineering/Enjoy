@@ -1,9 +1,0 @@
-CHOP:shuffle
-tile 2030 450 130 90
-flags = 
-inputs
-{
-0 	select1
-}
-color 0.56 0.56 0.56 
-end

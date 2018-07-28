@@ -1,6 +1,0 @@
-COMP:base
-v 677.456 668.854 0.567977
-tags 0 1 widgetAssets
-tile 0 -300 160 130
-flags =  picked on current on viewer 1 parlanguage 0
-end

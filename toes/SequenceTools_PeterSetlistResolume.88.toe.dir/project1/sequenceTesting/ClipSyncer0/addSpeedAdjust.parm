@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-chopop 0 add
-postoff 49 0 parent().SpeedAdjust
-autoexportroot 17 "" parent()
-?

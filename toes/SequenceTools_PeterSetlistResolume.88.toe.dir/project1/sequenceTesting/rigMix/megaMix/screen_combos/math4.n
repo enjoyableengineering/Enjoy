@@ -1,8 +1,0 @@
-CHOP:math
-tile -825 -4100 130 90
-flags =  viewer 1 bypass on parlanguage 0
-inputs
-{
-0 	constant47
-}
-end

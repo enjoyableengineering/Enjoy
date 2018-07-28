@@ -1,8 +1,0 @@
-TOP:hsvadj
-tile 640 -330 130 54
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	overlays/out1
-}
-end

@@ -1,6 +1,0 @@
-COMP:base
-v 139.641 621.876 0.997419
-tags 0 4 ntmMidiRoute ntmMidi ntmRoute ntmTools
-tile 800 -200 160 130
-flags =  viewer 1 parlanguage 0
-end

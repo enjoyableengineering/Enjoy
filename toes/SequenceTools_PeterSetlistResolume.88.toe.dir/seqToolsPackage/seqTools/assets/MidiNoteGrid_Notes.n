@@ -1,4 +1,0 @@
-TOP:moviefilein
-tile 0 -530 130 94
-flags =  viewer 1 parlanguage 0
-end

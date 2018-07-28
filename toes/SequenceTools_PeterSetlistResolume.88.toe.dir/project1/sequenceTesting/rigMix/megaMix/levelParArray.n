@@ -1,9 +1,0 @@
-CHOP:null
-tile -440 1330 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	consolidateLayerPars/outTransparencyGammaTinit
-}
-view 13 -1 1 1977.96 -1.5 1.5 -1.42823 35.3801 -0.1665 1.2765 0.129958 1.2476 -0.252115 1.36061 5 2 2072 20 3 0
-end

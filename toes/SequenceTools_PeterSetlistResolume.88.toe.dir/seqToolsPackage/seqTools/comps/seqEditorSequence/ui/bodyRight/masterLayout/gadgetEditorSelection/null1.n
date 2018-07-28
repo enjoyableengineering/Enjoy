@@ -1,8 +1,0 @@
-CHOP:null
-tile 375 -225 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	masterFolderTabs/out_menu0Index
-}
-end

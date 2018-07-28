@@ -1,5 +1,0 @@
-?
-active 49 on op('opFindTreeLister').panel.inside
-callbacks 0 keyboardin1_callbacks
-fromop 17 "" me.parent()
-?

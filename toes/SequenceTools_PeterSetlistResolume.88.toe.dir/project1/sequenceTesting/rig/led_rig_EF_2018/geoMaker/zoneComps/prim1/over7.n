@@ -1,9 +1,0 @@
-TOP:over
-tile 4900 3125 162 130
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	rectangle3
-1 	hsvadj1
-}
-end

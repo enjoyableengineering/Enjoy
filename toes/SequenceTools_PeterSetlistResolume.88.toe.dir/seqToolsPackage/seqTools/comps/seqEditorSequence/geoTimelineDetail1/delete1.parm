@@ -1,8 +1,0 @@
-?
-negate 0 keep
-entity 0 point
-usenumber 0 on
-pattern 0 "0 1"
-rangestart 0 0
-rangeend 17 0 len(me.inputs[0].prims)
-?

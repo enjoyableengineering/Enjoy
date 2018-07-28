@@ -1,7 +1,0 @@
-?
-dat 0 /project1/sequenceTesting/deckControlEdit/masterLayout/ntmUiPanelGadget/layerControls2/map_options1
-rowindexend 17 0 "me.inputTable.numRows - 1"
-rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
-colindexend 17 0 "me.inputTable.numCols - 1"
-colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
-?

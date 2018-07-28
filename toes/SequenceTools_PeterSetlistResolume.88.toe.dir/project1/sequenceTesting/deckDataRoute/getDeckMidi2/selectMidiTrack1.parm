@@ -1,4 +1,0 @@
-?
-chop 49 parent().par.Choptrack1 op('..').par.Choptrack1.eval()
-autoexportroot 17 "" parent()
-?

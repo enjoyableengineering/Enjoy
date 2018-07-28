@@ -1,8 +1,0 @@
-SOP:sort
-tile 4100 -200 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	delete11
-}
-end

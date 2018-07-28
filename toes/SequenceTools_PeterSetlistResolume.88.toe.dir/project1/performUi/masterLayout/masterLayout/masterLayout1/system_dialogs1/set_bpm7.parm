@@ -1,5 +1,0 @@
-?
-fromop 16 setbpm7 me.parent()
-panel 16 setbpm7 me.parent()
-panelvalue 0 state
-?

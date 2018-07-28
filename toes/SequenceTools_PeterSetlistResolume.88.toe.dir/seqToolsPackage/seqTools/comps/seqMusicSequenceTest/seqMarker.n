@@ -1,6 +1,0 @@
-COMP:base
-v 364.082 220.382 1.43365
-tags 0 3 seqMarker seqTools seqEvent
-tile 600 0 160 130
-flags =  picked on current on viewer 1 parlanguage 0
-end

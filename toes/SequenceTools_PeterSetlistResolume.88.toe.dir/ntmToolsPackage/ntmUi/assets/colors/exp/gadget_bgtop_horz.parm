@@ -1,6 +1,0 @@
-?
-output 0 string
-expr 0 `ifs(strmatch(vsc($R,path),\"..\")==1,substitute(substitute(\"$V\",'$gadget/',\"./\"),'\"$color/','var(\"./local\",\"color\")+\"/'),\"$V\")`
-rowindexend 17 0 "$NR - 1"
-colindexend 17 0 "$NC - 1"
-?

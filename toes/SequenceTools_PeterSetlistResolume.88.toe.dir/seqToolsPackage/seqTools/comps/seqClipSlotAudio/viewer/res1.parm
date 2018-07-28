@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 1
-outputresolution 0 custom
-resolutionw 17 256 parent().par.h
-resolutionh 0 20
-outputaspect 0 resolution
-inputfiltertype 0 nearest
-filtertype 0 nearest
-?

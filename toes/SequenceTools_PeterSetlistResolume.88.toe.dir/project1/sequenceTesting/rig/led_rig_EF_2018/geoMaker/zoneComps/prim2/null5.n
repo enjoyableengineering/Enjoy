@@ -1,8 +1,0 @@
-MAT:null
-tile 6500 3125 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	phong1
-}
-end

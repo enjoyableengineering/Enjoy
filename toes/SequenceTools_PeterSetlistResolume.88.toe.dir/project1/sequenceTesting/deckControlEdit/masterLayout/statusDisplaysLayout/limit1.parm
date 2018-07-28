@@ -1,6 +1,0 @@
-?
-type 0 clamp
-min 0 -0.5
-max 0 0.5
-autoexportroot 17 "" me.parent()
-?

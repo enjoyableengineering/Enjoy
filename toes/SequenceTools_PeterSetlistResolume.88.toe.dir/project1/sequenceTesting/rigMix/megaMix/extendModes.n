@@ -1,8 +1,0 @@
-CHOP:null
-tile -440 1210 130 90
-flags =  viewer 1 export on parlanguage 0
-inputs
-{
-0 	consolidateLayerPars/outExtendModes
-}
-end

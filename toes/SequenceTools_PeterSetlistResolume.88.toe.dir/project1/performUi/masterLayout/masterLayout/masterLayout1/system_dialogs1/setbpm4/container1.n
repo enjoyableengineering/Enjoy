@@ -1,8 +1,0 @@
-COMP:container
-tile 300 610 160 130
-flags =  viewer 1
-exports
-{
-./parentoverride
-}
-end

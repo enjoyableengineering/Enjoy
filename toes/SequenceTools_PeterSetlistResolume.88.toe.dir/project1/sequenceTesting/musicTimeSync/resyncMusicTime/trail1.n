@@ -1,9 +1,0 @@
-CHOP:trail
-tile 3250 1300 130 90
-flags =  viewer 1 activate on parlanguage 0
-inputs
-{
-0 	compare
-}
-view 13 -1 1 0.992017 -1.5 1.5 0.723055 254.022 -640.15 -638.85 -3.669 1.6842 -0.694516 1.15395 5 2 10328 20 3 0
-end

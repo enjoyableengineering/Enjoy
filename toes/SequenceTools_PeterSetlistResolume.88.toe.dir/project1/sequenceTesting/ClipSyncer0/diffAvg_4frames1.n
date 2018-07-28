@@ -1,8 +1,0 @@
-CHOP:analyze
-tile 1425 -650 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	fullDiffDespikeTrail
-}
-end

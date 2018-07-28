@@ -1,7 +1,0 @@
-?
-component 49 "" me.parent(2)
-select 0 rollover
-rename 0 v[1-2]
-queue 0 off
-autoexportroot 17 "" me.parent()
-?

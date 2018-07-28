@@ -1,6 +1,0 @@
-COMP:base
-v 1342.99 669.911 0.234066
-tags 0 1 ntmGenSub
-tile -125 150 160 129
-flags =  viewer 1 parlanguage 0
-end

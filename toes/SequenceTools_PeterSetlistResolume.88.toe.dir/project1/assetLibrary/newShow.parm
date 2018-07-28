@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-extension1 0 op('./NtmToolsShowDataLibExt').module.NtmToolsShowDataLibExt(me)
-promoteextension1 0 on
-Emptysongcomp 64 emptySong
-Editrouter 81 op.UnsEditRouter op.UnsEditRouter
-Launcher 81 op.UnsCueLauncher op.UnsCueLauncher
-?

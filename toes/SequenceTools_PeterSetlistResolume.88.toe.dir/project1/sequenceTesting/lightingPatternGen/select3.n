@@ -1,9 +1,0 @@
-DAT:select
-tile -2020 330 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	midSeqFolder
-}
-view 8 0 1 1 1 0 0 0 0 1 1
-end

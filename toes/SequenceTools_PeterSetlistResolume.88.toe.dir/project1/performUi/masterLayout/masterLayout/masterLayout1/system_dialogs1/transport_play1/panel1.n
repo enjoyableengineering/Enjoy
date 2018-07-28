@@ -1,5 +1,0 @@
-CHOP:panel
-tile 410 230 130 90
-flags =  viewer 1 export on
-color 0.56 0.56 0.56 
-end

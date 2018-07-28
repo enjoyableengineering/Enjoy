@@ -1,4 +1,0 @@
-SOP:filein
-tile 0 0 130 90
-flags =  current on viewer 1 display on parlanguage 0
-end

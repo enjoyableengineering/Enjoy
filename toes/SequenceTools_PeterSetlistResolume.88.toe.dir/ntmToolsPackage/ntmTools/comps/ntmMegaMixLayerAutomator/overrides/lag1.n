@@ -1,8 +1,0 @@
-CHOP:lag
-tile 450 280 130 90
-flags =  picked on current on viewer 1 parlanguage 0
-inputs
-{
-0 	par1
-}
-end

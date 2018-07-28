@@ -1,8 +1,0 @@
-TOP:fit
-tile 425 350 130 101
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	selectOff
-}
-end

@@ -1,4 +1,0 @@
-COMP:button
-tile -1200 0 160 155
-flags =  activate on parlanguage 0
-end

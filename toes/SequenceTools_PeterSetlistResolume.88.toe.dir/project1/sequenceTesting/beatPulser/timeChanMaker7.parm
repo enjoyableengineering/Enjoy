@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 3
-clone 0 timeChanMaker
-Lookupchop 64 /project1/sequenceTesting/timingLookups/lookupChansBar
-Lookupchans 64 ramp_up_8th
-Lookupramp 64 4
-Newnames 64 ramp_up_8th
-Interp 64 off
-?

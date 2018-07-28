@@ -1,9 +1,0 @@
-TOP:null
-tags 0 1 displaceSource
-tile 300 150 130 72
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	displaceMixer/out1
-}
-end

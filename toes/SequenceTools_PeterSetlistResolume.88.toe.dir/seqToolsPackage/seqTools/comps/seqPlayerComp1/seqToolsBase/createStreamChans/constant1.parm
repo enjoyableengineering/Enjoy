@@ -1,6 +1,0 @@
-?
-name0 0 seconds
-value0 17 0 1/me.time.rate
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

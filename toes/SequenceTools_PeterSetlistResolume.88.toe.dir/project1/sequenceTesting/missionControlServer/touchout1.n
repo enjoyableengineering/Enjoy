@@ -1,9 +1,0 @@
-DAT:touchout
-tile 600 -575 130 90
-flags =  viewer 1 bypass on parlanguage 0
-inputs
-{
-0 	deckData
-}
-view 8 0 1 1 1 0 0 0 0 1 1
-end

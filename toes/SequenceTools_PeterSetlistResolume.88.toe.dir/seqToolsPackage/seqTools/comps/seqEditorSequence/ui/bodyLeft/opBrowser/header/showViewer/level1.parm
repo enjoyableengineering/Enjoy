@@ -1,3 +1,0 @@
-?
-brightness1 49 1 "0.9 if parent().panel.inside.val else 0.8"
-?

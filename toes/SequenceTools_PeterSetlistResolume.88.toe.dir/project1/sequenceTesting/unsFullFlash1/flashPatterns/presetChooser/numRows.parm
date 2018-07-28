@@ -1,7 +1,0 @@
-?
-name0 32 numRows
-value0 49 0 op('presetsDat').numRows-1
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-exporttable 0 numRows_export
-?

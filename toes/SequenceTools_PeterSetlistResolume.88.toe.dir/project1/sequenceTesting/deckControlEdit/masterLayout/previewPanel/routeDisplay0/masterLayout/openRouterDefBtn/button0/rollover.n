@@ -1,6 +1,0 @@
-COMP:container
-v 317.1 353.1 0.2
-tags 0 1 TDSubComp
-tile 0 200 150 155
-flags =  viewer 1 parlanguage 0
-end

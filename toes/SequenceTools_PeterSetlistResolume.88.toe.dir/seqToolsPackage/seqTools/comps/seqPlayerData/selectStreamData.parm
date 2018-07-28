@@ -1,4 +1,0 @@
-?
-chop 49 parent().par.Playercomp.op('streamDataChop') parent().par.Playercomp.eval().op('streamDataChop')
-autoexportroot 17 "" parent()
-?

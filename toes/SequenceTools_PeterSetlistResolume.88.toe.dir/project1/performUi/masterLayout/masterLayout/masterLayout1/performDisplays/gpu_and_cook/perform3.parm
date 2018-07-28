@@ -1,6 +1,0 @@
-?
-fps 0 off
-cook 0 on
-timeslice 0 on
-autoexportroot 17 "" me.parent()
-?

@@ -1,7 +1,0 @@
-?
-stdswitcher1 0 3
-limitmaxdepth 0 off
-typefilter 0 *shared*
-pathcol 0 on
-callbacks 0 opfind1_callbacks
-?

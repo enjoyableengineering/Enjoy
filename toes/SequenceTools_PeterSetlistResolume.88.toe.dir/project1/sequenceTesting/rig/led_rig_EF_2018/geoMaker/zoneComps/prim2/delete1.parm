@@ -1,5 +1,0 @@
-?
-usenumber 0 on
-rangestart 0 0
-rangeend 17 0 len(me.inputs[0].prims)
-?

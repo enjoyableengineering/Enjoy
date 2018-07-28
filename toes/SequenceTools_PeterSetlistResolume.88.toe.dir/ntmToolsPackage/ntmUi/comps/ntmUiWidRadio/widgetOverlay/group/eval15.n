@@ -1,8 +1,0 @@
-DAT:eval
-tile 340 510 130 90
-flags =  viewer 1
-inputs
-{
-0 	select5
-}
-end

@@ -1,8 +1,0 @@
-?
-wavetype 0 square
-frequency 32 15
-channelname 0 crayStrobe
-rate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

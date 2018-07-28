@@ -1,5 +1,0 @@
-DAT:merge
-tile 3100 770 130 90
-flags =  lock on
-color 0.226667 0.68 0 
-end

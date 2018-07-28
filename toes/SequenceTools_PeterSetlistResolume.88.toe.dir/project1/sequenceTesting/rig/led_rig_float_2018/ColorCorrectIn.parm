@@ -1,5 +1,0 @@
-?
-file 49 "\"Rigs/\" + parent().name +\"/outColorCorrect.tiff\"" "\"Rigs/\" + parent().name +\"/outColorCorrect.tiff\""
-index 17 0 me.time.frame
-multalpha 0 off
-?

@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 3
-opviewer 0 ./clipTable
-Songname 113 "New Song" op('..').par.Songname
-Basetempo 81 90 op('..').par.Basetempo
-Defaultseqcomp 64 sequence1
-Seqbin 64 ..
-Defaultroutecomp 64 routerDef1
-?

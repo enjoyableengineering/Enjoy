@@ -1,8 +1,0 @@
-CHOP:math
-tile -550 -8025 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	merge9
-}
-end

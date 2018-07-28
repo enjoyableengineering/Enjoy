@@ -1,9 +1,0 @@
-TOP:multiply
-tile 180 -50 130 48
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	label
-1 	select1
-}
-end

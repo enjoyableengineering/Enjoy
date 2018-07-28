@@ -1,5 +1,0 @@
-?
-rowindexend 17 7 "$NR - 1"
-extractcols 0 byindex
-colindexend 16 0 "$NC - 1"
-?

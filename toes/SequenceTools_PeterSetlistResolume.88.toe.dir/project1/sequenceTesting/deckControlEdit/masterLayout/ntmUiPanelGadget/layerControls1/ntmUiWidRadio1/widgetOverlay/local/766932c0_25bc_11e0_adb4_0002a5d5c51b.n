@@ -1,4 +1,0 @@
-DAT:table
-tile 190 -380 130 90
-flags =  viewer 1 expose off cloneImmune on master_cloneImmune on
-end

@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 3
-gain 0 0.846
-scope 0 chan0
-autoexportroot 17 "" me.parent()
-?

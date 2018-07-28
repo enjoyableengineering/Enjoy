@@ -1,4 +1,0 @@
-COMP:select
-tile 1020 70 99 155
-flags =  current on viewer 1 parlanguage 0
-end

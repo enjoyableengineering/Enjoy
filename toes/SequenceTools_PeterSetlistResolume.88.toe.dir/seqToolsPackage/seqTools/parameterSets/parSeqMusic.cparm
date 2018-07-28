@@ -1,7 +1,0 @@
-?
-pages 1 "Music Sequence"
-772804865 Seqtempo "Sequnece Tempo" 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 1
-772804865 Seqoffset "Sequence Offset" 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 2
-772805121 Seqtimesig "Time Signature" 1 1 0 0 1 1 1 1 0 0 1 1 1 0 4 "" 0 4 "" "Music Sequence" 3
-772804868 Seqlabel Label 1 1 0 0 1 1 1 0 0 "" "Music Sequence" 0
-?

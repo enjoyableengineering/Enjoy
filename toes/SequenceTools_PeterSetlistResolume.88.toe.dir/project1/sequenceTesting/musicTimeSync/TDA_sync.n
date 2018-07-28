@@ -1,5 +1,0 @@
-COMP:base
-v 1059.09 293.898 0.384999
-tile -1425 100 160 130
-flags =  viewer 1 cook off parlanguage 0
-end

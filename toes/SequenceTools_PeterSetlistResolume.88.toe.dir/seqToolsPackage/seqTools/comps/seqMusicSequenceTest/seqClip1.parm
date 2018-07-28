@@ -1,9 +1,0 @@
-?
-extension1 0 op('./SeqToolsEventClipExt').module.SeqToolsEventClipExt(me)
-promoteextension1 0 on
-Seqtoolscomp 81 op.SeqTools op.SeqTools
-Seqeventlabel 64 "none selected"
-Seqtime 80 4 4/3
-Seqduration 64 282.567
-Seqclipcomp 64 ../seqClipMovie
-?

@@ -1,6 +1,0 @@
-?
-lag1 17 0.2 op('lag1').par.lag1
-lag2 17 0.2 op('lag1').par.lag2
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

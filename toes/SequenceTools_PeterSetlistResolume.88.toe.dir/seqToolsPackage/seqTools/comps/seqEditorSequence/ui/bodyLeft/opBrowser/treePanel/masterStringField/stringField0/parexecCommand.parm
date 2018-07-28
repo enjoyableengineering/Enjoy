@@ -1,7 +1,0 @@
-?
-fromop 17 "" me.parent()
-op 49 parent.Widget parent.Widget
-pars 49 "'Value' + str(parent.digits)" "'Value' + str(parent().digits)"
-valuechange 49 on parent.Widget.par.Stringfieldruncommand
-builtin 0 off
-?

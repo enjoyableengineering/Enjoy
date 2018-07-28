@@ -1,9 +1,0 @@
-CHOP:merge
-tile 1200 575 130 90
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	merge1
-1 	merge2
-}
-end

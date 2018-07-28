@@ -1,8 +1,0 @@
-TOP:cacheselect
-tile 275 -525 130 48
-flags =  viewer 1 parlanguage 0
-exports
-{
-lookupInst
-}
-end

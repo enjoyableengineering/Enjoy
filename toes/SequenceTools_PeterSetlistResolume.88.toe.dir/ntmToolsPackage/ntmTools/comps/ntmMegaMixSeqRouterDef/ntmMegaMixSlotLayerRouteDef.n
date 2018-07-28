@@ -1,6 +1,0 @@
-COMP:base
-v 458.536 356.185 0.285196
-tags 0 4 ntmRouteDef ntmLayerRouteDef ntmTools ntmMegaMix
-tile 0 -200 160 130
-flags =  viewer 1 parlanguage 0
-end

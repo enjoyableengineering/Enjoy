@@ -1,4 +1,0 @@
-CHOP:select
-tile 740 10 130 90
-flags =  parlanguage 0
-end

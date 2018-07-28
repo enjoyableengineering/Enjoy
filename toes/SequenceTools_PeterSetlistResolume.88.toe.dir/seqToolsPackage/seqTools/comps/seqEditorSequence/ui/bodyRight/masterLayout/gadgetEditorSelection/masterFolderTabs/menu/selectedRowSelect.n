@@ -1,8 +1,0 @@
-DAT:select
-tile 600 -300 130 90
-flags =  viewer 1 parlanguage 0
-exports
-{
-selectedCell
-}
-end

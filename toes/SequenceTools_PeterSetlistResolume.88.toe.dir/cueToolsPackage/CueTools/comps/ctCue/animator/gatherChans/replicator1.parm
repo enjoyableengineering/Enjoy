@@ -1,9 +1,0 @@
-?
-repsuffixstart 0 0
-template 0 selectorRepTable
-ignorefirstrow 0 off
-opprefix 0 selector
-master 0 masterSelector0
-destination 17 "" parent()
-callbacks 0 replicator1_callbacks
-?

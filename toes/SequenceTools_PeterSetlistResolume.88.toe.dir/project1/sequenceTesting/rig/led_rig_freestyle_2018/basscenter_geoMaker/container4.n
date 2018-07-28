@@ -1,9 +1,0 @@
-COMP:container
-v 754.288 441.483 0.0380458
-tile 1000 0 160 109
-flags =  parlanguage 0
-inputs
-{
-0 	container5
-}
-end

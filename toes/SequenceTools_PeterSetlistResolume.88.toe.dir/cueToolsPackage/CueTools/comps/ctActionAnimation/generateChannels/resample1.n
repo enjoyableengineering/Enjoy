@@ -1,9 +1,0 @@
-CHOP:resample
-tile 1275 25 130 90
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	datto1
-}
-view 5 -1 1 4.99062 -1.5 1.5 4 2 10648 20 0
-end

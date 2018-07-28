@@ -1,8 +1,0 @@
-DAT:eval
-tile 860 540 130 90
-flags = 
-inputs
-{
-0 	eval11
-}
-end

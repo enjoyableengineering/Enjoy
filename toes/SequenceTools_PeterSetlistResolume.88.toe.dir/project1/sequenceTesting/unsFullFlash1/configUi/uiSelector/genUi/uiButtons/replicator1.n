@@ -1,5 +1,0 @@
-COMP:replicator
-v 497.081 522.137 0.0254955
-tile 1300 -100 160 130
-flags =  picked on current on viewer 1 parlanguage 0
-end

@@ -1,6 +1,0 @@
-?
-lag1 0 0.02
-lag2 0 0.02
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

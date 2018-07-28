@@ -1,9 +1,0 @@
-COMP:slider
-v 16.2442 158.916 0.202676
-tile -20 -270 160 155
-flags =  viewer 1 activate on
-exports
-{
-widgetOverlay/rollover
-}
-end

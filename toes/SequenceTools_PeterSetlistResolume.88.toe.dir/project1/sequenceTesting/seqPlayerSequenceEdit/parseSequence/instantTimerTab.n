@@ -1,4 +1,0 @@
-DAT:table
-tile 2075 -475 130 90
-flags =  current on viewer 1 cloneImmune on master_cloneImmune on parlanguage 0
-end

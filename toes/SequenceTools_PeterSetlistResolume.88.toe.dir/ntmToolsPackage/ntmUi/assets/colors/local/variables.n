@@ -1,8 +1,0 @@
-DAT:null
-tile 155 5 130 90
-flags = 
-inputs
-{
-0 	set_variables
-}
-end

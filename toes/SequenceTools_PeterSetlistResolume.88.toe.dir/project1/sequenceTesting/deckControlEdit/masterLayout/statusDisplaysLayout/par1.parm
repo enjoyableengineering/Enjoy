@@ -1,6 +1,0 @@
-?
-ops 49 parent.DeckControl.par.Clipsyncer parent.DeckControl.par.Clipsyncer
-parameters 0 Triggertempo
-autoexportroot 17 "" parent()
-exporttable 0 par1_export
-?

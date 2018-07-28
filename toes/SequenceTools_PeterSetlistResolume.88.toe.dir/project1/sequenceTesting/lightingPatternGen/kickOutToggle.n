@@ -1,8 +1,0 @@
-CHOP:null
-tile 710 960 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	replace4
-}
-end

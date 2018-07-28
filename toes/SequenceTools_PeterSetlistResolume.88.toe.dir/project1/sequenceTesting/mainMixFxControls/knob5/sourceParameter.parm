@@ -1,6 +1,0 @@
-?
-ops 32 /project1/sequenceTesting/hsvadj1
-parameters 32 hueoffset
-builtin 0 on
-autoexportroot 17 "" parent()
-?

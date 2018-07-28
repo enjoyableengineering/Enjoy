@@ -1,3 +1,0 @@
-?
-index 49 0 "parent.Value.panel.select if parent.Widget.par.Buttontype.eval() == \"Commands_Only_Ignore_Value\" else getattr(parent.Widget.par, 'Value'+str(parent().digits)) "
-?

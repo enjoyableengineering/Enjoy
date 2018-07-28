@@ -1,7 +1,0 @@
-?
-fromop 17 "" me.parent()
-panel 49 horzSlider* parent()
-panelvalue 49 "'v' if parent.Widget.par.Sliderorient.menuIndex else 'u'" "'select ' + ('v' if parent.Widget.par.Sliderorient.menuIndex else 'u')"
-ontooff 0 on
-valuechange 0 on
-?

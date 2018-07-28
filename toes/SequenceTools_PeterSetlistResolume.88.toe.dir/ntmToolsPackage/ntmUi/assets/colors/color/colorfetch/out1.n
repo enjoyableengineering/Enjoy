@@ -1,8 +1,0 @@
-CHOP:out
-tile 0 0 130 90
-flags =  viewer 1
-inputs
-{
-0 	mergecolors
-}
-end

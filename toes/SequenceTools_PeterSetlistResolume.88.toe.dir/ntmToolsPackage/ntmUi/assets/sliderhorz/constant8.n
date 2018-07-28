@@ -1,4 +1,0 @@
-TOP:constant
-tile 200 225 163 56
-flags =  viewer 1 parlanguage 0
-end

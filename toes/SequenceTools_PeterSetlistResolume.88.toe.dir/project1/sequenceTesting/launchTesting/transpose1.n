@@ -1,8 +1,0 @@
-DAT:transpose
-tile -1150 -1030 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	select1
-}
-end

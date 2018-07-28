@@ -1,9 +1,0 @@
-COMP:container
-v 230.248 183.856 2.744
-tile 325 25 204 87
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	row3
-}
-end

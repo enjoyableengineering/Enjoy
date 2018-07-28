@@ -1,6 +1,0 @@
-COMP:base
-v 545.424 1031.51 1.0119
-tags 0 1 widgetAssets
-tile 0 -450 160 130
-flags =  viewer 1 parlanguage 0
-end

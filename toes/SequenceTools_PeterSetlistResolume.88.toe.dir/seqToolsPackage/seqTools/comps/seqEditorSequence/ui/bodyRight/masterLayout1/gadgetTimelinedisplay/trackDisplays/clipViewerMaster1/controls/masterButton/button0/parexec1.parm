@@ -1,7 +1,0 @@
-?
-fromop 17 "" me.parent()
-op 49 parent.Widget "parent.Widget "
-pars 48 "Buttonbordera Buttonborderb Buttonlabeltype Buttonpanelexecute Buttontype Buttonruncommand" "'Buttonlabeltype Buttonpanelexecute Buttontype Buttonruncommand' + (' Value' + str(parent().digits) if parent.Widget.par.Buttonruncommand else '')"
-onpulse 0 on
-builtin 0 off
-?

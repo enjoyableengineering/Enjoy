@@ -1,6 +1,0 @@
-?
-active 0 off
-fromop 17 "" me.parent()
-chop 0 playhead_shutoff
-ontooff 0 on
-?

@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 3
-clone 49 op.NtmTools.op('comps/ntmMidiRouteDef') op.NtmTools.op('comps/ntmMidiRouteDef')
-Parroutetab 64 ./parRoutingTable
-Extroutetab 64 ./externalRoutinTable
-?

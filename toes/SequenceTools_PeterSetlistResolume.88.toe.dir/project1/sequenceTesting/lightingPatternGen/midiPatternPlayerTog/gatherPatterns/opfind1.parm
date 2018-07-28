@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-component 0 ../../..
-tagsfilter 0 midiPattern
-typecol 0 off
-pathcol 0 on
-callbacks 0 opfind1_callbacks
-?

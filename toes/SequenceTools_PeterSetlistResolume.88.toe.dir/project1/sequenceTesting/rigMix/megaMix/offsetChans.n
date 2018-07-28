@@ -1,9 +1,0 @@
-CHOP:null
-tile -440 1950 130 90
-flags =  viewer 1 bypass on
-inputs
-{
-0 	select1
-}
-view 5 -1 1 0.071875 -1.5 1.5 4 2 8600 1 0
-end

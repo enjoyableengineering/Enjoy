@@ -1,9 +1,0 @@
-?
-name0 0 syncbars
-name1 0 syncbeats
-name2 0 tempo
-value2 0 140
-name3 0 transportstate
-rate 17 60 me.time.rate
-autoexportroot 17 "" me.parent()
-?

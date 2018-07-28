@@ -1,9 +1,0 @@
-CHOP:out
-tile 1440 270 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	lookupChansBar
-}
-view 5 -1 1 10.6438 -1.5 1.5 4 2 10648 20 0
-end

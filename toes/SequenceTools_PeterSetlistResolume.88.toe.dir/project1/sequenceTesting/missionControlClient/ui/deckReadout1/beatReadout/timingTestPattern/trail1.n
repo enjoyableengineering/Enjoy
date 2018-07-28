@@ -1,9 +1,0 @@
-CHOP:trail
-tile -400 -1425 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	lookup2
-}
-view 5 -1 1 44.5125 -1.5 1.5 4 2 10648 20 0
-end

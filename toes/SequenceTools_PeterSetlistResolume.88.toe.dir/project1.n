@@ -1,6 +1,0 @@
-COMP:container
-v -655.511 2601.65 1.15637
-tile 325 100 400 244
-flags =  picked on current on parlanguage 0
-color 0.56 0.56 0.56 
-end

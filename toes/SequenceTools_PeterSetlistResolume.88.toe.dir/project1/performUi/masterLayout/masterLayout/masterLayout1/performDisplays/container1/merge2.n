@@ -1,9 +1,0 @@
-DAT:merge
-tile 350 -150 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	table3
-1 	ip_address1
-}
-end

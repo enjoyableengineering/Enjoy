@@ -1,5 +1,0 @@
-?
-stdswitcher1 0 1
-clone 49 parent.FlashMain.op('local/speedBuilder') parent.FlashMain.op('local/speedBuilder')
-Srcchanexternal2 64 gen_ramp8
-?

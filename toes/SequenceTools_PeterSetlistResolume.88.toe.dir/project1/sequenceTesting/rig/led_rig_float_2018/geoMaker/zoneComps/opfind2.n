@@ -1,4 +1,0 @@
-DAT:opfind
-tile -2210 -1130 130 90
-flags =  viewer 1 parlanguage 0
-end

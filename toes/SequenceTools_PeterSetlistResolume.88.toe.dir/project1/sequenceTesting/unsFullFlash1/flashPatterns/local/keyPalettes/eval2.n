@@ -1,9 +1,0 @@
-DAT:eval
-tile 1675 -950 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	selectedRampKeys
-1 	table3
-}
-end

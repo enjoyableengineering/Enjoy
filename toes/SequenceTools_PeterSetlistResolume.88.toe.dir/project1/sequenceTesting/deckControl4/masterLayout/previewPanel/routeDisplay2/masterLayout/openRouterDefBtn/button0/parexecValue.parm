@@ -1,8 +1,0 @@
-?
-active 49 off "parent.Widget.par.Buttonruncommand or parent.Widget.par.Buttontype.eval().startswith('Radio') or parent.Widget.par.Buttontype.eval().startswith('Exclusive')"
-fromop 17 "" me.parent()
-op 49 parent.Widget "parent.Widget "
-pars 49 Value "'Value' + str(parent().digits)"
-onpulse 0 on
-builtin 0 off
-?

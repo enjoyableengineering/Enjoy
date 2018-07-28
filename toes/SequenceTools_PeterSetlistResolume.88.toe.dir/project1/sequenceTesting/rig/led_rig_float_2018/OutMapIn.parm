@@ -1,6 +1,0 @@
-?
-file 49 "\"Rigs/\" + parent().name +\"/outOutputPixmap.tiff\"" "\"Rigs/\" + parent().name +\"/outOutputPixmap.tiff\""
-index 17 0 me.time.frame
-multalpha 0 off
-filtertype 0 nearest
-?

@@ -1,3 +1,0 @@
-?
-index 49 0 "0 if parent().par.Selectedcuebin.eval() is parent().par.Rootcomp.eval() else 1"
-?

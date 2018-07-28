@@ -1,5 +1,0 @@
-?
-stdswitcher1 0 1
-gain 50 4 op('multNull')[parent.Plugin.par.Lagspan1]
-autoexportroot 17 "" parent()
-?

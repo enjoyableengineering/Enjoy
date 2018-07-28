@@ -1,8 +1,0 @@
-SOP:point
-tile -775 -1250 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	group1
-}
-end

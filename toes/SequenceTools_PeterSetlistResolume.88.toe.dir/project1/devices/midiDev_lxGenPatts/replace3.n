@@ -1,9 +1,0 @@
-CHOP:replace
-tile -40 10 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	lightingGenericMidiChansConst1
-1 	midiin1
-}
-end

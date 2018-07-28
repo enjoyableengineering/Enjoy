@@ -1,8 +1,0 @@
-COMP:select
-tile 600 150 99 155
-flags =  viewer 1 parlanguage 0
-exports
-{
-editDisplays
-}
-end

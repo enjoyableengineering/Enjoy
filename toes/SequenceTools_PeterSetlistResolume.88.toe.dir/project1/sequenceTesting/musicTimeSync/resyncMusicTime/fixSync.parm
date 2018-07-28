@@ -1,8 +1,0 @@
-?
-active 2 on
-fromop 17 "" parent()
-chop 0 logic1
-ontooff 0 on
-whileoff 0 on
-valuechange 0 off
-?

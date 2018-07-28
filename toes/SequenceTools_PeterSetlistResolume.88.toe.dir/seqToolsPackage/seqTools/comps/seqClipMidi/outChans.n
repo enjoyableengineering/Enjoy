@@ -1,9 +1,0 @@
-CHOP:rename
-tile 310 0 130 90
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	fileInOp
-}
-view 5 -1 1 15.2375 -1.5 1.5 4 2 10648 20 0
-end

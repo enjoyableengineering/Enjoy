@@ -1,5 +1,0 @@
-CHOP:par
-tags 0 1 widSourcePar
-tile -270 -420 130 90
-flags =  current on viewer 1 parlanguage 0
-end

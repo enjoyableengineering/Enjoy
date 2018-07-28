@@ -1,6 +1,0 @@
-?
-output 0 string
-expr 0 `substitute($V,\"slider_bg_on\",\"slider_bg_disable\")`
-rowindexend 17 0 "$NR - 1"
-colindexend 17 0 "$NC - 1"
-?

@@ -1,9 +1,0 @@
-CHOP:replace
-tile -90 1030 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	constToggles
-1 	selectLaunchPadTriggers
-}
-end

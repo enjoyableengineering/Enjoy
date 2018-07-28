@@ -1,8 +1,0 @@
-SOP:null
-tile 6825 4300 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	transform_pixmap
-}
-end

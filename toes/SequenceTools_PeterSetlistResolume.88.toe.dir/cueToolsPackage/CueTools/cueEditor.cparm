@@ -1,8 +1,0 @@
-?
-pages 2 "Cue Editor" "Seq Tools"
-772804877 Cuetoolscomp "CueTools COMP" 1 1 0 0 1 1 1 0 0 "" "Seq Tools" 0
-772804877 Rootcomp Rootcomp 1 1 0 0 1 1 1 0 0 "" "Cue Editor" 0
-772804877 Selectedcue Selectedcue 1 1 0 0 1 1 1 0 0 "" "Cue Editor" 3
-772804877 Selectedaction Selectedaction 1 1 0 0 1 1 1 0 0 "" "Cue Editor" 2
-772804877 Selectedcuebin Selectedcuebin 1 1 0 0 1 1 1 0 0 "" "Cue Editor" 1
-?

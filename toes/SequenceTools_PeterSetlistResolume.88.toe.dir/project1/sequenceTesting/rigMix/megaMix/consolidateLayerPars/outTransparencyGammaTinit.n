@@ -1,9 +1,0 @@
-CHOP:out
-tile 2000 -175 130 90
-flags =  current on viewer 1 render on parlanguage 0
-inputs
-{
-0 	merge1
-}
-view 5 -1 1 5.825 -1.5 1.5 4 2 10648 20 0
-end

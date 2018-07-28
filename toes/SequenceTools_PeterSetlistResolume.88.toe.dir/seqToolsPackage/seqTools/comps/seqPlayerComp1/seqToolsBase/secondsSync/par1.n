@@ -1,4 +1,0 @@
-CHOP:par
-tile -1725 -1400 130 90
-flags =  viewer 1 parlanguage 0
-end

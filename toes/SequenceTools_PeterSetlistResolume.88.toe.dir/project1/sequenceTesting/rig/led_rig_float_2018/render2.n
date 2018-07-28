@@ -1,4 +1,0 @@
-TOP:render
-tile 2425 550 130 70
-flags =  parlanguage 0
-end

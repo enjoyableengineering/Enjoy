@@ -1,4 +1,0 @@
-?
-chop 48 /project1/sequenceTesting/routerDeck3/layerRoute1/layerPars "op(op('../layerDefs')[parent().digits,0].val + '/layerPars')"
-autoexportroot 17 "" parent()
-?

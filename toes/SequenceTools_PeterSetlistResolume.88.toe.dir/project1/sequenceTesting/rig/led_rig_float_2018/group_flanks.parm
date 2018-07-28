@@ -1,7 +1,0 @@
-?
-crname 0 wall_flanks
-usenumber 0 on
-pattern 0 "2 3 4 5"
-rangestart 0 0
-rangeend 17 7 len(me.inputs[0].prims)
-?

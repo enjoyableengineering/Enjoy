@@ -1,7 +1,0 @@
-?
-name0 32 lenSec
-value0 49 0 parent.editorMain.CompLengthSeconds
-value1 17 0 parent().panel.screenh
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

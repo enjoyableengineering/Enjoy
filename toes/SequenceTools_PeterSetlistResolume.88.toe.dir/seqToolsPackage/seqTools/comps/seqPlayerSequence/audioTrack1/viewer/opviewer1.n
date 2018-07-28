@@ -1,4 +1,0 @@
-COMP:opviewer
-tile 2700 -150 160 117
-flags =  viewer 1 parlanguage 0
-end

@@ -1,6 +1,0 @@
-?
-ops 0 ../$ON
-parameters 0 "color[rgb] alpha"
-nameformat 0 op
-builtin 0 on
-?

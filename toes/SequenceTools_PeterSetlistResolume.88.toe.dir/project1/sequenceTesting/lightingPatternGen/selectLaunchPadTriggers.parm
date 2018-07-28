@@ -1,4 +1,0 @@
-?
-chop 49 op.ExtSequenceMidi.op('lxGenPattTriggers') op.LaunchPadLxGenPattsMidi.op('lxGenPattTriggers')
-autoexportroot 17 "" parent()
-?

@@ -1,4 +1,0 @@
-DAT:table
-tile -225 300 130 90
-flags =  current on viewer 1 parlanguage 0
-end

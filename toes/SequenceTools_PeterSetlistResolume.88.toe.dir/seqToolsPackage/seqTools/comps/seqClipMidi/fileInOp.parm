@@ -1,9 +1,0 @@
-?
-source 0 file
-file 49 parent().par.File app.samplesFolder+'/MIDI/default.midi'
-channel 0 1
-notescope 0 1-128
-rate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

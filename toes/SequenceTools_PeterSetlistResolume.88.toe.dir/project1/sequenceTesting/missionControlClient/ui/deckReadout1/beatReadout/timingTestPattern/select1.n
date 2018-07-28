@@ -1,8 +1,0 @@
-CHOP:select
-tile -1000 -1225 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	beat2
-}
-end

@@ -1,4 +1,0 @@
-TOP:ramp
-tile 50 100 73 105
-flags =  current on viewer 1 parlanguage 0
-end

@@ -1,6 +1,0 @@
-COMP:base
-v 308.962 377.487 0.932997
-tags 0 1 ntmMultiCompOut
-tile 600 -1875 160 130
-flags =  viewer 1 parlanguage 0
-end

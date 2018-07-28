@@ -1,9 +1,0 @@
-TOP:over
-tile 1175 -25 130 49
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	text6
-1 	over2
-}
-end

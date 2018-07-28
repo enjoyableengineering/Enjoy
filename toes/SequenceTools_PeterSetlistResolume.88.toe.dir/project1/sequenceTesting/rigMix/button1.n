@@ -1,4 +1,0 @@
-COMP:button
-tile -1400 200 160 155
-flags =  viewer 1 activate on parlanguage 0
-end

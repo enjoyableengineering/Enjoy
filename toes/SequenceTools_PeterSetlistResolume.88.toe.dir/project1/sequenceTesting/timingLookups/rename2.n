@@ -1,9 +1,0 @@
-CHOP:rename
-tile -350 1210 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	math2
-}
-view 5 -1 1 18.0187 -1.5 1.5 4 2 10648 20 0
-end

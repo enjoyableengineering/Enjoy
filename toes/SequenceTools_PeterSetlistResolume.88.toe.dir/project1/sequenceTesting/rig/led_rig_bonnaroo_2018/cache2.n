@@ -1,8 +1,0 @@
-TOP:cache
-tile -800 -375 130 48
-flags =  parlanguage 0
-inputs
-{
-0 	null8
-}
-end

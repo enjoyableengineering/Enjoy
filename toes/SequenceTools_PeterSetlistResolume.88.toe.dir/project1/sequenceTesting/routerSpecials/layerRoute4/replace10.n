@@ -1,9 +1,0 @@
-CHOP:replace
-tile 250 -1990 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	constantOverlay
-1 	routeDefPars4
-}
-end

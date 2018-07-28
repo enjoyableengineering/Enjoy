@@ -1,5 +1,0 @@
-TOP:constant
-tile 1120 1640 150 125
-flags =  viewer 1
-color 0.56 0.56 0.56 
-end

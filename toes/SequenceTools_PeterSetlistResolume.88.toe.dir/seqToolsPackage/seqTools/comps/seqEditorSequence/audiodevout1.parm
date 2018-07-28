@@ -1,8 +1,0 @@
-?
-active 49 on parent().par.Playaudio
-device 0 {0.0.0.00000000}.{6fef2f49-db8e-4916-b48a-9c41e9aae875}||ASUS_PB278_(High_Definition_Audio_Device)||3
-bufferlength 0 0.18
-volume 2 0.277025
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

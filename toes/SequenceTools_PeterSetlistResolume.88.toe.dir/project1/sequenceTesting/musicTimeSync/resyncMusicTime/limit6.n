@@ -1,8 +1,0 @@
-CHOP:limit
-tile 1950 575 130 90
-flags =  viewer 1
-inputs
-{
-0 	math10
-}
-end

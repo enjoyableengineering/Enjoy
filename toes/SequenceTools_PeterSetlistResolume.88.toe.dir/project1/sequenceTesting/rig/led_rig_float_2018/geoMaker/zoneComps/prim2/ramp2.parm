@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 1
-dat 0 ramp2_keys
-type 0 circular
-resolutionw 17 256 ext.Plugin.par.Regionsizex
-resolutionh 17 256 ext.Plugin.par.Regionsizey
-filtertype 0 nearest
-?

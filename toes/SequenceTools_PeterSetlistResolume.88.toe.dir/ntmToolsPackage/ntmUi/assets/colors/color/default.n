@@ -1,5 +1,0 @@
-DAT:chopto
-tile 2190 320 130 90
-flags =  viewer 1
-color 0.56 0.56 0.56 
-end

@@ -1,7 +1,0 @@
-?
-chanop 0 add
-chopop 0 add
-torange1 0 0.15
-torange2 0 0.5
-autoexportroot 17 "" me.parent()
-?

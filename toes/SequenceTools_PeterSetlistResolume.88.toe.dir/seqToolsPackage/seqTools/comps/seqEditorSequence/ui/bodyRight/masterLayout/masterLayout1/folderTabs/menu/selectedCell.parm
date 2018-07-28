@@ -1,7 +1,0 @@
-?
-name0 32 menuIndex
-value0 49 0 parent.Widget.par.Value0.menuIndex
-rate 17 60 me.time.rate
-autoexportroot 17 "" me.parent()
-exporttable 0 constant2_export
-?

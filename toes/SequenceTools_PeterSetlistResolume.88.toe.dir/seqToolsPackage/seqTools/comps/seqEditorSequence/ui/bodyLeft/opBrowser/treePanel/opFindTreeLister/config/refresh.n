@@ -1,5 +1,0 @@
-TOP:text
-tile -150 -325 114 94
-flags =  lock on viewer 1 parlanguage 0
-color 0 0.68 0 
-end

@@ -1,5 +1,0 @@
-?
-chop 48 ../syncData parent.DeckControl.par.Clipsyncer.eval().op('differenceBeats')
-channames 0 clipPosBeats
-autoexportroot 17 "" parent()
-?

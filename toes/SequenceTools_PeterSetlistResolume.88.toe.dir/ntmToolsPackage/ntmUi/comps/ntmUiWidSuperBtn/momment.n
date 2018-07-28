@@ -1,9 +1,0 @@
-COMP:container
-v 273.973 484.363 0.138033
-tile 0 -350 157 155
-flags =  viewer 1 parlanguage 0
-exports
-{
-./rollover
-}
-end

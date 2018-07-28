@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 3
-clone 0 timeChanMaker
-Lookupchop 64 lookupChans
-Lookupchans 64 square_quarters
-Lookupramp 64 2
-Newnames 64 8th_notes_on_off
-Interp 64 off
-?

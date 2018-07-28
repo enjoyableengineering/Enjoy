@@ -1,7 +1,0 @@
-COMP:container
-v 67.575 670.575 1.445
-tags 0 2 TDMaster TDWidget
-tile 575 -600 160 130
-flags =  viewer 1 parlanguage 0
-color 0.6 0.6 0.6 
-end

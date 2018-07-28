@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 1
-type 0 loop
-min 0 0
-quantvalue 0 floor
-vstep 0 0.25
-autoexportroot 17 "" parent()
-?

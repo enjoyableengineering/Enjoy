@@ -1,5 +1,0 @@
-DAT:table
-tile -1200 850 130 90
-flags =  viewer 1 showDocked off parlanguage 0
-dock ledmapmode
-end

@@ -1,8 +1,0 @@
-CHOP:limit
-tile -225 350 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	in1
-}
-end

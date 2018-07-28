@@ -1,8 +1,0 @@
-?
-geometry 49 "parent.editorMain.op('geoTimeline') parent.editorMain.op('geoTimelineDetail1') parent.editorMain.op('geoSeqEvents1') parent.editorMain.op('geoSelections')" "parent.Gadget.par.Editor.eval().op('geoTimeline'), parent.Gadget.par.Editor.eval().op('geoTimelineDetail1'), parent.Gadget.par.Editor.eval().op('geoSeqEvents1'), parent.Gadget.par.Editor.eval().op('geoSelections')"
-antialias 0 aa1
-cullface 0 backfaces
-outputresolution 0 custom
-resolutionw 50 1280 parent().panel.screenw
-resolutionh 50 720 parent().panel.screenh
-?

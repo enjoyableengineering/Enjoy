@@ -1,5 +1,0 @@
-?
-fromop 16 isSenderBtn me.parent()
-panel 16 isSenderBtn me.parent()
-panelvalue 0 state
-?

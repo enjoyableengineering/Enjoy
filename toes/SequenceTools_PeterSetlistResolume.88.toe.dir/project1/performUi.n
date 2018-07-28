@@ -1,7 +1,0 @@
-COMP:container
-v 257.466 314.534 2.87626
-tags 0 1 TDGadget
-tile 600 -1980 160 109
-flags =  parlanguage 0
-color 0.453333 0 0.68 
-end

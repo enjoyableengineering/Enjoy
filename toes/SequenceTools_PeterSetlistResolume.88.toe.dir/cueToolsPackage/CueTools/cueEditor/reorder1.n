@@ -1,8 +1,0 @@
-DAT:reorder
-tile -375 -1550 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	opfind5
-}
-end

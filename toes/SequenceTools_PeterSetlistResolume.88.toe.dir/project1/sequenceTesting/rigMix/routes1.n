@@ -1,9 +1,0 @@
-DAT:null
-tile -925 -175 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	table7
-}
-view 8 0 1 1 1 0 0 0 0 1 1
-end

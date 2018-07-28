@@ -1,9 +1,0 @@
-CHOP:rename
-tile 2875 -550 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	constant6
-}
-color 0.68 0 0 
-end

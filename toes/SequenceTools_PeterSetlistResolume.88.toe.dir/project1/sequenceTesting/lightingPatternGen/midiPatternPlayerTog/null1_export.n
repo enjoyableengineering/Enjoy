@@ -1,5 +1,0 @@
-DAT:table
-tile -280 -880 130 90
-flags =  viewer 1 showDocked off parlanguage 0
-dock 128_beats_quant_value
-end

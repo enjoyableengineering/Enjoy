@@ -1,7 +1,0 @@
-?
-port 49 11101 op.Comm.par.Portresolumein
-active 17 on op('..').par.Listenfordecks
-splitbundle 0 on
-callbacks 0 oscin1_callbacks1
-fromop 17 "" parent()
-?

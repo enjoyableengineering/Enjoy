@@ -1,7 +1,0 @@
-?
-w 17 400 me.parent().par.w.val
-h 49 300 "(me.parent().par.h.val/2) - 4"
-repocomp 17 "" me
-align 0 horizlr
-spacing 0 2
-?

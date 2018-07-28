@@ -1,3 +1,0 @@
-?
-sop 49 "op(op('null1')[me.digits, 'path'].val).op(parent.par.Srcsopname.eval())" "op(op('null1')[me.digits, 'path'].val).op(parent().par.Srcsopname.eval())"
-?

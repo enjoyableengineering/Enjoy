@@ -1,6 +1,0 @@
-?
-output 0 command
-expr 0 color
-rowindexend 17 0 "$NR - 1"
-colindexend 17 0 "$NC - 1"
-?

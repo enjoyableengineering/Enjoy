@@ -1,5 +1,0 @@
-TOP:moviefilein
-tags 0 1 kickable
-tile -800 -300 130 48
-flags =  parlanguage 0
-end

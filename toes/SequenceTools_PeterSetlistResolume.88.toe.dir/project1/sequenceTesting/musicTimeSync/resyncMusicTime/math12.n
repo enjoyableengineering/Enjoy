@@ -1,9 +1,0 @@
-CHOP:math
-tile 2475 1401 127 89
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	math11
-1 	limit8
-}
-end

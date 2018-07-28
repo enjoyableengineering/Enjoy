@@ -1,8 +1,0 @@
-CHOP:select
-tile 70 -730 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	gatherPatterns/outFract
-}
-end

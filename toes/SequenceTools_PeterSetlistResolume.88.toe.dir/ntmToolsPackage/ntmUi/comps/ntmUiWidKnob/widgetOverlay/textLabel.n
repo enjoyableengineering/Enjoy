@@ -1,5 +1,0 @@
-TOP:text
-tags 0 1 textTopLabel
-tile -310 -430 95 105
-flags =  viewer 1 parlanguage 0
-end

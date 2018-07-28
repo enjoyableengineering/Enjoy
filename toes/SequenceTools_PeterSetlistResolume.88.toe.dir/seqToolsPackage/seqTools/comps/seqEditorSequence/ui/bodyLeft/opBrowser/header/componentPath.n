@@ -1,8 +1,0 @@
-COMP:container
-tile 100 -200 160 76
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	container2
-}
-end

@@ -1,4 +1,0 @@
-CHOP:beat
-tile -1275 -525 130 90
-flags =  parlanguage 0
-end

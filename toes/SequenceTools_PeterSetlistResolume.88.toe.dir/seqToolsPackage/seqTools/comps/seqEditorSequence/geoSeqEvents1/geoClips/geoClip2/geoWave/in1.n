@@ -1,4 +1,0 @@
-SOP:in
-tile 0 0 130 90
-flags =  current on viewer 1
-end

@@ -1,8 +1,0 @@
-TOP:null
-tile 800 -625 130 86
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	AltRampToggle
-}
-end

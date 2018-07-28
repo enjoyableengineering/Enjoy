@@ -1,7 +1,0 @@
-?
-dat 49 "parent.FlashMain.op('local/keyPalettes/' + parent().par.Coloroption.val + '/out1')" "parent.FlashMain.op('local/keyPalettes/' + parent().par.Coloroption.val + '/out1')"
-rowindexend 17 0 "me.inputTable.numRows - 1"
-rowexpr 17 "" "re.match('.*',me.inputCell.val) != None"
-colindexend 17 0 "me.inputTable.numCols - 1"
-colexpr 17 "" "re.match('.*',me.inputCell.val) != None"
-?

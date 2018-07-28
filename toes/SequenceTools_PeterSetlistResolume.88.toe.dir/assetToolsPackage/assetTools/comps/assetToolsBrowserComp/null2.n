@@ -1,8 +1,0 @@
-DAT:null
-tile 850 -475 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	lister/z_out_selected
-}
-end

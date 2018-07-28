@@ -1,8 +1,0 @@
-TOP:null
-tile 450 90 130 65
-flags =  parlanguage 0
-inputs
-{
-0 	over1
-}
-end

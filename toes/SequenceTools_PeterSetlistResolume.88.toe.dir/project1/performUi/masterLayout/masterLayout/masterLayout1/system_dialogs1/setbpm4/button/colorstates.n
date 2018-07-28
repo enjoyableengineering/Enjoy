@@ -1,4 +1,0 @@
-DAT:table
-tile 40 250 130 90
-flags =  viewer 1
-end

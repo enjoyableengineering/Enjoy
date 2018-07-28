@@ -1,8 +1,0 @@
-TOP:null
-tile 1120 -1140 410 296
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	mono1
-}
-end

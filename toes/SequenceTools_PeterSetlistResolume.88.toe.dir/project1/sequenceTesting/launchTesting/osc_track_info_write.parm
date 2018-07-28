@@ -1,7 +1,0 @@
-?
-port 49 7000 op('osc_track_info').par.port
-active 49 off parent().par.Writecues
-addscope 49 op('track_info_addresses')[0,0] op('track_info_addresses')[0,0]
-callbacks 0 osc_track_info_callbacks1
-fromop 17 "" parent()
-?

@@ -1,7 +1,0 @@
-?
-wavetype 0 const
-amp 0 -0.5
-channelname 0 py
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

@@ -1,6 +1,0 @@
-?
-width 0 0.08
-ramprate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

@@ -1,4 +1,0 @@
-?
-label 16 "Selected Index" me.name
-autoexportroot 17 "" me.parent()
-?

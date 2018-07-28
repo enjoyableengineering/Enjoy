@@ -1,9 +1,0 @@
-TOP:multiply
-tile 925 -2825 130 63
-flags =  parlanguage 0
-inputs
-{
-0 	remap3
-1 	chanmix2
-}
-end

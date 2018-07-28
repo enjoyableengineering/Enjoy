@@ -1,8 +1,0 @@
-?
-name0 0 Lxsyncslip
-value0 0 0.15
-name1 0 Vxsyncslip
-name2 0 Unsvidsyncslip
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

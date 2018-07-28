@@ -1,8 +1,0 @@
-?
-rate 17 60 $COOKRATE
-end 0 10000
-rangeend 0 10000
-tempo 0 140
-independent 0 on
-clone 0 /sys/local/time
-?

@@ -1,8 +1,0 @@
-COMP:select
-tile 725 -225 160 109
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	topControls1
-}
-end

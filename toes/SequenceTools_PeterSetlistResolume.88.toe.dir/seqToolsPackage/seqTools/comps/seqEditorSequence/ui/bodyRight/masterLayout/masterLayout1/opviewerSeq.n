@@ -1,9 +1,0 @@
-COMP:opviewer
-v 767.244 725.947 1.49221
-tile 650 -925 129 155
-flags =  viewer 1 parlanguage 0
-exports
-{
-null2
-}
-end

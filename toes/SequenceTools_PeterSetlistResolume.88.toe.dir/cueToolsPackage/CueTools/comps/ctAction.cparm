@@ -1,8 +1,0 @@
-?
-pages 2 Action "Cue Tools"
-772804877 Cuetoolscomp "CueTools COMP" 1 1 0 0 1 1 1 0 0 "" "Cue Tools" 0
-772804877 Actiondef "Action Definition" 1 1 0 0 1 1 1 0 0 "" Action 1
-772804866 Actionorder "Action Order" 1 1 0 0 1 1 1 0 0 "" Action 2
-772804865 Actiondelay "Action Delay" 1 1 0 0 1 1 1 0 0 "" Action 3
-772804877 Targetrootcomp Targetrootcomp 1 1 0 0 1 1 1 0 0 "" Action 4
-?

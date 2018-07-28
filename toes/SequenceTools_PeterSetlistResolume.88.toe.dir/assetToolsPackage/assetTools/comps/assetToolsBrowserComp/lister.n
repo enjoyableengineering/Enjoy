@@ -1,5 +1,0 @@
-COMP:list
-v 560.024 526.48 0.215029
-tile 625 -400 160 89
-flags =  viewer 1 display on parlanguage 0
-end

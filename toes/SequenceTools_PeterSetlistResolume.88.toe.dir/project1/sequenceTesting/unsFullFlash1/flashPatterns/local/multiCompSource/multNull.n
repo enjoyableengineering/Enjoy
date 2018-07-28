@@ -1,8 +1,0 @@
-CHOP:null
-tile 125 525 130 90
-flags =  viewer 1 activate on export on parlanguage 0
-inputs
-{
-0 	getHitMult1
-}
-end

@@ -1,4 +1,0 @@
-TOP:renderselect
-tile 0 525 130 92
-flags =  parlanguage 0
-end

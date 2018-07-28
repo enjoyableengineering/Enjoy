@@ -1,9 +1,0 @@
-?
-repsuffixstart 0 0
-template 0 null1
-colname 0 Chr
-master 0 master1
-destination 17 "" me.parent()
-domaxops 0 off
-callbacks 0 replicator1_callbacks
-?

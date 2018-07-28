@@ -1,8 +1,0 @@
-CHOP:timer
-tile 2075 -750 130 90
-flags =  viewer 1 cloneImmune on master_cloneImmune on parlanguage 0
-exports
-{
-../playerMechanics/parserActive
-}
-end

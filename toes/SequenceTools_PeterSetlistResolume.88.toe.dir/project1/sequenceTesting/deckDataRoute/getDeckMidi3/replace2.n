@@ -1,9 +1,0 @@
-CHOP:replace
-tile 170 -300 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	in1
-1 	selectMidiTrack2
-}
-end

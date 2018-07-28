@@ -1,6 +1,0 @@
-?
-fromop 17 "" me.parent()
-op 49 parent.Widget parent.Widget
-pars 0 Runcommand
-builtin 0 off
-?

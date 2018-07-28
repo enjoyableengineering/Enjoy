@@ -1,4 +1,0 @@
-DAT:table
-tile -570 -700 130 90
-flags =  current on viewer 1 master_cloneImmune on
-end

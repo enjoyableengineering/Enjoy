@@ -1,5 +1,0 @@
-DAT:select
-tags 0 1 radioListSelect
-tile -270 -220 130 90
-flags =  viewer 1 parlanguage 0
-end

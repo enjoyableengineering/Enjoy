@@ -1,5 +1,0 @@
-?
-dat 0 `ifs((opexists(opinputf(\"..\",0))+float(tabr(\"$gadget/local/define\",\"sizetoparent\",1)))==2,ifs(strmatch(\"vert*\",pars(opinputf(\"..\",0)+\"/panelalign\"))||strmatch(\"horiz*\",pars(opinputf(\"..\",0)+\"/panelalign\")),ifs(strmatch(\"vert*\",pars(opinputf(\"..\",0)+\"/panelalign\")),\"$colorexp/gadget_vertalign\",\"$colorexp/gadget_horzalign\"),\"\"),\"\")`
-rowindexend 17 -1 "$NR - 1"
-colindexend 17 -1 "$NC - 1"
-?

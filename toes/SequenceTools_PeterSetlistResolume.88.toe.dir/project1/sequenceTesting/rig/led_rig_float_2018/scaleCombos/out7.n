@@ -1,8 +1,0 @@
-TOP:out
-tile 1675 -875 110 43
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	combo16/out2
-}
-end

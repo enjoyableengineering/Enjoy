@@ -1,9 +1,0 @@
-CHOP:null
-tile 425 -1000 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	merge2
-}
-view 5 -1 1 0.0933504 -1.5 1.5 4 2 8600 1 0
-end

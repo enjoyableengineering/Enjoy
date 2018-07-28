@@ -1,9 +1,0 @@
-?
-text 0 ""
-appendvalue 0 on
-valuetouse 49 0 parent().par.Playercomp.eval().op('seqToolsBase/speedAdjust')['speedAdjust']
-decimaldigits 0 5
-dispmethod 0 texture
-bold 0 on
-resmult 0 off
-?

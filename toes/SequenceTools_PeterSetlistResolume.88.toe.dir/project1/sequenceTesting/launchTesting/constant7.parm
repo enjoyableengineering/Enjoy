@@ -1,8 +1,0 @@
-?
-name0 0 deck1:active
-name1 0 deck2:active
-name2 0 deck3:active
-name3 0 deck4:active
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

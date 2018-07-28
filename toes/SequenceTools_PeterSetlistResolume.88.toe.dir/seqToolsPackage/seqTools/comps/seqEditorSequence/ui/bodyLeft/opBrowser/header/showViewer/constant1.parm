@@ -1,8 +1,0 @@
-?
-colorr 0 0.5
-colorg 0 0.5
-colorb 0 0.5
-alpha 48 0 parent().panel.select
-resolutionw 49 256 parent().par.w
-resolutionh 49 256 parent().par.h
-?

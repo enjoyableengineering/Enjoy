@@ -1,9 +1,0 @@
-CHOP:constant
-tile 975 1350 130 90
-flags =  picked on current on viewer 1 parlanguage 0
-exports
-{
-../trimmedLength
-}
-view 5 -1 1 5.56563 -1.5 1.5 4 2 10648 20 0
-end

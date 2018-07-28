@@ -1,8 +1,0 @@
-DAT:null
-tile 675 800 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	static_config_dat
-}
-end

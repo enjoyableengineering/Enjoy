@@ -1,6 +1,0 @@
-COMP:base
-comment "Contains all user-configurable ops for lister"
-tile 100 -600 160 130
-flags =  networkCloneImmune on masterNetworkCloneImmune on parlanguage 0
-color 0.226667 0.68 0 
-end

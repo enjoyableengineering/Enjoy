@@ -1,8 +1,0 @@
-TOP:chanmix
-tile 280 -530 130 94
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	MidiNoteGrid_Notes
-}
-end

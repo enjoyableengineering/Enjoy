@@ -1,5 +1,0 @@
-COMP:base
-tags 0 4 ntmMidi ntmRouteDef ntmMidiRouteDef ntmTools
-tile 300 0 160 130
-flags =  current on viewer 1 parlanguage 0
-end

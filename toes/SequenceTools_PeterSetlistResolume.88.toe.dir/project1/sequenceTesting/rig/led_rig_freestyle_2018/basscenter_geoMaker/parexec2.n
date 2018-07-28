@@ -1,4 +1,0 @@
-DAT:parexec
-tile 2000 -1125 1125 617
-flags =  parlanguage 0
-end

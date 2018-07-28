@@ -1,5 +1,0 @@
-DAT:panelexec
-tile -320 -110 130 90
-flags =  current on viewer 1 activate on parlanguage 0
-view 8 0 1 1 1 0 0 0 0 1 1
-end

@@ -1,8 +1,0 @@
-COMP:container
-tile 130 -200 160 129
-flags =  viewer 1 parlanguage 0
-exports
-{
-./null2
-}
-end

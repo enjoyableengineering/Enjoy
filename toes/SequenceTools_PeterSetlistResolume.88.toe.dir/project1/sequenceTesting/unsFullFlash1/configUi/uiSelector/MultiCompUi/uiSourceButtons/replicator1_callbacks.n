@@ -1,6 +1,0 @@
-DAT:text
-tile 25 15 160 130
-flags =  viewer 1 activate on parlanguage 0
-dock replicator1
-view 8 0 1 1 1 0 0 0 0 1 1
-end

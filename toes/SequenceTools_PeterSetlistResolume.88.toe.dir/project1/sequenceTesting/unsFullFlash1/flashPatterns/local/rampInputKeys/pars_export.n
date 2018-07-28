@@ -1,6 +1,0 @@
-DAT:table
-tile -200 -725 161 105
-flags =  viewer 1 activate on parlanguage 0
-dock pars
-view 8 0 1 1 1 0 0 0 0 1 1
-end

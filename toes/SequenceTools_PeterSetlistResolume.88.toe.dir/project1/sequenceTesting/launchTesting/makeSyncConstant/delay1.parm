@@ -1,6 +1,0 @@
-?
-delay 0 0.15
-maxdelay 0 0.18
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

@@ -1,9 +1,0 @@
-TOP:comp
-tile 975 -1375 130 105
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	rectangle6
-1 	rectangle6
-}
-end

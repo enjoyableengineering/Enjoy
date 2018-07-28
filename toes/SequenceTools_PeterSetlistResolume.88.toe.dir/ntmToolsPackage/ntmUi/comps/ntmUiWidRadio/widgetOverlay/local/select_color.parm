@@ -1,5 +1,0 @@
-?
-dat 0 ../color
-rowindexend 17 19 "$NR - 1"
-colindexend 17 1 "$NC - 1"
-?

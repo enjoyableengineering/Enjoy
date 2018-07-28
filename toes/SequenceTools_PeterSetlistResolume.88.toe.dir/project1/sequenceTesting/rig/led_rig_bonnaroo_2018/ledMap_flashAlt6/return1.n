@@ -1,8 +1,0 @@
-SOP:point
-tile 13325 -2425 130 112
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	texture3
-}
-end

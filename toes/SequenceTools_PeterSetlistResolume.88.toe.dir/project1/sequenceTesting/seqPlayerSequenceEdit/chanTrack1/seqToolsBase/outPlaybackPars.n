@@ -1,8 +1,0 @@
-CHOP:out
-tile 2050 -1550 130 90
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	offPlayWhenDone
-}
-end

@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 2
-extension1 0 op('./SeqAnimatorExt').module.SeqAnimatorExt(me)
-promoteextension1 0 on
-parentshortcut 0 animator
-clone 49 op.CueTools.op('comps/seqCue/animator') op.CueTools.op('comps/ctCue/animator')
-Datacomp 64 ..
-Targetrootcomp 113 parent().par.Targetrootcomp.eval() parent().par.Targetrootcomp.eval()
-?

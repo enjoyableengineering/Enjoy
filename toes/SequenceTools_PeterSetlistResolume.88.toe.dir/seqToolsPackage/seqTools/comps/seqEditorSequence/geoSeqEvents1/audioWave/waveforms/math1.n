@@ -1,9 +1,0 @@
-CHOP:math
-tile -380 -222 150 88
-flags =  viewer 1
-inputs
-{
-0 	resample2
-}
-view 5 -1 1 1.92813 -1.5 1.5 4 2 8600 1 0
-end

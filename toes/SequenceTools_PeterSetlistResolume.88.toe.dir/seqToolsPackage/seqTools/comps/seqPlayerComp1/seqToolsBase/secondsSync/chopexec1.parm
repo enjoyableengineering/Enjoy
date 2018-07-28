@@ -1,7 +1,0 @@
-?
-active 34 on
-fromop 17 "" parent()
-chop 0 timeDiff
-whileoff 0 on
-valuechange 0 off
-?

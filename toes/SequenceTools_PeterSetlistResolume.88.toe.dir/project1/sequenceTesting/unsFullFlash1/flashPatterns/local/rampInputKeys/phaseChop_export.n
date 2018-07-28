@@ -1,5 +1,0 @@
-DAT:table
-tile 325 -425 130 90
-flags =  viewer 1 showDocked off parlanguage 0
-dock phaseChop
-end

@@ -1,8 +1,0 @@
-TOP:level
-tile -330 -1440 130 86
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	startcheck
-}
-end

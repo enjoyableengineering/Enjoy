@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-extname1 0 RouteExt
-promoteextension1 0 on
-opviewer 0 ""
-clone 17 op.NtmTools.op('comps/ntmMegaMixLayerAutomator') op.NtmTools.op('comps/ntmMegaMixLayerAutomator')
-Levelmult1 66 1
-?

@@ -1,9 +1,0 @@
-TOP:lookup
-tile 2300 -950 130 70
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	moviefilein1
-1 	switch1
-}
-end

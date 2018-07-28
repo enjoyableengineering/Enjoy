@@ -1,5 +1,0 @@
-COMP:container
-v 758.493 246.905 0.0198943
-tile -1900 -1200 160 129
-flags =  parlanguage 0
-end

@@ -1,5 +1,0 @@
-?
-chop 0 ../layerRoute*/layerOrderId
-renameto 0 [0-2]
-autoexportroot 17 "" parent()
-?

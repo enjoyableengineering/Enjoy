@@ -1,4 +1,0 @@
-COMP:replicator
-tile 925 350 160 130
-flags =  viewer 1 parlanguage 0
-end

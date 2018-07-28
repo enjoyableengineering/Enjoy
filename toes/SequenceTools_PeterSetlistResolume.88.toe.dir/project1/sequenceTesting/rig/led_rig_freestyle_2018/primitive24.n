@@ -1,8 +1,0 @@
-SOP:primitive
-tile 4450 -200 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	ledGeoTextured19
-}
-end

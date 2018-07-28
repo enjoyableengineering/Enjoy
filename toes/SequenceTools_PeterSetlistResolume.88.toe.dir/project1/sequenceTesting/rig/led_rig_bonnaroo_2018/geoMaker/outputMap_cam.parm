@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 2
-tx 49 0 op('zoneComps/outputRetexturedSop').center[0]
-ty 49 0 op('zoneComps/outputRetexturedSop').center[1]
-tz 32 5
-projection 0 ortho
-orthowidth 49 3000 ext.MasterRaster.par.Rasterx
-?

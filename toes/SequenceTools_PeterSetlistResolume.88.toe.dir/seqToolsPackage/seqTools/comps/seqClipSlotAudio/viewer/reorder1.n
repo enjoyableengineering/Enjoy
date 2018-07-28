@@ -1,8 +1,0 @@
-CHOP:reorder
-tile 1690 0 130 90
-flags =  viewer 1
-inputs
-{
-0 	script1
-}
-end

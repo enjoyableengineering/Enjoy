@@ -1,9 +1,0 @@
-?
-number 0 4
-width 0 6
-widthunit 0 frames
-rate 17 60 me.time.rate
-left 0 default
-right 0 default
-autoexportroot 17 "" parent()
-?

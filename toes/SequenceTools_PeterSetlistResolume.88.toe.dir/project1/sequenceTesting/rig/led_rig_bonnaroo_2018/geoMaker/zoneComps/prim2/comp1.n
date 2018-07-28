@@ -1,9 +1,0 @@
-TOP:comp
-tile 3775 3150 130 100
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	over5
-1 	constant1
-}
-end

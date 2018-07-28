@@ -1,9 +1,0 @@
-DAT:eval
-tile 3980 1810 130 90
-flags = 
-inputs
-{
-0 	sliderknob2D_on
-}
-color 0.226667 0.68 0 
-end

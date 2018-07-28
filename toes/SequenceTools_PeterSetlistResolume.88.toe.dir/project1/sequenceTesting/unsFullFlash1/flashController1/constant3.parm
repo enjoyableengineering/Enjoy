@@ -1,8 +1,0 @@
-?
-name0 0 ch1n[21-32]
-value0 0 1.25
-name1 0 ch1n[37-48]
-value1 0 0.5
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

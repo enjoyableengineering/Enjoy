@@ -1,8 +1,0 @@
-TOP:null
-tile -1000 -450 130 48
-flags =  parlanguage 0
-inputs
-{
-0 	geoMaker/outRemapTex2
-}
-end

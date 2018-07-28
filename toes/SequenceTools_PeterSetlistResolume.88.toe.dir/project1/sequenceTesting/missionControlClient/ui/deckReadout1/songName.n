@@ -1,9 +1,0 @@
-COMP:container
-v 153.258 121.897 5.23885
-tile 1800 -175 160 79
-flags =  parlanguage 0
-inputs
-{
-0 	infoReadout
-}
-end

@@ -1,9 +1,0 @@
-CHOP:replace
-tile -75 850 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	merge1
-1 	editModeSwitch1
-}
-end

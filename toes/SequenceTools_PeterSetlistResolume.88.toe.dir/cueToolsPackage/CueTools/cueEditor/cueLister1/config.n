@@ -1,6 +1,0 @@
-COMP:base
-v -2306.8 -512.917 6.20331
-comment "Contains all user-configurable ops for lister"
-tile 0 100 160 130
-flags =  picked on current on networkCloneImmune on masterNetworkCloneImmune on parlanguage 0
-end

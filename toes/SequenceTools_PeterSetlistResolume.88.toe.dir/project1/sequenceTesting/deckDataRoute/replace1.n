@@ -1,9 +1,0 @@
-CHOP:replace
-tile 880 -450 130 90
-flags =  viewer 1 bypass on parlanguage 0
-inputs
-{
-0 	merge1
-1 	switchDeck
-}
-end

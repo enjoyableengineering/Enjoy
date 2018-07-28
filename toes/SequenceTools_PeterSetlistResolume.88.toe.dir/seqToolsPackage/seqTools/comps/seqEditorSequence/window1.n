@@ -1,4 +1,0 @@
-COMP:window
-tile 1375 -900 160 130
-flags =  current on parlanguage 0
-end

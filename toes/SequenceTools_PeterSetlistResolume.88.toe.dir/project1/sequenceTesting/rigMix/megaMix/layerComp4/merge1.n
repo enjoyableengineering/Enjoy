@@ -1,9 +1,0 @@
-CHOP:merge
-tile 1060 30 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	limit1
-1 	replace1
-}
-end

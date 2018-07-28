@@ -1,8 +1,0 @@
-?
-component 48 /project1/sequenceTesting/seqPlayerSequenceEdit parent.editorMain.PlayerComp
-tagsfilter 0 seqSlot
-namecol 0 off
-typecol 0 off
-pathcol 0 on
-callbacks 0 opfind1_callbacks
-?

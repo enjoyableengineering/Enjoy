@@ -1,7 +1,0 @@
-?
-ops 32 master
-parameters 0 "bgcolor* bgalpha* "
-custom 0 off
-builtin 0 on
-autoexportroot 17 "" parent()
-?

@@ -1,8 +1,0 @@
-CHOP:null
-tile 975 450 130 90
-flags =  viewer 1 activate on export on parlanguage 0
-inputs
-{
-0 	lag1
-}
-end

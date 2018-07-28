@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-extension1 0 op('./NtmToolsMidiRouteExt').module.NtmToolsMidiRouteExt(me)
-extname1 0 RouteExt
-promoteextension1 0 on
-opviewer 49 ./out1 me.op('viewer')
-Usedef 64 on
-?

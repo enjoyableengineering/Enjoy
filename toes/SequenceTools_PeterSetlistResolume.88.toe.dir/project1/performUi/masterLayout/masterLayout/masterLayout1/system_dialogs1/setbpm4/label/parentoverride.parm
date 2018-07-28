@@ -1,5 +1,0 @@
-?
-dat 2 $colorexp/label_text
-rowindexend 17 6 "$NR - 1"
-colindexend 17 2 "$NC - 1"
-?

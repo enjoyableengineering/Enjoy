@@ -1,8 +1,0 @@
-DAT:eval
-tile 320 150 130 90
-flags =  viewer 1
-inputs
-{
-0 	state_expressionstack
-}
-end

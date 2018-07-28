@@ -1,6 +1,0 @@
-COMP:button
-v 345.647 449.3 0.390093
-tile 610 -1070 105 62
-flags =  viewer 1 render on parlanguage 0
-color 0.56 0.56 0.56 
-end

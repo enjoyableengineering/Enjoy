@@ -1,9 +1,0 @@
-CHOP:trail
-tile 2125 575 179 90
-flags =  viewer 1
-inputs
-{
-0 	limit6
-}
-view 5 -1 1 0.559375 -1.5 1.5 4 2 8664 1 0
-end

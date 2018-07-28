@@ -1,5 +1,0 @@
-?
-stdswitcher1 0 4
-extension1 0 op('./SeqToolsEventMarkerExt').module.SeqToolsEventMarkerExt(me)
-promoteextension1 0 on
-?

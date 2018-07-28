@@ -1,9 +1,0 @@
-COMP:container
-v 51.4959 103.771 2.50521
-tile 200 420 160 91
-flags =  viewer 1
-inputs
-{
-0 	container1
-}
-end

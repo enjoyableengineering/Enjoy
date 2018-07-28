@@ -1,9 +1,0 @@
-TOP:over
-tile 630 90 130 54
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	mapSelect
-1 	in1
-}
-end

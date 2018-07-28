@@ -1,5 +1,0 @@
-CHOP:info
-tags 0 1 assetFileInfoChop
-tile 0 0 130 90
-flags =  cloneImmune on master_cloneImmune on parlanguage 0
-end

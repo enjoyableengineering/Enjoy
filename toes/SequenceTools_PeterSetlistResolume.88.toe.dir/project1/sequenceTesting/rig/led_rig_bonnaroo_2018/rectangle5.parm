@@ -1,7 +1,0 @@
-?
-sizex 0 1920
-sizey 0 1080
-tx 49 960 me.par.sizex.val/2
-ty 49 -540 -me.par.sizey.val/2
-tz 32 0
-?

@@ -1,9 +1,0 @@
-CHOP:math
-tile 325 425 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	select1
-1 	math7
-}
-end

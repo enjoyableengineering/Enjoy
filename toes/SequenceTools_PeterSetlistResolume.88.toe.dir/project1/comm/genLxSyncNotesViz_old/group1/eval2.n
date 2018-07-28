@@ -1,8 +1,0 @@
-DAT:eval
-tile 340 130 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	table1
-}
-end

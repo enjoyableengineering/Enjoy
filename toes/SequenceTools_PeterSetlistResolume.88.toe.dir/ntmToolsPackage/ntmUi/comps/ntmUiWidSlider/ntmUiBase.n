@@ -1,5 +1,0 @@
-COMP:base
-v 191.329 320.326 0.929037
-tile 0 0 160 130
-flags =  viewer 1 parlanguage 0
-end

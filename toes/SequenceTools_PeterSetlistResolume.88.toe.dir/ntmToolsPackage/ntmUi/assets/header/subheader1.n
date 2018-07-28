@@ -1,6 +1,0 @@
-COMP:base
-v 433.423 262.603 0.102101
-tags 0 3 ntmUiStyle ntmUi ntmUiStyleHeader
-tile -200 -125 160 130
-flags =  viewer 1 render on parlanguage 0
-end

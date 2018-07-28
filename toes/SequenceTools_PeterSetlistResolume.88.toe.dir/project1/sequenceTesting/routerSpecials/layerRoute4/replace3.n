@@ -1,9 +1,0 @@
-CHOP:replace
-tile 250 -1860 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	constantTrackReorder
-1 	routeDefPars3
-}
-end

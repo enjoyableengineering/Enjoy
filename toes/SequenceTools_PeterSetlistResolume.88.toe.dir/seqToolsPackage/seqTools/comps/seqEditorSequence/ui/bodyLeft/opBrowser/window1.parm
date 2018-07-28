@@ -1,7 +1,0 @@
-?
-winop 0 ..
-title 16 "OP Browser" me
-justifyh 0 mouse
-justifyv 0 mouse
-single 0 cursormonitor
-?

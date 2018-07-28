@@ -1,8 +1,0 @@
-DAT:eval
-tile 350 175 130 90
-flags =  viewer 1
-inputs
-{
-0 	merge1
-}
-end

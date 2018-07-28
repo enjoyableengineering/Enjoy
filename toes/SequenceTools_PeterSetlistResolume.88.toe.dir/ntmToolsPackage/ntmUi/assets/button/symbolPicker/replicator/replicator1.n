@@ -1,5 +1,0 @@
-COMP:replicator
-v 533.972 247.002 0.031848
-tile 360 110 160 130
-flags =  viewer 1 parlanguage 0
-end

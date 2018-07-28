@@ -1,6 +1,0 @@
-DAT:table
-comment "this is required do not delete"
-tile 0 100 130 90
-flags =  viewer 1 parlanguage 0
-view 8 0 1 1 1 0 0 0 0 1 1
-end

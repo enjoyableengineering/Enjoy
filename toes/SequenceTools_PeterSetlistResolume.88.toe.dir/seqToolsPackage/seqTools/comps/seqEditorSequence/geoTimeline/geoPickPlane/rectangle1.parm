@@ -1,7 +1,0 @@
-?
-sizex 49 1 parent.editorMain.op('lengthDataChop')['length']
-sizey 32 1
-tx 49 0 (me.par.sizex/2)
-ty 32 0
-tz 32 0
-?

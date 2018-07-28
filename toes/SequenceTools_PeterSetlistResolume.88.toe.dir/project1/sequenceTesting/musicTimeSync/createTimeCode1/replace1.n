@@ -1,9 +1,0 @@
-CHOP:replace
-tile 950 -325 130 90
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	reorder1
-1 	rename1
-}
-end

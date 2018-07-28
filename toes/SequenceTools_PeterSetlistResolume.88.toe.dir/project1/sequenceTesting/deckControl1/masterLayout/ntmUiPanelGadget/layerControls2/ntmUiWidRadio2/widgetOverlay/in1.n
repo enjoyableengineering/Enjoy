@@ -1,8 +1,0 @@
-DAT:in
-tile 400 -1230 130 90
-flags =  viewer 1
-inputs
-{
-0 	select_labels
-}
-end

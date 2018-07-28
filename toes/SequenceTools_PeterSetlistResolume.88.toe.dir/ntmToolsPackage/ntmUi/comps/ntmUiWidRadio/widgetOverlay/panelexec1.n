@@ -1,9 +1,0 @@
-DAT:panelexec
-tile -300 650 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	select_exec_script
-}
-view 8 0 1 1 1 0 0 0 0 1 1
-end

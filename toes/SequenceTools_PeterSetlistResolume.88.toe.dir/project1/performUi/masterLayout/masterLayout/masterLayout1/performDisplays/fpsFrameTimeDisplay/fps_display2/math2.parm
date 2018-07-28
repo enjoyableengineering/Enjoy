@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 2
-fromrange1 0 16
-fromrange2 0 64
-torange1 0 -255
-torange2 0 0
-autoexportroot 17 "" me.parent()
-?

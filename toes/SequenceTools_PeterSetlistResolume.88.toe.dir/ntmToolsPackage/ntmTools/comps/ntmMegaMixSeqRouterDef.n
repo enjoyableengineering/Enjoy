@@ -1,6 +1,0 @@
-COMP:base
-v 384.44 370.282 1.03125
-tags 0 4 ntmMegaMix ntmSeqRouterDef ntmTools ntmRouterDef
-tile 225 -350 160 130
-flags =  viewer 1 parlanguage 0
-end

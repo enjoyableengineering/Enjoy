@@ -1,4 +1,0 @@
-TOP:moviefilein
-tile -400 0 130 101
-flags =  lock on current on viewer 1 parlanguage 0
-end

@@ -1,5 +1,0 @@
-COMP:button
-v 58.57 9.0936 1.03287
-tile 0 100 81 155
-flags =  picked on current on viewer 1 parlanguage 0
-end

@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 2
-fromrange1 0 1
-fromrange2 0 0
-torange1 0 0
-torange2 0 9
-scope 0 displace1:outputresolution
-autoexportroot 17 "" parent()
-?

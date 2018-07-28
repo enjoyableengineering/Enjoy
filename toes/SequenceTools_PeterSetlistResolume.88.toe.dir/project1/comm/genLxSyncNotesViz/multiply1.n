@@ -1,9 +1,0 @@
-TOP:multiply
-tile 1400 75 130 49
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	base1/out1
-1 	over3
-}
-end

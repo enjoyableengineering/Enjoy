@@ -1,7 +1,0 @@
-?
-port 49 7000 "op('osc_ports')[me.name, 1]"
-active 0 off
-addscope 49 /playingclipnameLa_stream op('track_status_addresses')[0,0]
-callbacks 0 osc_track_info_callbacks7
-fromop 17 "" parent()
-?

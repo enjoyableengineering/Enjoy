@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 1
-port 49 7000 "op('osc_ports')[me.name, 1]"
-active 49 on "abs(parent().par.Writecues - 1)"
-addscope 49 op('track_info_addresses')[0,0] op('track_info_addresses')[0,0]
-callbacks 0 osc_track_info_callbacks
-fromop 17 "" parent()
-?

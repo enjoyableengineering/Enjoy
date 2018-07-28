@@ -1,9 +1,0 @@
-COMP:container
-tile 400 -700 81 155
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	panes
-}
-color 0.745 0.745 0.745 
-end

@@ -1,9 +1,0 @@
-COMP:container
-v 438.141 713.331 0.727273
-tile 700 -960 160 123
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	controlsAndPvw
-}
-end

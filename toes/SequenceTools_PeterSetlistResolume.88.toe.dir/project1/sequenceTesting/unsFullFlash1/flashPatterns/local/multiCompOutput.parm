@@ -1,4 +1,0 @@
-?
-stdswitcher1 0 3
-clone 49 parent.FlashMain.op('local/multiCompOutput') parent.FlashMain.op('local/multiCompOutput')
-?

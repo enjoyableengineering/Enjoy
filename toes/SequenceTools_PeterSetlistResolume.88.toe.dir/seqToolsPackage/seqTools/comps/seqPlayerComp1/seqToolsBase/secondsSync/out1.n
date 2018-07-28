@@ -1,8 +1,0 @@
-CHOP:out
-tile -1000 -250 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	select6
-}
-end

@@ -1,8 +1,0 @@
-?
-play 49 on parent().par.Play
-callbacks 0 timer1_callbacks
-rate 17 60 me.time.rate
-timeslice 0 on
-exportmethod 0 datname
-autoexportroot 17 "" parent()
-?

@@ -1,4 +1,0 @@
-?
-stdswitcher1 0 2
-clone 49 op.SeqTools.op('comps/seqToolsComp1/seqToolsBase') op.NtmTools.op('comps/ntmToolsComp1/ntmToolsBase')
-?

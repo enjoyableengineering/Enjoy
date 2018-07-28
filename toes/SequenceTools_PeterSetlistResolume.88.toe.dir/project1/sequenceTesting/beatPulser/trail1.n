@@ -1,9 +1,0 @@
-CHOP:trail
-tile 1340 420 200 100
-flags =  parlanguage 0
-inputs
-{
-0 	lightingLowBPM
-}
-view 5 -1 1 5.56875 -1.5 1.5 4 2 8600 1 0
-end

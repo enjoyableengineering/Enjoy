@@ -1,9 +1,0 @@
-CHOP:rename
-tile 2190 450 130 90
-flags = 
-inputs
-{
-0 	shuffle1
-}
-color 0.56 0.56 0.56 
-end

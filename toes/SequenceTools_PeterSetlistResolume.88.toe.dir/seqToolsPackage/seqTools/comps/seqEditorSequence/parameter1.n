@@ -1,4 +1,0 @@
-COMP:parameter
-tile 2100 -950 160 129
-flags =  parlanguage 0
-end

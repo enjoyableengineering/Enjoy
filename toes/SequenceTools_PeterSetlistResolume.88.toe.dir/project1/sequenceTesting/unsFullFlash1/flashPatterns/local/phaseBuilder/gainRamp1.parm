@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 1
-gain 34 4
-fromrange1 34 0
-fromrange2 34 1
-torange1 34 0
-torange2 34 1
-autoexportroot 17 "" parent()
-?

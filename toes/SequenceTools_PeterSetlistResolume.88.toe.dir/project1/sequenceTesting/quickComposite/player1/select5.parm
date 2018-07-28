@@ -1,4 +1,0 @@
-?
-chop 49 .parent().par.Playercomp.eval().op('midiTrack1/out1') parent().par.Playercomp.eval().op('midiTrack1/out1')
-autoexportroot 17 "" parent()
-?

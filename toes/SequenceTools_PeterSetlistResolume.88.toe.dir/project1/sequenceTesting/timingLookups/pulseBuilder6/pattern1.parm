@@ -1,7 +1,0 @@
-?
-wavetype 0 const
-length 0 240
-amp 0 0
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

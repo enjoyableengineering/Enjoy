@@ -1,8 +1,0 @@
-SOP:group
-tile 4975 4125 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	transform1
-}
-end

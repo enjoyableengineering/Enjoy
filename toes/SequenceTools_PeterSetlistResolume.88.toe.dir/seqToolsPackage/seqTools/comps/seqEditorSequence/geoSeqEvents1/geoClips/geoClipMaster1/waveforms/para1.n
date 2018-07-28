@@ -1,9 +1,0 @@
-CHOP:para
-tile -750 -1000 110 73
-flags =  bypass on
-inputs
-{
-0 	waveChop
-}
-view 5 -1 1 8.37879 -1.5 1.5 4 2 8600 3 0
-end

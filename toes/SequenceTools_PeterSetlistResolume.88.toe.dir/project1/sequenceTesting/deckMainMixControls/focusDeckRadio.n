@@ -1,7 +1,0 @@
-COMP:slider
-v 212.747 529.025 3.1382
-tags 0 3 ntmUiWidget ntmUi ntmUiWidRadio
-tile 130 -130 160 76
-flags =  picked on current on viewer 1 parlanguage 0
-color 0.68 0.226667 0 
-end

@@ -1,7 +1,0 @@
-?
-netaddress 0 192.168.3.42
-port 0 9110
-active 0 off
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

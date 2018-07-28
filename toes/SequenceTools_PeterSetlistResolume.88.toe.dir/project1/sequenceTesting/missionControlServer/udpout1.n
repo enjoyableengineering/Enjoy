@@ -1,4 +1,0 @@
-DAT:udpout
-tile 870 160 130 90
-flags =  viewer 1 bypass on parlanguage 0
-end

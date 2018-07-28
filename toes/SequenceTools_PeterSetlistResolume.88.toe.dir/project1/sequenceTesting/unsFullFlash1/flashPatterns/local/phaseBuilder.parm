@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-clone 49 parent.FlashMain.op('local/phaseBuilder') parent.FlashMain.op('local/phaseBuilder')
-Vstep 64 0.67
-Gain 64 2
-Srcchanexternal 64 gen_ramp32
-Srcchanramp 64 gen_ramp32
-?

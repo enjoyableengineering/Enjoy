@@ -1,5 +1,0 @@
-COMP:base
-v 965.969 539.195 0.0445816
-tile 2275 2050 504 362
-flags =  parlanguage 0
-end

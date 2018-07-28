@@ -1,9 +1,0 @@
-CHOP:out
-tile 880 -420 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	chansSwitch
-}
-view 5 -1 1 17.5156 -1.5 1.5 4 2 10648 20 0
-end

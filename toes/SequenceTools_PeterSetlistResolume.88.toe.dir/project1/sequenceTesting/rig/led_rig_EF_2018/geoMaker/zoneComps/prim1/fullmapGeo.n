@@ -1,9 +1,0 @@
-SOP:out
-tile 7025 4075 130 90
-flags =  viewer 1 activate on render on display on parlanguage 0
-inputs
-{
-0 	transform_fullmap
-}
-view 63 0.2 1 1 0 0 1 1410.98 2.83544 1244.44 1289.96 0 240 1410.98 0 240 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 -120 -1612.55 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 15 1 1 1 195 4883 1 -1 1 1 4 0 0 2 0 1
-end

@@ -1,9 +1,0 @@
-DAT:switch
-tile -2200 0 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	opfind1
-1 	select7
-}
-end

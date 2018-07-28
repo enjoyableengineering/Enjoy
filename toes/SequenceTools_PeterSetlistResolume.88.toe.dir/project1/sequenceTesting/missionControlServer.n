@@ -1,5 +1,0 @@
-COMP:base
-v -78.422 372.563 0.688034
-tile -2510 -80 160 130
-flags =  cook off parlanguage 0
-end

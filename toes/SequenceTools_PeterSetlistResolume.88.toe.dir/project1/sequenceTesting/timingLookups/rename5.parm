@@ -1,5 +1,0 @@
-?
-renamefrom 0 hard_only*
-renameto 0 falloff_only*
-autoexportroot 17 "" parent()
-?

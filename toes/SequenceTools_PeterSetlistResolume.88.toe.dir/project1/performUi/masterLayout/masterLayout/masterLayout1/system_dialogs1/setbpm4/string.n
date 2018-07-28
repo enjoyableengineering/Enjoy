@@ -1,4 +1,0 @@
-DAT:text
-tile 350 100 130 60
-flags =  viewer 1 cloneImmune on
-end

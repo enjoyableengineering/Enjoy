@@ -1,8 +1,0 @@
-?
-delay 0 2
-delayunit 0 frames
-maxdelay 0 3
-maxdelayunit 0 frames
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

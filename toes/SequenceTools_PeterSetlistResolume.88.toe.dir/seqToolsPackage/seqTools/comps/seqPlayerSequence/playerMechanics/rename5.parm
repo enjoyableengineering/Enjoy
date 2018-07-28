@@ -1,5 +1,0 @@
-?
-renamefrom 0 chan*
-renameto 0 midiTrack*:Play
-autoexportroot 17 "" parent()
-?

@@ -1,6 +1,0 @@
-COMP:base
-v 725.336 516.186 0.510808
-tags 0 1 ntmClrPrst
-tile -625 -25 160 130
-flags =  viewer 1 parlanguage 0
-end

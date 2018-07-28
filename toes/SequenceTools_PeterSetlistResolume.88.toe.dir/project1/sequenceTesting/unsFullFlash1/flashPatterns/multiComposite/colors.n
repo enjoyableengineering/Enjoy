@@ -1,9 +1,0 @@
-CHOP:null
-tile -710 -320 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	joinColors
-}
-view 5 -1 1 1.69687 -1.5 1.5 4 2 10648 20 0
-end

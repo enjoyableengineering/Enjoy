@@ -1,7 +1,0 @@
-?
-component 49 "op('songPath')[0,1].val if op('songPath').numRows > 1 else None" "op('songPath')[1,0].val if op('songPath').numRows > 1 else None"
-tagsfilter 0 seqSequence
-typecol 0 off
-pathcol 0 on
-callbacks 0 opfind1_callbacks
-?

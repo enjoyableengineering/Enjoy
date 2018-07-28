@@ -1,9 +1,0 @@
-DAT:insert
-tags 0 1 clearCook
-tile 625 -2600 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	osc_track_status_Lb
-}
-end

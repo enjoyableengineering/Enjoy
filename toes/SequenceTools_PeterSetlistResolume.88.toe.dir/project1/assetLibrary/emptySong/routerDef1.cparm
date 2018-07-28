@@ -1,8 +1,0 @@
-?
-pages 1 "Seq Router Def"
-772804868 Ntmlabel "[ntm] Label" 1 1 0 0 1 1 1 0 0 "" "Seq Router Def" 0
-772804869 Updatedefs "Update Def Tables" 1 1 0 0 1 1 1 0 0 0 "Seq Router Def" 4
-772804869 Seteditrouter "Set Edit Router" 1 1 0 0 1 1 1 0 0 0 "Seq Router Def" 3
-772804869 Addlayroutedef "Add Layer Route Def" 1 1 0 0 1 1 1 0 0 0 "Seq Router Def" 1
-772804869 Addmidroutedef "Add Midi Route Def" 1 1 0 0 1 1 1 0 0 0 "Seq Router Def" 2
-?

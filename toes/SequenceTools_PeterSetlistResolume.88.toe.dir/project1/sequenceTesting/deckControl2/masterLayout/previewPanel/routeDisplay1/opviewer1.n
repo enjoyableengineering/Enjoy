@@ -1,8 +1,0 @@
-COMP:opviewer
-tile 60 0 160 154
-flags =  viewer 1 parlanguage 0
-exports
-{
-routeStatus
-}
-end

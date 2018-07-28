@@ -1,8 +1,0 @@
-COMP:slider
-tile -20 -270 160 155
-flags =  current on viewer 1
-exports
-{
-widgetOverlay/rollover
-}
-end

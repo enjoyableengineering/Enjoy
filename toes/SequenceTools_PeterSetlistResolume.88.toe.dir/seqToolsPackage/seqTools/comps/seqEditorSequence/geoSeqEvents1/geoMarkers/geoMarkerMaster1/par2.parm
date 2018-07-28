@@ -1,5 +1,0 @@
-?
-ops 49 "op(op('../repTable')[parent().digits, 'path'].val)" "op(op('../repTable')[parent().digits, 'path'].val) if op('../repTable').numRows > 1 else None"
-parameters 0 Seqduration
-autoexportroot 17 "" parent()
-?

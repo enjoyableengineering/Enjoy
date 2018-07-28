@@ -1,8 +1,0 @@
-TOP:chanmix
-tile -650 -325 130 48
-flags =  bypass on parlanguage 0
-inputs
-{
-0 	RemapTex2In
-}
-end

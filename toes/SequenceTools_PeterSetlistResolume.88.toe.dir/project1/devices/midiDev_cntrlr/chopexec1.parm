@@ -1,6 +1,0 @@
-?
-fromop 16 deckFocusControl parent()
-chop 0 deckFocusControl
-offtoon 0 on
-valuechange 0 off
-?

@@ -1,5 +1,0 @@
-?
-fromop 17 "" parent()
-op 49 parent.Widget parent.Widget
-pars 0 "Sliderknobsize w h Default* Min* Norm* Clamp* Sliderclamp*"
-?

@@ -1,5 +1,0 @@
-CHOP:par
-tile -1525 650 130 90
-flags =  parlanguage 0
-view 5 -1 1 0.034375 -1.5 1.5 4 2 8600 1 0
-end

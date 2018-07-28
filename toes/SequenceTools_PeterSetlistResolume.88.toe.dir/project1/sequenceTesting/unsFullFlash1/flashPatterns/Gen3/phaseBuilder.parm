@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 2
-clone 49 parent.FlashMain.op('local/phaseBuilder') parent.FlashMain.op('local/phaseBuilder')
-Torange1 64 0
-Torange2 64 1.7
-Srcchanlookup 64 ramp_up_2_4
-Srcchanramp 64 gen_ramp4
-?

@@ -1,6 +1,0 @@
-COMP:base
-v 400.18 626.915 0.124219
-tags 0 1 ntmUi
-tile -450 225 160 130
-flags =  viewer 1 parlanguage 0
-end

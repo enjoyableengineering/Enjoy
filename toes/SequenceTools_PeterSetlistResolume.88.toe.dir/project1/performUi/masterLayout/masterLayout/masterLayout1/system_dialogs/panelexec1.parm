@@ -1,6 +1,0 @@
-?
-active 0 off
-fromop 16 kickState me.parent()
-panel 16 kickState me.parent()
-panelvalue 0 state
-?

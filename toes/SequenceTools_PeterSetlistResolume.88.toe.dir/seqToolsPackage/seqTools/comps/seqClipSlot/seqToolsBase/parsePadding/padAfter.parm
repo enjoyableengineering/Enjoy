@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 5
-single 0 off
-end 2 10
-rate 17 60 me.time.rate
-left 0 cycle
-right 0 cycle
-autoexportroot 17 "" parent()
-?

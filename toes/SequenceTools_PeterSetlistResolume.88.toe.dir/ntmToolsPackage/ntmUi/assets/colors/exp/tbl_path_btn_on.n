@@ -1,8 +1,0 @@
-DAT:eval
-tile 3450 660 130 90
-flags = 
-inputs
-{
-0 	tbl_path_btn_off
-}
-end

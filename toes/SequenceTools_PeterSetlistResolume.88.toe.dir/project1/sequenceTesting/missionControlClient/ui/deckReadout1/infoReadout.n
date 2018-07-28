@@ -1,9 +1,0 @@
-COMP:container
-v 426 387 1
-tile 1575 25 160 95
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	mainComp
-}
-end

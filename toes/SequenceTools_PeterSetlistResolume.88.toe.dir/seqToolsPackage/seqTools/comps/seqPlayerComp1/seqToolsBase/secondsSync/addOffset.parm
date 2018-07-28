@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-postoff 2 0.025
-scope 0 timer_seconds
-autoexportroot 17 "" parent()
-?

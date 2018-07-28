@@ -1,6 +1,0 @@
-COMP:container
-v 519.307 345.348 0.148302
-tile 0 0 682 375
-flags =  cook off parlanguage 0
-color 0.68 0 0.453333 
-end

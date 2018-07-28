@@ -1,8 +1,0 @@
-CHOP:math
-tile -475 -900 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	limit1
-}
-end

@@ -1,4 +1,0 @@
-DAT:text
-tile 25 -2000 130 90
-flags =  parlanguage 0
-end

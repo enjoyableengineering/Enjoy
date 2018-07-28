@@ -1,5 +1,0 @@
-COMP:container
-tile 0 -600 160 130
-flags =  picked on current on
-color 0.56 0.56 0.56 
-end

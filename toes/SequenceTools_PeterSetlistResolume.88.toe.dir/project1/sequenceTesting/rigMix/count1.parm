@@ -1,7 +1,0 @@
-?
-stdswitcher1 0 1
-output 0 loop
-limitmax 0 3
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

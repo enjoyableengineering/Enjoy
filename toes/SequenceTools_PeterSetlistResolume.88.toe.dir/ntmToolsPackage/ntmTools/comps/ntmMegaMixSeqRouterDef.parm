@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 3
-extension1 0 op('./NtmToolsMegaMixSeqRouterDefExt').module.NtmToolsMegaMixSeqRouterDefExt(me)
-extname1 0 RouterDefExt
-promoteextension1 32 on
-?

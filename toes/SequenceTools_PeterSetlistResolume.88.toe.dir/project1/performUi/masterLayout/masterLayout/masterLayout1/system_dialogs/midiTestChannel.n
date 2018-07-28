@@ -1,8 +1,0 @@
-CHOP:null
-tile 810 -1080 130 90
-flags =  viewer 1
-inputs
-{
-0 	testMidiMessage/out1
-}
-end

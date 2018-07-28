@@ -1,9 +1,0 @@
-DAT:merge
-tile 170 190 130 90
-flags =  viewer 1
-inputs
-{
-0 	define_defaults
-1 	select_define
-}
-end

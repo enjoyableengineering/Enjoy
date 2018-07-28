@@ -1,4 +1,0 @@
-DAT:table
-tile -1075 -2350 131 89
-flags =  viewer 1 parlanguage 0
-end

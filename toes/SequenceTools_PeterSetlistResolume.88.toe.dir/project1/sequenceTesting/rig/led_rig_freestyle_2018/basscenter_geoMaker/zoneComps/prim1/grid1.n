@@ -1,8 +1,0 @@
-SOP:grid
-tile 7025 3775 130 90
-flags =  viewer 1 activate on parlanguage 0
-inputs
-{
-0 	fullmapGeo
-}
-end

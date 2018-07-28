@@ -1,5 +1,0 @@
-?
-op 0 waveform
-iscope 0 "length sample_rate"
-autoexportroot 17 "" me.parent()
-?

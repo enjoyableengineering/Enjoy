@@ -1,8 +1,0 @@
-COMP:parameter
-tile 1125 -450 162 77
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	middleCol1
-}
-end

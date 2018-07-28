@@ -1,9 +1,0 @@
-CHOP:resample
-tile -575 -225 130 90
-flags =  viewer 1
-inputs
-{
-0 	envelope1
-}
-view 5 -1 1 -21.4962 -1.5 1.5 4 2 8600 1 0
-end

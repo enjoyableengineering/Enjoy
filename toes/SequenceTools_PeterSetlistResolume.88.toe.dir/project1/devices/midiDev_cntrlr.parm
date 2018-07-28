@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 1
-extension1 0 op('./ControlDevExt').module.ControlDevExt(me)
-extname1 0 ControlDevExt
-promoteextension1 0 on
-opshortcut 0 MidiDevControl1
-Maproot 81 op.Core1 op.Core1
-?

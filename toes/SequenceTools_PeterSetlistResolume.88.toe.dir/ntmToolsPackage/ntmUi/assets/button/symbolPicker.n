@@ -1,6 +1,0 @@
-COMP:container
-v -172.616 -133.56 4.30477
-tags 0 3 ntmUiStyle ntmUi ntmUiStyleTool
-tile -150 -125 129 155
-flags =  parlanguage 0
-end

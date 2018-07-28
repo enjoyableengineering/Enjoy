@@ -1,8 +1,0 @@
-TOP:out
-tile 1400 -25 130 48
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	regions_ping1
-}
-end

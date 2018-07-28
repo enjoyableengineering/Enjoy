@@ -1,8 +1,0 @@
-TOP:out
-tile 575 -50 130 105
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	switchLay1
-}
-end

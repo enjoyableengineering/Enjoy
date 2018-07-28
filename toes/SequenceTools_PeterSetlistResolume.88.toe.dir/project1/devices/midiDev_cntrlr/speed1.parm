@@ -1,6 +1,0 @@
-?
-limittype 0 clamp
-resetcondition 0 off
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

@@ -1,6 +1,0 @@
-?
-name0 0 source[1-12]:Active
-name1 0 source[1-12]:Activehold
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

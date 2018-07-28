@@ -1,5 +1,0 @@
-?
-name0 32 timer_seconds_inActive
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

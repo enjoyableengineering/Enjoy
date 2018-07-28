@@ -1,6 +1,0 @@
-?
-output 0 expr
-expr 0 "tab(\"../buttonSizes\", 0, 1)"
-rowindexend 17 0 "$NR - 1"
-colindexend 17 0 "$NC - 1"
-?

@@ -1,4 +1,0 @@
-TOP:cacheselect
-tile 1440 20 163 56
-flags =  viewer 1 parlanguage 0
-end

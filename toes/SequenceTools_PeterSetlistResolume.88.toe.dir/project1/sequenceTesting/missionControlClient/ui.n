@@ -1,5 +1,0 @@
-COMP:container
-v -118.494 -1094.04 3.28255
-tile 0 0 160 109
-flags =  picked on current on viewer 1 parlanguage 0
-end

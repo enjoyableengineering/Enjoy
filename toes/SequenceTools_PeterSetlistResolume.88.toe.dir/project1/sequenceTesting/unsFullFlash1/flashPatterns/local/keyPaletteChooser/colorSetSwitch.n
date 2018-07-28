@@ -1,9 +1,0 @@
-DAT:switch
-tile -75 600 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	select1
-}
-color 0.68 0 0 
-end

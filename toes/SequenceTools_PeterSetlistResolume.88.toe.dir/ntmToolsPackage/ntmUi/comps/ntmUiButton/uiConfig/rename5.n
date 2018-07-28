@@ -1,8 +1,0 @@
-CHOP:rename
-tile 400 675 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	master_font_size
-}
-end

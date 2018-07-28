@@ -1,9 +1,0 @@
-TOP:over
-tile 525 0 323 96
-flags =  parlanguage 0
-inputs
-{
-0 	over3
-1 	constant1
-}
-end

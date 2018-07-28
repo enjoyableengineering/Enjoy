@@ -1,6 +1,0 @@
-COMP:container
-v -5362.85 -2901.69 0.894344
-tile -3390 -1130 188 120
-flags =  current on viewer 1 render on display on pickable on parlanguage 0
-color 0.68 0.68 0 
-end

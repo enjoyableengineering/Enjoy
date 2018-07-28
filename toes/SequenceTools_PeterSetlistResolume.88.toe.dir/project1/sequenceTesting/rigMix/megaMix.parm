@@ -1,7 +1,0 @@
-?
-stdswitcher1 0 3
-parentshortcut 0 MultiMap
-Numlayers 64 20
-Outputresw 113 2720 op(op.Core1.par.Currentrig).par.Riginternaldimx
-Outputresh 113 1040 op(op.Core1.par.Currentrig).par.Riginternaldimy
-?

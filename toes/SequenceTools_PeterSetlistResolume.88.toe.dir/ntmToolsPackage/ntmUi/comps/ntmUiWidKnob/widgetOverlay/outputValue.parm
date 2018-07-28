@@ -1,8 +1,0 @@
-?
-name0 0 newu
-value0 0 -0.730768
-name1 0 newv
-value1 0 -0.230769
-rate 17 60 me.time.rate
-autoexportroot 17 "" me.parent()
-?

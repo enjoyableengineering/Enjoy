@@ -1,8 +1,0 @@
-TOP:text
-tile -100 0 150 53
-flags =  current on viewer 1
-exports
-{
-parentoverride
-}
-end

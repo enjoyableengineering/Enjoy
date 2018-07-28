@@ -1,9 +1,0 @@
-SOP:transform
-tile -1100 725 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	basscenter_geoMaker/outFullMapGeo
-}
-view 63 0.2 1 1 0 0 1 3483.29 395 3072.22 3184.59 0 -230 3483.29 0 -230 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 230 -3483.29 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 15 1 1 1 195 4883 1 -1 1 1 4 0 0 2 0 1
-end

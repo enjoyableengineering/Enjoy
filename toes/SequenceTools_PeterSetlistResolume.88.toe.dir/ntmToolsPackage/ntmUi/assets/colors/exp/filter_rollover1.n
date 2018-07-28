@@ -1,5 +1,0 @@
-DAT:table
-tile 22 -930 128 90
-flags = 
-color 0.68 0 0 
-end

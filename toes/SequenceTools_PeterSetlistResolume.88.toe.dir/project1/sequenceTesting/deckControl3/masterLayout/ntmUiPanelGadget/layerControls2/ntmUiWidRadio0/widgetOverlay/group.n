@@ -1,4 +1,0 @@
-COMP:table
-tile 750 -1230 160 76
-flags =  viewer 1
-end

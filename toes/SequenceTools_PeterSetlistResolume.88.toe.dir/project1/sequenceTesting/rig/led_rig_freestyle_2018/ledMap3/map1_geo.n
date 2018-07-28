@@ -1,8 +1,0 @@
-SOP:null
-tile 14125 -1600 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	texture1
-}
-end

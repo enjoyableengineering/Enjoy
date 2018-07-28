@@ -1,8 +1,0 @@
-SOP:group
-tile 7400 3775 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	group5
-}
-end

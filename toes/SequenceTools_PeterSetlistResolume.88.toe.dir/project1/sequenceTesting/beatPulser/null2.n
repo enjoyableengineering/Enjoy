@@ -1,8 +1,0 @@
-CHOP:null
-tile 150 -1150 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	timeChanMaker4/out1
-}
-end

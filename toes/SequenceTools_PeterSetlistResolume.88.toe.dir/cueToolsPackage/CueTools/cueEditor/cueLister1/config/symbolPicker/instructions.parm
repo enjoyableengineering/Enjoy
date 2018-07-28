@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-w 17 400 parent().par.w
-h 0 20
-alignorder 0 1
-repocomp 17 "" me
-top 0 ./bg
-?

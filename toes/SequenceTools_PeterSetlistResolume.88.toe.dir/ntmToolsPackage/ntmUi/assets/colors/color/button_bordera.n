@@ -1,5 +1,0 @@
-TOP:constant
-tile 1125 2125 150 125
-flags =  current on viewer 1
-color 0.56 0.56 0.56 
-end

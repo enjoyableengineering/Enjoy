@@ -1,8 +1,0 @@
-TOP:res
-tile 2070 230 130 48
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	ramp1
-}
-end

@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-exportmethod 0 datname
-autoexportroot 17 "" me.parent()
-exporttable 0 pars_export
-?

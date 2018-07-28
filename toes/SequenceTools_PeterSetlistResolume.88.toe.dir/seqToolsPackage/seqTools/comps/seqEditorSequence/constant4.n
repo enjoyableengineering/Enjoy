@@ -1,4 +1,0 @@
-CHOP:constant
-tile -1275 -950 130 90
-flags =  parlanguage 0
-end

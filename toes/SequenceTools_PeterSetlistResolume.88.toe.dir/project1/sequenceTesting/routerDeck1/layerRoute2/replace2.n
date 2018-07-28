@@ -1,9 +1,0 @@
-CHOP:replace
-tile 250 -1740 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	constantSourceId
-1 	routeDefPars2
-}
-end

@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 2
-tagsfilter 49 parent.AssetBrowser.par.Filtertags.eval() parent.AssetBrowser.par.Filtertags.eval()
-namecol 0 off
-typecol 0 off
-pathcol 0 on
-callbacks 0 opfind2_callbacks
-?

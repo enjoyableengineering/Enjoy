@@ -1,4 +1,0 @@
-DAT:opfind
-tile 1425 -525 130 90
-flags =  parlanguage 0
-end

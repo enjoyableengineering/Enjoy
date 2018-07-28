@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-Lookupchop 64 /project1/sequenceTesting/timingLookups/lookupChansBar
-Lookupchans 64 square_quarters
-Lookupramp 64 4
-Newnames 64 4th_notes_on_off
-Interp 64 off
-?

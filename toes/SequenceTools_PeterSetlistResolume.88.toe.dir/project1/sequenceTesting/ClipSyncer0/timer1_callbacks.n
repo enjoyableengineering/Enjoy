@@ -1,6 +1,0 @@
-DAT:text
-tile 300 -75 130 90
-flags =  parlanguage 0
-dock timer1
-view 8 0 1 1 1 0 0 0 0 1 1
-end

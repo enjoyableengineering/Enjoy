@@ -1,4 +1,0 @@
-SOP:select
-tile -225 -125 130 90
-flags =  picked on current on viewer 1 parlanguage 0
-end

@@ -1,6 +1,0 @@
-?
-crname 0 16_9_frame
-usenumber 0 on
-rangestart 0 0
-rangeend 17 1 len(me.inputs[0].prims)
-?

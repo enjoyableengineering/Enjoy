@@ -1,9 +1,0 @@
-?
-align 0 gridrows
-maxrows 0 3
-maxcols 0 4
-outputresolution 0 custom
-resolutionw 16 288 parent().width
-resolutionh 16 274 parent().height
-outputaspect 0 resolution
-?

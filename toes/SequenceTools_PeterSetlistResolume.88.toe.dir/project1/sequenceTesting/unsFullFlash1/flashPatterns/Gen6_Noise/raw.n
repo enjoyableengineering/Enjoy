@@ -1,9 +1,0 @@
-TOP:null
-tags 0 1 displaceSource
-tile 250 75 130 73
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	noiseGen/out1
-}
-end

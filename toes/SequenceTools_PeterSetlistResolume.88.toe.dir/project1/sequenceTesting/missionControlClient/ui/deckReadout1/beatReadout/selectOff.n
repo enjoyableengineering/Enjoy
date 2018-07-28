@@ -1,4 +1,0 @@
-TOP:select
-tile 250 350 130 101
-flags =  current on viewer 1 parlanguage 0
-end

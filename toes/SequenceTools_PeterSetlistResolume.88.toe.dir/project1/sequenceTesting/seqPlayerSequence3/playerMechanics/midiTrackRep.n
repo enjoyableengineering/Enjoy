@@ -1,6 +1,0 @@
-COMP:replicator
-v 624.5 620 1
-tags 0 1 trackReplicator
-tile 875 425 160 130
-flags =  viewer 1 parlanguage 0
-end

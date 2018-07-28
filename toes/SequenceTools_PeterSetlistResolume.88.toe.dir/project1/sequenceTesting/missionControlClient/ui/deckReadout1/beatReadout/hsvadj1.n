@@ -1,8 +1,0 @@
-TOP:hsvadj
-tile 425 125 130 101
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	timingTestPattern/out1
-}
-end

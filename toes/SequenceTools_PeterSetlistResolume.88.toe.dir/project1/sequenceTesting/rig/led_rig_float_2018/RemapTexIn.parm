@@ -1,5 +1,0 @@
-?
-file 49 "\"Rigs/\" + parent().name +\"/outRemapTex1.exr\"" "\"Rigs/\" + parent().name +\"/outRemapTex.exr\""
-index 17 0 me.time.frame
-multalpha 0 off
-?

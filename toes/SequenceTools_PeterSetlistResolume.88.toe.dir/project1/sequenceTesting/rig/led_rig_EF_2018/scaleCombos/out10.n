@@ -1,8 +1,0 @@
-TOP:out
-tile 1675 -1075 110 43
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	scale9/out1
-}
-end

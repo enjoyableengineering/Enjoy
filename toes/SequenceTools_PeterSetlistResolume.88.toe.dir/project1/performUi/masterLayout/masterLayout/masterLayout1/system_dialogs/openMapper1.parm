@@ -1,5 +1,0 @@
-?
-fromop 16 textOpenBtn me.parent()
-panel 16 textOpenBtn me.parent()
-panelvalue 0 state
-?

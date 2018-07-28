@@ -1,9 +1,0 @@
-CHOP:replace
-tile 640 -1020 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	os_master_time_const
-1 	osc_master_time
-}
-end

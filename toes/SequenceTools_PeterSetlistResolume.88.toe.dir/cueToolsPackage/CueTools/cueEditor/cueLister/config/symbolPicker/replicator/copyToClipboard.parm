@@ -1,5 +1,0 @@
-?
-fromop 17 "" me.parent()
-panel 16 item* me.parent()
-panelvalue 0 state
-?

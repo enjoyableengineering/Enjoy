@@ -1,5 +1,0 @@
-DAT:table
-tile 700 -50 130 90
-flags =  parlanguage 0
-dock wetdryExport1
-end

@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-file 16 Images/Walk-inBassdrop.png "app.samplesFolder + '/Map/Count.mov'"
-index 17 0 me.time.frame
-multalpha 0 on
-?

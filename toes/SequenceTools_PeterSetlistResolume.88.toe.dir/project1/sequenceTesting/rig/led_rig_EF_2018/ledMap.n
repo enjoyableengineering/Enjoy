@@ -1,8 +1,0 @@
-TOP:null
-tile 625 75 130 48
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	ledMapExtents
-}
-end

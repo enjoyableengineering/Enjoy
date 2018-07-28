@@ -1,5 +1,0 @@
-?
-renamefrom 0 ch1*
-renameto 17 "'ch'+str(parent.par.Outputchannel.eval()) + \"*\"" "'ch'+str(parent().par.Outputchannel.eval()) + \"*\""
-autoexportroot 17 "" parent()
-?

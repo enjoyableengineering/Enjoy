@@ -1,4 +1,0 @@
-TOP:chopto
-tile 450 -360 130 48
-flags =  viewer 1 parlanguage 0
-end

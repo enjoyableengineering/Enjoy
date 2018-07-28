@@ -1,9 +1,0 @@
-COMP:base
-v 1083.65 591.729 1.15714
-tile 1010 380 160 130
-flags =  viewer 1 parlanguage 0
-exports
-{
-holdExport
-}
-end

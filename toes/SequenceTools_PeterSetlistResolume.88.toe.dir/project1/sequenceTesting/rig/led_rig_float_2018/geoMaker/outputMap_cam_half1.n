@@ -1,4 +1,0 @@
-COMP:cam
-tile 100 -2600 160 130
-flags =  display on pickable on parlanguage 0
-end

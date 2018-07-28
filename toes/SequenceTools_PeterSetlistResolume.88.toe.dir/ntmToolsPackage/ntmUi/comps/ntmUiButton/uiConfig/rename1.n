@@ -1,8 +1,0 @@
-CHOP:rename
-tile 575 525 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	colors_off
-}
-end

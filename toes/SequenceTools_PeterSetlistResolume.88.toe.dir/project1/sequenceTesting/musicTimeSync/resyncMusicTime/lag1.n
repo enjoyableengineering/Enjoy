@@ -1,8 +1,0 @@
-CHOP:lag
-tile 2700 1000 130 90
-flags =  viewer 1
-inputs
-{
-0 	analyze2
-}
-end

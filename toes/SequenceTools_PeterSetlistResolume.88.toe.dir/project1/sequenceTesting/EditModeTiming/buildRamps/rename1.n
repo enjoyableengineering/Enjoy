@@ -1,9 +1,0 @@
-CHOP:rename
-tile 375 -100 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	merge5
-1 	rename2
-}
-end

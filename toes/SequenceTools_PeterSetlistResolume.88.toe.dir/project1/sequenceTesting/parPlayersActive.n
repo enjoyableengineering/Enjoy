@@ -1,5 +1,0 @@
-CHOP:par
-tags 0 1 activeKick
-tile -1220 930 130 90
-flags =  parlanguage 0
-end

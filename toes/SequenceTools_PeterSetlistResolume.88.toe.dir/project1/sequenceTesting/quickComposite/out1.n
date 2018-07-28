@@ -1,9 +1,0 @@
-TOP:out
-tile 1725 425 130 51
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	select1
-}
-view 3 0 0 1 1 0
-end

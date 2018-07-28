@@ -1,7 +1,0 @@
-?
-type 0 clamp
-min 0 0
-max 0 9
-scope 0 "Regionmode1 Scalemode1"
-autoexportroot 17 "" parent()
-?

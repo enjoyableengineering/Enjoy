@@ -1,3 +1,0 @@
-?
-top 49 "op('../../screen_combos/out') + str(parent().digits))" "op('../../screen_combos/out' + str(parent().digits))"
-?

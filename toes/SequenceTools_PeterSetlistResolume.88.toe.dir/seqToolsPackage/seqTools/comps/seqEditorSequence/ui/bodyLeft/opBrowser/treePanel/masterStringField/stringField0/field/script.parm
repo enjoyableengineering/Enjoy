@@ -1,6 +1,0 @@
-?
-fromop 17 "" me.parent()
-panel 17 "" me.parent()
-panelvalue 0 "field focus fieldediting"
-valuechange 0 on
-?

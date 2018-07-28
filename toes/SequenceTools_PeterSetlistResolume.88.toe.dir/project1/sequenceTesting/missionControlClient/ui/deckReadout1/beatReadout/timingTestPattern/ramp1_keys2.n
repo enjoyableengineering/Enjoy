@@ -1,6 +1,0 @@
-DAT:table
-tile 0 -650 130 90
-flags =  viewer 1 showDocked off parlanguage 0
-dock ramp3
-view 8 0 1 1 1 0 0 0 0 1 1
-end

@@ -1,5 +1,0 @@
-COMP:base
-v 165.828 322.041 0.600545
-tile 50 -300 160 130
-flags =  picked on current on parlanguage 0
-end

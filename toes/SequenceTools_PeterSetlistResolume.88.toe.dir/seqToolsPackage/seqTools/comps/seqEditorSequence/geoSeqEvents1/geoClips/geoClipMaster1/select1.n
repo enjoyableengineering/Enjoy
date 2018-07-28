@@ -1,9 +1,0 @@
-CHOP:select
-tile -2125 375 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	switchWavetype
-}
-view 5 -1 1 6.95625 -1.5 1.5 4 2 8600 1 0
-end

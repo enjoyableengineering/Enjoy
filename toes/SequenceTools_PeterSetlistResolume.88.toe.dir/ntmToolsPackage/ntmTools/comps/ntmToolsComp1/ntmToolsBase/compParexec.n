@@ -1,5 +1,0 @@
-DAT:select
-tile 0 -125 130 90
-flags =  current on viewer 1 parlanguage 0
-view 8 0 1 1 1 0 0 0 0 1 1
-end

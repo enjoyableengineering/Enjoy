@@ -1,8 +1,0 @@
-DAT:out
-tile 530 130 130 90
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	eval2
-}
-end

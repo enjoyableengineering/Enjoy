@@ -1,8 +1,0 @@
-TOP:render
-tile 1650 825 130 88
-flags =  parlanguage 0
-exports
-{
-resExports
-}
-end

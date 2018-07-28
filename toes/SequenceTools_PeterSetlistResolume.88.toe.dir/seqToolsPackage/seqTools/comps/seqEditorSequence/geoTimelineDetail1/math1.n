@@ -1,9 +1,0 @@
-CHOP:math
-tile -525 -125 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	pattern1
-}
-view 5 -1 1 45.1375 -1.5 1.5 4 2 10648 20 0
-end

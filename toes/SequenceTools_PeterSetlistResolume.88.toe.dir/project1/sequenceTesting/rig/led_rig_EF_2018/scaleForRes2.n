@@ -1,9 +1,0 @@
-SOP:transform
-tile 3775 50 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	select_result1
-}
-color 0.68 0 0 
-end

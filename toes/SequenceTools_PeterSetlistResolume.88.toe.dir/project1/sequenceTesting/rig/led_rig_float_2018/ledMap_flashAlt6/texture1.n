@@ -1,8 +1,0 @@
-SOP:texture
-tile 11900 -1725 149 112
-flags =  viewer 1
-inputs
-{
-0 	origPos
-}
-end

@@ -1,7 +1,0 @@
-?
-stdswitcher1 0 4
-name0 0 gen_ramp128
-value0 0 0.626207
-rate 16 60 me.time.rate
-autoexportroot 17 "" parent()
-?

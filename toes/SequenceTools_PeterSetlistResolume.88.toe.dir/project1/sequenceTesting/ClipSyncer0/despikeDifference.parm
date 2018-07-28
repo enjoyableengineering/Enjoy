@@ -1,8 +1,0 @@
-?
-type 0 despike
-width 0 0.125
-spike 0 0.09
-ramprate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

@@ -1,6 +1,0 @@
-DAT:opexec
-tile 400 -700 130 90
-flags =  viewer 1 display on parlanguage 0
-color 0 0.68 0 
-view 8 0 1 1 1 0 0 0 0 1 1
-end

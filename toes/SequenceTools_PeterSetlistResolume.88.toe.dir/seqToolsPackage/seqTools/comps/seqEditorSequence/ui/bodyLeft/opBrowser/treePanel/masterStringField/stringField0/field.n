@@ -1,4 +1,0 @@
-COMP:field
-tile 0 0 160 130
-flags =  picked on current on viewer 1 parlanguage 0
-end

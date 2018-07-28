@@ -1,5 +1,0 @@
-?
-chop 49 parent().MainTimer parent(2).MainTimer
-channames 49 parent(2).MainFractionChan parent(2).MainFractionChan
-autoexportroot 17 "" parent()
-?

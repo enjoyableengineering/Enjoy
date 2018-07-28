@@ -1,4 +1,0 @@
-DAT:text
-tile -350 -200 286 348
-flags =  viewer 1 parlanguage 0
-end

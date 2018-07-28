@@ -1,7 +1,0 @@
-COMP:slider
-v 415.662 436.603 1.14343
-tags 0 3 ntmUiWidget ntmUi ntmUiWidRadio
-tile -160 -580 160 76
-flags =  viewer 1 parlanguage 0
-color 0.68 0.226667 0 
-end

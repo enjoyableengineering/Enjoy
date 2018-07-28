@@ -1,8 +1,0 @@
-SOP:primitive
-tile 13000 -2425 130 112
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	trySub
-}
-end

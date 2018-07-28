@@ -1,6 +1,0 @@
-COMP:base
-v 629.936 251.916 0.731645
-tags 0 3 seqSeqClip seqTools seqEvent
-tile 0 -175 160 130
-flags =  current on parlanguage 0
-end

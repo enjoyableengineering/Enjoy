@@ -1,7 +1,0 @@
-DAT:text
-tags 0 1 extension
-tile 0 250 130 90
-flags =  viewer 1 parlanguage 0
-color 0.68 0 0 
-view 8 0 1 1 1 0 0 0 0 1 1
-end

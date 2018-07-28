@@ -1,8 +1,0 @@
-CHOP:select
-tile 450 500 130 90
-flags =  viewer 1
-inputs
-{
-0 	incomingTimeChans
-}
-end

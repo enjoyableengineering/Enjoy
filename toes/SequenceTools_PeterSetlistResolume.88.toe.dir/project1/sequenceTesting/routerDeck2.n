@@ -1,7 +1,0 @@
-COMP:base
-v -74.3489 627.246 1.08804
-tags 0 4 ntmRouter ntmMegaMix ntmTools ntmSeqRouter
-tile -925 -225 160 130
-flags =  parlanguage 0
-color 0 0 0.68 
-end

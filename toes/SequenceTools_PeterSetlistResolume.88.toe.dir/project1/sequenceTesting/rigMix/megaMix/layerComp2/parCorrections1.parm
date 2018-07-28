@@ -1,5 +1,0 @@
-?
-parameters 0 "Transparency* Matterlow* Matterhi* Mattelum* Blendmode* Desaturate* Contrast* Saturation* Brightness* Gamma* Linktransforms* Blendstrength*"
-builtin 0 on
-autoexportroot 17 "" me.parent()
-?

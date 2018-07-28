@@ -1,8 +1,0 @@
-DAT:sort
-tile 2340 320 130 90
-flags =  viewer 1
-inputs
-{
-0 	default
-}
-end

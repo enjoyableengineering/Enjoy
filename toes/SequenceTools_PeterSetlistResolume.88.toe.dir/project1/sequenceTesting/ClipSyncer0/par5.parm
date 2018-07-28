@@ -1,8 +1,0 @@
-?
-ops 0 addSpeedAdjust
-parameters 0 postoff
-renameto 0 speedAdjust
-custom 0 off
-builtin 0 on
-autoexportroot 17 "" parent()
-?

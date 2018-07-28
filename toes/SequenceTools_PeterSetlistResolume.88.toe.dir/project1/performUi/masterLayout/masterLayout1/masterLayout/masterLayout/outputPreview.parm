@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 2
-hmode 0 fill
-vmode 0 fill
-alignorder 17 0 me.nodeX
-repocomp 17 "" me
-top 49 op.Core1.op('outputPre') op.Core1.op('outputPre')
-topfill 0 best
-?

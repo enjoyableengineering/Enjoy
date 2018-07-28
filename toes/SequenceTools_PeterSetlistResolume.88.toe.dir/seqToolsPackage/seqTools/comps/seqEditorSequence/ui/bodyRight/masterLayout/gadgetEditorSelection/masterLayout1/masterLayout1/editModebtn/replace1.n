@@ -1,9 +1,0 @@
-CHOP:replace
-tile -50 -325 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	panel1
-1 	sourceParameter
-}
-end

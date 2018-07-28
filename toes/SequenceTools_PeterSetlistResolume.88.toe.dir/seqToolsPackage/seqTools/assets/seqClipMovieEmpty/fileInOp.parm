@@ -1,9 +1,0 @@
-?
-file 16 empty.tiff app.samplesFolder+'/Map/Banana.tif'
-speed 17 1 parent().par.Speed
-index 17 0 me.time.frame
-indexunit 0 seconds
-trim 0 on
-tstart 17 0 parent().par.Trimstart
-tend 49 1 parent().par.Trimend
-?

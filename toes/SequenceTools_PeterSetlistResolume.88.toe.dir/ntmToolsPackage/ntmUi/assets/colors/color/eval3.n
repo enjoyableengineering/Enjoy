@@ -1,9 +1,0 @@
-DAT:eval
-tile 2190 210 130 90
-flags =  viewer 1
-inputs
-{
-0 	X11colors
-1 	table1
-}
-end

@@ -1,5 +1,0 @@
-?
-name0 0 Outputactive[1-4]
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

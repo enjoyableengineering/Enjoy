@@ -1,9 +1,0 @@
-?
-parentshortcut 0 Main
-clone 49 parent.FlashMain.op('local/rampInputKeys') parent.FlashMain.op('local/rampInputKeys')
-Period 64 0.5
-Rampextend 64 hold
-Rampinterp 64 easeineaseout
-Resx 64 480
-Resy 64 360
-?

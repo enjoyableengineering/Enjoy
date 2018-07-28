@@ -1,5 +1,0 @@
-CHOP:select
-tile -1100 -2300 130 90
-flags =  viewer 1 parlanguage 0
-color 0.68 0 0 
-end

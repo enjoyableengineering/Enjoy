@@ -1,5 +1,0 @@
-COMP:container
-v 342.69 338.111 1.90231
-tile -475 -350 160 76
-flags =  viewer 1 parlanguage 0
-end

@@ -1,4 +1,0 @@
-COMP:button
-tile 1500 -2155 160 130
-flags =  parlanguage 0
-end

@@ -1,7 +1,0 @@
-?
-w 0 270
-repocomp 17 "" me
-extension1 0 op('./NtmUiPanelGadgetExt').module.NtmUiPanelGadgetExt(me)
-extname1 0 PanelExt
-promoteextension1 0 on
-?

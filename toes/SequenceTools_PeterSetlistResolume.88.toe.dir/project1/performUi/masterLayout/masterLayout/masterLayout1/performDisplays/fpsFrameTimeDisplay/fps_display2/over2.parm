@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 1
-prefit 0 nativeres
-tx 49 -0.5 "-(me.time.frame / 255) + 0.5"
-ty 32 0
-inputfiltertype 0 nearest
-filtertype 0 nearest
-?

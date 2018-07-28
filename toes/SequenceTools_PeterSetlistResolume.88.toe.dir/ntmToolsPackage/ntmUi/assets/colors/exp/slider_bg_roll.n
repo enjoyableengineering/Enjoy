@@ -1,9 +1,0 @@
-DAT:eval
-tile 2690 2030 130 90
-flags = 
-inputs
-{
-0 	slider_bg_on
-}
-color 0.226667 0.68 0 
-end

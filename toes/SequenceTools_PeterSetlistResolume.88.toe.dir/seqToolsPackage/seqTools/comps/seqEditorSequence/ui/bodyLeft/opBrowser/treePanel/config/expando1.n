@@ -1,9 +1,0 @@
-TOP:transform
-tile -300 -100 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	expando0
-}
-color 0 0.68 0 
-end

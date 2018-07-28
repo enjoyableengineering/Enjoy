@@ -1,9 +1,0 @@
-?
-playmode 0 locked
-setperiod 0 4
-bar 0 on
-beat 0 on
-timeslice 0 on
-exportmethod 0 datname
-autoexportroot 17 "" parent()
-?

@@ -1,6 +1,0 @@
-COMP:base
-v 343.003 -285.31 2.66661
-tags 0 3 seqTools seqCueAction seqEvent
-tile 400 -475 160 130
-flags =  viewer 1 parlanguage 0
-end

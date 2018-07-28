@@ -1,4 +1,0 @@
-TOP:moviefilein
-tile -390 -20 130 82
-flags =  picked on current on viewer 1 parlanguage 0
-end

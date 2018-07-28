@@ -1,9 +1,0 @@
-TOP:cacheselect
-tags 0 1 widCacheSelect
-tile -270 -250 130 105
-flags =  current on viewer 1 parlanguage 0
-exports
-{
-widgetOverlay/normalizeValue
-}
-end

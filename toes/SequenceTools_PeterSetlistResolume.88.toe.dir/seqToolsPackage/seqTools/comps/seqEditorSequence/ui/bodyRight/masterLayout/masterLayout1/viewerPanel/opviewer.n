@@ -1,6 +1,0 @@
-COMP:opviewer
-v 523.5 218.5 0.475
-tags 0 1 TDSubComp
-tile 0 -500 160 111
-flags =  viewer 1 parlanguage 0
-end

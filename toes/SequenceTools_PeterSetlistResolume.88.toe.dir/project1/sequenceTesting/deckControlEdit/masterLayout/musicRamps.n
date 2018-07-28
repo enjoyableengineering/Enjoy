@@ -1,8 +1,0 @@
-CHOP:null
-tile -890 -1180 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	selectSyncerRamps
-}
-end

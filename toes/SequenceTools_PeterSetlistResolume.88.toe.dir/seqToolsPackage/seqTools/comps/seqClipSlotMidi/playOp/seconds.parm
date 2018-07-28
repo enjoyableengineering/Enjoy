@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-chopop 0 mul
-gain 49 1 1/(parent().par.Basetempo.eval()/60)
-autoexportroot 17 "" parent()
-?

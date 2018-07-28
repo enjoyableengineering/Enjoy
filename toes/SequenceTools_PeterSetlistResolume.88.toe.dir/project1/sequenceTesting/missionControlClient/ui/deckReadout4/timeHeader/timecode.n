@@ -1,4 +1,0 @@
-COMP:container
-tile 125 -75 160 76
-flags =  viewer 1 cook off parlanguage 0
-end

@@ -1,8 +1,0 @@
-TOP:rectangle
-tile 300 -2225 130 50
-flags =  bypass on parlanguage 0
-inputs
-{
-0 	render_full_map_all_pieces
-}
-end

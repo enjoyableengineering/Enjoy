@@ -1,9 +1,0 @@
-COMP:list
-v 254.14 137.449 0.495829
-tile -201 700 143 157
-flags =  viewer 1 display on parlanguage 0
-inputs
-{
-0 	altCueLists
-}
-end

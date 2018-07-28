@@ -1,9 +1,0 @@
-DAT:null
-tile -125 -425 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	sortClipComps
-}
-view 8 0 1 1 1 0 0 0 0 1 1
-end

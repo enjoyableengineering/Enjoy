@@ -1,8 +1,0 @@
-CHOP:null
-tile -670 50 130 90
-flags =  viewer 1
-inputs
-{
-0 	resyncMusicTime/outRampsOnly
-}
-end

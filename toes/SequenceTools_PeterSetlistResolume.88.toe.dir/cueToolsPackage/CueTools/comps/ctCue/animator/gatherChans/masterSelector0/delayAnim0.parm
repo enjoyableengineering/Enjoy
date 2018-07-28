@@ -1,6 +1,0 @@
-?
-start 49 0 parent.animator.AnimData[parent().digits]['delay']
-startunit 32 seconds
-scrollunit 0 seconds
-autoexportroot 17 "" parent()
-?

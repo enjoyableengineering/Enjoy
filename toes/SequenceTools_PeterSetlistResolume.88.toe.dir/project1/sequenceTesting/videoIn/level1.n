@@ -1,8 +1,0 @@
-TOP:level
-tile 210 -299 93 51
-flags =  bypass on parlanguage 0
-inputs
-{
-0 	switch1
-}
-end

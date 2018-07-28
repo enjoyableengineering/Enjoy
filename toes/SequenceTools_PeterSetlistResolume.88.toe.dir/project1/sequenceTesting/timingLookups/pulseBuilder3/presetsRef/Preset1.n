@@ -1,6 +1,0 @@
-COMP:base
-v 338.625 406.576 2.52054
-tags 0 3 cueTools ctActionDef ctPreset
-tile 825 -300 160 130
-flags =  viewer 1 parlanguage 0
-end

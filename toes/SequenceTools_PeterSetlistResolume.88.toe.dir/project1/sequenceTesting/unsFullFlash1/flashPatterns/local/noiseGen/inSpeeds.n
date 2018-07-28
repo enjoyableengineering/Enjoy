@@ -1,4 +1,0 @@
-CHOP:in
-tile -725 -1925 130 90
-flags =  activate on parlanguage 0
-end

@@ -1,4 +1,0 @@
-?
-renameto 49 'deck'+str(me.digits)* 'deck'+str(parent.DeckReadout.par.Deckindex)+':*'
-autoexportroot 17 "" parent()
-?

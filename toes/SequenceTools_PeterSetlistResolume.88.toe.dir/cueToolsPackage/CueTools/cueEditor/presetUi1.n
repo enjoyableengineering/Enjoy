@@ -1,9 +1,0 @@
-COMP:container
-v 590.196 378.459 0.510292
-tile 1400 -1275 160 116
-flags =  viewer 1 cook off parlanguage 0
-inputs
-{
-0 	actionUi
-}
-end

@@ -1,7 +1,0 @@
-?
-stdswitcher1 0 3
-extension1 0 op('./SetlistControllerExt').module.SetlistControllerExt(me)
-promoteextension1 0 on
-parentshortcut 0 Main
-Resolumecontrol 113 op.Comm.op('resolumeControler') op.Comm.op('resolumeControl')
-?

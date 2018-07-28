@@ -1,8 +1,0 @@
-CHOP:out
-tile -325 575 130 90
-flags =  viewer 1 activate on export on parlanguage 0
-inputs
-{
-0 	math1
-}
-end

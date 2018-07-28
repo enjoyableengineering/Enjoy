@@ -1,8 +1,0 @@
-SOP:delete
-tile 3925 50 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	scaleForRes2
-}
-end

@@ -1,4 +1,0 @@
-DAT:panelexec
-tile 30 440 130 90
-flags =  viewer 1
-end

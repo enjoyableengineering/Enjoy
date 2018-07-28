@@ -1,5 +1,0 @@
-?
-output 0 expr
-rowindexend 17 0 "$NR - 1"
-colindexend 17 0 "$NC - 1"
-?

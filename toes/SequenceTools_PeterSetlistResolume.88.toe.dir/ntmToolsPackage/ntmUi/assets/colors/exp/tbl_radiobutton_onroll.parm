@@ -1,6 +1,0 @@
-?
-output 0 string
-expr 0 `substitute($V,\"button_bg_off\",\"button_bg_onroll\")`
-rowindexend 17 0 "$NR - 1"
-colindexend 17 0 "$NC - 1"
-?

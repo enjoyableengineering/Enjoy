@@ -1,5 +1,0 @@
-?
-stdswitcher1 0 3
-clone 49 op.UiConfig.op('assets/uiConfigTemplate') op.NtmUi.op('comps/ntmUiButton/uiConfig')
-Widgetassetscomp 113 op.UiConfig.op('assets/button1') "op.NtmUi.op('assets/button/'+ parent.Widget.par.Styletype)"
-?

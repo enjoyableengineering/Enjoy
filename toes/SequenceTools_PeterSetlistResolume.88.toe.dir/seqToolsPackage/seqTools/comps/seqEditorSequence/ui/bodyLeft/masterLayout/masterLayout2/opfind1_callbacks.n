@@ -1,5 +1,0 @@
-DAT:text
-tile 850 -450 130 90
-flags =  viewer 1 showDocked off parlanguage 0
-dock opfind1
-end

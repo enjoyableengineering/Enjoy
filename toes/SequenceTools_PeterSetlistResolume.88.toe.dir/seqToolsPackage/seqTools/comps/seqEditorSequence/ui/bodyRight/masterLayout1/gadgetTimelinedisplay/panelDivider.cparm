@@ -1,9 +1,0 @@
-?
-pages 1 "Panel Divider"
-772804876 Panel1 "Panel 1" 1 1 0 0 1 1 1 0 0 "" "Panel Divider" 1
-772804876 Panel2 "Panel 2" 1 1 0 0 1 1 1 0 0 "" "Panel Divider" 2
-772804879 Orientation Orientation 1 1 0 0 1 1 1 0 0 "" "Panel Divider" 4097 2 Horizontal Horizontal Vertical Vertical 0
-772804866 Knobsize "Knob Size" 1 1 0 0 1 1 1 0 0 "" "Panel Divider" 5
-772804866 Panel1minsize "Panel 1 Min Size" 1 1 0 0 1 1 500 0 0 "" "Panel Divider" 3
-772804866 Panel2minsize "Panel 2 Min Size" 1 1 0 0 1 1 500 0 0 "" "Panel Divider" 4
-?

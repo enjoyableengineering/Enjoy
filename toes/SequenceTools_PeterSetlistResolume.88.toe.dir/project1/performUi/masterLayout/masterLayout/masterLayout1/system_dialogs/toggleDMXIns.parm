@@ -1,7 +1,0 @@
-?
-fromop 16 dmxInBtn me.parent()
-panel 16 dmxInBtn me.parent()
-panelvalue 0 state
-offtoon 0 off
-valuechange 0 on
-?

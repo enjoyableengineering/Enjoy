@@ -1,8 +1,0 @@
-DAT:out
-tile 2875 -475 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	instantTimerTab
-}
-end

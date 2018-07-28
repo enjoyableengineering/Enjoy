@@ -1,9 +1,0 @@
-CHOP:math
-tile -825 -2100 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	selectSecondsForBeatMath
-1 	beatsPerSecondLive
-}
-end

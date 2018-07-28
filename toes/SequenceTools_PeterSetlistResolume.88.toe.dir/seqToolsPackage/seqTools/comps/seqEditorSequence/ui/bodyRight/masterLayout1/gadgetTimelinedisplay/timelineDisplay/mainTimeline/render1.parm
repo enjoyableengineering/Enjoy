@@ -1,9 +1,0 @@
-?
-stdswitcher1 0 4
-geometry 49 op.editorMain.op('geoTimeline') parent.editorMain.op('geoTimeline')
-antialias 0 aa1
-cullface 0 backfaces
-outputresolution 0 custom
-resolutionw 50 1280 parent().panel.screenw
-resolutionh 50 720 parent().panel.screenh
-?

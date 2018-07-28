@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 3
-opviewer 0 sourceSelector2
-clone 49 parent.FlashMain.op('local/displaceSourceSelector') parent.FlashMain.op('local/sourceSelector')
-Source 98 Gen1_raw
-?

@@ -1,8 +1,0 @@
-TOP:null
-tile 450 -520 130 94
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	chanmix1
-}
-end

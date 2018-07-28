@@ -1,3 +1,0 @@
-?
-top 49 "op(str(parent.UiMain.par.Rootconfigure.eval()) + '/output1').op('uiThumb')" op(op('../../selectedSrc')[1,1]).op('uiThumb')
-?

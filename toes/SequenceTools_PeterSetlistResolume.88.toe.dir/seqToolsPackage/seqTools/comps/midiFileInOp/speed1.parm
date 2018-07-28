@@ -1,7 +1,0 @@
-?
-limittype 0 loop
-max 0 200
-resetvalue 0 198
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

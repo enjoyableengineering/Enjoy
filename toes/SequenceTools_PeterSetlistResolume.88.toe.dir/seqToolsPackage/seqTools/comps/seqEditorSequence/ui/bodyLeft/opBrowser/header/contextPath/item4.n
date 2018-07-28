@@ -1,8 +1,0 @@
-COMP:button
-tile 2015 -680 160 130
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	path
-}
-end

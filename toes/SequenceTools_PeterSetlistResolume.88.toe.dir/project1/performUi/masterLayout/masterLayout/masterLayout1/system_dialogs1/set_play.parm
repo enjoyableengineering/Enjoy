@@ -1,5 +1,0 @@
-?
-fromop 16 transport_play0 me.parent()
-panel 16 transport_play0 me.parent()
-panelvalue 0 state
-?

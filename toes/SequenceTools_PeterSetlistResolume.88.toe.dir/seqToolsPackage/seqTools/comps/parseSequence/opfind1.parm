@@ -1,8 +1,0 @@
-?
-component 49 parent().par.Seqcomp.eval() parent().par.Seqcomp.eval()
-limitmaxdepth 0 off
-tagsfilter 0 seqEvent
-typecol 0 off
-pathcol 0 on
-callbacks 0 opfind1_callbacks
-?

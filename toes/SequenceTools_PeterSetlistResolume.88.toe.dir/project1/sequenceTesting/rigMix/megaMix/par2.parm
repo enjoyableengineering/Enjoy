@@ -1,6 +1,0 @@
-?
-ops 49 parent.CoreMain.op('deckMainMixControls') parent.CoreMain.op('deckMainMixControls')
-parameters 0 Decklevel*
-renameto 0 deck[1-4]
-autoexportroot 17 "" parent()
-?

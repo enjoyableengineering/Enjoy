@@ -1,7 +1,0 @@
-COMP:base
-v 492.117 166.649 0.675
-tags 0 2 seqTools seqEvent
-tile -450 -325 160 130
-flags =  parlanguage 0
-color 0.68 0 0 
-end

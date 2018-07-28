@@ -1,4 +1,0 @@
-?
-chop 49 parent.FlashMain.op('local/keyPalettes/keyOption1/out1') parent.FlashMain.op('local/channelPalette/rampNames')
-autoexportroot 17 "" parent()
-?

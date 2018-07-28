@@ -1,6 +1,0 @@
-?
-value0 49 0 1/60/16/2
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-exporttable 0 lagGaps_export
-?

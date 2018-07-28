@@ -1,8 +1,0 @@
-TOP:null
-tile 1875 175 150 125
-flags =  viewer 1
-inputs
-{
-0 	in1
-}
-end

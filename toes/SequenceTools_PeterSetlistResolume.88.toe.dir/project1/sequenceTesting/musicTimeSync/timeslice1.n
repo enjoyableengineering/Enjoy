@@ -1,8 +1,0 @@
-CHOP:timeslice
-tile -1250 -175 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	internalSync/out1
-}
-end

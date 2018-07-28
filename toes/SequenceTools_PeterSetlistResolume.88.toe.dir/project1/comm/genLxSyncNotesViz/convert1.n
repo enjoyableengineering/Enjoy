@@ -1,9 +1,0 @@
-DAT:convert
-tile 575 50 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	reorder1
-}
-view 8 0 1 1 1 0 0 0 0 1 1
-end

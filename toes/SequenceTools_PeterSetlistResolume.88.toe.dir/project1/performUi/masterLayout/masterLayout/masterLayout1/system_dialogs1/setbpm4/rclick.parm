@@ -1,7 +1,0 @@
-?
-fromop 0 "label field/textfield field/buttonborder/*"
-panel 0 "label field/textfield field/buttonborder/*"
-panelvalue 0 rselect
-offtoon 0 off
-ontooff 0 on
-?

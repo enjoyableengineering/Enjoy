@@ -1,7 +1,0 @@
-COMP:container
-v 329.5 282.507 0.536636
-tags 0 2 deckController TDGadget
-tile -475 -425 99 155
-flags =  viewer 1 parlanguage 0
-color 0.453333 0 0.68 
-end

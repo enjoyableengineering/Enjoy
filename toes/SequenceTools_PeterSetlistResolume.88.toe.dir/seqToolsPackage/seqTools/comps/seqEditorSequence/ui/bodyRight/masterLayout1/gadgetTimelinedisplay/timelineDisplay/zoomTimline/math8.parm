@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-gain 0 -1
-postoff 49 0 "-parent.editorMain.par.Trackdispspacing / 2"
-autoexportroot 17 "" parent()
-?

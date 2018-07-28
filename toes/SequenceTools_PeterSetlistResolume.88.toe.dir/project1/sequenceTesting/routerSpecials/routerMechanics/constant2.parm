@@ -1,9 +1,0 @@
-?
-name0 0 Blendmode1
-name1 0 Texturemode1
-name2 0 Regionmode1
-name3 0 Scalemode1
-name4 0 Extend1
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

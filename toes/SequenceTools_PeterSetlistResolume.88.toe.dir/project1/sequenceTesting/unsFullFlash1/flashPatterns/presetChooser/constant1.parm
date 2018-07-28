@@ -1,7 +1,0 @@
-?
-stdswitcher1 0 4
-name0 0 ch1ctrl51
-value0 0 1
-rate 16 60 me.time.rate
-autoexportroot 17 "" parent()
-?

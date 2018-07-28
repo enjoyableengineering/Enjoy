@@ -1,8 +1,0 @@
-?
-pages 1 Setup
-772804873 Lookupchop "Lookup CHOP" 1 1 0 0 1 1 1 0 0 "" Setup 0
-772804868 Lookupchans "Lookup Chans" 1 1 0 0 1 1 1 0 0 "" Setup 3
-772804879 Lookupramp "Lookup Ramp" 1 1 0 0 1 1 1 0 0 "" Setup 4097 6 1 1 2 2 4 4 8 8 16 16 32 32 4
-772804868 Newnames "New Names" 1 1 0 0 1 1 1 0 0 "" Setup 2
-772804867 Interp Interpolate 1 1 0 0 1 1 10 0 1 "" Setup 1
-?

@@ -1,5 +1,0 @@
-COMP:base
-v 358.785 131.7 4.72769
-tile -300 -500 160 130
-flags =  current on viewer 1 parlanguage 0
-end

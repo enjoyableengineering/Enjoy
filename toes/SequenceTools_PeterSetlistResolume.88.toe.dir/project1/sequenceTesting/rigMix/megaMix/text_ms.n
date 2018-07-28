@@ -1,8 +1,0 @@
-TOP:text
-tile 350 525 130 105
-flags =  parlanguage 0
-exports
-{
-perform1
-}
-end

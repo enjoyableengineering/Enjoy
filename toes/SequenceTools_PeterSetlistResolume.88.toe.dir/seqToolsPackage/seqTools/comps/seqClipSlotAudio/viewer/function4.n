@@ -1,8 +1,0 @@
-CHOP:function
-tile 880 0 130 90
-flags =  viewer 1
-inputs
-{
-0 	math2
-}
-end

@@ -1,5 +1,0 @@
-TOP:select
-tile -1900 -975 130 48
-flags =  parlanguage 0
-view 3 0 0 1 1 16
-end

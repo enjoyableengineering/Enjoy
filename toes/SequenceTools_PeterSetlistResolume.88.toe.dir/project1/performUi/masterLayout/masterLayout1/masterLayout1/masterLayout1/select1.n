@@ -1,4 +1,0 @@
-COMP:select
-tile 25 200 160 104
-flags =  viewer 1 parlanguage 0
-end

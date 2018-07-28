@@ -1,6 +1,0 @@
-?
-active 0 off
-device 0 {0.0.0.00000000}.{2be61c81-1ed7-4107-a9fa-21a1625cc202}||Line_Out_(Scarlett_2i2_USB)||1
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

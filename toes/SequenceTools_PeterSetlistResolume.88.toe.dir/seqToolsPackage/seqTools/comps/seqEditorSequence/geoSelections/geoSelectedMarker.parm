@@ -1,4 +1,0 @@
-?
-render 49 on "1 if parent.editorMain.SelectedEventType == 'marker' else 0"
-drawpriority 0 12
-?

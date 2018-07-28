@@ -1,4 +1,0 @@
-COMP:parameter
-tile 0 -175 139 155
-flags =  viewer 1 parlanguage 0
-end

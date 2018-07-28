@@ -1,8 +1,0 @@
-CHOP:express
-tile 495 1518 134 99
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	datto5
-}
-end

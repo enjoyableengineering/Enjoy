@@ -1,5 +1,0 @@
-?
-ops 49 parent().par.Routecomp.eval() parent().DefComp
-parameters 49 op('exportParnames').text op('exportParnames').text
-autoexportroot 17 "" parent()
-?

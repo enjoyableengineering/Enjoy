@@ -1,5 +1,0 @@
-?
-parameters 0 "Horzsource Vertsource Midpoint1 Midpoint2 Offset1 Offset2 Uvweight Extend"
-renameto 32 "horzsource vertsource midpoint1 midpoint2 offset1 offset2 uvweight extend"
-autoexportroot 17 "" parent()
-?

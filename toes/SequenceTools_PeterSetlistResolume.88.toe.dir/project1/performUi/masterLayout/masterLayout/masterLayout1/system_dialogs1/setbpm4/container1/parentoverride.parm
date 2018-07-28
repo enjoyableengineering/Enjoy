@@ -1,7 +1,0 @@
-?
-dat 0 $colorexp/gadget_bg
-extractrows 0 bynames
-rowindexend 17 16 "$NR - 1"
-rownames 0 "^*border* ^font*"
-colindexend 17 2 "$NC - 1"
-?

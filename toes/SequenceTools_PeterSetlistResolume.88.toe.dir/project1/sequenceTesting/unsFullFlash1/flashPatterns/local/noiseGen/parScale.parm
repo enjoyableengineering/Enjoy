@@ -1,5 +1,0 @@
-?
-parameters 0 "Sx Sy Sz "
-renameto 0 "sx sy sz"
-autoexportroot 17 "" parent()
-?

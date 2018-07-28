@@ -1,8 +1,0 @@
-?
-pages 2 Config "Ui Conifg"
-772804877 Rootconfigure Rootconfigure 1 1 0 0 1 1 1 0 0 "" Config 0
-772804865 Labelfontsize "Label Font Size" 1 1 0 0 1 1 20 0 0 "" "Ui Conifg" 0
-772809729 Uicolor1 "UI Color1" 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 1 0 0 1 1 1 0 0 "" 0 0 "" 0 0 "" 0 0 "" "Ui Conifg" 1
-772804865 Buttonheight "Button Height" 1 1 0 0 1 1 200 0 0 "" "Ui Conifg" 2
-772804865 Labelheight "Label Height" 1 1 0 0 1 1 1 0 0 "" "Ui Conifg" 3
-?

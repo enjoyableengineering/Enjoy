@@ -1,8 +1,0 @@
-?
-active 2 off
-fromop 17 "" parent()
-chop 0 decksPlaying
-offtoon 0 on
-ontooff 0 on
-valuechange 0 off
-?

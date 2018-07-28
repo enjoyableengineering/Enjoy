@@ -1,4 +1,0 @@
-?
-ops 49 "op(op('../repTable')[parent().digits, 'path'].val)" "op(op('../repTable')[parent().digits, 'path'].val).ClipComp"
-autoexportroot 17 "" parent()
-?

@@ -1,8 +1,0 @@
-DAT:eval
-tile 700 300 130 90
-flags = 
-inputs
-{
-0 	tbl_radiolabel_off
-}
-end

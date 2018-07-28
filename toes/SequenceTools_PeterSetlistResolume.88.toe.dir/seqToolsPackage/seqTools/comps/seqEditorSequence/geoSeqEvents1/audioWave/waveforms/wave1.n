@@ -1,5 +1,0 @@
-CHOP:wave
-tile -500 -700 130 90
-flags =  parlanguage 0
-view 5 -1 1 2.84848 -1.5 1.5 4 2 8600 3 0
-end

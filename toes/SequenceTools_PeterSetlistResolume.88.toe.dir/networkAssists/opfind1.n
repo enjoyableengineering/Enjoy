@@ -1,4 +1,0 @@
-DAT:opfind
-tile -460 240 130 90
-flags =  bypass on parlanguage 0
-end

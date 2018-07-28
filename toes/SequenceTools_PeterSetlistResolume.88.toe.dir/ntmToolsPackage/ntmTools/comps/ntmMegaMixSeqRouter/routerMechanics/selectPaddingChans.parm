@@ -1,5 +1,0 @@
-?
-chop 49 op('paddingChanSelectPar')[0,0].val op('paddingChanSelectPar')[0,0].val
-renameto 0 layerAutomation[1-100]:Levelmult1
-autoexportroot 17 "" parent()
-?

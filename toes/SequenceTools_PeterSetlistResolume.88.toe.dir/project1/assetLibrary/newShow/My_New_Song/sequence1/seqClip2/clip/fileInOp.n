@@ -1,5 +1,0 @@
-TOP:moviefilein
-tags 0 1 assetFileInOp
-tile 0 0 130 90
-flags =  cloneImmune on master_cloneImmune on parlanguage 0
-end

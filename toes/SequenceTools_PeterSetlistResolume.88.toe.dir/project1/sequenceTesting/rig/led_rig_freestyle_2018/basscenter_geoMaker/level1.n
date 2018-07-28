@@ -1,8 +1,0 @@
-TOP:level
-tile 425 -1050 130 72
-flags =  bypass on parlanguage 0
-inputs
-{
-0 	over5
-}
-end

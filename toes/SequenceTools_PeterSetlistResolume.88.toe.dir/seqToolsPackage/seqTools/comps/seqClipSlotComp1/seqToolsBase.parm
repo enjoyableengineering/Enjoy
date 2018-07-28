@@ -1,5 +1,0 @@
-?
-stdswitcher1 0 2
-opviewer 0 ./outCurrSeconds
-clone 49 op.SeqTools.op('comps/seqToolsComp1/seqToolsBase') op.SeqTools.op('comps/seqClipSlot/seqToolsBase')
-?

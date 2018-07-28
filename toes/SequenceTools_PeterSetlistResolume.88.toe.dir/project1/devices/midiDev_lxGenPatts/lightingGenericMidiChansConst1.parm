@@ -1,6 +1,0 @@
-?
-name0 0 ch3n[0-127]
-name1 0 ch3ctrl10
-rate 17 60 me.time.rate
-autoexportroot 17 "" parent()
-?

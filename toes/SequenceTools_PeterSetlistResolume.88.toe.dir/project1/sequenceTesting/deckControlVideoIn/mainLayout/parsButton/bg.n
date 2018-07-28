@@ -1,4 +1,0 @@
-TOP:text
-tile 275 -150 130 99
-flags =  picked on current on viewer 1 cloneImmune on master_cloneImmune on parlanguage 0
-end

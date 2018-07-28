@@ -1,9 +1,0 @@
-SOP:switch
-tile 5775 3925 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	delete1
-1 	fulmapPrimeSwitch
-}
-end

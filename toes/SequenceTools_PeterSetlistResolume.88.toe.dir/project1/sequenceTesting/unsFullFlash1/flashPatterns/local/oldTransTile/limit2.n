@@ -1,8 +1,0 @@
-CHOP:limit
-tile -825 -750 130 90
-flags =  parlanguage 0
-inputs
-{
-0 	transdwetdryreplace1
-}
-end

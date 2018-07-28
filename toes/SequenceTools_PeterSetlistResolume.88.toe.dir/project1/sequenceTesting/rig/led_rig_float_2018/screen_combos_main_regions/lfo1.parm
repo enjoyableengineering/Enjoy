@@ -1,7 +1,0 @@
-?
-wavetype 0 ramp
-frequency 0 0.42
-rate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" me.parent()
-?

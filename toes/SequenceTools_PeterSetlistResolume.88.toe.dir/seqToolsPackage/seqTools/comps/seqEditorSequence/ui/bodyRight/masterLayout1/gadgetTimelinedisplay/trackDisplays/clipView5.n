@@ -1,4 +1,0 @@
-COMP:container
-tile 0 -1056 160 76
-flags =  picked on viewer 1 parlanguage 0
-end

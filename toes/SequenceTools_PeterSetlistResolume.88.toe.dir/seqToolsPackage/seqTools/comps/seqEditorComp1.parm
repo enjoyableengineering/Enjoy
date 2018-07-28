@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-extension1 0 op('./SeqEditorGenericExt').module.SeqEditorGenericExt(me)
-promoteextension1 0 on
-Playercomp 64 seqPlayerComp1
-?

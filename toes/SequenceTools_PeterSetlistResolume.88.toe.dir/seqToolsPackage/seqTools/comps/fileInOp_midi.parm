@@ -1,9 +1,0 @@
-?
-source 0 file
-file 16 "D:/Dropbox (Personal)/projects_current/namethemachine/2016_Bassnectar/Working/Ableton Light Sync Testing/Slather Base Light Sync MIDI Test.mid" app.samplesFolder+'/MIDI/default.midi'
-channel 0 1
-notescope 0 1-128
-rate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

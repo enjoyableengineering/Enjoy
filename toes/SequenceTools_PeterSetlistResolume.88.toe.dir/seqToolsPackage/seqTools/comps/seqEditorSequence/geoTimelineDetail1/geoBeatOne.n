@@ -1,6 +1,0 @@
-COMP:geo
-v 544.264 564.666 0.655738
-tile 250 150 160 130
-flags =  current on viewer 1 render on display on pickable on parlanguage 0
-view 63 0.2 1 1 0 0 1 5.27929 0.0212766 3.33333 4.3589 0 0 5.27929 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 15 1 1 1 195 787 1 -1 1 1 4 0 0 2 0 1
-end

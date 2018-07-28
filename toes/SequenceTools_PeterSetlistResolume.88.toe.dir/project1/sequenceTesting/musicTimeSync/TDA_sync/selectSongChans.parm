@@ -1,6 +1,0 @@
-?
-chop 49 parent().par.Songcomp.eval() parent().par.Songcomp.eval().op('out1')
-channames 0 "song/info/play song/info/tempo song/info/bars song/info/beats"
-renameto 0 "transportstate tempo syncbars syncbeats"
-autoexportroot 17 "" parent()
-?

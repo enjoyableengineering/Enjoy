@@ -1,7 +1,0 @@
-?
-fromop 16 slider me.parent()
-panel 16 ../slider me.parent()
-panelvalue 0 "select u v"
-ontooff 0 on
-valuechange 0 on
-?

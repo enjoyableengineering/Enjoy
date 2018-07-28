@@ -1,9 +1,0 @@
-CHOP:replace
-tile -575 -1225 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	selectConstSpeedAdjust
-1 	switchActive1
-}
-end

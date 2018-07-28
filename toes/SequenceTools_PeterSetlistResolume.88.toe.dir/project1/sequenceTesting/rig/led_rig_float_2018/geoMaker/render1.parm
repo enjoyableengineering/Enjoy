@@ -1,9 +1,0 @@
-?
-multicamerahint 0 off
-geometry 32 zoneComps/prim*/out1
-antialias 0 aa1
-outputresolution 0 custom
-resolutionw 49 1280 ext.MasterRaster.par.Rasterx
-resolutionh 49 720 ext.MasterRaster.par.Rastery
-filtertype 0 nearest
-?

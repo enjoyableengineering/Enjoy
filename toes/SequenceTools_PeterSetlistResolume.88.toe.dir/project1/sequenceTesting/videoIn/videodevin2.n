@@ -1,4 +1,0 @@
-TOP:videodevin
-tile -230 -130 130 105
-flags =  viewer 1 bypass on parlanguage 0
-end

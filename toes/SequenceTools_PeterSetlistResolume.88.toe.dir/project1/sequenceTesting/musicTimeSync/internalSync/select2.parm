@@ -1,5 +1,0 @@
-?
-channames 0 "bpm bar beat ramp"
-renameto 0 "tempo syncbars syncbeats syncunits"
-autoexportroot 17 "" parent()
-?

@@ -1,9 +1,0 @@
-TOP:over
-tile 325 -75 163 56
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	over2
-1 	ramp1
-}
-end

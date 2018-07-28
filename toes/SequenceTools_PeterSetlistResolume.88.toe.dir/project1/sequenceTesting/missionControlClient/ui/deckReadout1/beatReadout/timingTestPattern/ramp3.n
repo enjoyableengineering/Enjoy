@@ -1,9 +1,0 @@
-TOP:ramp
-tile 0 -525 130 88
-flags =  parlanguage 0
-exports
-{
-null6
-resExports
-}
-end

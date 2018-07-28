@@ -1,5 +1,0 @@
-?
-chop 0 ../../streamData
-channames 0 "transport_state transport_tempo"
-autoexportroot 17 "" parent()
-?

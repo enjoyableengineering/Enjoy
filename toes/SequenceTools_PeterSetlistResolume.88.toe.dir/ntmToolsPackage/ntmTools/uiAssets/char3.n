@@ -1,4 +1,0 @@
-TOP:text
-tile 0 -700 130 105
-flags =  viewer 1 parlanguage 0
-end

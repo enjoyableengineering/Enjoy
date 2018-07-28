@@ -1,8 +1,0 @@
-TOP:null
-tile 3600 500 130 70
-flags =  parlanguage 0
-inputs
-{
-0 	maskSwitch
-}
-end

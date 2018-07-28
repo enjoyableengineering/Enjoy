@@ -1,9 +1,0 @@
-DAT:eval
-tags 0 1 activeKick
-tile -1225 -425 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	text1
-}
-end

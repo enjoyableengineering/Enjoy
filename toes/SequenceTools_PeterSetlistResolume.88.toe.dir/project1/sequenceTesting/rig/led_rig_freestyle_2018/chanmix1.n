@@ -1,8 +1,0 @@
-TOP:chanmix
-tile -620 -120 130 50
-flags =  bypass on parlanguage 0
-inputs
-{
-0 	moviefilein3
-}
-end

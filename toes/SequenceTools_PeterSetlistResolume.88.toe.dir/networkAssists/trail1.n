@@ -1,9 +1,0 @@
-CHOP:trail
-tile 1830 -3330 130 90
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	trail2
-}
-view 5 -1 1 10.7187 -1.5 1.5 4 2 8600 1 0
-end

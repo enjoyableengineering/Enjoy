@@ -1,6 +1,0 @@
-COMP:base
-v 793.568 669.672 1.1705
-tags 0 1 midiPattern
-tile -330 320 160 130
-flags =  viewer 1 parlanguage 0
-end

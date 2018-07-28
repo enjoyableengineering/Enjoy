@@ -1,8 +1,0 @@
-DAT:out
-tile 1200 -700 130 90
-flags =  current on viewer 1 parlanguage 0
-inputs
-{
-0 	select_outSelected
-}
-end

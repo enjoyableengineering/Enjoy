@@ -1,4 +1,0 @@
-DAT:in
-tile -275 75 130 90
-flags =  viewer 1 parlanguage 0
-end

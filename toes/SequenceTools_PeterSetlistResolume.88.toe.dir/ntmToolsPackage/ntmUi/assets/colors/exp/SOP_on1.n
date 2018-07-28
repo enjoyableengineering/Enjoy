@@ -1,5 +1,0 @@
-DAT:table
-tile 880 -1360 130 90
-flags =  viewer 1
-color 0.68 0 0 
-end

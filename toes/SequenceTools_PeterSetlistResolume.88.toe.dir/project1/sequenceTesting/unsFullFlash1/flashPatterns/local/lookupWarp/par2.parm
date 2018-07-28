@@ -1,5 +1,0 @@
-?
-parameters 32 "Useinputres Resx Resy Input*"
-renameto 0 "outputresolution resolutionw resolutionh inputfiltertype"
-autoexportroot 17 "" parent()
-?

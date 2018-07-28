@@ -1,4 +1,0 @@
-?
-fromop 17 "" parent()
-dat 49 parent().par.Playercomp.eval().op('durTimerTab') parent().par.Playercomp.eval().op('durTimerTab')
-?

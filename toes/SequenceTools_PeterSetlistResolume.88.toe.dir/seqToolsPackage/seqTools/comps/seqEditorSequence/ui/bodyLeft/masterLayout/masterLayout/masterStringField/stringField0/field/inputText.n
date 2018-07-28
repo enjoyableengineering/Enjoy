@@ -1,4 +1,0 @@
-TOP:text
-tile 300 -100 130 90
-flags =  viewer 1 master_cloneImmune on parlanguage 0
-end

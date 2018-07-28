@@ -1,6 +1,0 @@
-COMP:container
-v 254.718 446.074 0.965339
-comment "Defines variables, macros, template \\nand time local to the root network."
-tile -200 -175 160 130
-flags =  parlanguage 0
-end

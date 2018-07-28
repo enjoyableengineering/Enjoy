@@ -1,8 +1,0 @@
-?
-stdswitcher1 0 3
-extension1 0 op('./SeqToolsFileBaseExt').module.SeqToolsFileBaseExt(me)
-promoteextension1 0 on
-clone 49 op.AssetTools.op('comps/assetToolsFileComp') op.SeqTools.op('comps/seqFileBase')
-File 81 empty.tiff "app.samplesFolder + '/Audio/SonarBlackie666.wav'"
-Seqlabel 64 "Stock Audio"
-?

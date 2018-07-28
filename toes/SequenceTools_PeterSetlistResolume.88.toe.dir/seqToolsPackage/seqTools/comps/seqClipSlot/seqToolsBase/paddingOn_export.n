@@ -1,5 +1,0 @@
-DAT:table
-tile 2110 -120 130 90
-flags =  viewer 1 showDocked off parlanguage 0
-dock paddingOn
-end

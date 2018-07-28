@@ -1,6 +1,0 @@
-?
-wlength 0 0.5
-rate 17 60 me.time.rate
-timeslice 0 on
-autoexportroot 17 "" parent()
-?

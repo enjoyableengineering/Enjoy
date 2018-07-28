@@ -1,8 +1,0 @@
-TOP:antialias
-tile -1390 -649 109 84
-flags =  bypass on parlanguage 0
-inputs
-{
-0 	moviefilein3
-}
-end

@@ -1,6 +1,0 @@
-COMP:base
-v 1171.63 373.224 0.774198
-tags 0 2 cueTools ctUtilParGroupFetch
-tile 1200 -150 160 130
-flags =  viewer 1 parlanguage 0
-end

@@ -1,4 +1,0 @@
-DAT:select
-tile 10 130 130 90
-flags =  viewer 1
-end

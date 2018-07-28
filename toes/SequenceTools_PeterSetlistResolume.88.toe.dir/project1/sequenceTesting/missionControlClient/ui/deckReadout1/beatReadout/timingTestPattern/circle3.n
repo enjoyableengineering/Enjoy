@@ -1,8 +1,0 @@
-TOP:circle
-tile 175 -750 130 88
-flags =  parlanguage 0
-exports
-{
-resExports
-}
-end

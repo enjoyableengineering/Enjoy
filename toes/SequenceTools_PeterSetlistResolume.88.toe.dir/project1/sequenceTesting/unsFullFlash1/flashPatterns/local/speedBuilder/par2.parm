@@ -1,5 +1,0 @@
-?
-parameters 0 "Srcchanexternal2 Srcchanlocal2 Srcchanramp2 Srcchanlookup2 Gain2 Fromrange31 Fromrange32 Torange31 Torange32 Quantvalue2 Vstep2 "
-renameto 0 "Srcchanexternal Srcchanlocal Srcchanramp Srcchanlookup Gain Fromrange1 Fromrange2 Torange1 Torange2 Quantvalue Vstep  "
-autoexportroot 17 "" parent()
-?

@@ -1,6 +1,0 @@
-DAT:table
-tile 925 2250 130 90
-flags =  viewer 1 activate on showDocked off parlanguage 0
-dock playToggles
-view 8 0 1 1 1 0 0 0 0 1 1
-end

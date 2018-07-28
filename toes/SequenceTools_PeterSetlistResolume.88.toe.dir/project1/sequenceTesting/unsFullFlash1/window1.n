@@ -1,5 +1,0 @@
-COMP:window
-v 832.19 730.23 0.00291195
-tile 850 -400 160 130
-flags =  parlanguage 0
-end

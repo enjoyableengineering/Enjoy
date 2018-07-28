@@ -1,9 +1,0 @@
-TOP:ramp
-tile 0 450 130 101
-flags =  viewer 1 parlanguage 0
-exports
-{
-null2
-resExports
-}
-end

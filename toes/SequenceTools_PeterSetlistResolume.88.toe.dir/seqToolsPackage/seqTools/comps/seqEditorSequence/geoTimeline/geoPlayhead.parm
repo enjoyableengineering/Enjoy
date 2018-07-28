@@ -1,5 +1,0 @@
-?
-tx 50 0 op('../rename1')['timeSeconds']
-ty 32 0
-tz 32 1
-?

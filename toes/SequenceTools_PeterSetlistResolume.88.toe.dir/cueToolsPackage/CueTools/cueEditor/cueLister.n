@@ -1,9 +1,0 @@
-COMP:list
-v 225.265 298.38 0.514899
-tile -675 -275 104 155
-flags =  viewer 1 display on parlanguage 0
-inputs
-{
-0 	leftCol
-}
-end

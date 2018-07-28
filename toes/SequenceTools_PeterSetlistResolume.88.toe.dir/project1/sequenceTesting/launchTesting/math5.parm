@@ -1,6 +1,0 @@
-?
-stdswitcher1 0 1
-integer 0 floor
-gain 2 0
-autoexportroot 17 "" parent()
-?

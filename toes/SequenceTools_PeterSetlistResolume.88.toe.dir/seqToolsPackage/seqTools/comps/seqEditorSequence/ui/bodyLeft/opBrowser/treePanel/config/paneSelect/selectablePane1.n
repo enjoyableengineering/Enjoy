@@ -1,4 +1,0 @@
-COMP:button
-tile 0 1000 160 130
-flags =  current on viewer 1 parlanguage 0
-end

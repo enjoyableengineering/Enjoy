@@ -1,8 +1,0 @@
-TOP:out
-tile 275 -150 130 105
-flags =  viewer 1 parlanguage 0
-inputs
-{
-0 	selectLay2
-}
-end

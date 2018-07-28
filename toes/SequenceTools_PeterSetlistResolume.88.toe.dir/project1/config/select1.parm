@@ -1,8 +1,0 @@
-?
-firstcol 0 on
-extractrows 0 bynames
-rowindexstart 0 2
-rowindexend 16 5 "$NR - 1"
-rownames 0 "is_sender* media_path* audio_path* led* prime_midi*"
-colindexend 17 0 "$NC - 1"
-?

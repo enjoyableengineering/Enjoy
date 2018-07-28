@@ -1,8 +1,0 @@
-DAT:eval
-tile 4470 560 130 90
-flags = 
-inputs
-{
-0 	tbl_lister_template_off
-}
-end

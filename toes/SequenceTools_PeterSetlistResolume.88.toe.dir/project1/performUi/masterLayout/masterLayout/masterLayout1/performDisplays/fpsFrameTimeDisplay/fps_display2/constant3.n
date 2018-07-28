@@ -1,4 +1,0 @@
-TOP:constant
-tile -250 -600 73 105
-flags =  parlanguage 0
-end

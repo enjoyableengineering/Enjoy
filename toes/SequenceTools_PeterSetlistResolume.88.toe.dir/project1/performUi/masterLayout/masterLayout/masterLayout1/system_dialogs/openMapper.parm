@@ -1,5 +1,0 @@
-?
-fromop 16 midiOpenBtn me.parent()
-panel 16 midiOpenBtn me.parent()
-panelvalue 0 state
-?

@@ -1,4 +1,0 @@
-COMP:window
-tile 1130 -520 160 130
-flags =  parlanguage 0
-end
